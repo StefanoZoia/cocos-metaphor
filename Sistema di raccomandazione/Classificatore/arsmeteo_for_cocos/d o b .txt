@@ -1,0 +1,5 @@
+d_or_b:               0.9
+el_presidente:        0.9
+beppe:                0.9
+confronto:            0.9
+ritratti_interiori:   0.9

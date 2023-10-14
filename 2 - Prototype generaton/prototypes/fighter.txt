@@ -1,0 +1,8 @@
+fight: 0.894
+warplane: 0.888
+airplane: 0.854
+military: 0.826
+strike_opponent: 0.82
+lose_bout_to_opponent: 0.812
+box_ear_to_cauliflower: 0.797
+duck_punch: 0.794

@@ -1,0 +1,2 @@
+church: 0.897
+synagogue: 0.833

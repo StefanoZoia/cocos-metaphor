@@ -1,0 +1,8 @@
+malfunction: 0.845
+casualty: 0.844
+change: 0.811
+change_of_integrity: 0.804
+military: 0.782
+-repair: 0.777
+slang: 0.731
+comics_character: 0.708

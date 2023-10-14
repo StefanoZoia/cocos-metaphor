@@ -1,0 +1,6 @@
+outraged: 0.964
+brutality: 0.959
+hatred: 0.953
+terrorize: 0.939
+violently: 0.938
+infuriated: 0.938

@@ -1,0 +1,8 @@
+dissemination: 0.845
+library_science: 0.826
+spread: 0.826
+plant: 0.806
+count: 0.804
+blood_pressure: 0.798
+change_of_location: 0.795
+organic_phenomenon: 0.779

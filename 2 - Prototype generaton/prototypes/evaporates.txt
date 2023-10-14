@@ -1,0 +1,3 @@
+change: 0.7164
+change_integrity: 0.7155
+water: 0.6957

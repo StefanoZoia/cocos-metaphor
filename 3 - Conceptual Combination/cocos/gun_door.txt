@@ -1,0 +1,30 @@
+Title: gun-door
+
+Head Concept Name: gun
+Modifier Concept Name: door
+
+
+
+
+
+T(modifier), doorway, 0.918
+T(modifier), open, 0.899
+T(modifier), opened_or_closed, 0.897
+T(modifier), open_or_closed, 0.877
+T(modifier), -window, 0.867
+T(modifier), doorknob, 0.863
+T(modifier), front_door, 0.863
+T(modifier), entree, 0.849
+
+T(head), firearm_shoots_bullets, 0.931
+T(head), shooting_things, 0.915
+T(head), shoot, 0.904
+T(head), weapon, 0.903
+T(head), shot, 0.897
+T(head), gun_shop, 0.894
+T(head), holster, 0.889
+T(head), shoot_bullets, 0.883
+
+
+Result: {"doorway": 0.918, "open": 0.899, "opened_or_closed": 0.897, "firearm_shoots_bullets": 0.931, "shooting_things": 0.915, "shoot": 0.904, "weapon": 0.903, "shot": 0.897, "@scenario_probability": 2.947160275012797e-06}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 2.947160275012797e-06]

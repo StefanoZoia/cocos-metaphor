@@ -1,0 +1,5 @@
+guru:                 0.9
+ambra:                0.9
+arsmeteo:             0.9
+riunione:             0.9
+finestra:             0.9

@@ -1,0 +1,8 @@
+fragrant: 0.925
+pink: 0.911
+perennials: 0.902
+yellow: 0.889
+red: 0.882
+flower_garden: 0.869
+colorful: 0.869
+purple: 0.865

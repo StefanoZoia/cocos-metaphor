@@ -1,0 +1,8 @@
+physical_activity: 0.881
+playing_football: 0.878
+sport: 0.874
+passtime: 0.87
+ball: 0.869
+game: 0.864
+different_from_american_football: 0.837
+offside_rule: 0.837

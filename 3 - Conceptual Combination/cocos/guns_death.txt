@@ -1,0 +1,30 @@
+Title: guns-death
+
+Head Concept Name: guns
+Modifier Concept Name: death
+
+
+
+
+
+T(modifier), homicide, 0.891
+T(modifier), murder, 0.89
+T(modifier), inevitable, 0.887
+T(modifier), suicide, 0.886
+T(modifier), tragic, 0.872
+T(modifier), dying_of_blo, 0.857
+T(modifier), cyanide, 0.853
+T(modifier), rebirth, 0.844
+
+T(head), firearm_shoots_bullets, 0.838
+T(head), shooting_things, 0.824
+T(head), shoot, 0.814
+T(head), weapon, 0.813
+T(head), shot, 0.807
+T(head), gun_shop, 0.805
+T(head), holster, 0.8
+T(head), shoot_bullets, 0.795
+
+
+Result: {"homicide": 0.891, "murder": 0.89, "inevitable": 0.887, "suicide": 0.886, "tragic": 0.872, "dying_of_blo": 0.857, "cyanide": 0.853, "firearm_shoots_bullets": 0.838, "@scenario_probability": 4.905496871398428e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 4.905496871398428e-05]

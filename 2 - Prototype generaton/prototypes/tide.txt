@@ -1,0 +1,8 @@
+tide: 0.946
+rising_at_hour: 0.882
+tidal_flow: 0.847
+riptide: 0.834
+lower_when_moon_full: 0.824
+float: 0.822
+time_period: 0.811
+variation: 0.811

@@ -1,0 +1,8 @@
+armor: 0.882
+protect: 0.88
+protective_covering: 0.847
+heraldry: 0.816
+science_fiction: 0.769
+law_enforcement: 0.761
+defense_system: 0.75
+lichenology: 0.746

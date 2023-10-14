@@ -1,0 +1,6 @@
+heartbreaking: 0.969
+mourning: 0.969
+tragic: 0.961
+holocaust: 0.953
+suicidal: 0.941
+misery: 0.938

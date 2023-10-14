@@ -1,0 +1,8 @@
+victim: 0.843
+exploit: 0.835
+animal: 0.82
+-predator: 0.811
+-hunter: 0.766
+archaic: 0.744
+book: 0.716
+pew: 0.687

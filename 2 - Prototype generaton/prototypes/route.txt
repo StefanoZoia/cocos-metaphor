@@ -1,0 +1,8 @@
+well_travelled_path: 0.859
+travelling_along: 0.84
+getting_from_to_b: 0.839
+map: 0.838
+divert: 0.837
+getting_to_another_place: 0.833
+way_to_get_somewhere: 0.829
+dispatch: 0.823

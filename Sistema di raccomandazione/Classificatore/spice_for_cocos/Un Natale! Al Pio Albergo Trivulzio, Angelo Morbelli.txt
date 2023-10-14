@@ -1,0 +1,8 @@
+scena:                0.9
+interno:              0.9
+mensa:                0.9
+solitudine:           0.9
+malincomia:           0.9
+assenza:              0.9
+tavolo:               0.9
+panca:                0.9

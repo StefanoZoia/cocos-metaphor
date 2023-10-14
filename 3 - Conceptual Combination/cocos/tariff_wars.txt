@@ -1,0 +1,25 @@
+Title: tariff-wars
+
+Head Concept Name: tariff
+Modifier Concept Name: wars
+
+
+
+
+
+T(modifier), bad_for_children_and_flowers, 0.826
+T(modifier), violence, 0.801
+T(modifier), change_people_greatly, 0.799
+T(modifier), series_of_movies, 0.766
+T(modifier), typically, 0.745
+T(modifier), army, 0.745
+T(modifier), plural_form_of_war, 0.733
+T(modifier), always_happened_and_always_will, 0.711
+
+T(head), tax, 0.863
+T(head), british, 0.75
+T(head), intangible_artifact, 0.743
+
+
+Result: {"bad_for_children_and_flowers": 0.826, "violence": 0.801, "change_people_greatly": 0.799, "series_of_movies": 0.766, "typically": 0.745, "army": 0.745, "tax": 0.863, "british": 0.75, "@scenario_probability": 0.2884794918685219}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0.2884794918685219]

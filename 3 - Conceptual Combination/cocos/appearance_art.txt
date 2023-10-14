@@ -1,0 +1,30 @@
+Title: appearance-art
+
+Head Concept Name: appearance
+Modifier Concept Name: art
+
+
+
+
+
+T(modifier), art, 0.946
+T(modifier), artist, 0.909
+T(modifier), art's_sake, 0.898
+T(modifier), express_yourself, 0.895
+T(modifier), gallery_opening, 0.887
+T(modifier), museum, 0.877
+T(modifier), abstract, 0.873
+T(modifier), gallery, 0.849
+
+T(head), attendance, 0.849
+T(head), arrival, 0.836
+T(head), pretense, 0.832
+T(head), representation, 0.826
+T(head), happening, 0.818
+T(head), quality, 0.816
+T(head), -disappearance, 0.811
+T(head), philosophy, 0.755
+
+
+Result: {"art": 0.946, "artist": 0.909, "art's_sake": 0.898, "express_yourself": 0.895, "gallery_opening": 0.887, "museum": 0.877, "abstract": 0.873, "attendance": 0.849, "@scenario_probability": 4.4729697759498745e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 4.4729697759498745e-05]

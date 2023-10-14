@@ -1,0 +1,8 @@
+memorable: 0.908
+marking_boundary_on_land: 0.831
+tourist_attraction: 0.828
+juncture: 0.823
+recognize_place: 0.817
+structure: 0.815
+recognizing_where: 0.811
+navigate: 0.81

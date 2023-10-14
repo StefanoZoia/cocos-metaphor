@@ -1,0 +1,30 @@
+Title: poverty-card
+
+Head Concept Name: poverty
+Modifier Concept Name: card
+
+
+
+
+
+T(modifier), identification, 0.887
+T(modifier), playing_poker, 0.873
+T(modifier), playing_games_with, 0.873
+T(modifier), birthday, 0.871
+T(modifier), christmas, 0.866
+T(modifier), deck, 0.865
+T(modifier), introduce_yourself, 0.848
+T(modifier), cardboard, 0.846
+
+T(head), financial_condition, 0.865
+T(head), undesirable, 0.833
+T(head), -wealth, 0.792
+T(head), drive_crime, 0.789
+T(head), situation, 0.763
+T(head), curse, 0.75
+T(head), get_money_from, 0.748
+T(head), mumbai, 0.747
+
+
+Result: {"identification": 0.887, "playing_poker": 0.873, "playing_games_with": 0.873, "birthday": 0.871, "christmas": 0.866, "deck": 0.865, "introduce_yourself": 0.848, "financial_condition": 0.865, "@scenario_probability": 0.00013794584388822682}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.00013794584388822682]

@@ -1,0 +1,4 @@
+depose: 0.862
+termination: 0.822
+downfall: 0.821
+sports: 0.738

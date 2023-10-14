@@ -1,0 +1,8 @@
+-victory: 0.7938000000000001
+failure: 0.765
+-win: 0.7632
+ending: 0.7362
+-winning: 0.7083
+-conquer: 0.7002
+despair: 0.6939000000000001
+-lose: 0.6921

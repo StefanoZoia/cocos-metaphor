@@ -1,0 +1,30 @@
+Title: bureaucracy-steals
+
+Head Concept Name: bureaucracy
+Modifier Concept Name: steals
+
+
+
+
+
+T(modifier), baseball, 0.792
+T(modifier), have_no_money, 0.755
+T(modifier), gain, 0.742
+T(modifier), take, 0.737
+T(modifier), move, 0.729
+T(modifier), want_money, 0.724
+T(modifier), midgets, 0.711
+T(modifier), get, 0.701
+
+T(head), government, 0.866
+T(head), bureaucrats, 0.853
+T(head), government_officials, 0.834
+T(head), organization, 0.814
+T(head), system_of_running_bureaus, 0.783
+T(head), organizational_theory, 0.762
+T(head), university, 0.75
+T(head), agent_non_geographical, 0.749
+
+
+Result: {"baseball": 0.792, "have_no_money": 0.755, "government": 0.866, "bureaucrats": 0.853, "government_officials": 0.834, "organization": 0.814, "system_of_running_bureaus": 0.783, "organizational_theory": 0.762, "@scenario_probability": 0.0004923600804249256}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0004923600804249256]

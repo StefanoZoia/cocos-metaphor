@@ -1,0 +1,7 @@
+hospital: 0.781
+victim: 0.7785
+military: 0.7371
+decrease: 0.7353
+survivor: 0.7263000000000001
+british: 0.6912
+proscribed: 0.6552

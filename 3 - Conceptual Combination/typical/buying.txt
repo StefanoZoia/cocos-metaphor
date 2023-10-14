@@ -1,0 +1,8 @@
+spending_money: 0.933
+owning: 0.92
+purchase: 0.913
+buy_accessory: 0.888
+owning_thing: 0.886
+money: 0.878
+picking_out_right_thing: 0.87
+-selling: 0.854

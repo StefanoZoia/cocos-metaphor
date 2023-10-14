@@ -1,0 +1,6 @@
+surprise: 0.930
+flabbergast: 0.906
+explode: 0.906
+ambush: 0.883
+eruption: 0.883
+frighten: 0.875

@@ -1,0 +1,8 @@
+biology: 0.861
+continuous: 0.849
+-revolution: 0.809
+organic_process: 0.797
+adaptation: 0.797
+-extinction: 0.796
+-creationism: 0.782
+-stagnation: 0.772

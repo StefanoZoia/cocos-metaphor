@@ -1,0 +1,4 @@
+stay: 0.872
+spend: 0.827
+lodging: 0.794
+service_product: 0.755

@@ -1,0 +1,30 @@
+Title: gun-debate
+
+Head Concept Name: gun
+Modifier Concept Name: debate
+
+
+
+
+
+T(modifier), useful_in_developing_consensus, 0.839
+T(modifier), come_up_with_subject, 0.825
+T(modifier), good, 0.824
+T(modifier), consider, 0.819
+T(modifier), hash_out, 0.813
+T(modifier), public_speaking, 0.808
+T(modifier), frequently_in_french_form_débat, 0.756
+T(modifier), university, 0.741
+
+T(head), firearm_shoots_bullets, 0.931
+T(head), shooting_things, 0.915
+T(head), shoot, 0.904
+T(head), weapon, 0.903
+T(head), shot, 0.897
+T(head), gun_shop, 0.894
+T(head), holster, 0.889
+T(head), shoot_bullets, 0.883
+
+
+Result: {"useful_in_developing_consensus": 0.839, "firearm_shoots_bullets": 0.931, "shooting_things": 0.915, "shoot": 0.904, "weapon": 0.903, "shot": 0.897, "gun_shop": 0.894, "holster": 0.889, "@scenario_probability": 6.155569204300247e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 6.155569204300247e-05]

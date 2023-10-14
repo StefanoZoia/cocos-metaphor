@@ -1,0 +1,8 @@
+condiment: 0.828
+cover: 0.822
+page: 0.819
+move: 0.818
+publication: 0.813
+girth: 0.808
+trading: 0.766
+bread_etc: 0.759

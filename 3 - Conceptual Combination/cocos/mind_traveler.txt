@@ -1,0 +1,30 @@
+Title: mind-traveler
+
+Head Concept Name: mind
+Modifier Concept Name: traveler
+
+
+
+
+
+T(modifier), journey_from_country_to_country, 0.872
+T(modifier), journey_by_train, 0.872
+T(modifier), journey_far, 0.872
+T(modifier), journey_to_foreign_land, 0.872
+T(modifier), near_destination, 0.846
+T(modifier), going_to_france, 0.828
+T(modifier), bus_depot, 0.825
+T(modifier), person, 0.823
+
+T(head), thinking, 0.906
+T(head), subjective, 0.894
+T(head), cognition, 0.856
+T(head), think_about, 0.842
+T(head), remember, 0.842
+T(head), intelligence, 0.836
+T(head), recall, 0.827
+T(head), perceive_external_envrnment_and_recollect_data, 0.823
+
+
+Result: {"journey_from_country_to_country": 0.872, "journey_by_train": 0.872, "journey_far": 0.872, "journey_to_foreign_land": 0.872, "near_destination": 0.846, "thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "@scenario_probability": 2.265128984482639e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 2.265128984482639e-05]

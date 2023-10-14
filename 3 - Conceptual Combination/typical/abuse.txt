@@ -1,0 +1,7 @@
+disrespect: 0.853
+use: 0.839
+attack: 0.831
+outside_of: 0.786
+-care: 0.74
+-respect: 0.719
+counter_staff: 0.667

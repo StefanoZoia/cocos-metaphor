@@ -1,0 +1,2 @@
+us: 0.787
+pejorative: 0.773

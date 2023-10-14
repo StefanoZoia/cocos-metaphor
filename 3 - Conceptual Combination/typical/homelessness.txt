@@ -1,0 +1,2 @@
+social_and_economic_problem: 0.811
+condition: 0.79

@@ -1,0 +1,8 @@
+stone: 0.915
+throwing: 0.87
+opaque: 0.844
+pave_floors: 0.835
+throw: 0.831
+build_strong_buildings: 0.824
+crushing_scissors: 0.824
+avoirdupois_unit: 0.82

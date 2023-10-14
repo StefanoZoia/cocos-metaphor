@@ -1,0 +1,26 @@
+Title: inequality-evil
+
+Head Concept Name: inequality
+Modifier Concept Name: evil
+
+
+
+
+
+T(modifier), bad, 0.868
+T(modifier), very_very_bad, 0.825
+T(modifier), providing_opposition_to_good, 0.797
+T(modifier), torture, 0.778
+T(modifier), -good, 0.766
+T(modifier), computing, 0.746
+T(modifier), programming, 0.733
+T(modifier), slang, 0.731
+
+T(head), difference, 0.844
+T(head), mathematics, 0.786
+T(head), -equal, 0.764
+T(head), situation, 0.758
+
+
+Result: {"bad": 0.868, "very_very_bad": 0.825, "providing_opposition_to_good": 0.797, "torture": 0.778, "-good": 0.766, "difference": 0.844, "mathematics": 0.786, "-equal": 0.764, "@scenario_probability": 0.07610467522459784}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0.07610467522459784]

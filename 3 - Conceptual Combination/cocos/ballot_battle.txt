@@ -1,0 +1,29 @@
+Title: ballot-battle
+
+Head Concept Name: ballot
+Modifier Concept Name: battle
+
+
+
+
+
+T(modifier), fighting, 0.941
+T(modifier), fight, 0.917
+T(modifier), battle, 0.915
+T(modifier), war, 0.895
+T(modifier), fighting_war, 0.89
+T(modifier), fight_between_enemies, 0.861
+T(modifier), winning_war, 0.858
+T(modifier), battlefield, 0.839
+
+T(head), vote, 0.919
+T(head), document, 0.809
+T(head), list_of_candidates_for_office, 0.784
+T(head), us, 0.742
+T(head), store_of_information, 0.738
+T(head), paris, 0.725
+T(head), company, 0.671
+
+
+Result: {"fighting": 0.941, "fight": 0.917, "battle": 0.915, "war": 0.895, "fighting_war": 0.89, "fight_between_enemies": 0.861, "winning_war": 0.858, "vote": 0.919, "@scenario_probability": 0.0017344493794085789}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0.0017344493794085789]

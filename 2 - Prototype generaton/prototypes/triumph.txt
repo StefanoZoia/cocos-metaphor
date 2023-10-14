@@ -1,0 +1,6 @@
+exultation: 0.866
+rapture: 0.789
+ancient_rome: 0.773
+historical: 0.747
+feeling_of_celebration: 0.742
+company: 0.721

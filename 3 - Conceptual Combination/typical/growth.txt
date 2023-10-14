@@ -1,0 +1,8 @@
+vegetation: 0.837
+-contraction: 0.813
+pathology: 0.811
+organic_process: 0.807
+biology: 0.805
+gastrulation: 0.796
+object: 0.79
+illness: 0.789

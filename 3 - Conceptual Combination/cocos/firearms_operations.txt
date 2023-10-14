@@ -1,0 +1,21 @@
+Title: firearms-operations
+
+Head Concept Name: firearms
+Modifier Concept Name: operations
+
+
+
+
+
+T(modifier), transaction, 0.868
+T(modifier), people_go_to_hospital_to, 0.67
+T(modifier), done_with_anasthetic, 0.655
+
+T(head), scare_people, 0.797
+T(head), intelligent_agent_activity, 0.757
+T(head), cabinet, 0.744
+T(head), used_in_shooting_gallery, 0.661
+
+
+Result: {"transaction": 0.868, "people_go_to_hospital_to": 0.67, "done_with_anasthetic": 0.655, "scare_people": 0.797, "intelligent_agent_activity": 0.757, "cabinet": 0.744, "@scenario_probability": 5.796457587782759}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 5.796457587782759]

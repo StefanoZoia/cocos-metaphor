@@ -1,0 +1,4 @@
+development: 0.883
+legal: 0.749
+teaching_other_people: 0.657
+passing_course: 0.657

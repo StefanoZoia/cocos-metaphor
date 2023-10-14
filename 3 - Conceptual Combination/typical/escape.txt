@@ -1,0 +1,8 @@
+escape: 0.946
+flee: 0.901
+avoidance: 0.847
+diversion: 0.835
+discharge: 0.825
+issue: 0.811
+means: 0.808
+running_away: 0.794

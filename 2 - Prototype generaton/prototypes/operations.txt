@@ -1,0 +1,3 @@
+transaction: 0.868
+people_go_to_hospital_to: 0.67
+done_with_anasthetic: 0.655

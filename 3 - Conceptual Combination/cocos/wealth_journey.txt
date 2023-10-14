@@ -1,0 +1,27 @@
+Title: wealth-journey
+
+Head Concept Name: wealth
+Modifier Concept Name: journey
+
+
+
+
+
+T(modifier), travel, 0.89
+T(modifier), stage, 0.754
+T(modifier), -walk, 0.744
+T(modifier), collective, 0.743
+T(modifier), video_game, 0.709
+
+T(head), abundance, 0.871
+T(head), financial_condition, 0.85
+T(head), property, 0.84
+T(head), material_resource, 0.792
+T(head), -poverty, 0.792
+T(head), economics, 0.774
+T(head), conquering_nation, 0.762
+T(head), -debt, 0.714
+
+
+Result: {"travel": 0.89, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "economics": 0.774, "conquering_nation": 0.762, "@scenario_probability": 0.027581627349132984}
+Scenario: [1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.027581627349132984]

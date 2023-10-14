@@ -1,0 +1,2 @@
+wealth: 0.891
+-indigence: 0.815

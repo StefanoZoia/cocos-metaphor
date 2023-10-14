@@ -1,0 +1,8 @@
+high_and_rocky: 0.873
+very_large: 0.867
+volcanoes: 0.865
+beautiful_to_look_at: 0.841
+highlands: 0.827
+pleasing_to_look_at: 0.826
+rise_up_above_landscape: 0.807
+state_park: 0.804

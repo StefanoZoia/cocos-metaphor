@@ -1,0 +1,30 @@
+Title: body-canvas
+
+Head Concept Name: body
+Modifier Concept Name: canvas
+
+
+
+
+
+T(modifier), painting_on, 0.913
+T(modifier), painting, 0.908
+T(modifier), paint, 0.89
+T(modifier), paint_picture_on, 0.872
+T(modifier), art_store, 0.87
+T(modifier), covering, 0.861
+T(modifier), art, 0.858
+T(modifier), fabric, 0.857
+
+T(head), torso, 0.852
+T(head), coffin, 0.843
+T(head), body_substance, 0.837
+T(head), funeral, 0.835
+T(head), system, 0.83
+T(head), structure, 0.829
+T(head), message, 0.827
+T(head), mass, 0.818
+
+
+Result: {"painting_on": 0.913, "painting": 0.908, "paint": 0.89, "paint_picture_on": 0.872, "art_store": 0.87, "covering": 0.861, "art": 0.858, "torso": 0.852, "@scenario_probability": 1.9470726916716407e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1.9470726916716407e-05]

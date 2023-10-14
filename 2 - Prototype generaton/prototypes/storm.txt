@@ -1,0 +1,8 @@
+rain: 0.914
+raining: 0.902
+tropical_seas: 0.888
+flooding: 0.875
+atmospheric_phenomenon: 0.865
+rain_on_heads: 0.847
+storm_center: 0.845
+tropics: 0.842

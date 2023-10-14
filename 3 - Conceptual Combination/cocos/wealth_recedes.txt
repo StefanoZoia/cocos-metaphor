@@ -1,0 +1,26 @@
+Title: wealth-recedes
+
+Head Concept Name: wealth
+Modifier Concept Name: recedes
+
+
+
+
+
+T(modifier), withdraw, 0.786
+T(modifier), change, 0.71
+T(modifier), -proceed, 0.705
+T(modifier), -grow, 0.675
+
+T(head), abundance, 0.871
+T(head), financial_condition, 0.85
+T(head), property, 0.84
+T(head), material_resource, 0.792
+T(head), -poverty, 0.792
+T(head), economics, 0.774
+T(head), conquering_nation, 0.762
+T(head), -debt, 0.714
+
+
+Result: {"withdraw": 0.786, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "economics": 0.774, "conquering_nation": 0.762, "@scenario_probability": 0.1437985861475515}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.1437985861475515]

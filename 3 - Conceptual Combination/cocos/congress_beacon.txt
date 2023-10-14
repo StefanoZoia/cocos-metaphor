@@ -1,0 +1,26 @@
+Title: congress-beacon
+
+Head Concept Name: congress
+Modifier Concept Name: beacon
+
+
+
+
+
+T(modifier), tower, 0.841
+T(modifier), shine, 0.839
+T(modifier), visual_signal, 0.809
+T(modifier), nautical, 0.787
+T(modifier), lead, 0.783
+
+T(head), legislature, 0.896
+T(head), meeting, 0.854
+T(head), decide_illegal, 0.804
+T(head), instruct_people, 0.79
+T(head), -senate, 0.78
+T(head), us, 0.774
+T(head), going_nowhere, 0.741
+
+
+Result: {"tower": 0.841, "shine": 0.839, "visual_signal": 0.809, "nautical": 0.787, "legislature": 0.896, "meeting": 0.854, "decide_illegal": 0.804, "instruct_people": 0.79, "@scenario_probability": 0.061012784938530566}
+Scenario: [1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0.061012784938530566]

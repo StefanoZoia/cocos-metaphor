@@ -1,0 +1,8 @@
+episode: 0.854
+emotionality: 0.85
+writing_style: 0.804
+written_or_spoken_work: 0.761
+-comedy: 0.755
+slang: 0.745
+stage: 0.725
+information_bearing_performance: 0.7

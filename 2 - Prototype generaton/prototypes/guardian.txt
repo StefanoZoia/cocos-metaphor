@@ -1,0 +1,6 @@
+newspapers: 0.802
+newspaper: 0.791
+legal: 0.777
+video_games: 0.745
+person: 0.726
+book: 0.699

@@ -1,0 +1,30 @@
+Title: poverty-pill
+
+Head Concept Name: poverty
+Modifier Concept Name: pill
+
+
+
+
+
+T(modifier), medicine, 0.897
+T(modifier), medication, 0.896
+T(modifier), contraceptive, 0.895
+T(modifier), headaches, 0.878
+T(modifier), dose, 0.865
+T(modifier), curing_illness, 0.854
+T(modifier), bottle, 0.834
+T(modifier), headache, 0.833
+
+T(head), financial_condition, 0.865
+T(head), undesirable, 0.833
+T(head), -wealth, 0.792
+T(head), drive_crime, 0.789
+T(head), situation, 0.763
+T(head), curse, 0.75
+T(head), get_money_from, 0.748
+T(head), mumbai, 0.747
+
+
+Result: {"medicine": 0.897, "medication": 0.896, "contraceptive": 0.895, "headaches": 0.878, "dose": 0.865, "curing_illness": 0.854, "bottle": 0.834, "financial_condition": 0.865, "@scenario_probability": 0.00015561888144657944}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.00015561888144657944]

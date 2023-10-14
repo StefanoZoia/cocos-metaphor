@@ -1,0 +1,5 @@
+produce: 0.8073
+make: 0.756
+-erase: 0.6804
+-annihilate: 0.6777
+mathematics: 0.6741

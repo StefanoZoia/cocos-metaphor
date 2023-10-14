@@ -1,0 +1,8 @@
+market: 0.836
+offer_tips: 0.833
+both_internal_and_external: 0.832
+order_goods_from_mail_order_companies: 0.829
+mail_orders: 0.827
+demand_satisfaction: 0.823
+demand_good_service: 0.823
+people: 0.822

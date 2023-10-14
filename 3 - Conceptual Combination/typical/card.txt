@@ -1,0 +1,8 @@
+identification: 0.887
+playing_poker: 0.873
+playing_games_with: 0.873
+birthday: 0.871
+christmas: 0.866
+deck: 0.865
+introduce_yourself: 0.848
+cardboard: 0.846

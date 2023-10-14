@@ -1,0 +1,4 @@
+series: 0.821
+-regression: 0.807
+mathematics: 0.764
+music: 0.76

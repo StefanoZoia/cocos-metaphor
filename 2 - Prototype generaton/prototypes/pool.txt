@@ -1,0 +1,8 @@
+swiming: 0.962
+swimming: 0.93
+swimming_in: 0.928
+diving: 0.884
+swim_on_back: 0.87
+swim_laps: 0.87
+swim_underwater: 0.87
+make_splash: 0.87

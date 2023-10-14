@@ -1,0 +1,28 @@
+Title: instability-kink
+
+Head Concept Name: instability
+Modifier Concept Name: kink
+
+
+
+
+
+T(modifier), fold, 0.822
+T(modifier), idea, 0.812
+T(modifier), difficulty, 0.812
+T(modifier), person, 0.807
+T(modifier), -normophilia, 0.765
+T(modifier), dialect, 0.761
+T(modifier), scotland, 0.758
+T(modifier), mathematics, 0.752
+
+T(head), unsteadiness, 0.914
+T(head), disorder, 0.864
+T(head), -stability, 0.859
+T(head), undependability, 0.828
+T(head), -solidity, 0.79
+T(head), physics, 0.754
+
+
+Result: {"fold": 0.822, "idea": 0.812, "difficulty": 0.812, "person": 0.807, "unsteadiness": 0.914, "disorder": 0.864, "-stability": 0.859, "undependability": 0.828, "@scenario_probability": 0.004277874715832316}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0.004277874715832316]

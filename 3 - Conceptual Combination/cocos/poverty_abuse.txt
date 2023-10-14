@@ -1,0 +1,29 @@
+Title: poverty-abuse
+
+Head Concept Name: poverty
+Modifier Concept Name: abuse
+
+
+
+
+
+T(modifier), disrespect, 0.853
+T(modifier), use, 0.839
+T(modifier), attack, 0.831
+T(modifier), outside_of, 0.786
+T(modifier), -care, 0.74
+T(modifier), -respect, 0.719
+T(modifier), counter_staff, 0.667
+
+T(head), financial_condition, 0.865
+T(head), undesirable, 0.833
+T(head), -wealth, 0.792
+T(head), drive_crime, 0.789
+T(head), situation, 0.763
+T(head), curse, 0.75
+T(head), get_money_from, 0.748
+T(head), mumbai, 0.747
+
+
+Result: {"disrespect": 0.853, "use": 0.839, "attack": 0.831, "outside_of": 0.786, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "@scenario_probability": 0.0019343326993874327}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.0019343326993874327]

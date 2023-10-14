@@ -1,0 +1,8 @@
+security: 0.872
+activity: 0.817
+extortion: 0.813
+imposition: 0.808
+insurance: 0.793
+condom: 0.781
+railing: 0.769
+lock: 0.766

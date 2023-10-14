@@ -1,0 +1,30 @@
+Title: gun-god
+
+Head Concept Name: gun
+Modifier Concept Name: god
+
+
+
+
+
+T(modifier), quiet_storm, 0.944
+T(modifier), omnibenevolent, 0.918
+T(modifier), glorified_in_christianity, 0.907
+T(modifier), omniscient, 0.889
+T(modifier), heaven, 0.884
+T(modifier), love, 0.874
+T(modifier), pray_to, 0.868
+T(modifier), worship, 0.868
+
+T(head), firearm_shoots_bullets, 0.931
+T(head), shooting_things, 0.915
+T(head), shoot, 0.904
+T(head), weapon, 0.903
+T(head), shot, 0.897
+T(head), gun_shop, 0.894
+T(head), holster, 0.889
+T(head), shoot_bullets, 0.883
+
+
+Result: {"quiet_storm": 0.944, "omnibenevolent": 0.918, "glorified_in_christianity": 0.907, "firearm_shoots_bullets": 0.931, "shooting_things": 0.915, "shoot": 0.904, "weapon": 0.903, "shot": 0.897, "@scenario_probability": 1.9078992741468227e-06}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1.9078992741468227e-06]

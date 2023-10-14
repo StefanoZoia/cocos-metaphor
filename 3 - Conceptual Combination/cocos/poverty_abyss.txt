@@ -1,0 +1,29 @@
+Title: poverty-abyss
+
+Head Concept Name: poverty
+Modifier Concept Name: abyss
+
+
+
+
+
+T(modifier), chasm, 0.899
+T(modifier), bottom_of_sea, 0.811
+T(modifier), heraldry, 0.749
+T(modifier), wrestler, 0.736
+T(modifier), video_game, 0.727
+T(modifier), book, 0.718
+T(modifier), film, 0.709
+
+T(head), financial_condition, 0.865
+T(head), undesirable, 0.833
+T(head), -wealth, 0.792
+T(head), drive_crime, 0.789
+T(head), situation, 0.763
+T(head), curse, 0.75
+T(head), get_money_from, 0.748
+T(head), mumbai, 0.747
+
+
+Result: {"chasm": 0.899, "bottom_of_sea": 0.811, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "situation": 0.763, "curse": 0.75, "@scenario_probability": 0.0017780054817939227}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0017780054817939227]

@@ -1,0 +1,8 @@
+termination: 0.837
+ending: 0.825
+war_zone: 0.809
+-construction: 0.78
+explosive: 0.778
+mine: 0.74
+bomb: 0.718
+weapon: 0.696

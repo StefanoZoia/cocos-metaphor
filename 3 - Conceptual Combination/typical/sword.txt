@@ -1,0 +1,8 @@
+sharp: 0.909
+fencing: 0.895
+weapon: 0.882
+sheath: 0.876
+blacksmith: 0.86
+blade: 0.859
+stabbing: 0.857
+hilt: 0.848

@@ -1,0 +1,23 @@
+Title: taxation-guardian
+
+Head Concept Name: taxation
+Modifier Concept Name: guardian
+
+
+
+
+
+T(modifier), newspapers, 0.802
+T(modifier), newspaper, 0.791
+T(modifier), legal, 0.777
+T(modifier), video_games, 0.745
+T(modifier), person, 0.726
+T(modifier), book, 0.699
+
+T(head), imposition, 0.862
+T(head), process_results_in_taxes, 0.731
+T(head), activity_of_government, 0.721
+
+
+Result: {"newspapers": 0.802, "newspaper": 0.791, "legal": 0.777, "video_games": 0.745, "person": 0.726, "book": 0.699, "imposition": 0.862, "process_results_in_taxes": 0.731, "@scenario_probability": 3.276202865481366}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 3.276202865481366]

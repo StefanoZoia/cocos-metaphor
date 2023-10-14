@@ -1,0 +1,27 @@
+Title: legislature-addiction
+
+Head Concept Name: legislature
+Modifier Concept Name: addiction
+
+
+
+
+
+T(modifier), narcotic, 0.866
+T(modifier), craving, 0.864
+T(modifier), bad, 0.831
+T(modifier), physiological_state, 0.817
+T(modifier), smoke, 0.798
+T(modifier), award, 0.793
+T(modifier), roman_law, 0.79
+T(modifier), smoking, 0.766
+
+T(head), assembly, 0.862
+T(head), congress, 0.859
+T(head), making_laws, 0.839
+T(head), pass_law, 0.815
+T(head), canada, 0.758
+
+
+Result: {"narcotic": 0.866, "craving": 0.864, "bad": 0.831, "physiological_state": 0.817, "assembly": 0.862, "congress": 0.859, "making_laws": 0.839, "pass_law": 0.815, "@scenario_probability": 0.012789305073565597}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0.012789305073565597]

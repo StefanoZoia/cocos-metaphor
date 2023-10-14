@@ -1,0 +1,3 @@
+force_will_on_prisoner: 0.839
+free_slave: 0.788
+person: 0.776

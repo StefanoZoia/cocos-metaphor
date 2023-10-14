@@ -1,0 +1,30 @@
+Title: poverty-praise
+
+Head Concept Name: poverty
+Modifier Concept Name: praise
+
+
+
+
+
+T(modifier), provide_comfort, 0.911
+T(modifier), worship, 0.872
+T(modifier), approval, 0.843
+T(modifier), add_to_confidence, 0.838
+T(modifier), -condemnation, 0.818
+T(modifier), fitting_reward, 0.816
+T(modifier), measure, 0.808
+T(modifier), -blame, 0.805
+
+T(head), financial_condition, 0.865
+T(head), undesirable, 0.833
+T(head), -wealth, 0.792
+T(head), drive_crime, 0.789
+T(head), situation, 0.763
+T(head), curse, 0.75
+T(head), get_money_from, 0.748
+T(head), mumbai, 0.747
+
+
+Result: {"provide_comfort": 0.911, "worship": 0.872, "approval": 0.843, "add_to_confidence": 0.838, "-condemnation": 0.818, "fitting_reward": 0.816, "financial_condition": 0.865, "undesirable": 0.833, "@scenario_probability": 0.00016753365887110008}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00016753365887110008]

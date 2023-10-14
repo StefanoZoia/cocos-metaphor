@@ -1,0 +1,30 @@
+Title: guns-assault
+
+Head Concept Name: guns
+Modifier Concept Name: assault
+
+
+
+
+
+T(modifier), attack, 0.907
+T(modifier), battle, 0.837
+T(modifier), military, 0.823
+T(modifier), tort, 0.797
+T(modifier), crime, 0.775
+T(modifier), criminal, 0.772
+T(modifier), fencing, 0.748
+T(modifier), legal, 0.746
+
+T(head), firearm_shoots_bullets, 0.838
+T(head), shooting_things, 0.824
+T(head), shoot, 0.814
+T(head), weapon, 0.813
+T(head), shot, 0.807
+T(head), gun_shop, 0.805
+T(head), holster, 0.8
+T(head), shoot_bullets, 0.795
+
+
+Result: {"attack": 0.907, "battle": 0.837, "military": 0.823, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "shot": 0.807, "@scenario_probability": 0.00012278870648048046}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00012278870648048046]

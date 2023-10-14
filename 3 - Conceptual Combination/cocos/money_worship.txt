@@ -1,0 +1,30 @@
+Title: money-worship
+
+Head Concept Name: money
+Modifier Concept Name: worship
+
+
+
+
+
+T(modifier), reverence, 0.877
+T(modifier), religion, 0.853
+T(modifier), love, 0.837
+T(modifier), chapel, 0.827
+T(modifier), church, 0.822
+T(modifier), temple, 0.816
+T(modifier), attend, 0.815
+T(modifier), activity, 0.814
+
+T(head), saving, 0.878
+T(head), pay_for, 0.874
+T(head), pay_for_sex, 0.874
+T(head), money_supply, 0.861
+T(head), currency, 0.858
+T(head), buy_food, 0.854
+T(head), value, 0.851
+T(head), banks, 0.851
+
+
+Result: {"reverence": 0.877, "religion": 0.853, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "money_supply": 0.861, "currency": 0.858, "buy_food": 0.854, "@scenario_probability": 2.233279389867649e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 2.233279389867649e-05]

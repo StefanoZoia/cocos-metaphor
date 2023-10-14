@@ -1,0 +1,6 @@
+happiness: 0.984
+bliss: 0.971
+celebrating: 0.970
+jubilant: 0.969
+ecstatic: 0.954
+elation: 0.944

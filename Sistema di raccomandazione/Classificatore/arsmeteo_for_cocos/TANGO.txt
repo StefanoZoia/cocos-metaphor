@@ -1,0 +1,11 @@
+complanare:           0.9
+netville:             0.9
+intesa:               0.9
+sorpresa:             0.9
+suspence:             0.9
+deriva:               0.9
+aria:                 0.9
+lampo:                0.9
+cerniera:             0.9
+condivisione:         0.9
+sfida:                0.9

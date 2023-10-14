@@ -1,0 +1,8 @@
+fence: 0.878
+divide_open_space_into_smaller_areas: 0.866
+dividing_countries: 0.864
+hallway: 0.849
+partition: 0.844
+separate_rooms_from_each_other: 0.843
+separate_rooms: 0.843
+room: 0.837

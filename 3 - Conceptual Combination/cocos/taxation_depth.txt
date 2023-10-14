@@ -1,0 +1,25 @@
+Title: taxation-depth
+
+Head Concept Name: taxation
+Modifier Concept Name: depth
+
+
+
+
+
+T(modifier), extent, 0.857
+T(modifier), abasement, 0.826
+T(modifier), degree, 0.822
+T(modifier), -height, 0.814
+T(modifier), attribute, 0.795
+T(modifier), -bathos, 0.786
+T(modifier), colors, 0.771
+T(modifier), horology, 0.761
+
+T(head), imposition, 0.862
+T(head), process_results_in_taxes, 0.731
+T(head), activity_of_government, 0.721
+
+
+Result: {"extent": 0.857, "abasement": 0.826, "degree": 0.822, "-height": 0.814, "attribute": 0.795, "-bathos": 0.786, "colors": 0.771, "imposition": 0.862, "@scenario_probability": 0.3528277981636414}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.3528277981636414]

@@ -1,0 +1,8 @@
+gun: 0.93
+sights: 0.823
+killing: 0.813
+firing_pin: 0.811
+ranged_weapon: 0.764
+lock: 0.76
+-cold_weapon: 0.739
+killing_people: 0.694

@@ -1,0 +1,8 @@
+incompatibility: 0.7695
+ambivalence: 0.7515
+contrast: 0.7488
+arises_between_humans: 0.747
+opposition: 0.7353
+transgress: 0.7227
+group_action: 0.7110000000000001
+state: 0.7065

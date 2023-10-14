@@ -1,0 +1,27 @@
+Title: wealth-burden
+
+Head Concept Name: wealth
+Modifier Concept Name: burden
+
+
+
+
+
+T(modifier), charge, 0.849
+T(modifier), idea, 0.815
+T(modifier), concern, 0.805
+T(modifier), music, 0.753
+T(modifier), medicine, 0.728
+
+T(head), abundance, 0.871
+T(head), financial_condition, 0.85
+T(head), property, 0.84
+T(head), material_resource, 0.792
+T(head), -poverty, 0.792
+T(head), economics, 0.774
+T(head), conquering_nation, 0.762
+T(head), -debt, 0.714
+
+
+Result: {"charge": 0.849, "idea": 0.815, "concern": 0.805, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "@scenario_probability": 0.022456661666902036}
+Scenario: [1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.022456661666902036]

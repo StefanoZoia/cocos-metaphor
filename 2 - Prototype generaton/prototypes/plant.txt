@@ -1,0 +1,8 @@
+flower_in_spring: 0.89
+bloom: 0.885
+alive: 0.869
+grow_in_garden: 0.854
+flower_when_watered: 0.852
+suffering_dehydration: 0.851
+botany: 0.844
+pot: 0.826

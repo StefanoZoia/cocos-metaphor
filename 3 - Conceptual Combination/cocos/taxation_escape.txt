@@ -1,0 +1,25 @@
+Title: taxation-escape
+
+Head Concept Name: taxation
+Modifier Concept Name: escape
+
+
+
+
+
+T(modifier), escape, 0.946
+T(modifier), flee, 0.901
+T(modifier), avoidance, 0.847
+T(modifier), diversion, 0.835
+T(modifier), discharge, 0.825
+T(modifier), issue, 0.811
+T(modifier), means, 0.808
+T(modifier), running_away, 0.794
+
+T(head), imposition, 0.862
+T(head), process_results_in_taxes, 0.731
+T(head), activity_of_government, 0.721
+
+
+Result: {"escape": 0.946, "flee": 0.901, "avoidance": 0.847, "diversion": 0.835, "discharge": 0.825, "issue": 0.811, "means": 0.808, "imposition": 0.862, "@scenario_probability": 0.43431311720322174}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.43431311720322174]

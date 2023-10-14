@@ -1,0 +1,30 @@
+Title: guns-pillar
+
+Head Concept Name: guns
+Modifier Concept Name: pillar
+
+
+
+
+
+T(modifier), supporter, 0.839
+T(modifier), principle, 0.829
+T(modifier), stone, 0.784
+T(modifier), architecture, 0.777
+T(modifier), automotive, 0.773
+T(modifier), support_column, 0.758
+T(modifier), rock_formation, 0.752
+T(modifier), land_topographical_feature, 0.744
+
+T(head), firearm_shoots_bullets, 0.838
+T(head), shooting_things, 0.824
+T(head), shoot, 0.814
+T(head), weapon, 0.813
+T(head), shot, 0.807
+T(head), gun_shop, 0.805
+T(head), holster, 0.8
+T(head), shoot_bullets, 0.795
+
+
+Result: {"supporter": 0.839, "principle": 0.829, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "shot": 0.807, "gun_shop": 0.805, "@scenario_probability": 0.0001422156620900754}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0001422156620900754]

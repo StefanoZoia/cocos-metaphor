@@ -1,0 +1,8 @@
+victory: 0.912
+compete: 0.9
+-lose: 0.874
+-defeat: 0.848
+conquer_opponent: 0.818
+play_games: 0.818
+play_game: 0.818
+-loss: 0.813

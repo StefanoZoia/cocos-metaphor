@@ -1,0 +1,7 @@
+wind: 0.9
+blow: 0.86
+blowing: 0.841
+travel: 0.802
+cricket: 0.732
+cooling_off: 0.714
+flying_kite: 0.699

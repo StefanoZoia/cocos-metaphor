@@ -1,0 +1,8 @@
+wet: 0.93
+rain_clouds: 0.917
+precipitation: 0.902
+weather: 0.889
+water_falling_from_sky: 0.885
+flooding: 0.867
+water: 0.866
+falling: 0.866

@@ -1,0 +1,30 @@
+Title: bureaucracy-mountain
+
+Head Concept Name: bureaucracy
+Modifier Concept Name: mountain
+
+
+
+
+
+T(modifier), climbing, 0.91
+T(modifier), mountainous_region, 0.906
+T(modifier), mountainside, 0.873
+T(modifier), rocky_area, 0.862
+T(modifier), very_large, 0.858
+T(modifier), colorado, 0.842
+T(modifier), austria, 0.827
+T(modifier), -hill, 0.825
+
+T(head), government, 0.866
+T(head), bureaucrats, 0.853
+T(head), government_officials, 0.834
+T(head), organization, 0.814
+T(head), system_of_running_bureaus, 0.783
+T(head), organizational_theory, 0.762
+T(head), university, 0.75
+T(head), agent_non_geographical, 0.749
+
+
+Result: {"climbing": 0.91, "mountainous_region": 0.906, "mountainside": 0.873, "rocky_area": 0.862, "very_large": 0.858, "colorado": 0.842, "government": 0.866, "bureaucrats": 0.853, "@scenario_probability": 0.0001003027885601919}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.0001003027885601919]

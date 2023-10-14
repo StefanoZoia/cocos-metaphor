@@ -1,0 +1,30 @@
+Title: poverty-depth
+
+Head Concept Name: poverty
+Modifier Concept Name: depth
+
+
+
+
+
+T(modifier), extent, 0.857
+T(modifier), abasement, 0.826
+T(modifier), degree, 0.822
+T(modifier), -height, 0.814
+T(modifier), attribute, 0.795
+T(modifier), -bathos, 0.786
+T(modifier), colors, 0.771
+T(modifier), horology, 0.761
+
+T(head), financial_condition, 0.865
+T(head), undesirable, 0.833
+T(head), -wealth, 0.792
+T(head), drive_crime, 0.789
+T(head), situation, 0.763
+T(head), curse, 0.75
+T(head), get_money_from, 0.748
+T(head), mumbai, 0.747
+
+
+Result: {"extent": 0.857, "abasement": 0.826, "degree": 0.822, "-height": 0.814, "attribute": 0.795, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "@scenario_probability": 0.0002006085964308507}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.0002006085964308507]

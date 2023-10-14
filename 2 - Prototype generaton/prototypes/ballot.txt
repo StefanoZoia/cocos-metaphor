@@ -1,0 +1,7 @@
+vote: 0.919
+document: 0.809
+list_of_candidates_for_office: 0.784
+us: 0.742
+store_of_information: 0.738
+paris: 0.725
+company: 0.671

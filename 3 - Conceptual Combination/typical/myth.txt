@@ -1,0 +1,5 @@
+story: 0.867
+cause_stigma: 0.814
+grow_out_of_real_event: 0.797
+-fact: 0.745
+-true: 0.689

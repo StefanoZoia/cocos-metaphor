@@ -1,0 +1,8 @@
+lithosphere: 0.876
+layer: 0.849
+cover: 0.83
+diffuse: 0.827
+epidermis: 0.825
+shelf: 0.805
+symbol: 0.802
+zoology: 0.797

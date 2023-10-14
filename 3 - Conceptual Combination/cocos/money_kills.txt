@@ -1,0 +1,30 @@
+Title: money-kills
+
+Head Concept Name: money
+Modifier Concept Name: kills
+
+
+
+
+
+T(modifier), murder, 0.848
+T(modifier), killed_love, 0.81
+T(modifier), killed_wife, 0.81
+T(modifier), shoot, 0.793
+T(modifier), buy_gun, 0.787
+T(modifier), use_knife, 0.787
+T(modifier), destroy, 0.784
+T(modifier), get_weapon, 0.783
+
+T(head), saving, 0.878
+T(head), pay_for, 0.874
+T(head), pay_for_sex, 0.874
+T(head), money_supply, 0.861
+T(head), currency, 0.858
+T(head), buy_food, 0.854
+T(head), value, 0.851
+T(head), banks, 0.851
+
+
+Result: {"murder": 0.848, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "money_supply": 0.861, "currency": 0.858, "buy_food": 0.854, "banks": 0.851, "@scenario_probability": 7.229822102720669e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 7.229822102720669e-05]

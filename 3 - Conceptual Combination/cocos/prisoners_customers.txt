@@ -1,0 +1,30 @@
+Title: prisoners-customers
+
+Head Concept Name: prisoners
+Modifier Concept Name: customers
+
+
+
+
+
+T(modifier), market, 0.836
+T(modifier), offer_tips, 0.833
+T(modifier), both_internal_and_external, 0.832
+T(modifier), order_goods_from_mail_order_companies, 0.829
+T(modifier), mail_orders, 0.827
+T(modifier), demand_satisfaction, 0.823
+T(modifier), demand_good_service, 0.823
+T(modifier), people, 0.822
+
+T(head), prison, 0.921
+T(head), jail, 0.918
+T(head), attempt_escape, 0.848
+T(head), attempt_to_escape, 0.848
+T(head), live_on_bread_and_water, 0.838
+T(head), scape_from_jail, 0.835
+T(head), long_to_free, 0.813
+T(head), military_base, 0.757
+
+
+Result: {"market": 0.836, "offer_tips": 0.833, "prison": 0.921, "jail": 0.918, "attempt_escape": 0.848, "attempt_to_escape": 0.848, "live_on_bread_and_water": 0.838, "scape_from_jail": 0.835, "@scenario_probability": 3.7311413258220303e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 3.7311413258220303e-05]

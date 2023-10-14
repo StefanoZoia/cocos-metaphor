@@ -1,0 +1,8 @@
+quiet_storm: 0.944
+omnibenevolent: 0.918
+glorified_in_christianity: 0.907
+omniscient: 0.889
+heaven: 0.884
+love: 0.874
+pray_to: 0.868
+worship: 0.868

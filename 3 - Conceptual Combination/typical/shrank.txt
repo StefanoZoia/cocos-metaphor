@@ -1,0 +1,2 @@
+us: 0.752
+pennsylvania_dutch_english: 0.721

@@ -1,0 +1,27 @@
+Title: tax-trajectory
+
+Head Concept Name: tax
+Modifier Concept Name: trajectory
+
+
+
+
+
+T(modifier), mechanical_phenomenon, 0.79
+T(modifier), space, 0.768
+T(modifier), astronomy, 0.768
+T(modifier), cybernetics, 0.751
+T(modifier), localized_spatial_thing, 0.732
+
+T(head), levy, 0.89
+T(head), charge, 0.84
+T(head), -income, 0.807
+T(head), determine, 0.798
+T(head), -subsidy, 0.788
+T(head), -rebate, 0.785
+T(head), -refund, 0.778
+T(head), legalized_theft_by_government, 0.762
+
+
+Result: {"mechanical_phenomenon": 0.79, "levy": 0.89, "charge": 0.84, "-income": 0.807, "determine": 0.798, "-subsidy": 0.788, "-rebate": 0.785, "-refund": 0.778, "@scenario_probability": 0.015647153723536762}
+Scenario: [1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.015647153723536762]

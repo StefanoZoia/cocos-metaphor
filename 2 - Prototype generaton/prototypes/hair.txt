@@ -1,0 +1,8 @@
+combing: 0.921
+hair: 0.915
+wigs: 0.909
+shampooing: 0.901
+braiding: 0.891
+hair_brush: 0.885
+hairbrush: 0.884
+washing: 0.867

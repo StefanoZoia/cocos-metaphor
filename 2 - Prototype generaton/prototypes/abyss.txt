@@ -1,0 +1,7 @@
+chasm: 0.899
+bottom_of_sea: 0.811
+heraldry: 0.749
+wrestler: 0.736
+video_game: 0.727
+book: 0.718
+film: 0.709

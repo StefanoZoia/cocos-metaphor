@@ -1,0 +1,30 @@
+Title: democracy-pool
+
+Head Concept Name: democracy
+Modifier Concept Name: pool
+
+
+
+
+
+T(modifier), swiming, 0.962
+T(modifier), swimming, 0.93
+T(modifier), swimming_in, 0.928
+T(modifier), diving, 0.884
+T(modifier), swim_on_back, 0.87
+T(modifier), swim_laps, 0.87
+T(modifier), swim_underwater, 0.87
+T(modifier), make_splash, 0.87
+
+T(head), equality_for_everyone, 0.854
+T(head), open_media, 0.853
+T(head), political_orientation, 0.852
+T(head), political_system, 0.843
+T(head), good_thing, 0.84
+T(head), government_of_people, 0.816
+T(head), -dictatorship, 0.809
+T(head), government, 0.793
+
+
+Result: {"swiming": 0.962, "swimming": 0.93, "swimming_in": 0.928, "diving": 0.884, "swim_on_back": 0.87, "swim_underwater": 0.87, "make_splash": 0.87, "equality_for_everyone": 0.854, "@scenario_probability": 2.1332289241966138e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 2.1332289241966138e-05]

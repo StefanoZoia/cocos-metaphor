@@ -1,0 +1,8 @@
+penalty: 0.85
+-coarse: 0.831
+metallurgy: 0.807
+-okay: 0.782
+another_word_for_narrow: 0.766
+cricket: 0.753
+music: 0.75
+legal: 0.75

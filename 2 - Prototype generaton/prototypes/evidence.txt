@@ -1,0 +1,8 @@
+indication: 0.857
+prove_conclusively: 0.856
+prove_innocence: 0.856
+information: 0.842
+indicant: 0.813
+law: 0.802
+crime_scene: 0.801
+wrong_innocent_party: 0.798

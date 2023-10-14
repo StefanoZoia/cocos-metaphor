@@ -1,0 +1,30 @@
+Title: flowers-hair
+
+Head Concept Name: flowers
+Modifier Concept Name: hair
+
+
+
+
+
+T(modifier), combing, 0.921
+T(modifier), hair, 0.915
+T(modifier), wigs, 0.909
+T(modifier), shampooing, 0.901
+T(modifier), braiding, 0.891
+T(modifier), hair_brush, 0.885
+T(modifier), hairbrush, 0.884
+T(modifier), washing, 0.867
+
+T(head), fragrant, 0.925
+T(head), pink, 0.911
+T(head), perennials, 0.902
+T(head), yellow, 0.889
+T(head), red, 0.882
+T(head), flower_garden, 0.869
+T(head), colorful, 0.869
+T(head), purple, 0.865
+
+
+Result: {"combing": 0.921, "hair": 0.915, "wigs": 0.909, "shampooing": 0.901, "braiding": 0.891, "fragrant": 0.925, "pink": 0.911, "perennials": 0.902, "@scenario_probability": 2.5165326315071583e-06}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 2.5165326315071583e-06]

@@ -1,0 +1,5 @@
+green: 0.852
+food: 0.818
+-apple: 0.802
+can: 0.757
+dried: 0.751

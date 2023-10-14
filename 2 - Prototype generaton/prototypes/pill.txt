@@ -1,0 +1,8 @@
+medicine: 0.897
+medication: 0.896
+contraceptive: 0.895
+headaches: 0.878
+dose: 0.865
+curing_illness: 0.854
+bottle: 0.834
+headache: 0.833

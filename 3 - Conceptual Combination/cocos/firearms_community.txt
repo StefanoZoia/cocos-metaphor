@@ -1,0 +1,26 @@
+Title: firearms-community
+
+Head Concept Name: firearms
+Modifier Concept Name: community
+
+
+
+
+
+T(modifier), value_good_morals, 0.851
+T(modifier), broken, 0.845
+T(modifier), judge_leader, 0.843
+T(modifier), trade_services_for_money, 0.839
+T(modifier), commit_genocide, 0.838
+T(modifier), church, 0.837
+T(modifier), people, 0.832
+T(modifier), group, 0.832
+
+T(head), scare_people, 0.797
+T(head), intelligent_agent_activity, 0.757
+T(head), cabinet, 0.744
+T(head), used_in_shooting_gallery, 0.661
+
+
+Result: {"value_good_morals": 0.851, "broken": 0.845, "judge_leader": 0.843, "trade_services_for_money": 0.839, "commit_genocide": 0.838, "church": 0.837, "group": 0.832, "scare_people": 0.797, "@scenario_probability": 0.08380735756768704}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0.08380735756768704]

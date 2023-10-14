@@ -1,0 +1,24 @@
+Title: poverty-engenders
+
+Head Concept Name: poverty
+Modifier Concept Name: engenders
+
+
+
+
+
+T(modifier), cause, 0.752
+T(modifier), critical_theory, 0.679
+
+T(head), financial_condition, 0.865
+T(head), undesirable, 0.833
+T(head), -wealth, 0.792
+T(head), drive_crime, 0.789
+T(head), situation, 0.763
+T(head), curse, 0.75
+T(head), get_money_from, 0.748
+T(head), mumbai, 0.747
+
+
+Result: {"cause": 0.752, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "situation": 0.763, "curse": 0.75, "get_money_from": 0.748, "@scenario_probability": 1.1770477650936824}
+Scenario: [1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1.1770477650936824]

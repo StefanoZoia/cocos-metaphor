@@ -1,0 +1,30 @@
+Title: bureaucracy-wins
+
+Head Concept Name: bureaucracy
+Modifier Concept Name: wins
+
+
+
+
+
+T(modifier), victory, 0.821
+T(modifier), compete, 0.81
+T(modifier), -lose, 0.787
+T(modifier), -defeat, 0.763
+T(modifier), conquer_opponent, 0.736
+T(modifier), play_games, 0.736
+T(modifier), play_game, 0.736
+T(modifier), -loss, 0.732
+
+T(head), government, 0.866
+T(head), bureaucrats, 0.853
+T(head), government_officials, 0.834
+T(head), organization, 0.814
+T(head), system_of_running_bureaus, 0.783
+T(head), organizational_theory, 0.762
+T(head), university, 0.75
+T(head), agent_non_geographical, 0.749
+
+
+Result: {"victory": 0.821, "compete": 0.81, "-lose": 0.787, "government": 0.866, "bureaucrats": 0.853, "government_officials": 0.834, "organization": 0.814, "system_of_running_bureaus": 0.783, "@scenario_probability": 0.00035868040955801885}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00035868040955801885]

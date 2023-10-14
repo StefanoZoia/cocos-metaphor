@@ -1,0 +1,16 @@
+ritratto:             0.9
+bambina:              0.9
+contrasto:            0.9
+pienezza:             0.9
+rubicondo:            0.9
+gota:                 0.9
+accendere:            0.9
+pesca:                0.9
+maturo:               0.9
+acuto:                0.9
+tagliente:            0.9
+sagoma:               0.9
+profilo:              0.9
+serenità:             0.9
+tenerezza:            0.9
+tranquillità:         0.9

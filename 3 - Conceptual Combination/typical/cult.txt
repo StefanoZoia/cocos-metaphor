@@ -1,0 +1,7 @@
+religion: 0.859
+ideology: 0.859
+sect: 0.858
+practicing_ideology: 0.815
+group_of_people: 0.785
+band: 0.766
+people: 0.683

@@ -1,0 +1,26 @@
+Title: guns-annihilation
+
+Head Concept Name: guns
+Modifier Concept Name: annihilation
+
+
+
+
+
+T(modifier), destruction, 0.906
+T(modifier), -creation, 0.798
+T(modifier), physics, 0.783
+T(modifier), -generation, 0.764
+
+T(head), firearm_shoots_bullets, 0.838
+T(head), shooting_things, 0.824
+T(head), shoot, 0.814
+T(head), weapon, 0.813
+T(head), shot, 0.807
+T(head), gun_shop, 0.805
+T(head), holster, 0.8
+T(head), shoot_bullets, 0.795
+
+
+Result: {"destruction": 0.906, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "shot": 0.807, "gun_shop": 0.805, "holster": 0.8, "@scenario_probability": 0.045630029326058114}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.045630029326058114]

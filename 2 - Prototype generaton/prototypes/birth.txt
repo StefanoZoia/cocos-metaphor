@@ -1,0 +1,8 @@
+pregnancy_ending_event: 0.845
+beginning: 0.833
+life: 0.823
+change: 0.809
+human_experience: 0.803
+person: 0.798
+-death: 0.795
+-birthday: 0.782

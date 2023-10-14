@@ -1,0 +1,30 @@
+Title: guns-cure
+
+Head Concept Name: guns
+Modifier Concept Name: cure
+
+
+
+
+
+T(modifier), preserve, 0.824
+T(modifier), change, 0.801
+T(modifier), harden, 0.795
+T(modifier), doctor, 0.776
+T(modifier), -disease, 0.775
+T(modifier), band, 0.743
+T(modifier), engineering, 0.741
+T(modifier), -poison, 0.71
+
+T(head), firearm_shoots_bullets, 0.838
+T(head), shooting_things, 0.824
+T(head), shoot, 0.814
+T(head), weapon, 0.813
+T(head), shot, 0.807
+T(head), gun_shop, 0.805
+T(head), holster, 0.8
+T(head), shoot_bullets, 0.795
+
+
+Result: {"preserve": 0.824, "change": 0.801, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "shot": 0.807, "gun_shop": 0.805, "@scenario_probability": 0.000160219164698258}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.000160219164698258]

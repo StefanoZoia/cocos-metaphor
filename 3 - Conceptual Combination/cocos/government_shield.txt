@@ -1,0 +1,30 @@
+Title: government-shield
+
+Head Concept Name: government
+Modifier Concept Name: shield
+
+
+
+
+
+T(modifier), armor, 0.882
+T(modifier), protect, 0.88
+T(modifier), protective_covering, 0.847
+T(modifier), heraldry, 0.816
+T(modifier), science_fiction, 0.769
+T(modifier), law_enforcement, 0.761
+T(modifier), defense_system, 0.75
+T(modifier), lichenology, 0.746
+
+T(head), corrupt, 0.897
+T(head), govern_country, 0.896
+T(head), polity, 0.874
+T(head), country, 0.839
+T(head), force_citizens_to_comply, 0.833
+T(head), rule_people, 0.832
+T(head), -fun, 0.829
+T(head), jealous_of_power, 0.827
+
+
+Result: {"armor": 0.882, "protect": 0.88, "protective_covering": 0.847, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "force_citizens_to_comply": 0.833, "@scenario_probability": 0.00010346809176410187}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00010346809176410187]

@@ -1,0 +1,5 @@
+restrict: 0.7974
+prevent: 0.7776
+disable: 0.7424999999999999
+handcuffs: 0.6804
+-indulge: 0.6606

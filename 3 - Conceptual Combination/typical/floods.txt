@@ -1,0 +1,4 @@
+happen_suddenly: 0.827
+kill_people: 0.819
+very_destructive: 0.818
+overflow: 0.785

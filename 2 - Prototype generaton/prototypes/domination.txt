@@ -1,0 +1,6 @@
+dominance: 0.923
+social_control: 0.808
+conquering_opponent: 0.773
+conquer_nation: 0.768
+topology: 0.76
+copulating: 0.689

@@ -1,0 +1,4 @@
+stone: 0.85
+building: 0.831
+block: 0.782
+part_of_building: 0.741

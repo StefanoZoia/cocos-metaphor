@@ -1,0 +1,3 @@
+sailboats: 0.893
+boat: 0.856
+fabric: 0.718

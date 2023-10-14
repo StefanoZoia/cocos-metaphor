@@ -1,0 +1,8 @@
+will: 0.869
+anticipation: 0.858
+desire: 0.853
+feeling: 0.826
+clean: 0.821
+plan: 0.82
+bring_fortune: 0.815
+advance_few_dollars: 0.812

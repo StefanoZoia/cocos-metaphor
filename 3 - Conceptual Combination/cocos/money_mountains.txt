@@ -1,0 +1,30 @@
+Title: money-mountains
+
+Head Concept Name: money
+Modifier Concept Name: mountains
+
+
+
+
+
+T(modifier), high_and_rocky, 0.873
+T(modifier), very_large, 0.867
+T(modifier), volcanoes, 0.865
+T(modifier), beautiful_to_look_at, 0.841
+T(modifier), highlands, 0.827
+T(modifier), pleasing_to_look_at, 0.826
+T(modifier), rise_up_above_landscape, 0.807
+T(modifier), state_park, 0.804
+
+T(head), saving, 0.878
+T(head), pay_for, 0.874
+T(head), pay_for_sex, 0.874
+T(head), money_supply, 0.861
+T(head), currency, 0.858
+T(head), buy_food, 0.854
+T(head), value, 0.851
+T(head), banks, 0.851
+
+
+Result: {"high_and_rocky": 0.873, "very_large": 0.867, "volcanoes": 0.865, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "money_supply": 0.861, "currency": 0.858, "@scenario_probability": 1.903656200927404e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1.903656200927404e-05]

@@ -1,0 +1,30 @@
+Title: beggar-bondage
+
+Head Concept Name: beggar
+Modifier Concept Name: bondage
+
+
+
+
+
+T(modifier), subjugation, 0.843
+T(modifier), sadomasochism, 0.813
+T(modifier), sexual_activity, 0.789
+T(modifier), constraining, 0.786
+T(modifier), -freedom, 0.777
+T(modifier), -free, 0.74
+T(modifier), human_sexual_behavior, 0.716
+T(modifier), -liberty, 0.69
+
+T(head), pauper, 0.859
+T(head), beg, 0.857
+T(head), impoverish, 0.831
+T(head), defy, 0.813
+T(head), need_clothes, 0.799
+T(head), street, 0.797
+T(head), affectionate, 0.749
+T(head), -rich, 0.71
+
+
+Result: {"subjugation": 0.843, "sadomasochism": 0.813, "pauper": 0.859, "beg": 0.857, "impoverish": 0.831, "defy": 0.813, "need_clothes": 0.799, "street": 0.797, "@scenario_probability": 0.0003641790586513416}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0003641790586513416]

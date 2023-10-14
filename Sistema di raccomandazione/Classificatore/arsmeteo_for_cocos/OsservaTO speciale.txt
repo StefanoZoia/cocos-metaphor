@@ -1,0 +1,5 @@
+ripresa:              0.9
+torino:               0.9
+toro:                 0.9
+sotto_osservazione:   0.9
+controllo:            0.9

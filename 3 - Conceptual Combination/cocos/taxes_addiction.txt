@@ -1,0 +1,30 @@
+Title: taxes-addiction
+
+Head Concept Name: taxes
+Modifier Concept Name: addiction
+
+
+
+
+
+T(modifier), narcotic, 0.866
+T(modifier), craving, 0.864
+T(modifier), bad, 0.831
+T(modifier), physiological_state, 0.817
+T(modifier), smoke, 0.798
+T(modifier), award, 0.793
+T(modifier), roman_law, 0.79
+T(modifier), smoking, 0.766
+
+T(head), bills, 0.827
+T(head), fund_govenment_services, 0.816
+T(head), percentage_of_income, 0.804
+T(head), debt, 0.804
+T(head), going_up, 0.784
+T(head), money, 0.777
+T(head), -pay, 0.777
+T(head), source_of_revenue, 0.738
+
+
+Result: {"narcotic": 0.866, "craving": 0.864, "bad": 0.831, "physiological_state": 0.817, "bills": 0.827, "fund_govenment_services": 0.816, "percentage_of_income": 0.804, "debt": 0.804, "@scenario_probability": 0.00012813982195756558}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00012813982195756558]

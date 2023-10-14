@@ -1,0 +1,28 @@
+Title: sermons-stone
+
+Head Concept Name: sermons
+Modifier Concept Name: stone
+
+
+
+
+
+T(modifier), stone, 0.915
+T(modifier), throwing, 0.87
+T(modifier), opaque, 0.844
+T(modifier), pave_floors, 0.835
+T(modifier), throw, 0.831
+T(modifier), build_strong_buildings, 0.824
+T(modifier), crushing_scissors, 0.824
+T(modifier), avoirdupois_unit, 0.82
+
+T(head), church, 0.889
+T(head), lecture, 0.8
+T(head), address, 0.749
+T(head), church_service, 0.733
+T(head), intelligent_agent_activity, 0.681
+T(head), public_speaking, 0.671
+
+
+Result: {"stone": 0.915, "throwing": 0.87, "opaque": 0.844, "pave_floors": 0.835, "throw": 0.831, "build_strong_buildings": 0.824, "crushing_scissors": 0.824, "church": 0.889, "@scenario_probability": 0.007125257132675324}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0.007125257132675324]

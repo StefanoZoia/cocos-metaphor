@@ -1,0 +1,29 @@
+Title: firearm-abuse
+
+Head Concept Name: firearm
+Modifier Concept Name: abuse
+
+
+
+
+
+T(modifier), disrespect, 0.853
+T(modifier), use, 0.839
+T(modifier), attack, 0.831
+T(modifier), outside_of, 0.786
+T(modifier), -care, 0.74
+T(modifier), -respect, 0.719
+T(modifier), counter_staff, 0.667
+
+T(head), gun, 0.93
+T(head), sights, 0.823
+T(head), killing, 0.813
+T(head), firing_pin, 0.811
+T(head), ranged_weapon, 0.764
+T(head), lock, 0.76
+T(head), -cold_weapon, 0.739
+T(head), killing_people, 0.694
+
+
+Result: {"disrespect": 0.853, "use": 0.839, "attack": 0.831, "outside_of": 0.786, "gun": 0.93, "sights": 0.823, "killing": 0.813, "firing_pin": 0.811, "@scenario_probability": 0.0025961980852121924}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.0025961980852121924]

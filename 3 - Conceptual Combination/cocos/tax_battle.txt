@@ -1,0 +1,30 @@
+Title: tax-battle
+
+Head Concept Name: tax
+Modifier Concept Name: battle
+
+
+
+
+
+T(modifier), fighting, 0.941
+T(modifier), fight, 0.917
+T(modifier), battle, 0.915
+T(modifier), war, 0.895
+T(modifier), fighting_war, 0.89
+T(modifier), fight_between_enemies, 0.861
+T(modifier), winning_war, 0.858
+T(modifier), battlefield, 0.839
+
+T(head), levy, 0.89
+T(head), charge, 0.84
+T(head), -income, 0.807
+T(head), determine, 0.798
+T(head), -subsidy, 0.788
+T(head), -rebate, 0.785
+T(head), -refund, 0.778
+T(head), legalized_theft_by_government, 0.762
+
+
+Result: {"fighting": 0.941, "fight": 0.917, "battle": 0.915, "war": 0.895, "fighting_war": 0.89, "fight_between_enemies": 0.861, "winning_war": 0.858, "levy": 0.89, "@scenario_probability": 0.000100007444664919}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.000100007444664919]

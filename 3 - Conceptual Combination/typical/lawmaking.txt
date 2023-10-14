@@ -1,0 +1,8 @@
+law: 0.8513999999999999
+create_from_raw_material: 0.7713
+perpetrate: 0.756
+legal: 0.7515
+constitute: 0.7505999999999999
+cause: 0.7488
+obligatory_rule_of_conduct: 0.7452
+guarantee: 0.7434

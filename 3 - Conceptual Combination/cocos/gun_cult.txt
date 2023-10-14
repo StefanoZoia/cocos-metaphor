@@ -1,0 +1,29 @@
+Title: gun-cult
+
+Head Concept Name: gun
+Modifier Concept Name: cult
+
+
+
+
+
+T(modifier), religion, 0.859
+T(modifier), ideology, 0.859
+T(modifier), sect, 0.858
+T(modifier), practicing_ideology, 0.815
+T(modifier), group_of_people, 0.785
+T(modifier), band, 0.766
+T(modifier), people, 0.683
+
+T(head), firearm_shoots_bullets, 0.931
+T(head), shooting_things, 0.915
+T(head), shoot, 0.904
+T(head), weapon, 0.903
+T(head), shot, 0.897
+T(head), gun_shop, 0.894
+T(head), holster, 0.889
+T(head), shoot_bullets, 0.883
+
+
+Result: {"religion": 0.859, "firearm_shoots_bullets": 0.931, "shooting_things": 0.915, "shoot": 0.904, "weapon": 0.903, "shot": 0.897, "gun_shop": 0.894, "holster": 0.889, "@scenario_probability": 0.0002943272476409951}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.0002943272476409951]

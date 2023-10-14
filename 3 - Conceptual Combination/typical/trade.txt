@@ -1,0 +1,8 @@
+commerce: 0.892
+exchange: 0.889
+sell: 0.889
+buy: 0.862
+gardening: 0.757
+mining: 0.757
+only_as_plural: 0.743
+uk: 0.737

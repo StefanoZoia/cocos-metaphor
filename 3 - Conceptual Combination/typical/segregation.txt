@@ -1,0 +1,8 @@
+-desegregation: 0.908
+separation: 0.879
+meiosis: 0.84
+genetics: 0.816
+social_organization: 0.799
+organic_process: 0.776
+performing: 0.771
+biology: 0.759

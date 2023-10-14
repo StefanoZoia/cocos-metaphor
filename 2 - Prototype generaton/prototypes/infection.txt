@@ -1,0 +1,8 @@
+illness: 0.825
+incident: 0.817
+malfunction: 0.814
+disease: 0.814
+corruptness: 0.813
+death: 0.804
+medicine: 0.802
+pathologic_process: 0.802

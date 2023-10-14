@@ -1,0 +1,6 @@
+torture: 0.984
+terrorist: 0.972
+horrific: 0.969
+kill: 0.962
+annihilate: 0.953
+terror: 0.953

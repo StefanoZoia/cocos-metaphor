@@ -1,0 +1,30 @@
+Title: poverty-attack
+
+Head Concept Name: poverty
+Modifier Concept Name: attack
+
+
+
+
+
+T(modifier), assault, 0.871
+T(modifier), criticism, 0.837
+T(modifier), fight, 0.819
+T(modifier), affect, 0.819
+T(modifier), military, 0.814
+T(modifier), knock, 0.814
+T(modifier), -defend, 0.806
+T(modifier), degeneration, 0.805
+
+T(head), financial_condition, 0.865
+T(head), undesirable, 0.833
+T(head), -wealth, 0.792
+T(head), drive_crime, 0.789
+T(head), situation, 0.763
+T(head), curse, 0.75
+T(head), get_money_from, 0.748
+T(head), mumbai, 0.747
+
+
+Result: {"assault": 0.871, "criticism": 0.837, "fight": 0.819, "affect": 0.819, "military": 0.814, "knock": 0.814, "financial_condition": 0.865, "undesirable": 0.833, "@scenario_probability": 0.00014642420790951955}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00014642420790951955]

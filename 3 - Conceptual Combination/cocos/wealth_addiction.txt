@@ -1,0 +1,30 @@
+Title: wealth-addiction
+
+Head Concept Name: wealth
+Modifier Concept Name: addiction
+
+
+
+
+
+T(modifier), narcotic, 0.866
+T(modifier), craving, 0.864
+T(modifier), bad, 0.831
+T(modifier), physiological_state, 0.817
+T(modifier), smoke, 0.798
+T(modifier), award, 0.793
+T(modifier), roman_law, 0.79
+T(modifier), smoking, 0.766
+
+T(head), abundance, 0.871
+T(head), financial_condition, 0.85
+T(head), property, 0.84
+T(head), material_resource, 0.792
+T(head), -poverty, 0.792
+T(head), economics, 0.774
+T(head), conquering_nation, 0.762
+T(head), -debt, 0.714
+
+
+Result: {"narcotic": 0.866, "craving": 0.864, "bad": 0.831, "physiological_state": 0.817, "smoke": 0.798, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "@scenario_probability": 0.0001706701498517851}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.0001706701498517851]

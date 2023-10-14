@@ -1,0 +1,25 @@
+Title: tariff-walls
+
+Head Concept Name: tariff
+Modifier Concept Name: walls
+
+
+
+
+
+T(modifier), building, 0.863
+T(modifier), house, 0.854
+T(modifier), vertical, 0.853
+T(modifier), houses, 0.84
+T(modifier), room, 0.828
+T(modifier), corner, 0.824
+T(modifier), wall_spaces, 0.803
+T(modifier), vertical_places, 0.763
+
+T(head), tax, 0.863
+T(head), british, 0.75
+T(head), intangible_artifact, 0.743
+
+
+Result: {"building": 0.863, "house": 0.854, "vertical": 0.853, "houses": 0.84, "room": 0.828, "corner": 0.824, "wall_spaces": 0.803, "tax": 0.863, "@scenario_probability": 0.3801914545425021}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.3801914545425021]

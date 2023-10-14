@@ -1,0 +1,6 @@
+subjugation: 0.893
+persecution: 0.864
+depression: 0.818
+-freedom: 0.738
+government: 0.709
+-free: 0.652

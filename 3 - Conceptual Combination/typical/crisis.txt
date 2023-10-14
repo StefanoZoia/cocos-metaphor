@@ -1,0 +1,8 @@
+situation: 0.864
+juncture: 0.85
+emergency: 0.841
+drama: 0.79
+psychology: 0.775
+focus: 0.747
+pray: 0.681
+effect_of_making_people_stupid: 0.667

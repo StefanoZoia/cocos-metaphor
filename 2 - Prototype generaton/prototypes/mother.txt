@@ -1,0 +1,8 @@
+-father: 0.904
+parent: 0.883
+-daughter: 0.857
+-dad: 0.836
+abbess: 0.823
+inspiration: 0.817
+care: 0.814
+old_woman: 0.811

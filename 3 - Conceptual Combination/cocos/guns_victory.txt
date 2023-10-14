@@ -1,0 +1,30 @@
+Title: guns-victory
+
+Head Concept Name: guns
+Modifier Concept Name: victory
+
+
+
+
+
+T(modifier), -defeat, 0.882
+T(modifier), success, 0.866
+T(modifier), conquer_opponent, 0.821
+T(modifier), ending, 0.818
+T(modifier), -loss, 0.814
+T(modifier), celebrate, 0.806
+T(modifier), play_soccer, 0.8
+T(modifier), when_one_opponent_defeats_another, 0.783
+
+T(head), firearm_shoots_bullets, 0.838
+T(head), shooting_things, 0.824
+T(head), shoot, 0.814
+T(head), weapon, 0.813
+T(head), shot, 0.807
+T(head), gun_shop, 0.805
+T(head), holster, 0.8
+T(head), shoot_bullets, 0.795
+
+
+Result: {"-defeat": 0.882, "success": 0.866, "conquer_opponent": 0.821, "ending": 0.818, "-loss": 0.814, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "@scenario_probability": 5.701797918635055e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 5.701797918635055e-05]

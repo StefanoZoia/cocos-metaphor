@@ -1,0 +1,8 @@
+extent: 0.857
+abasement: 0.826
+degree: 0.822
+-height: 0.814
+attribute: 0.795
+-bathos: 0.786
+colors: 0.771
+horology: 0.761

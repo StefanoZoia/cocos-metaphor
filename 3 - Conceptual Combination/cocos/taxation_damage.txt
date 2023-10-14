@@ -1,0 +1,25 @@
+Title: taxation-damage
+
+Head Concept Name: taxation
+Modifier Concept Name: damage
+
+
+
+
+
+T(modifier), malfunction, 0.845
+T(modifier), casualty, 0.844
+T(modifier), change, 0.811
+T(modifier), change_of_integrity, 0.804
+T(modifier), military, 0.782
+T(modifier), -repair, 0.777
+T(modifier), slang, 0.731
+T(modifier), comics_character, 0.708
+
+T(head), imposition, 0.862
+T(head), process_results_in_taxes, 0.731
+T(head), activity_of_government, 0.721
+
+
+Result: {"malfunction": 0.845, "casualty": 0.844, "change": 0.811, "change_of_integrity": 0.804, "military": 0.782, "-repair": 0.777, "imposition": 0.862, "process_results_in_taxes": 0.731, "@scenario_probability": 0.3901825187460706}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0.3901825187460706]

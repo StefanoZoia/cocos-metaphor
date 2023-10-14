@@ -1,0 +1,25 @@
+Title: taxation-mountain
+
+Head Concept Name: taxation
+Modifier Concept Name: mountain
+
+
+
+
+
+T(modifier), climbing, 0.91
+T(modifier), mountainous_region, 0.906
+T(modifier), mountainside, 0.873
+T(modifier), rocky_area, 0.862
+T(modifier), very_large, 0.858
+T(modifier), colorado, 0.842
+T(modifier), austria, 0.827
+T(modifier), -hill, 0.825
+
+T(head), imposition, 0.862
+T(head), process_results_in_taxes, 0.731
+T(head), activity_of_government, 0.721
+
+
+Result: {"climbing": 0.91, "mountainous_region": 0.906, "mountainside": 0.873, "rocky_area": 0.862, "very_large": 0.858, "colorado": 0.842, "austria": 0.827, "imposition": 0.862, "@scenario_probability": 0.4196602028476346}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.4196602028476346]

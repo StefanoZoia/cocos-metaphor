@@ -1,0 +1,24 @@
+Title: homelessness-storm
+
+Head Concept Name: homelessness
+Modifier Concept Name: storm
+
+
+
+
+
+T(modifier), rain, 0.914
+T(modifier), raining, 0.902
+T(modifier), tropical_seas, 0.888
+T(modifier), flooding, 0.875
+T(modifier), atmospheric_phenomenon, 0.865
+T(modifier), rain_on_heads, 0.847
+T(modifier), storm_center, 0.845
+T(modifier), tropics, 0.842
+
+T(head), social_and_economic_problem, 0.811
+T(head), condition, 0.79
+
+
+Result: {"rain": 0.914, "raining": 0.902, "tropical_seas": 0.888, "flooding": 0.875, "atmospheric_phenomenon": 0.865, "rain_on_heads": 0.847, "storm_center": 0.845, "social_and_economic_problem": 0.811, "@scenario_probability": 1.0671542903003635}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1.0671542903003635]

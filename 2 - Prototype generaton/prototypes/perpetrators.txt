@@ -1,0 +1,2 @@
+wrongdoer: 0.7785
+state_with_certainty_just_what_happened: 0.7137

@@ -1,0 +1,8 @@
+pauper: 0.859
+beg: 0.857
+impoverish: 0.831
+defy: 0.813
+need_clothes: 0.799
+street: 0.797
+affectionate: 0.749
+-rich: 0.71

@@ -1,0 +1,30 @@
+Title: gun-crisis
+
+Head Concept Name: gun
+Modifier Concept Name: crisis
+
+
+
+
+
+T(modifier), situation, 0.864
+T(modifier), juncture, 0.85
+T(modifier), emergency, 0.841
+T(modifier), drama, 0.79
+T(modifier), psychology, 0.775
+T(modifier), focus, 0.747
+T(modifier), pray, 0.681
+T(modifier), effect_of_making_people_stupid, 0.667
+
+T(head), firearm_shoots_bullets, 0.931
+T(head), shooting_things, 0.915
+T(head), shoot, 0.904
+T(head), weapon, 0.903
+T(head), shot, 0.897
+T(head), gun_shop, 0.894
+T(head), holster, 0.889
+T(head), shoot_bullets, 0.883
+
+
+Result: {"situation": 0.864, "firearm_shoots_bullets": 0.931, "shooting_things": 0.915, "shoot": 0.904, "weapon": 0.903, "shot": 0.897, "gun_shop": 0.894, "holster": 0.889, "@scenario_probability": 0.00015177628442605647}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.00015177628442605647]

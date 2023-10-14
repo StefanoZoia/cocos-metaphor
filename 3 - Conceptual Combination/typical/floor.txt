@@ -1,0 +1,8 @@
+flat: 0.906
+level: 0.883
+-ceiling: 0.874
+walk: 0.864
+room: 0.862
+standing_on: 0.86
+dirty: 0.855
+sticky: 0.855

@@ -1,0 +1,4 @@
+ruin: 0.859
+deterioration: 0.849
+feeling: 0.801
+law: 0.736

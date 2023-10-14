@@ -1,0 +1,5 @@
+endeavor: 0.853
+effort: 0.845
+attempt: 0.844
+present_challenge: 0.793
+building_strength: 0.723

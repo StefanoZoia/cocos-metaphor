@@ -1,0 +1,30 @@
+Title: government-vehicle
+
+Head Concept Name: government
+Modifier Concept Name: vehicle
+
+
+
+
+
+T(modifier), travel, 0.868
+T(modifier), seat_nine, 0.852
+T(modifier), conveyance, 0.845
+T(modifier), receive_damage, 0.839
+T(modifier), driving, 0.837
+T(modifier), freeway, 0.834
+T(modifier), mobility, 0.829
+T(modifier), substance, 0.822
+
+T(head), corrupt, 0.897
+T(head), govern_country, 0.896
+T(head), polity, 0.874
+T(head), country, 0.839
+T(head), force_citizens_to_comply, 0.833
+T(head), rule_people, 0.832
+T(head), -fun, 0.829
+T(head), jealous_of_power, 0.827
+
+
+Result: {"travel": 0.868, "seat_nine": 0.852, "conveyance": 0.845, "receive_damage": 0.839, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "@scenario_probability": 2.1121833140300052e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 2.1121833140300052e-05]

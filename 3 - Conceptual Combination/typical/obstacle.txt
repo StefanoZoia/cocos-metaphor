@@ -1,0 +1,7 @@
+hindrance: 0.918
+obstruction: 0.892
+trip_person: 0.786
+enduring_thing_localized: 0.758
+tangible_thing: 0.754
+hexalateral_object: 0.73
+tactical_area: 0.725

@@ -1,0 +1,8 @@
+fold: 0.822
+idea: 0.812
+difficulty: 0.812
+person: 0.807
+-normophilia: 0.765
+dialect: 0.761
+scotland: 0.758
+mathematics: 0.752

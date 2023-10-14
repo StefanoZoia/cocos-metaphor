@@ -1,0 +1,30 @@
+Title: gun-foes
+
+Head Concept Name: gun
+Modifier Concept Name: foes
+
+
+
+
+
+T(modifier), rival, 0.795
+T(modifier), -ally, 0.754
+T(modifier), -friend, 0.727
+T(modifier), -enemy, 0.727
+T(modifier), -girlfriend, 0.671
+T(modifier), -neighbour, 0.662
+T(modifier), -boyfriend, 0.661
+T(modifier), -cove, 0.6
+
+T(head), firearm_shoots_bullets, 0.931
+T(head), shooting_things, 0.915
+T(head), shoot, 0.904
+T(head), weapon, 0.903
+T(head), shot, 0.897
+T(head), gun_shop, 0.894
+T(head), holster, 0.889
+T(head), shoot_bullets, 0.883
+
+
+Result: {"rival": 0.795, "firearm_shoots_bullets": 0.931, "shooting_things": 0.915, "shoot": 0.904, "weapon": 0.903, "shot": 0.897, "gun_shop": 0.894, "holster": 0.889, "@scenario_probability": 0.001274806760657309}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.001274806760657309]

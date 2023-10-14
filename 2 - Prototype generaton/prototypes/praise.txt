@@ -1,0 +1,8 @@
+provide_comfort: 0.911
+worship: 0.872
+approval: 0.843
+add_to_confidence: 0.838
+-condemnation: 0.818
+fitting_reward: 0.816
+measure: 0.808
+-blame: 0.805

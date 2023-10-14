@@ -1,0 +1,8 @@
+wrongdoer: 0.8
+england: 0.779
+cumbrian: 0.775
+slang: 0.774
+entertainment_or_arts_administrator: 0.75
+african_american_vernacular_english: 0.75
+old_welsh: 0.736
+us: 0.734

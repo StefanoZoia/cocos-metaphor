@@ -1,0 +1,8 @@
+painting_on: 0.913
+painting: 0.908
+paint: 0.89
+paint_picture_on: 0.872
+art_store: 0.87
+covering: 0.861
+art: 0.858
+fabric: 0.857

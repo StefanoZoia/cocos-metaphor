@@ -1,0 +1,6 @@
+truthfulness: 0.906
+trustworthy: 0.867
+honest: 0.844
+honor: 0.844
+truth: 0.844
+trusting: 0.836

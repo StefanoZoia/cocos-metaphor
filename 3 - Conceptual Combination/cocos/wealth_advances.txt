@@ -1,0 +1,30 @@
+Title: wealth-advances
+
+Head Concept Name: wealth
+Modifier Concept Name: advances
+
+
+
+
+
+T(modifier), move, 0.75
+T(modifier), better, 0.74
+T(modifier), travel, 0.738
+T(modifier), sum, 0.732
+T(modifier), increase, 0.73
+T(modifier), lend, 0.728
+T(modifier), set, 0.723
+T(modifier), propose, 0.717
+
+T(head), abundance, 0.871
+T(head), financial_condition, 0.85
+T(head), property, 0.84
+T(head), material_resource, 0.792
+T(head), -poverty, 0.792
+T(head), economics, 0.774
+T(head), conquering_nation, 0.762
+T(head), -debt, 0.714
+
+
+Result: {"move": 0.75, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "economics": 0.774, "conquering_nation": 0.762, "@scenario_probability": 0.0005186785219713586}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.0005186785219713586]

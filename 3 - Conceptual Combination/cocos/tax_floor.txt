@@ -1,0 +1,30 @@
+Title: tax-floor
+
+Head Concept Name: tax
+Modifier Concept Name: floor
+
+
+
+
+
+T(modifier), flat, 0.906
+T(modifier), level, 0.883
+T(modifier), -ceiling, 0.874
+T(modifier), walk, 0.864
+T(modifier), room, 0.862
+T(modifier), standing_on, 0.86
+T(modifier), dirty, 0.855
+T(modifier), sticky, 0.855
+
+T(head), levy, 0.89
+T(head), charge, 0.84
+T(head), -income, 0.807
+T(head), determine, 0.798
+T(head), -subsidy, 0.788
+T(head), -rebate, 0.785
+T(head), -refund, 0.778
+T(head), legalized_theft_by_government, 0.762
+
+
+Result: {"flat": 0.906, "level": 0.883, "-ceiling": 0.874, "walk": 0.864, "room": 0.862, "standing_on": 0.86, "sticky": 0.855, "levy": 0.89, "@scenario_probability": 7.422955047141128e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 7.422955047141128e-05]

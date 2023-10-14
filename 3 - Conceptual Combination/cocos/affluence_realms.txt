@@ -1,0 +1,20 @@
+Title: affluence-realms
+
+Head Concept Name: affluence
+Modifier Concept Name: realms
+
+
+
+
+
+T(modifier), fantasy, 0.722
+T(modifier), legal, 0.696
+T(modifier), rpg, 0.691
+T(modifier), formal, 0.673
+
+T(head), wealth, 0.891
+T(head), -indigence, 0.815
+
+
+Result: {"fantasy": 0.722, "legal": 0.696, "rpg": 0.691, "formal": 0.673, "wealth": 0.891, "@scenario_probability": 3.852023972411737}
+Scenario: [1, 1, 1, 1, 1, 0, 3.852023972411737]

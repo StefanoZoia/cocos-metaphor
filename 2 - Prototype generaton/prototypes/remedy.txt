@@ -1,0 +1,5 @@
+treat: 0.858
+treatment: 0.856
+medicine: 0.856
+solving_problem: 0.809
+legal: 0.771

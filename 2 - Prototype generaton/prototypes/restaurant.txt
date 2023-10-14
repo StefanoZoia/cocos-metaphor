@@ -1,0 +1,8 @@
+eating: 0.882
+hotel: 0.872
+dinner: 0.866
+establishment: 0.863
+eating_out: 0.859
+eat: 0.855
+eat_in: 0.85
+serve_dinner: 0.841

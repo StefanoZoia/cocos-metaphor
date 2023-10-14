@@ -1,0 +1,5 @@
+law: 0.831
+property: 0.814
+beginning: 0.809
+government: 0.798
+-amendment: 0.755

@@ -1,0 +1,29 @@
+Title: wealth-abuse
+
+Head Concept Name: wealth
+Modifier Concept Name: abuse
+
+
+
+
+
+T(modifier), disrespect, 0.853
+T(modifier), use, 0.839
+T(modifier), attack, 0.831
+T(modifier), outside_of, 0.786
+T(modifier), -care, 0.74
+T(modifier), -respect, 0.719
+T(modifier), counter_staff, 0.667
+
+T(head), abundance, 0.871
+T(head), financial_condition, 0.85
+T(head), property, 0.84
+T(head), material_resource, 0.792
+T(head), -poverty, 0.792
+T(head), economics, 0.774
+T(head), conquering_nation, 0.762
+T(head), -debt, 0.714
+
+
+Result: {"disrespect": 0.853, "use": 0.839, "attack": 0.831, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "@scenario_probability": 0.001858094722472435}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.001858094722472435]

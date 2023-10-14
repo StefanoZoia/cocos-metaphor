@@ -1,0 +1,4 @@
+enlarge: 0.7749
+change: 0.7299000000000001
+increase: 0.7227
+-heighten: 0.7173

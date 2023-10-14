@@ -1,0 +1,30 @@
+Title: wealth-engines
+
+Head Concept Name: wealth
+Modifier Concept Name: engines
+
+
+
+
+
+T(modifier), internal_combustion_engines, 0.899
+T(modifier), motors, 0.873
+T(modifier), power_machines, 0.83
+T(modifier), repair_shop, 0.819
+T(modifier), automobiles_move_because, 0.787
+T(modifier), what_makes_car_run, 0.737
+T(modifier), automatic_shut_offs_when_overheat, 0.723
+T(modifier), cars_can_move_because, 0.705
+
+T(head), abundance, 0.871
+T(head), financial_condition, 0.85
+T(head), property, 0.84
+T(head), material_resource, 0.792
+T(head), -poverty, 0.792
+T(head), economics, 0.774
+T(head), conquering_nation, 0.762
+T(head), -debt, 0.714
+
+
+Result: {"internal_combustion_engines": 0.899, "motors": 0.873, "power_machines": 0.83, "repair_shop": 0.819, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "-poverty": 0.792, "@scenario_probability": 0.000384883576194502}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0.000384883576194502]

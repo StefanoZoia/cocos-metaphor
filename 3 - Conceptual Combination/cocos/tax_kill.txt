@@ -1,0 +1,30 @@
+Title: tax-kill
+
+Head Concept Name: tax
+Modifier Concept Name: kill
+
+
+
+
+
+T(modifier), murder, 0.942
+T(modifier), killed_love, 0.9
+T(modifier), killed_wife, 0.9
+T(modifier), shoot, 0.881
+T(modifier), buy_gun, 0.875
+T(modifier), use_knife, 0.874
+T(modifier), destroy, 0.871
+T(modifier), get_weapon, 0.87
+
+T(head), levy, 0.89
+T(head), charge, 0.84
+T(head), -income, 0.807
+T(head), determine, 0.798
+T(head), -subsidy, 0.788
+T(head), -rebate, 0.785
+T(head), -refund, 0.778
+T(head), legalized_theft_by_government, 0.762
+
+
+Result: {"murder": 0.942, "killed_love": 0.9, "killed_wife": 0.9, "shoot": 0.881, "buy_gun": 0.875, "use_knife": 0.874, "destroy": 0.871, "levy": 0.89, "@scenario_probability": 7.782439320102983e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 7.782439320102983e-05]

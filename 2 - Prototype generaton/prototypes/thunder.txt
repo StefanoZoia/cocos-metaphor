@@ -1,0 +1,8 @@
+loud: 0.918
+loud_and_frightening: 0.904
+storm: 0.898
+loud_noise: 0.887
+-lightning: 0.886
+roar: 0.879
+surprise_people: 0.855
+noise: 0.837

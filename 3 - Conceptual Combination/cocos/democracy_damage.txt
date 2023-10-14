@@ -1,0 +1,30 @@
+Title: democracy-damage
+
+Head Concept Name: democracy
+Modifier Concept Name: damage
+
+
+
+
+
+T(modifier), malfunction, 0.845
+T(modifier), casualty, 0.844
+T(modifier), change, 0.811
+T(modifier), change_of_integrity, 0.804
+T(modifier), military, 0.782
+T(modifier), -repair, 0.777
+T(modifier), slang, 0.731
+T(modifier), comics_character, 0.708
+
+T(head), equality_for_everyone, 0.854
+T(head), open_media, 0.853
+T(head), political_orientation, 0.852
+T(head), political_system, 0.843
+T(head), good_thing, 0.84
+T(head), government_of_people, 0.816
+T(head), -dictatorship, 0.809
+T(head), government, 0.793
+
+
+Result: {"malfunction": 0.845, "casualty": 0.844, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "good_thing": 0.84, "government_of_people": 0.816, "@scenario_probability": 0.00014304106928528018}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.00014304106928528018]

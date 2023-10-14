@@ -1,0 +1,25 @@
+Title: career-setback
+
+Head Concept Name: career
+Modifier Concept Name: setback
+
+
+
+
+
+T(modifier), architecture, 0.756
+T(modifier), archaic, 0.747
+T(modifier), us, 0.746
+
+T(head), occupation, 0.866
+T(head), travel, 0.81
+T(head), progress, 0.802
+T(head), falconry, 0.729
+T(head), -term, 0.705
+T(head), -short, 0.696
+T(head), -short_term, 0.696
+T(head), going_to_work, 0.642
+
+
+Result: {"architecture": 0.756, "archaic": 0.747, "us": 0.746, "occupation": 0.866, "travel": 0.81, "progress": 0.802, "falconry": 0.729, "-term": 0.705, "@scenario_probability": 0.40300027559795276}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0.40300027559795276]

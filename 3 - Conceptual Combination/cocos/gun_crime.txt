@@ -1,0 +1,30 @@
+Title: gun-crime
+
+Head Concept Name: gun
+Modifier Concept Name: crime
+
+
+
+
+
+T(modifier), crime, 0.946
+T(modifier), criminal_law, 0.865
+T(modifier), increasing, 0.848
+T(modifier), hate_crime, 0.843
+T(modifier), transgression, 0.841
+T(modifier), result_in_punishment, 0.836
+T(modifier), -good, 0.828
+T(modifier), activity, 0.806
+
+T(head), firearm_shoots_bullets, 0.931
+T(head), shooting_things, 0.915
+T(head), shoot, 0.904
+T(head), weapon, 0.903
+T(head), shot, 0.897
+T(head), gun_shop, 0.894
+T(head), holster, 0.889
+T(head), shoot_bullets, 0.883
+
+
+Result: {"crime": 0.946, "firearm_shoots_bullets": 0.931, "shooting_things": 0.915, "shoot": 0.904, "weapon": 0.903, "shot": 0.897, "gun_shop": 0.894, "holster": 0.889, "@scenario_probability": 1.5380973887395843e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1.5380973887395843e-05]

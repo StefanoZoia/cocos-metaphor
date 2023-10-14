@@ -1,0 +1,8 @@
+politicians: 0.7415999999999999
+change: 0.7415999999999999
+modify: 0.7398
+politician: 0.7227
+government: 0.7092
+most_governments: 0.6777
+-christian: 0.6669
+most: 0.6354

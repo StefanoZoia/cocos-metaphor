@@ -1,0 +1,5 @@
+tower: 0.841
+shine: 0.839
+visual_signal: 0.809
+nautical: 0.787
+lead: 0.783

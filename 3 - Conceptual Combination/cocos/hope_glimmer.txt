@@ -1,0 +1,24 @@
+Title: hope-glimmer
+
+Head Concept Name: hope
+Modifier Concept Name: glimmer
+
+
+
+
+
+T(modifier), archaic, 0.712
+T(modifier), slang, 0.684
+
+T(head), will, 0.869
+T(head), anticipation, 0.858
+T(head), desire, 0.853
+T(head), feeling, 0.826
+T(head), clean, 0.821
+T(head), plan, 0.82
+T(head), bring_fortune, 0.815
+T(head), advance_few_dollars, 0.812
+
+
+Result: {"archaic": 0.712, "will": 0.869, "anticipation": 0.858, "desire": 0.853, "feeling": 0.826, "clean": 0.821, "plan": 0.82, "bring_fortune": 0.815, "@scenario_probability": 1.2192020565030788}
+Scenario: [1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1.2192020565030788]

@@ -1,0 +1,8 @@
+-win: 0.874
+compete: 0.857
+-gain: 0.851
+suffer: 0.845
+seclude: 0.801
+-get: 0.785
+-find: 0.784
+-defeat: 0.769

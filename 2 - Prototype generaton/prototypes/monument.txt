@@ -1,0 +1,8 @@
+statue: 0.928
+memorial: 0.917
+remembering: 0.881
+commemorating: 0.875
+cemetary: 0.852
+honoring_person: 0.847
+honoring_event: 0.847
+honoring_important_person_or_event: 0.847

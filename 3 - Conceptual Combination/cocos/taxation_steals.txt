@@ -1,0 +1,25 @@
+Title: taxation-steals
+
+Head Concept Name: taxation
+Modifier Concept Name: steals
+
+
+
+
+
+T(modifier), baseball, 0.792
+T(modifier), have_no_money, 0.755
+T(modifier), gain, 0.742
+T(modifier), take, 0.737
+T(modifier), move, 0.729
+T(modifier), want_money, 0.724
+T(modifier), midgets, 0.711
+T(modifier), get, 0.701
+
+T(head), imposition, 0.862
+T(head), process_results_in_taxes, 0.731
+T(head), activity_of_government, 0.721
+
+
+Result: {"baseball": 0.792, "have_no_money": 0.755, "gain": 0.742, "take": 0.737, "move": 0.729, "want_money": 0.724, "imposition": 0.862, "process_results_in_taxes": 0.731, "@scenario_probability": 0.2621847926809794}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0.2621847926809794]

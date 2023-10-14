@@ -1,0 +1,8 @@
+failure: 0.859
+fall: 0.8513999999999999
+lose_balance: 0.792
+trip: 0.7884
+slip: 0.7848
+regain_balance: 0.7821
+autumn: 0.7731
+clumsy: 0.7695

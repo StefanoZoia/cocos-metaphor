@@ -1,0 +1,4 @@
+story: 0.89
+video_game: 0.771
+archaic: 0.746
+lion: 0.707

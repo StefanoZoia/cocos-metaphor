@@ -1,0 +1,30 @@
+Title: democracy-thunder
+
+Head Concept Name: democracy
+Modifier Concept Name: thunder
+
+
+
+
+
+T(modifier), loud, 0.918
+T(modifier), loud_and_frightening, 0.904
+T(modifier), storm, 0.898
+T(modifier), loud_noise, 0.887
+T(modifier), -lightning, 0.886
+T(modifier), roar, 0.879
+T(modifier), surprise_people, 0.855
+T(modifier), noise, 0.837
+
+T(head), equality_for_everyone, 0.854
+T(head), open_media, 0.853
+T(head), political_orientation, 0.852
+T(head), political_system, 0.843
+T(head), good_thing, 0.84
+T(head), government_of_people, 0.816
+T(head), -dictatorship, 0.809
+T(head), government, 0.793
+
+
+Result: {"loud": 0.918, "loud_and_frightening": 0.904, "storm": 0.898, "loud_noise": 0.887, "-lightning": 0.886, "roar": 0.879, "surprise_people": 0.855, "equality_for_everyone": 0.854, "@scenario_probability": 2.435933768226595e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2.435933768226595e-05]

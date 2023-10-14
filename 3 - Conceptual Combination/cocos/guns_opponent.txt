@@ -1,0 +1,30 @@
+Title: guns-opponent
+
+Head Concept Name: guns
+Modifier Concept Name: opponent
+
+
+
+
+
+T(modifier), deal_blow, 0.847
+T(modifier), -proponent, 0.805
+T(modifier), cook_goose, 0.801
+T(modifier), -supporter, 0.801
+T(modifier), dig_up_skeletons, 0.8
+T(modifier), competing, 0.791
+T(modifier), -respondent, 0.766
+T(modifier), -ally, 0.759
+
+T(head), firearm_shoots_bullets, 0.838
+T(head), shooting_things, 0.824
+T(head), shoot, 0.814
+T(head), weapon, 0.813
+T(head), shot, 0.807
+T(head), gun_shop, 0.805
+T(head), holster, 0.8
+T(head), shoot_bullets, 0.795
+
+
+Result: {"deal_blow": 0.847, "-proponent": 0.805, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "shot": 0.807, "gun_shop": 0.805, "@scenario_probability": 7.747009310288448e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 7.747009310288448e-05]
