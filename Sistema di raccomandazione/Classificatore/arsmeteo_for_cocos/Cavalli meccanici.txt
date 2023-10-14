@@ -1,2 +1,0 @@
-piazza:               0.9
-scultura:             0.9

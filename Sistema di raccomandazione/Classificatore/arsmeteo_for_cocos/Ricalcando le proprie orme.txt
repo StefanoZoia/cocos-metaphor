@@ -1,3 +1,0 @@
-la_sventura_di_sisifo:0.9
-orma:                 0.9
-destino:              0.9

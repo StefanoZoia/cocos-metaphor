@@ -1,2 +1,0 @@
-pensiero_selvaggio:   0.9
-mitologema:           0.9

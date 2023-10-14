@@ -1,2 +1,0 @@
-anticipation:         0.9
-sadness:              0.9

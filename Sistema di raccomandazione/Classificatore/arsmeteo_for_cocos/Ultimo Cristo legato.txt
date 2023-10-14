@@ -1,3 +1,0 @@
-occhio:               0.9
-cristo:               0.9
-legare:               0.9

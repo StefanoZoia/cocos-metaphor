@@ -1,6 +1,0 @@
-carrozzina:           0.9
-mondo:                0.9
-tecnologia:           0.9
-sollevare:            0.9
-computer:             0.9
-aiuto_tecnologico:    0.9

@@ -1,5 +1,0 @@
-wharol:               0.9
-donna:                0.9
-occhiale:             0.9
-pop:                  0.9
-neopop:               0.9

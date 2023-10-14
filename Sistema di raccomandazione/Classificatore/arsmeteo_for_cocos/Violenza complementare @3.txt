@@ -1,2 +1,0 @@
-nero_verde:           0.9
-decostruzionismo:     0.9

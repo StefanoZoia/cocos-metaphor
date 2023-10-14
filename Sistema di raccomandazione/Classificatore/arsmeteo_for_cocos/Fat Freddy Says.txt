@@ -1,3 +1,0 @@
-need_spills:          0.9
-pill_skeeds:          0.9
-skill_peeds:          0.9

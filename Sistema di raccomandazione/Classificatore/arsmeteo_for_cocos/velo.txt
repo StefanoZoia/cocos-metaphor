@@ -1,5 +1,0 @@
-velo:                 0.9
-pore:                 0.9
-riservatezza:         0.9
-eleganza:             0.9
-multietnicità:        0.9

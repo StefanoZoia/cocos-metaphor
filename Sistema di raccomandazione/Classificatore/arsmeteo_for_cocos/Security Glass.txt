@@ -1,4 +1,0 @@
-informale:            0.9
-espressionismo:       0.9
-neocontettualismo:    0.9
-astratto:             0.9

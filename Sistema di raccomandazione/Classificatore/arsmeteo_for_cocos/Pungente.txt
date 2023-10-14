@@ -1,1 +1,0 @@
-pungente:             0.9

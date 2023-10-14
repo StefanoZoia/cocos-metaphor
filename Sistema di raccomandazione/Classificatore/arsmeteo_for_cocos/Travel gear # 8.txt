@@ -1,3 +1,0 @@
-strumento:            0.9
-acessori:             0.9
-complemento:          0.9

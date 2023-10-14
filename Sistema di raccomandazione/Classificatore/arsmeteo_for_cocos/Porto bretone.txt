@@ -1,5 +1,0 @@
-porto:                0.9
-bretone:              0.9
-villaggio:            0.9
-cielo:                0.9
-nuvola:               0.9

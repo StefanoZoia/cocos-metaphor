@@ -1,3 +1,0 @@
-polarizzazione:       0.9
-cella:                0.9
-prospettiva:          0.9

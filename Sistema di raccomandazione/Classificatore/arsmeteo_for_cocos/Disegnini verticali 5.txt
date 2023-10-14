@@ -1,3 +1,0 @@
-disegnino:            0.9
-dipinto:              0.9
-totem:                0.9

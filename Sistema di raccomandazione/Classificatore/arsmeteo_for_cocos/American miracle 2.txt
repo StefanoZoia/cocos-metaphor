@@ -1,3 +1,0 @@
-on_the_rocks:         0.9
-new_york:             0.9
-on_the_road:          0.9

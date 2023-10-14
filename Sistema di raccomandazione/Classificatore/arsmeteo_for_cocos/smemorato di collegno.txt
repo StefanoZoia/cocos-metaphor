@@ -1,2 +1,0 @@
-smemorato:            0.9
-collegno:             0.9

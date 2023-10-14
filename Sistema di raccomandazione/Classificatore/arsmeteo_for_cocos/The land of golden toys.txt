@@ -1,5 +1,0 @@
-gioco:                0.9
-sogno:                0.9
-spensieratezza:       0.9
-potenza:              0.9
-inconsistenza:        0.9

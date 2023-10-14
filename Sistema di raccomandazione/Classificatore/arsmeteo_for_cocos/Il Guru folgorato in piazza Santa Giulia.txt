@@ -1,3 +1,0 @@
-folgorazione:         0.9
-illuminazione:        0.9
-terzo_occhio:         0.9

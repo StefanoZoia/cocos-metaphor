@@ -1,4 +1,0 @@
-decostruzione:        0.9
-ricostruzione:        0.9
-timbro:               0.9
-studio:               0.9

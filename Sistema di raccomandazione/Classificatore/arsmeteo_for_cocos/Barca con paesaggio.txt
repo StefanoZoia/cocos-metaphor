@@ -1,1 +1,0 @@
-concentrico:          0.9

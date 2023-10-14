@@ -1,3 +1,0 @@
-barbona|barbone:      0.9
-studio:               0.9
-lines:                0.9

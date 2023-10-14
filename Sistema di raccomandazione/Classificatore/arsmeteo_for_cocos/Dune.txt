@@ -1,2 +1,0 @@
-figura_sdraiata:      0.9
-bronzo:               0.9

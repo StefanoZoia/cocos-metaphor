@@ -1,2 +1,0 @@
-interrogativo:        0.9
-figura:               0.9

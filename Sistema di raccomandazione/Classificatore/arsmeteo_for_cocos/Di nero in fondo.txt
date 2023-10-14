@@ -1,3 +1,0 @@
-tela:                 0.9
-nero:                 0.9
-parola:               0.9

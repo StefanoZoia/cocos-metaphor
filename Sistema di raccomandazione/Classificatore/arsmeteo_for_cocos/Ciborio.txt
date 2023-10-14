@@ -1,3 +1,0 @@
-impulso:              0.9
-contenitore:          0.9
-contemuto:            0.9

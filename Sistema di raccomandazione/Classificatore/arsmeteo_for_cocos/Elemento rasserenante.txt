@@ -1,2 +1,0 @@
-estasi:               0.9
-transe_estatica:      0.9

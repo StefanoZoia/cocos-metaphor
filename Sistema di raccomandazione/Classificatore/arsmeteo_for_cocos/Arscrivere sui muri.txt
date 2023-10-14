@@ -1,4 +1,0 @@
-graffito:             0.9
-ti_amo:               0.9
-tag:                  0.9
-graffi_tag:           0.9

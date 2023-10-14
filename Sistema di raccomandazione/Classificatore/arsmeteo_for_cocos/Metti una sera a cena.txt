@@ -1,4 +1,0 @@
-avventore:            0.9
-specchio:             0.9
-bicchiere:            0.9
-cellulare:            0.9

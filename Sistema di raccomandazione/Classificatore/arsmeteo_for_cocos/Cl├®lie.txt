@@ -1,4 +1,0 @@
-ritratto:             0.9
-blu:                  0.9
-donna:                0.9
-sguardo_intenso:      0.9

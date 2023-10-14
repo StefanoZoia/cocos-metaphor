@@ -1,3 +1,0 @@
-netville:             0.9
-tango:                0.9
-sogno:                0.9

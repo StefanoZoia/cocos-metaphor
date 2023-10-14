@@ -1,2 +1,0 @@
-silenzio:             0.9
-vista:                0.9

@@ -1,2 +1,0 @@
-assemblaggio:         0.9
-pietra:               0.9

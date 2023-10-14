@@ -1,3 +1,0 @@
-architettura:         0.9
-rosso:                0.9
-contrasto:            0.9

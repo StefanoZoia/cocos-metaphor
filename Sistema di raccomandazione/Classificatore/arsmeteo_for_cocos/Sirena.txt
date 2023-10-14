@@ -1,4 +1,0 @@
-sirena:               0.9
-seduzione:            0.9
-fondo_marino:         0.9
-adescatore:           0.9

@@ -1,2 +1,0 @@
-legamento:            0.9
-intreccio:            0.9

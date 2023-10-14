@@ -1,2 +1,0 @@
-studio:               0.9
-macinacaffè:          0.9

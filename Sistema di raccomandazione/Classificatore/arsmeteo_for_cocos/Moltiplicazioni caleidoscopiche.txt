@@ -1,2 +1,0 @@
-calediscopio:         0.9
-sorriso:              0.9

@@ -1,3 +1,0 @@
-infinito:             0.9
-friedrich:            0.9
-omaggio:              0.9

@@ -1,2 +1,0 @@
-notte:                0.9
-altri_pianrti:        0.9

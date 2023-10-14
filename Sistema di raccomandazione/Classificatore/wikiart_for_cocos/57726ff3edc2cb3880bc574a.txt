@@ -1,2 +1,0 @@
-disagreeableness:     0.9
-trust:                0.9

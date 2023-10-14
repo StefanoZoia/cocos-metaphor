@@ -1,4 +1,0 @@
-maschio:              0.9
-femmina:              0.9
-cammino:              0.9
-comunione:            0.9

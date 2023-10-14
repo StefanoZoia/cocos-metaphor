@@ -1,3 +1,0 @@
-bicchiere:            0.9
-sedia:                0.9
-ragazza:              0.9

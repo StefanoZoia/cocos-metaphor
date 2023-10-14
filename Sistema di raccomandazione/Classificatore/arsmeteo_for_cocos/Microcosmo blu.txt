@@ -1,2 +1,0 @@
-zampette:             0.9
-repetita_juvant:      0.9

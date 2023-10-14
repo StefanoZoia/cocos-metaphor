@@ -1,4 +1,0 @@
-visione:              0.9
-buio:                 0.9
-esoterico:            0.9
-ricerca_interiore:    0.9

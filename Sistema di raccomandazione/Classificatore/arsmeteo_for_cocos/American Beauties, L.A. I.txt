@@ -1,3 +1,0 @@
-moda:                 0.9
-glamour:              0.9
-ammiccamento:         0.9

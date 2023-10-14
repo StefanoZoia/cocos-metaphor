@@ -1,2 +1,0 @@
-corrado:              0.9
-alderucci:            0.9

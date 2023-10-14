@@ -1,2 +1,0 @@
-bambina:              0.9
-ritratto:             0.9

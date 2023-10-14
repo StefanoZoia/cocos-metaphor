@@ -1,2 +1,0 @@
-strato:               0.9
-strappo:              0.9

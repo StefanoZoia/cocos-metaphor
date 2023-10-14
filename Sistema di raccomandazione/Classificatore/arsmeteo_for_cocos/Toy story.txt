@@ -1,2 +1,0 @@
-giocattolo:           0.9
-mucchio:              0.9

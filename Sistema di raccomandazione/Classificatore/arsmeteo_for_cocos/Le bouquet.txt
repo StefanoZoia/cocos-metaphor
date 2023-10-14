@@ -1,2 +1,0 @@
-donna:                0.9
-rose_gialle:          0.9

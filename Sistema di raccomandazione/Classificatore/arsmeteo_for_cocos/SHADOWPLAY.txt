@@ -1,5 +1,0 @@
-shadow:               0.9
-play:                 0.9
-circuito:             0.9
-sensore:              0.9
-cortocircuito:        0.9

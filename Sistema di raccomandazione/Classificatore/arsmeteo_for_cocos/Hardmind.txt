@@ -1,2 +1,0 @@
-pensiero:             0.9
-chiodo_fisso:         0.9

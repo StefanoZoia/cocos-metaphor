@@ -1,3 +1,0 @@
-fru_fru:              0.9
-vetrina:              0.9
-periferia:            0.9

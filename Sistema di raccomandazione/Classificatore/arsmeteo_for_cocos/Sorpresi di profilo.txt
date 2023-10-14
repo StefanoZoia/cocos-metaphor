@@ -1,2 +1,0 @@
-natura:               0.9
-amicizia:             0.9

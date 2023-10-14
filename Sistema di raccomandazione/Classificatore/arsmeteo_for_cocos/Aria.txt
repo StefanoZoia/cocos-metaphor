@@ -1,3 +1,0 @@
-sensazione:           0.9
-evanescenza:          0.9
-leggerezza:           0.9

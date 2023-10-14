@@ -1,3 +1,0 @@
-arrogance:            0.9
-trust:                0.9
-fear:                 0.9

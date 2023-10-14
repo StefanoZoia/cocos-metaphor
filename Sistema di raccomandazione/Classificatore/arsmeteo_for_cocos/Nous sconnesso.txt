@@ -1,3 +1,0 @@
-nous:                 0.9
-frattura:             0.9
-dissociazione:        0.9

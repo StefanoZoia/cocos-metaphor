@@ -1,3 +1,0 @@
-sabbia:               0.9
-colore:               0.9
-impermanenza:         0.9

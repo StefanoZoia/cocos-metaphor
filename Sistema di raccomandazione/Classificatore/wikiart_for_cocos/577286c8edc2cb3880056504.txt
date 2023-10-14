@@ -1,2 +1,0 @@
-humility:             0.9
-optimism:             0.9

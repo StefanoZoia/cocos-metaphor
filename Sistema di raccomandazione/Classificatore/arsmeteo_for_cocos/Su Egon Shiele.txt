@@ -1,3 +1,0 @@
-sovrapposizione:      0.9
-egon_shiele:          0.9
-scrittura:            0.9

@@ -1,2 +1,0 @@
-dante:                0.9
-clone:                0.9

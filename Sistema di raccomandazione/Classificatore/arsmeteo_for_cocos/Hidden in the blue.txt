@@ -1,3 +1,0 @@
-nel_blu:              0.9
-sguardo:              0.9
-angolo_nascosto:      0.9

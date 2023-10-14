@@ -1,3 +1,0 @@
-arco:                 0.9
-riflesso:             0.9
-geometria:            0.9

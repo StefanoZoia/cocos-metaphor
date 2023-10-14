@@ -1,4 +1,0 @@
-scultura:             0.9
-trash:                0.9
-art:                  0.9
-schiuma:              0.9

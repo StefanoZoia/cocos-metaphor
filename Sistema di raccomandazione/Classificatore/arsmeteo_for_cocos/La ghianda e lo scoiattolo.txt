@@ -1,2 +1,0 @@
-tentazione:           0.9
-rincorsa:             0.9

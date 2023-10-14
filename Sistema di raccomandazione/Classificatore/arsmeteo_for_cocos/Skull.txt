@@ -1,4 +1,0 @@
-teschio:              0.9
-legno:                0.9
-bianco_e_nero:        0.9
-riemergere:           0.9

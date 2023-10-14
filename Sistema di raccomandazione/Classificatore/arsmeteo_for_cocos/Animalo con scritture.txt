@@ -1,3 +1,0 @@
-animale:              0.9
-scrittura:            0.9
-segno:                0.9

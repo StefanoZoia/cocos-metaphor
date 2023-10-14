@@ -1,6 +1,0 @@
-fascino:              0.9
-seduzione:            0.9
-moda:                 0.9
-glamour:              0.9
-sguardo:              0.9
-eleganza:             0.9

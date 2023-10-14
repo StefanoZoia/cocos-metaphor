@@ -1,1 +1,0 @@
-siluette_in_rosso:    0.9

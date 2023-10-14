@@ -1,3 +1,0 @@
-pietra:               0.9
-luce:                 0.9
-speranza:             0.9

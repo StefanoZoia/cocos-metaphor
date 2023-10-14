@@ -1,3 +1,0 @@
-riflesso:             0.9
-sovrapposizione:      0.9
-self_portrait:        0.9

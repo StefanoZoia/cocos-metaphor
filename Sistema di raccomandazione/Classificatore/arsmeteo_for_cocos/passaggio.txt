@@ -1,4 +1,0 @@
-francoforte:          0.9
-scendere:             0.9
-dietro_angolo:        0.9
-netville:             0.9

@@ -1,3 +1,0 @@
-anello:               0.9
-lucidità:             0.9
-astrazione:           0.9

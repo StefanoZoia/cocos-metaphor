@@ -1,3 +1,0 @@
-materiale:            0.9
-illusioni_ottiche:    0.9
-grafo:                0.9

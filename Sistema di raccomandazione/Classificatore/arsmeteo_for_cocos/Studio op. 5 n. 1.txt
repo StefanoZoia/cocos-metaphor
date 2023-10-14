@@ -1,2 +1,0 @@
-falso_materiale:      0.9
-studio:               0.9

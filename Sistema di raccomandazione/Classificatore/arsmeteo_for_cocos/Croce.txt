@@ -1,4 +1,0 @@
-croce:                0.9
-legno:                0.9
-tagliata:             0.9
-simbolo:              0.9

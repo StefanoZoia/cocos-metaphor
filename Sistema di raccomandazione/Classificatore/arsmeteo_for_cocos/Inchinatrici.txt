@@ -1,3 +1,0 @@
-seoul:                0.9
-ringraziamento:       0.9
-grande_magazzino:     0.9

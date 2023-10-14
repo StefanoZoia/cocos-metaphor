@@ -1,3 +1,0 @@
-lost:                 0.9
-space:                0.9
-rifiuto:              0.9

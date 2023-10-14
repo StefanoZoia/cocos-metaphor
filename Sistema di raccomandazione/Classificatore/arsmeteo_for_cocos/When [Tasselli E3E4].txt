@@ -1,3 +1,0 @@
-linea:                0.9
-giallo:               0.9
-urlo:                 0.9

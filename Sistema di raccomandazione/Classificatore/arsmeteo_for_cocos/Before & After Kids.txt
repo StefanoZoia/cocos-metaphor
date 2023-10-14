@@ -1,3 +1,0 @@
-striscia:             0.9
-frigo:                0.9
-mattino:              0.9

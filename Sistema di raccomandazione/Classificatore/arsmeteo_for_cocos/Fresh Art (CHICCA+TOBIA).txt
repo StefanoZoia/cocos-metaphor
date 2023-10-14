@@ -1,3 +1,0 @@
-freshart:             0.9
-chicca:               0.9
-tobia:                0.9

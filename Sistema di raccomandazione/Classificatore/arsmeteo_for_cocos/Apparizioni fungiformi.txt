@@ -1,5 +1,0 @@
-fungo:                0.9
-apparizione:          0.9
-sorpresa:             0.9
-allucinazione:        0.9
-virtuale:             0.9

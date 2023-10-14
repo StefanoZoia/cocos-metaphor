@@ -1,3 +1,0 @@
-dripping:             0.9
-destrutturazione:     0.9
-audio:                0.9

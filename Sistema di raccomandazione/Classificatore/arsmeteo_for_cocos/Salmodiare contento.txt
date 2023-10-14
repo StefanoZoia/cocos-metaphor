@@ -1,2 +1,0 @@
-vetrina:              0.9
-botanico:             0.9

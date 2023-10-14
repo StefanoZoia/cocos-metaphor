@@ -1,4 +1,0 @@
-notte_bianca:         0.9
-arte:                 0.9
-_condivisa:           0.9
-collage:              0.9

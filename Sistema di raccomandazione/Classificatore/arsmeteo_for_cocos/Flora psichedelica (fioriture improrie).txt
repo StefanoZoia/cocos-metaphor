@@ -1,3 +1,0 @@
-lora_psichedelica:    0.9
-fioritura:            0.9
-improrie:             0.9

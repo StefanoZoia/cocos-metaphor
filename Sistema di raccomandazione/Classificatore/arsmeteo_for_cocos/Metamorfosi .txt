@@ -1,4 +1,0 @@
-filo:                 0.9
-libro-d-artista:      0.9
-uccello:              0.9
-albero:               0.9

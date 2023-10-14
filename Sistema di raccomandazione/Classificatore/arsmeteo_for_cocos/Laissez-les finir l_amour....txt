@@ -1,3 +1,0 @@
-giornale:             0.9
-poesia:               0.9
-paris:                0.9

@@ -1,3 +1,0 @@
-danza:                0.9
-lezione:              0.9
-volo:                 0.9

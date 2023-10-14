@@ -1,3 +1,0 @@
-arazzo:               0.9
-scomposizione:        0.9
-décadance:            0.9

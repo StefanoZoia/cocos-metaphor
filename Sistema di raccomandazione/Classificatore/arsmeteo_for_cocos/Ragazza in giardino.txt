@@ -1,2 +1,0 @@
-giardino:             0.9
-ragazza:              0.9

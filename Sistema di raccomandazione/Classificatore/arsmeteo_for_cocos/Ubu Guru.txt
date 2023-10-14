@@ -1,3 +1,0 @@
-ciclista:             0.9
-portamento:           0.9
-slancio:              0.9

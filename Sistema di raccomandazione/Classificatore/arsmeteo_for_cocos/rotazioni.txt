@@ -1,3 +1,0 @@
-scudo:                0.9
-maniscalco:           0.9
-girando_girando:      0.9

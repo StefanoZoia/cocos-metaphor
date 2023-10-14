@@ -1,5 +1,0 @@
-lavoro:               0.9
-joint:                0.9
-condividere:          0.9
-works:                0.9
-chen:                 0.9

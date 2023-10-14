@@ -1,3 +1,0 @@
-arco:                 0.9
-luce:                 0.9
-sapienza:             0.9

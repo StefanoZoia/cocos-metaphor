@@ -1,3 +1,0 @@
-mollezza:             0.9
-mandare:              0.9
-centralità:           0.9

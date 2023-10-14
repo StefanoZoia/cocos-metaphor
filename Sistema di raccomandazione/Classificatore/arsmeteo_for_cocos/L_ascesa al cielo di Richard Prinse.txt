@@ -1,3 +1,0 @@
-nurse:                0.9
-angolo:               0.9
-osservatore:          0.9

@@ -1,4 +1,0 @@
-burro:                0.9
-ritratto:             0.9
-intenso:              0.9
-occhiale:             0.9

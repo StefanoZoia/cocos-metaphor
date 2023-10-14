@@ -1,3 +1,0 @@
-naso:                 0.9
-olfatto:              0.9
-olio31:               0.9

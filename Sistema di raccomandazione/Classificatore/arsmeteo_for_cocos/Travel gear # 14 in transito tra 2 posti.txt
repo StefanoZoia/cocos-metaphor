@@ -1,5 +1,0 @@
-chiave:               0.9
-custodia:             0.9
-dvx:                  0.9
-lettore:              0.9
-giornale:             0.9

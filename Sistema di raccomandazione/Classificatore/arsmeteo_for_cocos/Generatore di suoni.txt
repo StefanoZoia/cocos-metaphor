@@ -1,4 +1,0 @@
-piero:                0.9
-ponte_mosca:          0.9
-fogliare:             0.9
-antologico:           0.9

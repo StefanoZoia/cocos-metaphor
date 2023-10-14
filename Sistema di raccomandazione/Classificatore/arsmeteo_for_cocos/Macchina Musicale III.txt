@@ -1,3 +1,0 @@
-assemblaggio:         0.9
-sasso:                0.9
-bilanciere:           0.9

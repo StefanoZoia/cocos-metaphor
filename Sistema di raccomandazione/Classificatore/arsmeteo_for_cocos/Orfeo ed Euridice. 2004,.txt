@@ -1,2 +1,0 @@
-luce:                 0.9
-innamorato:           0.9

@@ -1,4 +1,0 @@
-sogno:                0.9
-sorriso:              0.9
-che_bello:            0.9
-camilla_la_pazza:     0.9

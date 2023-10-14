@@ -1,3 +1,0 @@
-colore_rosso:         0.9
-frattale:             0.9
-fuochi_artificiali:   0.9

@@ -1,2 +1,0 @@
-antenna:              0.9
-intergalattica:       0.9

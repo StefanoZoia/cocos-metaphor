@@ -1,2 +1,0 @@
-stellato:             0.9
-ipnagogia:            0.9

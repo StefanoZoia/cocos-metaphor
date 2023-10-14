@@ -1,3 +1,0 @@
-zio:                  0.9
-pierino:              0.9
-australia:            0.9

@@ -1,3 +1,0 @@
-finestra:             0.9
-interno:              0.6
-aperto_chiuso:        0.6

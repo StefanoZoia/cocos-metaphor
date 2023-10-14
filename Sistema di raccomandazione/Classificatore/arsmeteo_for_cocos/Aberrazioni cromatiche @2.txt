@@ -1,2 +1,0 @@
-oro_antico:           0.9
-geometrie_analitiche: 0.9

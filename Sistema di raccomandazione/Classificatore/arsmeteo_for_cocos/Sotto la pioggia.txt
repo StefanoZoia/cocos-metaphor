@@ -1,3 +1,0 @@
-uomo:                 0.9
-cane:                 0.9
-pioggia:              0.9

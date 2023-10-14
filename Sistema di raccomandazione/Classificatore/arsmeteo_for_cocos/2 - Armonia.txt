@@ -1,2 +1,0 @@
-armonia:              0.9
-arancio:              0.9

@@ -1,4 +1,0 @@
-vetrina:              0.9
-dettaglio:            0.9
-muscolo:              0.9
-tatuaggio:            0.9

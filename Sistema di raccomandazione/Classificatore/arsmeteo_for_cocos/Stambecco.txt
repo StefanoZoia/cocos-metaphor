@@ -1,4 +1,0 @@
-stambecco:            0.9
-montagna:             0.9
-animale:              0.9
-sul_cucuzzolo:        0.9

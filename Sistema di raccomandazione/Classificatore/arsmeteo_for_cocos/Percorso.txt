@@ -1,3 +1,0 @@
-percorso:             0.9
-acqua:                0.9
-disgelo:              0.9

@@ -1,4 +1,0 @@
-case_assolate:        0.9
-casa:                 0.9
-villaggio:            0.9
-geometria:            0.9

@@ -1,3 +1,0 @@
-automobile:           0.9
-corsa:                0.9
-targa_florio:         0.9

@@ -1,3 +1,0 @@
-sguardo:              0.9
-marylin:              0.9
-manifesto:            0.9

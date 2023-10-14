@@ -1,2 +1,0 @@
-matrimonio:           0.9
-regale:               0.9

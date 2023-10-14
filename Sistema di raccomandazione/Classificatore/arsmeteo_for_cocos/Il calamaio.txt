@@ -1,3 +1,0 @@
-calamaio:             0.9
-penna:                0.9
-inchiostro:           0.9

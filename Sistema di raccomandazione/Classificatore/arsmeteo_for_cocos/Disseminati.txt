@@ -1,2 +1,0 @@
-disegno:              0.9
-accumulo:             0.9

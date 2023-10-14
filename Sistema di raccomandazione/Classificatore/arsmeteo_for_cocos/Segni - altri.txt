@@ -1,3 +1,0 @@
-matita:               0.9
-punta:                0.9
-breccie:              0.9

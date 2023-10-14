@@ -1,3 +1,0 @@
-mostro:               0.9
-globalizzazione:      0.9
-dominio:              0.9

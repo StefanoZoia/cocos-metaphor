@@ -1,1 +1,0 @@
-alfabeto:             0.9

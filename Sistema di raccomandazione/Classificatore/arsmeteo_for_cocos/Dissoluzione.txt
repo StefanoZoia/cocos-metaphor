@@ -1,4 +1,0 @@
-ruggine:              0.9
-fulvia:               0.9
-cortile:              0.9
-aleph:                0.9

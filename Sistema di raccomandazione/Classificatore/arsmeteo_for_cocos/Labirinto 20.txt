@@ -1,3 +1,0 @@
-selva:                0.9
-labirinto:            0.9
-sipario_inestricabile:0.9

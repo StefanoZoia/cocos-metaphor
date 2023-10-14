@@ -1,3 +1,0 @@
-arsmeteo:             0.9
-revolution:           0.9
-golpe:                0.9

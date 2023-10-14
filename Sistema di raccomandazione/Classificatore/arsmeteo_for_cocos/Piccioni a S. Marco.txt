@@ -1,1 +1,0 @@
-piccione:             0.9

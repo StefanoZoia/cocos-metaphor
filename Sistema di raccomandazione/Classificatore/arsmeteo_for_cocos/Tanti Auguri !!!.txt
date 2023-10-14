@@ -1,5 +1,0 @@
-augurio:              0.9
-mondo:                0.9
-boom:                 0.9
-famiglia:             0.9
-felice:               0.9

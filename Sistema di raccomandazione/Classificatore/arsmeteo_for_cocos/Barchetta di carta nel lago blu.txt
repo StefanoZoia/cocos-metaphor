@@ -1,3 +1,0 @@
-barchetta_di_carta:   0.9
-lago:                 0.9
-blu:                  0.9

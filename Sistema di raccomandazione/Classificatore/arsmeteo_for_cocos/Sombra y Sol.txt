@@ -1,2 +1,0 @@
-behemot:              0.9
-insinuante:           0.9

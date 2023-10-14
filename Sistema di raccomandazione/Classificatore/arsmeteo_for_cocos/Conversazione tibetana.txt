@@ -1,4 +1,0 @@
-tibet:                0.9
-convegno:             0.9
-silenzio:             0.9
-lago:                 0.9

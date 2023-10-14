@@ -1,3 +1,0 @@
-coppia:               0.9
-serpente:             0.9
-tentazione:           0.9

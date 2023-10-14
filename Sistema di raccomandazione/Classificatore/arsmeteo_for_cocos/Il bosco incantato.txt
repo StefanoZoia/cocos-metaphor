@@ -1,3 +1,0 @@
-bosco:                0.9
-luna:                 0.9
-magico:               0.9

@@ -1,4 +1,0 @@
-self_bar:             0.9
-michel_blazy:         0.9
-parco_d_arte_vivente: 0.9
-bio_arte:             0.9

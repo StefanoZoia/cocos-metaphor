@@ -1,3 +1,0 @@
-raggio:               0.9
-variazione:           0.9
-stella:               0.9

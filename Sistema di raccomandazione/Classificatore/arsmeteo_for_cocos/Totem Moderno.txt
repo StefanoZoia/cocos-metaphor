@@ -1,1 +1,0 @@
-sull_angolo:          0.9

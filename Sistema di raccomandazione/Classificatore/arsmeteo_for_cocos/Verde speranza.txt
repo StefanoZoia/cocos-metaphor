@@ -1,4 +1,0 @@
-fogliolina:           0.9
-ramo:                 0.9
-crescita:             0.9
-speranza:             0.9

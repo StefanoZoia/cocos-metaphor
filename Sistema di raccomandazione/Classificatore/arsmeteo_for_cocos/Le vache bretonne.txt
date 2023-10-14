@@ -1,2 +1,0 @@
-libro:                0.9
-manufatto:            0.9

@@ -1,7 +1,0 @@
-dada_packaging:       0.9
-poet_casting:         0.9
-collection:           0.9
-instant_poet:         0.9
-poeta_automatico:     0.9
-collage:              0.9
-poesia:               0.9

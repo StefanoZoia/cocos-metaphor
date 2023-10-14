@@ -1,3 +1,0 @@
-civetta:              0.9
-notte:                0.9
-cappotto:             0.9

@@ -1,6 +1,0 @@
-pratica_del_creativo: 0.9
-creatività:           0.9
-psicopedagogia:       0.9
-psicoanimazione:      0.9
-sviluppo_creativo:    0.9
-arteterapia:          0.9

@@ -1,3 +1,0 @@
-pianeta:              0.9
-cristallo:            0.9
-riflesso:             0.9

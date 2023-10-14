@@ -1,3 +1,0 @@
-tratteggio:           0.9
-entomologia:          0.9
-accenno:              0.9

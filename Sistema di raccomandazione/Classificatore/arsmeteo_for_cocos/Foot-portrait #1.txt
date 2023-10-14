@@ -1,3 +1,0 @@
-torino:               0.9
-estate:               0.9
-tappeto:              0.9

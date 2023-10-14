@@ -1,2 +1,0 @@
-segno:                0.9
-trasparenza:          0.9

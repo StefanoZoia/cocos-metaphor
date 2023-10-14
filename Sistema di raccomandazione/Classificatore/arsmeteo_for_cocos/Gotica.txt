@@ -1,3 +1,0 @@
-cattedrale:           0.9
-citazione:            0.9
-ri_visitazione:       0.9

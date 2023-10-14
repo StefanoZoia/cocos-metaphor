@@ -1,3 +1,0 @@
-mostra:               0.9
-scultura:             0.9
-omino:                0.9

@@ -1,3 +1,0 @@
-vibrazione:           0.9
-volo_di_farfalla:     0.9
-psyché:               0.9

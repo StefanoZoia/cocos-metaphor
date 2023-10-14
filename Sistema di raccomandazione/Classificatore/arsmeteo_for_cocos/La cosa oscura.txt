@@ -1,3 +1,0 @@
-sole_nero:            0.9
-mondo:                0.9
-la_cosa:              0.9

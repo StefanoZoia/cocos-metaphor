@@ -1,3 +1,0 @@
-tecnica:              0.9
-mista:                0.9
-compensato:           0.9

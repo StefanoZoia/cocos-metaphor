@@ -1,3 +1,0 @@
-affioramento:         0.9
-superfice:            0.9
-iceberg:              0.9

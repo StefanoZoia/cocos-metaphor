@@ -1,3 +1,0 @@
-caffé:                0.9
-ristoro:              0.9
-ritiro:               0.9

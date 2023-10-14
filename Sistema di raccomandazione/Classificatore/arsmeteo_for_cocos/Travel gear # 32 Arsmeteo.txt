@@ -1,5 +1,0 @@
-comunicazione:        0.9
-travel_gear:          0.9
-consultazione:        0.9
-acqua:                0.9
-vetro:                0.9

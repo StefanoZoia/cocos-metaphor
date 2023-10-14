@@ -1,4 +1,0 @@
-paperus:              0.9
-preistoricus:         0.9
-ultraornitologicus:   0.9
-tronco:               0.9

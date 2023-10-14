@@ -1,4 +1,0 @@
-arsmeteo:             0.9
-macchina:             0.9
-arte:                 0.9
-tempo:                0.9

@@ -1,3 +1,0 @@
-elettronica:          0.9
-improvvisazione:      0.9
-samples:              0.9

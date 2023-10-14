@@ -1,4 +1,0 @@
-omino:                0.9
-archeologia:          0.9
-grafica:              0.9
-disegnino:            0.9

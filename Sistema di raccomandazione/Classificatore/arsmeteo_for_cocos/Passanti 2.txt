@@ -1,1 +1,0 @@
-passante:             0.9

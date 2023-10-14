@@ -1,2 +1,0 @@
-mancato:              0.9
-divenire:             0.9

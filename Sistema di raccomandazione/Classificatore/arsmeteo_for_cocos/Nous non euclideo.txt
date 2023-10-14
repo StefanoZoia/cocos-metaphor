@@ -1,2 +1,0 @@
-nous:                 0.9
-incisione:            0.9

@@ -1,2 +1,0 @@
-dodici:               0.9
-tredici:              0.9

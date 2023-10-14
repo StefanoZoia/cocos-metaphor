@@ -1,3 +1,0 @@
-pop:                  0.9
-new:                  0.6
-aggettivo:            0.6

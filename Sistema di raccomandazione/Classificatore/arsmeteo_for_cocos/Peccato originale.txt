@@ -1,7 +1,0 @@
-peccato:              0.9
-dio:                  0.9
-diavolo:              0.9
-adamo_ed_eva:         0.9
-peccato_originale:    0.9
-tentazione:           0.9
-uomo_donna:           0.9

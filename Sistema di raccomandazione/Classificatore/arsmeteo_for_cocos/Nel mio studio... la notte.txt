@@ -1,5 +1,0 @@
-studio:               0.9
-colore:               0.9
-luce_artificiale:     0.9
-tela|tele:            0.9
-pennello:             0.9

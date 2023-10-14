@@ -1,3 +1,0 @@
-cerises:              0.9
-velo:                 0.9
-oiseau:               0.9

@@ -1,4 +1,0 @@
-paesaggio_preso_in_prestito:0.9
-bianco_e_nero:        0.9
-paesaggio:            0.9
-albero:               0.9

@@ -1,5 +1,0 @@
-ripetizione:          0.9
-metropolis:           0.9
-futuro_passato:       0.9
-edificio:             0.9
-architettura_improbabile:0.9

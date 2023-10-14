@@ -1,2 +1,0 @@
-testa:                0.9
-pensiero:             0.9

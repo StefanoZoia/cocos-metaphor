@@ -1,5 +1,0 @@
-bambina:              0.9
-piscina:              0.9
-estate:               0.9
-vivacità:             0.9
-pittura_olio:         0.9

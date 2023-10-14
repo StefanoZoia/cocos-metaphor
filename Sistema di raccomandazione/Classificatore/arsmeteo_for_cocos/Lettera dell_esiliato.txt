@@ -1,3 +1,0 @@
-lettera:              0.9
-esiliato:             0.9
-scrittore:            0.9

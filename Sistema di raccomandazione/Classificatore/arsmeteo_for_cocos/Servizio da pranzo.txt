@@ -1,4 +1,0 @@
-pompei:               0.9
-affresco:             0.9
-tavola:               0.9
-servizio:             0.9

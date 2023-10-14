@@ -1,4 +1,0 @@
-vela:                 0.9
-mare:                 0.9
-regata:               0.9
-casa:                 0.9

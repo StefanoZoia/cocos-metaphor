@@ -1,5 +1,0 @@
-solo:                 0.9
-salento:              0.9
-sabbia:               0.9
-acrilico:             0.9
-tela:                 0.9

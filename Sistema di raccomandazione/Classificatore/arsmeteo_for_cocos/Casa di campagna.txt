@@ -1,4 +1,0 @@
-casa:                 0.9
-campagna:             0.9
-campiture:            0.9
-sfumato:              0.9

@@ -1,2 +1,0 @@
-santo:                0.9
-mistero:              0.9

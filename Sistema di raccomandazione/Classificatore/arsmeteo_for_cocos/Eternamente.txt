@@ -1,2 +1,0 @@
-disegno:              0.9
-amante:               0.9

@@ -1,2 +1,0 @@
-carta:                0.9
-rilievo:              0.9

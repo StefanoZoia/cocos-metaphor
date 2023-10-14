@@ -1,3 +1,0 @@
-istante:              0.9
-vapore:               0.9
-dito:                 0.9

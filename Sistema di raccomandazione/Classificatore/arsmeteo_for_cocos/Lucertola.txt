@@ -1,1 +1,0 @@
-lucertola:            0.9

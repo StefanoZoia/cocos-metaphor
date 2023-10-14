@@ -1,3 +1,0 @@
-zinzuli:              0.9
-grotta:               0.9
-stalattite:           0.9

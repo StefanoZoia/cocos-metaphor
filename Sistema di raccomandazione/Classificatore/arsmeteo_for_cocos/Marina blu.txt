@@ -1,3 +1,0 @@
-sturm_und_drang:      0.9
-solo:                 0.9
-mare:                 0.9

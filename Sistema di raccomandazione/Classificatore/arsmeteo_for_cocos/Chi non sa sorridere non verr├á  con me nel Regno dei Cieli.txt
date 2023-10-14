@@ -1,2 +1,0 @@
-amaro:                0.9
-sorridere:            0.9

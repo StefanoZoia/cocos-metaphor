@@ -1,2 +1,0 @@
-raffaele_niro:        0.9
-magma:                0.9

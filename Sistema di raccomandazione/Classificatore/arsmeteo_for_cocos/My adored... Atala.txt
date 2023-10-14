@@ -1,3 +1,0 @@
-bicicletta:           0.9
-atala:                0.9
-a_spasso:             0.9

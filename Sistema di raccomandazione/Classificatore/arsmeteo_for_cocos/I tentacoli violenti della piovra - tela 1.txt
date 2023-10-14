@@ -1,3 +1,0 @@
-tela:                 0.9
-vinavil:              0.9
-sabbia:               0.9

@@ -1,4 +1,0 @@
-effetto:              0.9
-colombario:           0.9
-blu:                  0.9
-corale:               0.9

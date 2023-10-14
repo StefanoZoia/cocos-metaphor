@@ -1,3 +1,0 @@
-rosso:                0.9
-tela:                 0.9
-affresco:             0.9

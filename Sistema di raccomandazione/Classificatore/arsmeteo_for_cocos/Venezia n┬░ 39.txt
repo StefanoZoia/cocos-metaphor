@@ -1,3 +1,0 @@
-cm:                   0.9
-acquarello:           0.6
-cotone:               0.6

@@ -1,3 +1,0 @@
-carta:                0.9
-triangolo:            0.9
-gioco:                0.9

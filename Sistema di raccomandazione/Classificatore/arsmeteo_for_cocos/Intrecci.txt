@@ -1,5 +1,0 @@
-intreccio:            0.9
-vimine:               0.9
-manufatto:            0.9
-lavoro:               0.9
-tradizione:           0.9

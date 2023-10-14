@@ -1,3 +1,0 @@
-ape:                  0.9
-operaia:              0.9
-caus:                 0.9

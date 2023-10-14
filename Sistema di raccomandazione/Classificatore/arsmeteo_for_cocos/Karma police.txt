@@ -1,5 +1,0 @@
-edoardo:              0.9
-accotto:              0.9
-radiohead:            0.9
-karma:                0.9
-police:               0.9

@@ -1,5 +1,0 @@
-tempo:                0.9
-passaggio:            0.9
-istante:              0.9
-passato:              0.9
-fermo:                0.9

@@ -1,3 +1,0 @@
-tempo:                0.9
-memoria:              0.9
-nostalgia:            0.9

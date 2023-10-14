@@ -1,3 +1,0 @@
-moneta:               0.9
-arte_monetaria:       0.9
-ricchezza:            0.9

@@ -1,4 +1,0 @@
-paris:                0.9
-decimo:               0.9
-arrondissement:       0.9
-sera:                 0.9

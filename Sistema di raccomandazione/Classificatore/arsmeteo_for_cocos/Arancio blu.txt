@@ -1,3 +1,0 @@
-arancio:              0.9
-blu:                  0.9
-pixel:                0.9

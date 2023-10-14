@@ -1,3 +1,0 @@
-social_network:       0.9
-terza_vita:           0.9
-altri_mondi:          0.9

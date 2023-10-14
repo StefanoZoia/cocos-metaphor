@@ -1,2 +1,0 @@
-vernissage:           0.9
-specchio:             0.9

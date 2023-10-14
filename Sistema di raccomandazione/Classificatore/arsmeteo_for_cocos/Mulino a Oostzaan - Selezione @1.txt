@@ -1,4 +1,0 @@
-mulino:               0.9
-orizzonte:            0.9
-scostamento:          0.9
-olanda:               0.9

@@ -1,5 +1,0 @@
-rete:                 0.9
-rosso:                0.9
-sangue:               0.9
-movimento:            0.9
-plasticità:           0.9

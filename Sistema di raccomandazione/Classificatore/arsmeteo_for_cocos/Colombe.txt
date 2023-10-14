@@ -1,4 +1,0 @@
-colomba:              0.9
-successione:          0.9
-multiplo:             0.9
-ripetizione:          0.9

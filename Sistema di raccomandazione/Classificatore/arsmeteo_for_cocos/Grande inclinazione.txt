@@ -1,4 +1,0 @@
-montagna:             0.9
-pendenza:             0.9
-equilibrio:           0.9
-inclinazione:         0.9

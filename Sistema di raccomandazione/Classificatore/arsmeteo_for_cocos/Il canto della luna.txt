@@ -1,2 +1,0 @@
-strumento:            0.9
-notturno:             0.9

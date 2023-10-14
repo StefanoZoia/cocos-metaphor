@@ -1,3 +1,0 @@
-chiesa:               0.9
-torre:                0.9
-piazza:               0.9

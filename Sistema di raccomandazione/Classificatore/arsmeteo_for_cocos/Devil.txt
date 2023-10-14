@@ -1,1 +1,0 @@
-tentatore:            0.9

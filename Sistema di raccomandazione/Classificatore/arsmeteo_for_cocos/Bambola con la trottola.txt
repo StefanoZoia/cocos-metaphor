@@ -1,4 +1,0 @@
-bambola:              0.9
-surfanta:             0.9
-surreale:             0.9
-trottola:             0.9

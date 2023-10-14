@@ -1,3 +1,0 @@
-nuovo:                0.9
-re:                   0.6
-regina:               0.6

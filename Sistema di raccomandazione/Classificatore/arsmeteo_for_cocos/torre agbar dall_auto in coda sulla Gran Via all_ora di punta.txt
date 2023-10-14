@@ -1,6 +1,0 @@
-torre:                0.9
-fallo:                0.9
-notevole:             0.9
-atrevida:             0.9
-ufficio:              0.9
-barcellona:           0.9

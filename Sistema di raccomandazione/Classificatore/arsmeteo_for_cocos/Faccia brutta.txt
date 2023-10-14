@@ -1,5 +1,0 @@
-volto:                0.9
-brutta|brutto:        0.9
-dispetto:             0.9
-simpatia:             0.9
-furbetta:             0.9

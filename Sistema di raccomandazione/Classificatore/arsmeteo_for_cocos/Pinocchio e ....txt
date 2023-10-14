@@ -1,7 +1,0 @@
-mail:                 0.9
-art:                  0.9
-arte:                 0.9
-postale:              0.9
-pinocchio:            0.9
-grillo:               0.9
-fiore:                0.9

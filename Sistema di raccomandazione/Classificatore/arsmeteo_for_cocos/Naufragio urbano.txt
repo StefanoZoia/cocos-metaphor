@@ -1,3 +1,0 @@
-naufragio:            0.9
-acqua:                0.9
-strano:               0.9

@@ -1,3 +1,0 @@
-specchio:             0.9
-reflexo:              0.9
-self_portrait:        0.9

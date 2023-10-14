@@ -1,5 +1,0 @@
-prospettiva:          0.9
-obliquo:              0.9
-goccia:               0.9
-acqua:                0.9
-filo:                 0.9

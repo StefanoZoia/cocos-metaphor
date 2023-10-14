@@ -1,3 +1,0 @@
-occhio:               0.9
-sguardo:              0.9
-amore:                0.9

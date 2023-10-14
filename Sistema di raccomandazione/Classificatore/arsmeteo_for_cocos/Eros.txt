@@ -1,2 +1,0 @@
-amore:                0.9
-connubio:             0.9

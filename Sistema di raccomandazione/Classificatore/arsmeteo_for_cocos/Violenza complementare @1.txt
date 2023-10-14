@@ -1,2 +1,0 @@
-rosso_blu:            0.9
-decostruzionismo:     0.9

@@ -1,5 +1,0 @@
-amico:                0.9
-tenero:               0.9
-arruffare:            0.9
-polaroid:             0.9
-sxsettanta:           0.9

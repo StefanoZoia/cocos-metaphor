@@ -1,2 +1,0 @@
-atmosfera:            0.9
-blue:                 0.9

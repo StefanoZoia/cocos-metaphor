@@ -1,3 +1,0 @@
-deriva:               0.9
-tempo_fa:             0.9
-duplicazione:         0.9

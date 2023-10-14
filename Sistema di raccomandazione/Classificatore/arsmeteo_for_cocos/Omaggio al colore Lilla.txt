@@ -1,2 +1,0 @@
-gestuale:             0.9
-lilla:                0.9

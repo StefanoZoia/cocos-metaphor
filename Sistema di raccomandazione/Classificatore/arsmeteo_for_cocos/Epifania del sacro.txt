@@ -1,3 +1,0 @@
-bosco:                0.9
-mistero:              0.9
-luce:                 0.9

@@ -1,3 +1,0 @@
-eleganza:             0.9
-moda:                 0.9
-bellezza:             0.9

@@ -1,3 +1,0 @@
-organico:             0.9
-viscerale:            0.9
-antropomorfo:         0.9

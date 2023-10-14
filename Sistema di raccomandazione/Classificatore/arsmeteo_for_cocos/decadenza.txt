@@ -1,3 +1,0 @@
-architettura:         0.9
-chiesa:               0.9
-desolazione:          0.9

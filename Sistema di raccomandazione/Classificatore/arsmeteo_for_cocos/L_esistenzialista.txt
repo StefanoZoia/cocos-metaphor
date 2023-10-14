@@ -1,2 +1,0 @@
-ragazza:              0.9
-foulard_blu:          0.9

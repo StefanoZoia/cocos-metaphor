@@ -1,3 +1,0 @@
-serialità:            0.9
-fuga:                 0.9
-modulazione:          0.9

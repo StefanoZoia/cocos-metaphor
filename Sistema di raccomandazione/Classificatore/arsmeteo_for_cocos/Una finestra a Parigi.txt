@@ -1,2 +1,0 @@
-cielo:                0.9
-finestra:             0.9

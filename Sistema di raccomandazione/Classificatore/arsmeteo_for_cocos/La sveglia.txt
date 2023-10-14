@@ -1,3 +1,0 @@
-sveglia:              0.9
-fiammifero:           0.9
-barchetta_di_carta:   0.9

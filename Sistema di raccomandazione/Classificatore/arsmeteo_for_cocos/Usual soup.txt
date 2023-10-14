@@ -1,2 +1,0 @@
-data:                 0.9
-scadenza:             0.9

@@ -1,3 +1,0 @@
-tombino:              0.9
-cuore:                0.9
-strada:               0.9

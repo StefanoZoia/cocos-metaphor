@@ -1,3 +1,0 @@
-cubo:                 0.9
-nuances:              0.9
-grafo_logia:          0.9

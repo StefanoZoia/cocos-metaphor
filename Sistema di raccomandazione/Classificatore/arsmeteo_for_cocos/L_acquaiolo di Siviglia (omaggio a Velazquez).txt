@@ -1,3 +1,0 @@
-velazquez:            0.9
-acqua:                0.9
-figura:               0.9

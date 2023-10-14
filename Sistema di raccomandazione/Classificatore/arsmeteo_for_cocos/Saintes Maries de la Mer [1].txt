@@ -1,3 +1,0 @@
-donna:                0.9
-occhi_sorridentiventaglio:0.9
-sorriso:              0.9

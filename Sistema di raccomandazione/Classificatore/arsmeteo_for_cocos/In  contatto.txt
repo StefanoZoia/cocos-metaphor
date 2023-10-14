@@ -1,5 +1,0 @@
-linea:                0.9
-contatto:             0.9
-unione:               0.9
-opposto:              0.9
-attrazione:           0.9

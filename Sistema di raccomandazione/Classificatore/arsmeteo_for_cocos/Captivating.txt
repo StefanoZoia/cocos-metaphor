@@ -1,4 +1,0 @@
-uomo:                 0.9
-fascino:              0.9
-sex_appeal:           0.9
-charme:               0.9

@@ -1,2 +1,0 @@
-orso:                 0.9
-profilo:              0.9

@@ -1,2 +1,0 @@
-conchiglia:           0.9
-disegno:              0.9

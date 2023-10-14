@@ -1,4 +1,0 @@
-luna:                 0.9
-lego:                 0.9
-jioko:                0.9
-mail_art:             0.9

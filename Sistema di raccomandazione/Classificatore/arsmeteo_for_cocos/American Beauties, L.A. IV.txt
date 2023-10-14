@@ -1,3 +1,0 @@
-glamour:              0.9
-california:           0.9
-anni_ruggenti:        0.9

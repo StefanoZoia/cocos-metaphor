@@ -1,5 +1,0 @@
-palazzo:              0.9
-casa:                 0.9
-inversione:           0.9
-colori_nascostu:      0.9
-esterno:              0.9

@@ -1,4 +1,0 @@
-anniversario:         0.9
-fiat:                 0.9
-cinquecento:          0.9
-topolino:             0.9

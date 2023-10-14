@@ -1,5 +1,0 @@
-giurato:              0.9
-modella:              0.9
-acconciatura:         0.9
-moda:                 0.9
-prevenzione:          0.9

@@ -1,5 +1,0 @@
-jioko:                0.9
-grazia:               0.9
-santo:                0.9
-mario:                0.9
-schiavone:            0.9

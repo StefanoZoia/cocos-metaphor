@@ -1,5 +1,0 @@
-centauro:             0.9
-linea:                0.9
-blu:                  0.9
-sincronicità:         0.9
-porpora:              0.9

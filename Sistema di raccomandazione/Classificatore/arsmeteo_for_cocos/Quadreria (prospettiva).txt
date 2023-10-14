@@ -1,6 +1,0 @@
-quadreria:            0.9
-segno:                0.9
-pittura:              0.9
-decorazione:          0.9
-linguaggio:           0.9
-memoria:              0.9

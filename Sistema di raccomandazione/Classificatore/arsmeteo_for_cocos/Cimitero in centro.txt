@@ -1,2 +1,0 @@
-cimitero:             0.9
-centro:               0.9

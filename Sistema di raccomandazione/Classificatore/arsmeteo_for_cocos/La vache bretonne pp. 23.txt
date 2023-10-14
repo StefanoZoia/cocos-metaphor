@@ -1,2 +1,0 @@
-vache:                0.9
-prévert:              0.9

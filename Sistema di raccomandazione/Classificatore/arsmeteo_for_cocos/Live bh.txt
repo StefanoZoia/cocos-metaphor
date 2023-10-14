@@ -1,2 +1,0 @@
-casuale:              0.9
-improvvisazione:      0.9

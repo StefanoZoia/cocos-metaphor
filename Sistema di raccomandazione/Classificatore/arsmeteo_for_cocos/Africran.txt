@@ -1,4 +1,0 @@
-africo:               0.9
-teschio:              0.9
-morte:                0.9
-sfruttamento:         0.9

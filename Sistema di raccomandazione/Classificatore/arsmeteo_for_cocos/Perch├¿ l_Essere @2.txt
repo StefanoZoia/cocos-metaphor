@@ -1,3 +1,0 @@
-metafisica|metafisico:0.9
-meta_pittura:         0.9
-riflessi_speculativi: 0.9

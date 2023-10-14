@@ -1,2 +1,0 @@
-self_portrait:        0.9
-occhi_che_ridono:     0.9

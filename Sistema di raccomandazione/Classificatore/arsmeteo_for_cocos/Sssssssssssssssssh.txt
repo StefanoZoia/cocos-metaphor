@@ -1,3 +1,0 @@
-pvc:                  0.9
-mixedmedia:           0.9
-paint:                0.9

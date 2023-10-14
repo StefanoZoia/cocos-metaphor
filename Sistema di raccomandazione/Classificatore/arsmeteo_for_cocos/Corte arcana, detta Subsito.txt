@@ -1,4 +1,0 @@
-corolla:              0.9
-fucsia:               0.9
-yucca:                0.9
-umido:                0.9

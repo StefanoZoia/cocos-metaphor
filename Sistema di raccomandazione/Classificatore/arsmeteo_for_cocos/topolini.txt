@@ -1,3 +1,0 @@
-singapore:            0.9
-nudità:               0.9
-_mal_celata:          0.9

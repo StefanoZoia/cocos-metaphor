@@ -1,3 +1,0 @@
-giardino:             0.9
-panchina:             0.9
-spuntino:             0.9

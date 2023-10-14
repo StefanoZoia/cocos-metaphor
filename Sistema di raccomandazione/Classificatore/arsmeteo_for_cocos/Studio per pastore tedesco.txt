@@ -1,3 +1,0 @@
-studio:               0.9
-pastore_tedesco:      0.9
-cane:                 0.9

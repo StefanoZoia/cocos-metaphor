@@ -1,2 +1,0 @@
-portone:              0.9
-messaggio:            0.9

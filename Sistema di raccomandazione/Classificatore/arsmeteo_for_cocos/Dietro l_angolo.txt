@@ -1,4 +1,0 @@
-angolo:               0.9
-sorpresa:             0.9
-presenza:             0.9
-vistuale:             0.9

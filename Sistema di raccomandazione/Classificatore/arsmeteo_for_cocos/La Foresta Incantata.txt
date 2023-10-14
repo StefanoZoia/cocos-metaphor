@@ -1,4 +1,0 @@
-video:                0.9
-installazione:        0.9
-videoinstallazione:   0.9
-foresta:              0.9

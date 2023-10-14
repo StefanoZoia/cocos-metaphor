@@ -1,5 +1,0 @@
-relax:                0.9
-spiaggia:             0.9
-cielo:                0.9
-nuvola:               0.9
-bellezza:             0.9

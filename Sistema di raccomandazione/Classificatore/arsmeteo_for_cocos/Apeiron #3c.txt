@@ -1,3 +1,0 @@
-nous:                 0.9
-cre_azione:           0.9
-in_determinato:       0.9

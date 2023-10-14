@@ -1,5 +1,0 @@
-sussurro:             0.9
-maldicenza:           0.9
-gossip:               0.9
-comunicazione:        0.9
-sangue:               0.9

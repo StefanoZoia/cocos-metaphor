@@ -1,3 +1,0 @@
-bestiario:            0.9
-corruzione:           0.9
-idillio:              0.9

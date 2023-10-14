@@ -1,3 +1,0 @@
-six:                  0.9
-numero_del_diavolo:   0.9
-pedofilia:            0.9

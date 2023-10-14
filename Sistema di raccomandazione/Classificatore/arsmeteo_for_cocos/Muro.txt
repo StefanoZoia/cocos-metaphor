@@ -1,5 +1,0 @@
-muro:                 0.9
-alessandria:          0.9
-mattone:              0.9
-laterizio:            0.9
-apertura:             0.9

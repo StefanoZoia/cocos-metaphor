@@ -1,2 +1,0 @@
-panchina:             0.9
-op:                   0.9

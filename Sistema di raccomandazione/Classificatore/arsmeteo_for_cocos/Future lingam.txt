@@ -1,4 +1,0 @@
-monolito:             0.9
-bianco:               0.9
-futuro:               0.9
-scolpire:             0.9

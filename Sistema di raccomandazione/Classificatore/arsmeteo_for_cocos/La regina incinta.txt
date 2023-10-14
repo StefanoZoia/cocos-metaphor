@@ -1,2 +1,0 @@
-regina:               0.9
-incinto:              0.9

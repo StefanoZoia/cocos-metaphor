@@ -1,2 +1,0 @@
-sonno:                0.9
-relax:                0.9

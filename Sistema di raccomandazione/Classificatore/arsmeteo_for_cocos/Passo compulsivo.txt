@@ -1,4 +1,0 @@
-facciata:             0.9
-luce:                 0.9
-contesto:             0.9
-velocità:             0.9

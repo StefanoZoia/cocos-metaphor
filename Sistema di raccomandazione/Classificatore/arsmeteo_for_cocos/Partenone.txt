@@ -1,3 +1,0 @@
-rovina:               0.9
-memoria:              0.9
-grecità:              0.9

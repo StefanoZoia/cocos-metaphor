@@ -1,3 +1,0 @@
-colore_verde:         0.9
-fibra:                0.9
-rifrazione:           0.9

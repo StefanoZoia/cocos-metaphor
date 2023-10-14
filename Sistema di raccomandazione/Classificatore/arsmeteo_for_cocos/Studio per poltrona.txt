@@ -1,2 +1,0 @@
-studio:               0.9
-poltrona:             0.9

@@ -1,3 +1,0 @@
-struttura:            0.9
-industriale:          0.9
-metallo:              0.9

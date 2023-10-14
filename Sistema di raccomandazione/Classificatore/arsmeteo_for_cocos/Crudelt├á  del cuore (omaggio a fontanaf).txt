@@ -1,2 +1,0 @@
-cuore:                0.9
-crudeltà:             0.9

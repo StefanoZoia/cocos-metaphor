@@ -1,4 +1,0 @@
-spirale:              0.9
-frattale:             0.9
-continuo:             0.9
-inesorabile:          0.9

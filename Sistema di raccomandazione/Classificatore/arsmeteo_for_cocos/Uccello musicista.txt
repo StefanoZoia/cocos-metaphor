@@ -1,2 +1,0 @@
-direttore:            0.9
-orchestra:            0.9

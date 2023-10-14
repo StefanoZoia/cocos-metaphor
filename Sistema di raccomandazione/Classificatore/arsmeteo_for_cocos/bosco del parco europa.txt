@@ -1,3 +1,0 @@
-bosco:                0.9
-parco:                0.9
-verde:                0.9

@@ -1,2 +1,0 @@
-netville:             0.9
-baghdad:              0.9

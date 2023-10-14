@@ -1,3 +1,0 @@
-netville:             0.9
-floriana:             0.9
-twin_towers:          0.9

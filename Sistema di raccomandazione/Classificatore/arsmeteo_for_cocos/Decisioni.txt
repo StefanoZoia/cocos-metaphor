@@ -1,3 +1,0 @@
-parola:               0.9
-bozza:                0.9
-ingorgo:              0.9

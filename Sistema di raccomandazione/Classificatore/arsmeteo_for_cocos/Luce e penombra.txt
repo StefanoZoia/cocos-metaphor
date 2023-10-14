@@ -1,1 +1,0 @@
-penombra:             0.9

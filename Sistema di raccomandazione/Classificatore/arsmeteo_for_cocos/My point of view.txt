@@ -1,4 +1,0 @@
-viviana:              0.9
-rifotografare:        0.9
-intensità:            0.9
-sguardo:              0.9

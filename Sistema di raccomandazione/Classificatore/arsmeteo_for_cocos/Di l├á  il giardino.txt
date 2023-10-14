@@ -1,1 +1,0 @@
-giardino:             0.9

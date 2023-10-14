@@ -1,2 +1,0 @@
-cane:                 0.9
-pastore_tedesco:      0.9

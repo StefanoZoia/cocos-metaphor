@@ -1,4 +1,0 @@
-oggetto:              0.9
-sovraffollamento:     0.9
-equipaggiamento:      0.9
-comunicazione:        0.9

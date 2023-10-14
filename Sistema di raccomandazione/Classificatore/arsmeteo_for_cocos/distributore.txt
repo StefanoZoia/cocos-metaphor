@@ -1,5 +1,0 @@
-nuvola:               0.9
-cielo:                0.9
-strada:               0.9
-estraneamento:        0.9
-medio_oriente:        0.9

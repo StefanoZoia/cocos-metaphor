@@ -1,2 +1,0 @@
-anger:                0.9
-anticipation:         0.9

@@ -1,3 +1,0 @@
-anticipation:         0.9
-disagreeableness:     0.9
-surprise:             0.9

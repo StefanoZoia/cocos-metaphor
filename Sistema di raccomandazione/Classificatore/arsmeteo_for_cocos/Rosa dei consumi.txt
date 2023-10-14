@@ -1,5 +1,0 @@
-lumpur:               0.9
-kuala:                0.9
-lusso:                0.9
-tempio_dei-consumi:   0.9
-opulenza:             0.9

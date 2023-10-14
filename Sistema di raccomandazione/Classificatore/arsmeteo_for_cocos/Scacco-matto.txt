@@ -1,3 +1,0 @@
-scacco:               0.9
-scacchiera:           0.9
-luogo:                0.9

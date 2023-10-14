@@ -1,4 +1,0 @@
-studio:               0.9
-chitarra:             0.9
-kiodo:                0.9
-sedia:                0.9

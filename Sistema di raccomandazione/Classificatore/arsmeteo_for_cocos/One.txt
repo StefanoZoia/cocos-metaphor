@@ -1,3 +1,0 @@
-soldato:              0.9
-guerra:               0.9
-militare:             0.9

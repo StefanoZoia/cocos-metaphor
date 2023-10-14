@@ -1,3 +1,0 @@
-scostamento:          0.9
-smalto:               0.9
-a_cosmos:             0.9

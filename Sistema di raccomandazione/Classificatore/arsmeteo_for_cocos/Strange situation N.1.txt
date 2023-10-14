@@ -1,3 +1,0 @@
-gouache:              0.9
-guazzo:               0.9
-castità:              0.9

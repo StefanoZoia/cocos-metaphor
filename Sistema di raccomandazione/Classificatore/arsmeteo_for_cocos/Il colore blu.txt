@@ -1,2 +1,0 @@
-rilievo:              0.9
-tavolozza:            0.9

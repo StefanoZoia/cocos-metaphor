@@ -1,4 +1,0 @@
-gatto:                0.9
-viaggiare:            0.9
-pensiero:             0.9
-abbandono:            0.9

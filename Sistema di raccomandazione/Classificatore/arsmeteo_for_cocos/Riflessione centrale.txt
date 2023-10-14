@@ -1,5 +1,0 @@
-volta:                0.9
-galleria:             0.9
-tunnel:               0.9
-simmetria:            0.9
-riflessione:          0.9

@@ -1,3 +1,0 @@
-mela:                 0.9
-macinacaffè:          0.9
-orologio:             0.9

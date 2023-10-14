@@ -1,3 +1,0 @@
-cavallo:              0.9
-coppia:               0.9
-ala:                  0.9

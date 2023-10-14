@@ -1,5 +1,0 @@
-indiano:              0.9
-malese:               0.9
-cinese:               0.9
-metropolitana:        0.9
-convivenza:           0.9

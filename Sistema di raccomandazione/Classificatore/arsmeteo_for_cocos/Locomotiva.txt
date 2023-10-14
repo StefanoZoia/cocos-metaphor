@@ -1,3 +1,0 @@
-locomotiva:           0.9
-fumo:                 0.9
-paesaggio:            0.9

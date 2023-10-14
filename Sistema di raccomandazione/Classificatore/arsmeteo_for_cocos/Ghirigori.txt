@@ -1,4 +1,0 @@
-lucetta:              0.9
-iperbole:             0.9
-frattura:             0.9
-materiale:            0.9

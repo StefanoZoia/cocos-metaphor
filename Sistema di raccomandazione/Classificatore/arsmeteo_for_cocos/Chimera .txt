@@ -1,3 +1,0 @@
-volto:                0.9
-conchiglia:           0.9
-lucertola:            0.9

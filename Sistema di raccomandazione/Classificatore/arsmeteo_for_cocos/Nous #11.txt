@@ -1,3 +1,0 @@
-graticolo:            0.9
-profondità:           0.9
-freddezza:            0.9

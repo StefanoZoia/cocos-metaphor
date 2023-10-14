@@ -1,6 +1,0 @@
-palazzo:              0.9
-torino:               0.9
-liberty:              0.9
-eccentrico:           0.9
-strano:               0.9
-flessuoso:            0.9

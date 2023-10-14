@@ -1,3 +1,0 @@
-appropriamento:       0.9
-ricerca:              0.9
-perdere:              0.9

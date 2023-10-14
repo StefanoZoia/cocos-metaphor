@@ -1,4 +1,0 @@
-equilibrio:           0.9
-metafisico:           0.9
-eleganza:             0.9
-momentum:             0.9

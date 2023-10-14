@@ -1,3 +1,0 @@
-farfalla:             0.9
-nebulosa:             0.9
-danza:                0.9

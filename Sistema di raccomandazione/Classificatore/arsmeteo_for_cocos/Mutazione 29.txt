@@ -1,3 +1,0 @@
-efflorescenza:        0.9
-medusa:               0.9
-fondale:              0.9

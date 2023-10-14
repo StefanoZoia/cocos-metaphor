@@ -1,2 +1,0 @@
-record_and_rewind:    0.9
-registrare:           0.9

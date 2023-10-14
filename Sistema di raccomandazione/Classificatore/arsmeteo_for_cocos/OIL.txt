@@ -1,3 +1,0 @@
-petrolio:             0.9
-sangue:               0.9
-guerra:               0.9

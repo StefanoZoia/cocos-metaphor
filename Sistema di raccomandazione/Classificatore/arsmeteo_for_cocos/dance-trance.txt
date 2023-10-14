@@ -1,3 +1,0 @@
-festa:                0.9
-casa_in_collina:      0.9
-esotismo_domenicale:  0.9

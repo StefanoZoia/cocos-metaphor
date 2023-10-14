@@ -1,2 +1,0 @@
-parola:               0.9
-notte_bianca:         0.9

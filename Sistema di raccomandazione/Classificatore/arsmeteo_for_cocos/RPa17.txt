@@ -1,3 +1,0 @@
-un_robot:             0.9
-due_loop:             0.9
-tre_sculture:         0.9

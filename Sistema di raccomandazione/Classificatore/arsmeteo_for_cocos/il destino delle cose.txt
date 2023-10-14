@@ -1,3 +1,0 @@
-sampierdarena:        0.9
-fine_ciclo:           0.9
-demolizione:          0.9

@@ -1,4 +1,0 @@
-raffaele_niro:        0.9
-resistenza:           0.9
-poésie:               0.9
-pdf:                  0.9

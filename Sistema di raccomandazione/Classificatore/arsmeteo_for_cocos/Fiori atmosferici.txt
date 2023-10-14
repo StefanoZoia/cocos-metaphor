@@ -1,2 +1,0 @@
-istallazione:         0.9
-velina:               0.9

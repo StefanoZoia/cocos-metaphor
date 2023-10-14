@@ -1,2 +1,0 @@
-viola:                0.9
-scarpa:               0.9

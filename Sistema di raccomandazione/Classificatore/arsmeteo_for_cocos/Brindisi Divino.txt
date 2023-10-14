@@ -1,2 +1,0 @@
-brindisi:             0.9
-divino:               0.9

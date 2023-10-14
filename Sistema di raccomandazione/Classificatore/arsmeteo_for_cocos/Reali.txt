@@ -1,3 +1,0 @@
-fungo:                0.9
-reale:                0.9
-ovulo:                0.9

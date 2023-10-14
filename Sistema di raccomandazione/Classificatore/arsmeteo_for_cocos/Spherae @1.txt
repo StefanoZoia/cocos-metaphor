@@ -1,3 +1,0 @@
-circolo:              0.9
-linea:                0.9
-tema:                 0.9

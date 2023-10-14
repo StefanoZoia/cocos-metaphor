@@ -1,3 +1,0 @@
-geometria:            0.9
-tassello:             0.9
-grigio:               0.9

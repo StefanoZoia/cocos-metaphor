@@ -1,3 +1,0 @@
-piega:                0.9
-piano:                0.9
-paesaggio:            0.9

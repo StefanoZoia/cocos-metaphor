@@ -1,3 +1,0 @@
-pelo:                 0.9
-rosso:                0.9
-desiderio:            0.9

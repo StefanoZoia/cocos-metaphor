@@ -1,4 +1,0 @@
-surrealismo:          0.9
-dadaismo:             0.9
-futurismo:            0.9
-pasca_dada:           0.9

@@ -1,2 +1,0 @@
-traccia:              0.9
-guasto:               0.9

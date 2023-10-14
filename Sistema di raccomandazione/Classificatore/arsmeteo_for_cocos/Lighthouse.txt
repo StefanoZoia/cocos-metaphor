@@ -1,3 +1,0 @@
-faro:                 0.9
-mare:                 0.9
-striatura:            0.9

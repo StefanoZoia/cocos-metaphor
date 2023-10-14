@@ -1,3 +1,0 @@
-jolly:                0.9
-social_network:       0.9
-faccia_virtuale:      0.9

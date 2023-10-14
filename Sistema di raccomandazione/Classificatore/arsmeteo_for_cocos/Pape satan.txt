@@ -1,3 +1,0 @@
-diabolus:             0.9
-carnaval:             0.9
-peek_a_boo:           0.9

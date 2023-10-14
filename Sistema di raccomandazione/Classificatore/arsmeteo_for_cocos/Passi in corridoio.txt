@@ -1,3 +1,0 @@
-cellulare:            0.9
-momento:              0.9
-fissare:              0.9

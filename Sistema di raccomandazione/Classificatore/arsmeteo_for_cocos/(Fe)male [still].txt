@@ -1,3 +1,0 @@
-identity:             0.9
-dance:                0.9
-belgrade:             0.9

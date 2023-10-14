@@ -1,3 +1,0 @@
-donna:                0.9
-melograno:            0.9
-vespa:                0.9

@@ -1,3 +1,0 @@
-incisione:            0.9
-pietra:               0.9
-rifugio:              0.9

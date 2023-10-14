@@ -1,4 +1,0 @@
-leggerezza:           0.9
-cerchio:              0.9
-cerchi_concentrici:   0.9
-velo:                 0.9

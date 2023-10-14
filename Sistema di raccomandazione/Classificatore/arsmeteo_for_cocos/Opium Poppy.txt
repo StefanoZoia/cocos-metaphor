@@ -1,5 +1,0 @@
-medicinale:           0.9
-narcotico:            0.9
-paradisi_artificiali: 0.9
-viaggio:              0.9
-baratro:              0.9

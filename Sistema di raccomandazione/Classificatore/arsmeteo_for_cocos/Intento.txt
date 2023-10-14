@@ -1,4 +1,0 @@
-animazione:           0.9
-avanzata:             0.9
-geometria:            0.9
-umore:                0.9

@@ -1,2 +1,0 @@
-foresta:              0.9
-serpente:             0.9

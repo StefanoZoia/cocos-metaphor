@@ -1,3 +1,0 @@
-vento:                0.9
-estate:               0.6
-caldo:                0.6

@@ -1,3 +1,0 @@
-vibrazione:           0.9
-tavolozza:            0.9
-aurora:               0.9

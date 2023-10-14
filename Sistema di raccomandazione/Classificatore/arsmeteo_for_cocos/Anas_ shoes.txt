@@ -1,3 +1,0 @@
-moda:                 0.9
-medio_oriente:        0.9
-lavoro:               0.9

@@ -1,3 +1,0 @@
-tetto:                0.9
-villaggio:            0.6
-casa:                 0.6

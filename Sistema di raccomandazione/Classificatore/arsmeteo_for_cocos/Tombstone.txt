@@ -1,3 +1,0 @@
-arte_contemporanea:   0.9
-inchiostro:           0.9
-pvc:                  0.9

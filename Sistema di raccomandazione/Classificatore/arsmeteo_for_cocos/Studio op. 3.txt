@@ -1,3 +1,0 @@
-collage:              0.9
-intreccio:            0.9
-gamba:                0.9

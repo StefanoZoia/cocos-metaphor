@@ -1,2 +1,0 @@
-creazione:            0.9
-madre:                0.9

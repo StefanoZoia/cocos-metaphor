@@ -1,3 +1,0 @@
-assemblaggio:         0.9
-meccanismo:           0.9
-ricupero:             0.9

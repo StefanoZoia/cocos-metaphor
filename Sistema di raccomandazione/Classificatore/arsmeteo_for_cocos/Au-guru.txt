@@ -1,2 +1,0 @@
-augurio:              0.9
-guru:                 0.9

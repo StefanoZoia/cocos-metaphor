@@ -1,4 +1,0 @@
-picnic:               0.9
-vino:                 0.9
-uva:                  0.9
-settembre:            0.9

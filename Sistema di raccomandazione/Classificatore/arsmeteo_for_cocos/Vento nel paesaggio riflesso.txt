@@ -1,1 +1,0 @@
-albero_nel_vento:     0.9

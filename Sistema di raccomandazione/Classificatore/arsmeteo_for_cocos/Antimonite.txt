@@ -1,5 +1,0 @@
-struttura:            0.9
-ipotesi:              0.9
-rilievo:              0.9
-diramazione:          0.9
-sviluppo:             0.9

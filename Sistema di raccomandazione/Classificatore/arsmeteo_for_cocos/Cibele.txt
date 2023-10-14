@@ -1,3 +1,0 @@
-grande_madre:         0.9
-meteorite:            0.9
-mitologia:            0.9

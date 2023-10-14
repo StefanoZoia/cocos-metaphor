@@ -1,2 +1,0 @@
-papavero:             0.9
-grano:                0.9

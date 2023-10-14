@@ -1,2 +1,0 @@
-legge:                0.9
-fisiogrammi:          0.9

@@ -1,4 +1,0 @@
-tempo:                0.9
-bellezza:             0.9
-enigma:               0.9
-volto:                0.9

@@ -1,3 +1,0 @@
-jung:                 0.9
-eroe:                 0.9
-cartiglio:            0.9

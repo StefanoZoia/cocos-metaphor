@@ -1,3 +1,0 @@
-rifugio:              0.9
-cane:                 0.9
-animalista:           0.9

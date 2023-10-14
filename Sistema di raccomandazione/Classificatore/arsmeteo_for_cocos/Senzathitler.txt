@@ -1,2 +1,0 @@
-carta:                0.9
-china:                0.9

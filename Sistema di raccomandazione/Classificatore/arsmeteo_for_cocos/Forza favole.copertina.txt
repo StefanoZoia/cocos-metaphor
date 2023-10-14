@@ -1,3 +1,0 @@
-intervista:           0.9
-tratto:               0.9
-fumetto:              0.9

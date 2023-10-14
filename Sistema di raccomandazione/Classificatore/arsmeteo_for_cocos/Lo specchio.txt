@@ -1,3 +1,0 @@
-specchio:             0.9
-cane:                 0.9
-palla:                0.9

@@ -1,2 +1,0 @@
-face_of_facebook:     0.9
-elaborazionedigitale: 0.9

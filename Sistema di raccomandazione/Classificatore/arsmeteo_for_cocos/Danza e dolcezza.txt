@@ -1,5 +1,0 @@
-danza:                0.9
-dolcezza:             0.9
-legame:               0.9
-ballo:                0.9
-giallo:               0.9

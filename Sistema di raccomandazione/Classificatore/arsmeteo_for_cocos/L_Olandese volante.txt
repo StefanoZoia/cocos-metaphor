@@ -1,4 +1,0 @@
-nave_fantasma:        0.9
-vela:                 0.9
-oceano:               0.9
-mare:                 0.9

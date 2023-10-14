@@ -1,3 +1,0 @@
-polluzione:           0.9
-heart:                0.9
-informale:            0.9

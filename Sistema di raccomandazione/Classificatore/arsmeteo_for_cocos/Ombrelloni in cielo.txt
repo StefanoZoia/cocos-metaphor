@@ -1,3 +1,0 @@
-ombrellone:           0.9
-cielo:                0.9
-fluttuante:           0.9

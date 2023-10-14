@@ -1,3 +1,0 @@
-danza:                0.9
-amante:               0.9
-nodo:                 0.9

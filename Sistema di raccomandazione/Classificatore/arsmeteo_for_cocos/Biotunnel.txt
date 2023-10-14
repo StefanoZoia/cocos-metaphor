@@ -1,3 +1,0 @@
-tunnel:               0.9
-frattali:             0.9
-giardino:             0.9

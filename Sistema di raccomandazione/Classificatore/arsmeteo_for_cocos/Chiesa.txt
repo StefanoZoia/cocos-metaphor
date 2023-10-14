@@ -1,3 +1,0 @@
-chiesa:               0.9
-colonna:              0.9
-diroccare:            0.9

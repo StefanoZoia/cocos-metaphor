@@ -1,3 +1,0 @@
-maschilista:          0.9
-omino:                0.9
-cattivo:              0.9

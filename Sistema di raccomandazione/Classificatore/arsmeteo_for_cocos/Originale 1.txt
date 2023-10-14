@@ -1,4 +1,0 @@
-scultura:             0.9
-petalo:               0.9
-fiore:                0.9
-rosa:                 0.9

@@ -1,2 +1,0 @@
-corteccia:            0.9
-macro:                0.9

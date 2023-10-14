@@ -1,3 +1,0 @@
-pasticcio:            0.9
-chiacchiera:          0.9
-zucchero:             0.9

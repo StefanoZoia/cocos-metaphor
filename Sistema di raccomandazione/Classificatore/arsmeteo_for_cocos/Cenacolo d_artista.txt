@@ -1,4 +1,0 @@
-cibo:                 0.9
-colore:               0.9
-destrutturazione:     0.9
-creazione:            0.9

@@ -1,3 +1,0 @@
-linea:                0.9
-interruzione:         0.9
-studio:               0.9

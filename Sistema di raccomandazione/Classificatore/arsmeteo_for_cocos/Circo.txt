@@ -1,2 +1,0 @@
-pagliaccio:           0.9
-circo:                0.9

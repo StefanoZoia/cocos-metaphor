@@ -1,2 +1,0 @@
-a_quattromani:        0.9
-arte_condivisa:       0.9

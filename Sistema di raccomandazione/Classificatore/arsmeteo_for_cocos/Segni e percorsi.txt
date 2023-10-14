@@ -1,2 +1,0 @@
-segno:                0.9
-percorso:             0.9

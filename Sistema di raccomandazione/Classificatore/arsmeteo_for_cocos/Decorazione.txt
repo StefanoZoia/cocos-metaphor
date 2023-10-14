@@ -1,2 +1,0 @@
-antilope:             0.9
-cartoncino_nero:      0.9

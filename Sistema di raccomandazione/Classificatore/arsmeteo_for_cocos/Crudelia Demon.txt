@@ -1,4 +1,0 @@
-mitica:               0.9
-male:                 0.9
-avidità:              0.9
-sfrontatezza:         0.9

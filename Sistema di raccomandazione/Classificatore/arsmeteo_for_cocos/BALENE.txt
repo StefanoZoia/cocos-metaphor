@@ -1,3 +1,0 @@
-luce:                 0.9
-buio:                 0.9
-balena:               0.9

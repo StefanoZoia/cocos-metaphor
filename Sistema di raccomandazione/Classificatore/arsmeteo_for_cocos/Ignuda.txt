@@ -1,2 +1,0 @@
-ignudo:               0.9
-modella:              0.9

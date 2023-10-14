@@ -1,4 +1,0 @@
-sentiero:             0.9
-traccia:              0.9
-percorso:             0.9
-scia:                 0.9

@@ -1,3 +1,0 @@
-arancio:              0.9
-chiaro:               0.9
-riga:                 0.9

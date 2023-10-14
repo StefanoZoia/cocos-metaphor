@@ -1,2 +1,0 @@
-otranto:              0.9
-lecce:                0.9

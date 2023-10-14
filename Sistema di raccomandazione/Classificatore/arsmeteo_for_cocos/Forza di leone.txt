@@ -1,2 +1,0 @@
-forza:                0.9
-leone:                0.9

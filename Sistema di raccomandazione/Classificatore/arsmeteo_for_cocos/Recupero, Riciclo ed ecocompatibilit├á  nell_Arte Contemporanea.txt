@@ -1,3 +1,0 @@
-recupero:             0.9
-ecocompatibilità:     0.9
-riciclare:            0.9

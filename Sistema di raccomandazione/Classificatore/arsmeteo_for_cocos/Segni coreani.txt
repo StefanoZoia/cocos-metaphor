@@ -1,3 +1,0 @@
-trama:                0.9
-colore_blu:           0.9
-corea:                0.9

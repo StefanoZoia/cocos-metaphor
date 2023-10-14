@@ -1,2 +1,0 @@
-sud_corea:            0.9
-seccare:              0.9

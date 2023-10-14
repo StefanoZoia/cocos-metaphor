@@ -1,3 +1,0 @@
-studio:               0.9
-ricerca:              0.9
-grigio:               0.9

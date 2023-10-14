@@ -1,3 +1,0 @@
-lampo:                0.9
-copyright:            0.9
-copyleft:             0.9

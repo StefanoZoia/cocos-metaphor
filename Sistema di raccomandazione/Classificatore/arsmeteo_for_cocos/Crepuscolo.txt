@@ -1,3 +1,0 @@
-pittura:              0.9
-natura:               0.9
-toccare:              0.9

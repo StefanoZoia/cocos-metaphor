@@ -1,2 +1,0 @@
-venezia:              0.9
-piazza_san_marco:     0.9

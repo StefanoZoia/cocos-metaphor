@@ -1,1 +1,0 @@
-volo_di_uccelli:      0.9

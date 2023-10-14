@@ -1,3 +1,0 @@
-coppa:                0.9
-polarità:             0.9
-festa:                0.9

@@ -1,3 +1,0 @@
-arte_della_fuga:      0.9
-infinito:             0.9
-calma_apparente:      0.9

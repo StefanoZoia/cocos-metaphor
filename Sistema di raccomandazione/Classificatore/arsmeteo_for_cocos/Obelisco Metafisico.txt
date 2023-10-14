@@ -1,2 +1,0 @@
-obelisco:             0.9
-metafisico:           0.9

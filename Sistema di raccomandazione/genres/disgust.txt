@@ -1,6 +1,0 @@
-cannibalism: 0.953
-mutilation: 0.930
-molestation: 0.914
-incest: 0.914
-gonorrhea: 0.906
-rape: 0.906

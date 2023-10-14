@@ -1,5 +1,0 @@
-metamorfosi:          0.9
-metropoli:            0.9
-urbano:               0.9
-uomo:                 0.9
-grigiore:             0.9

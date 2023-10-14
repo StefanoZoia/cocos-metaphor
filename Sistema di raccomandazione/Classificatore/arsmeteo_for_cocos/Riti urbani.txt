@@ -1,3 +1,0 @@
-travestimento:        0.9
-ricorrenza:           0.9
-festa:                0.9

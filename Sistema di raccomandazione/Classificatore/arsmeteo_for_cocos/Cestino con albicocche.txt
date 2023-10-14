@@ -1,2 +1,0 @@
-cestino:              0.9
-albicocca:            0.9

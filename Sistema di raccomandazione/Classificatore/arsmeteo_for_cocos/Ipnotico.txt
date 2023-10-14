@@ -1,2 +1,0 @@
-coccinella:           0.9
-ragno:                0.9

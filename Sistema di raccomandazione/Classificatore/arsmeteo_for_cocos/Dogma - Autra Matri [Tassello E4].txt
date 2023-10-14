@@ -1,2 +1,0 @@
-quadrumane:           0.9
-dogma:                0.9

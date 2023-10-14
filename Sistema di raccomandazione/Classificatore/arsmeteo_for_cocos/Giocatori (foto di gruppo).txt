@@ -1,3 +1,0 @@
-giocatore:            0.9
-carta:                0.9
-gruppo:               0.9

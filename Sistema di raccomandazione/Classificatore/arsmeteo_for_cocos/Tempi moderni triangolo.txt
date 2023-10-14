@@ -1,3 +1,0 @@
-superamento_pregiudizi:0.9
-amore:                0.9
-futuro:               0.9

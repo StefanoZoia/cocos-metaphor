@@ -1,3 +1,0 @@
-esplorazione:         0.9
-tiger:                0.9
-spiderman:            0.9

@@ -1,3 +1,0 @@
-termovalorizzatori:   0.9
-bocca:                0.9
-polmone:              0.9

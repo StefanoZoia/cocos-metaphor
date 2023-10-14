@@ -1,6 +1,0 @@
-quadreria:            0.9
-carta:                0.9
-parato:               0.9
-decorazione:          0.9
-pittura:              0.9
-segno:                0.9

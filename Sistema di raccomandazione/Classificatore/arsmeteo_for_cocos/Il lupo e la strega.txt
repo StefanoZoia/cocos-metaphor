@@ -1,2 +1,0 @@
-lupo:                 0.9
-strega:               0.9

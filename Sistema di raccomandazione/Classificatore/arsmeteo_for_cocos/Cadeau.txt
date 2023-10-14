@@ -1,3 +1,0 @@
-fiocco:               0.9
-materiale:            0.9
-zaffiro:              0.9

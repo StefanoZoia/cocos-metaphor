@@ -1,1 +1,0 @@
-fiore_di_loto:        0.9

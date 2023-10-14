@@ -1,3 +1,0 @@
-ragazzo:              0.9
-tristezza:            0.9
-celare:               0.9

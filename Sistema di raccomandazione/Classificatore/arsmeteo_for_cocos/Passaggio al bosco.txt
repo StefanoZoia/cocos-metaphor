@@ -1,2 +1,0 @@
-ombra:                0.9
-presenze_metafisiche: 0.9

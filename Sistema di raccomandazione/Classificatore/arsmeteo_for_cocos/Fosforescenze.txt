@@ -1,3 +1,0 @@
-colore_pink:          0.9
-forza:                0.9
-mandare:              0.9

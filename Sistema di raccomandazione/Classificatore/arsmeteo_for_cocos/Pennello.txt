@@ -1,1 +1,0 @@
-pennello:             0.9

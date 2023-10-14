@@ -1,6 +1,0 @@
-cristianità:          0.9
-chiesa:               0.9
-campanile:            0.9
-arancia:              0.9
-linea:                0.9
-geometria:            0.9

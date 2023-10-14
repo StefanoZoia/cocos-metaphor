@@ -1,3 +1,0 @@
-violino:              0.9
-anguria:              0.9
-libro:                0.9

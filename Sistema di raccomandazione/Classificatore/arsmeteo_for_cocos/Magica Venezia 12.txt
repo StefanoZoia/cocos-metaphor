@@ -1,2 +1,0 @@
-acquerello:           0.9
-cartoncino:           0.9

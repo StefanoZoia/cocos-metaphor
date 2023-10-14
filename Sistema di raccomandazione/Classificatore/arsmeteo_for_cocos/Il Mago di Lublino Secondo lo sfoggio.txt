@@ -1,3 +1,0 @@
-presenza:             0.9
-stile:                0.9
-baldanza:             0.9

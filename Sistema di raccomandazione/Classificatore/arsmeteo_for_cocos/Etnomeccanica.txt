@@ -1,3 +1,0 @@
-etnico:               0.9
-meccanica:            0.9
-etnomeccanica:        0.9

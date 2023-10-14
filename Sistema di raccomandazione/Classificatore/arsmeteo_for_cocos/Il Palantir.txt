@@ -1,3 +1,0 @@
-tolkien:              0.9
-sfera:                0.9
-conoscenza:           0.9

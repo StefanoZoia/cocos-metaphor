@@ -1,2 +1,0 @@
-manichino:            0.9
-autoinarte:           0.9

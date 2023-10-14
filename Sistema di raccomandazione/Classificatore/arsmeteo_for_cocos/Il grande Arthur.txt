@@ -1,3 +1,0 @@
-poesia:               0.9
-rifotografare:        0.9
-vagabondaggio:        0.9

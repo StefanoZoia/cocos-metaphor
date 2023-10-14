@@ -1,4 +1,0 @@
-chiarore:             0.9
-meta:                 0.9
-sorvolare:            0.9
-luce:                 0.9

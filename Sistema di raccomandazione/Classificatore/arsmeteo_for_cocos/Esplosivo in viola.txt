@@ -1,1 +1,0 @@
-esplosivo:            0.9

@@ -1,3 +1,0 @@
-tema:                 0.9
-materiale:            0.9
-ricorsività:          0.9

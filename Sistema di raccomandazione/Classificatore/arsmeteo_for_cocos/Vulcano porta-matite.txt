@@ -1,2 +1,0 @@
-lava:                 0.9
-bocche_di_vulcano:    0.9

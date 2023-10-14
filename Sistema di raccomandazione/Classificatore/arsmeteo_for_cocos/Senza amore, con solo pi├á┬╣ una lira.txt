@@ -1,4 +1,0 @@
-gatto:                0.9
-amore:                0.9
-lira:                 0.9
-notte:                0.9

@@ -1,2 +1,0 @@
-bang_di_bang:         0.9
-bruxelles:            0.9

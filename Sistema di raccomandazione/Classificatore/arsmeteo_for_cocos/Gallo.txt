@@ -1,3 +1,0 @@
-gallo:                0.9
-solo:                 0.9
-colore:               0.9

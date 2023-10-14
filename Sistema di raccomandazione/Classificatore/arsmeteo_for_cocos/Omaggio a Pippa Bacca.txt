@@ -1,4 +1,0 @@
-pippa_bacca:          0.9
-omaggio:              0.9
-ricordo:              0.9
-mauro_marino:         0.9

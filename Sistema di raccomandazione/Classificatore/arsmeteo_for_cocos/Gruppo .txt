@@ -1,3 +1,0 @@
-danzatrice:           0.9
-esotico:              0.9
-india:                0.9

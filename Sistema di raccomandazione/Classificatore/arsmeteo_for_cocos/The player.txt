@@ -1,3 +1,0 @@
-player:               0.9
-giocatore:            0.9
-scacco:               0.9

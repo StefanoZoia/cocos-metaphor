@@ -1,2 +1,0 @@
-nonna:                0.9
-tradizione:           0.9

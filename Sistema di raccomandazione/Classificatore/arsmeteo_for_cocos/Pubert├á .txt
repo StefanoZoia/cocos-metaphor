@@ -1,3 +1,0 @@
-acquarello:           0.9
-carta:                0.9
-cm:                   0.9

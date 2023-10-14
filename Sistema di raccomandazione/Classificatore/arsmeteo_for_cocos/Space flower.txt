@@ -1,4 +1,0 @@
-fiore:                0.9
-frattali:             0.9
-spazio:               0.9
-crescita:             0.9

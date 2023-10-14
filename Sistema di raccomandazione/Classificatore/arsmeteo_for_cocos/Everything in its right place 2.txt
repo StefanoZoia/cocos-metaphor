@@ -1,3 +1,0 @@
-radiohead:            0.9
-feto:                 0.9
-bianco_e_nero:        0.9

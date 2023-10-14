@@ -1,4 +1,0 @@
-donna:                0.9
-sensualità:           0.9
-mistero:              0.9
-irraggiungibile:      0.9

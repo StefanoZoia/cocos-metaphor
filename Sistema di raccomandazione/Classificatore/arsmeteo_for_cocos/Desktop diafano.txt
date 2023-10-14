@@ -1,3 +1,0 @@
-diafanie:             0.9
-grago_logia:          0.9
-desktop:              0.9

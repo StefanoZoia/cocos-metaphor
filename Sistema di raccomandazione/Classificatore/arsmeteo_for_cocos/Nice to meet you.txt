@@ -1,4 +1,0 @@
-natale:               0.9
-babbo_natale:         0.9
-incontro:             0.9
-statua:               0.9

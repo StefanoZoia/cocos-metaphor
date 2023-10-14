@@ -1,4 +1,0 @@
-gatto:                0.9
-sonno:                0.9
-eternità:             0.9
-pace:                 0.9

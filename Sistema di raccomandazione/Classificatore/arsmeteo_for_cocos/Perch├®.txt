@@ -1,3 +1,0 @@
-domanda:              0.9
-china:                0.9
-disegno:              0.9

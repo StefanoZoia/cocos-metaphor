@@ -1,3 +1,0 @@
-cerchio:              0.9
-cerchi_concentrici:   0.9
-orbita:               0.9

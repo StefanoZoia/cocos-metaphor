@@ -1,4 +1,0 @@
-tempo:                0.9
-mutazione:            0.9
-spazio:               0.9
-passaggio:            0.9

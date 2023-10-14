@@ -1,3 +1,0 @@
-leggerezza:           0.9
-segno_artificiale:    0.9
-luce:                 0.9

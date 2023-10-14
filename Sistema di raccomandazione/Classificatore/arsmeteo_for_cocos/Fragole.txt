@@ -1,2 +1,0 @@
-tecnica:              0.9
-velina:               0.9

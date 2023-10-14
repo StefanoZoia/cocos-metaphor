@@ -1,5 +1,0 @@
-disco:                0.9
-fatina-:              0.9
-dolcetto:             0.9
-illustrazione:        0.9
-alfabeto:             0.9

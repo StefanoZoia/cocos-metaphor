@@ -1,1 +1,0 @@
-grammatica_visiva:    0.9

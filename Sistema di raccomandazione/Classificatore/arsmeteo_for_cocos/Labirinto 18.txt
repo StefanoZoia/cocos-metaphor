@@ -1,3 +1,0 @@
-guerra:               0.9
-lacerazione:          0.9
-sangue:               0.9

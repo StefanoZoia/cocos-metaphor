@@ -1,4 +1,0 @@
-umido:                0.9
-strada:               0.9
-pioggia:              0.9
-highway:              0.9

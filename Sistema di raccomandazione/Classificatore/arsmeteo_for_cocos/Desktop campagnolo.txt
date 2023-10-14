@@ -1,4 +1,0 @@
-memoria:              0.9
-grafo_logia:          0.9
-desktop:              0.9
-disegno:              0.9

@@ -1,4 +1,0 @@
-pittore:              0.9
-colore:               0.9
-collage:              0.9
-carta:                0.9

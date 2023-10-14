@@ -1,4 +1,0 @@
-star:                 0.9
-porre:                0.9
-divano:               0.9
-campagna:             0.9

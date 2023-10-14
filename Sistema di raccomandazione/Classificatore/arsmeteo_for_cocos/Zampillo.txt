@@ -1,3 +1,0 @@
-viraggio:             0.9
-reticolo:             0.9
-zampillo:             0.9

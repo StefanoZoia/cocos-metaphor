@@ -1,4 +1,0 @@
-periferia:            0.9
-posa:                 0.9
-mattino:              0.9
-incontro:             0.9

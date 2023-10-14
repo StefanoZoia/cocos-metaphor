@@ -1,1 +1,0 @@
-stelle_e_striscie:    0.9

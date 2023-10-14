@@ -1,2 +1,0 @@
-studio:               0.9
-cane:                 0.9

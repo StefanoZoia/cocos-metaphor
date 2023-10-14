@@ -1,4 +1,0 @@
-adrassan:             0.9
-solo:                 0.9
-freaks:               0.9
-natura:               0.9

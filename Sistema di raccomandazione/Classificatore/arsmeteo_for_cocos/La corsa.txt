@@ -1,4 +1,0 @@
-ruota:                0.9
-velocità:             0.9
-corsa:                0.9
-futurismo_emozionale: 0.9

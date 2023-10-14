@@ -1,3 +1,0 @@
-anima:                0.9
-viandante:            0.9
-riposo:               0.9

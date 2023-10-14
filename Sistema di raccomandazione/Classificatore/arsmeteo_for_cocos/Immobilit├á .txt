@@ -1,4 +1,0 @@
-tempo:                0.9
-immobile:             0.9
-sereno:               0.9
-incombente:           0.9

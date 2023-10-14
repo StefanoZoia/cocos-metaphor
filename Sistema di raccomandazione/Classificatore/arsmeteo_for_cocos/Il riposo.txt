@@ -1,3 +1,0 @@
-riposo:               0.9
-cane:                 0.9
-dik:                  0.9

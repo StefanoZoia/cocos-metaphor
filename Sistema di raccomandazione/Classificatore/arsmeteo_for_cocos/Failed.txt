@@ -1,3 +1,0 @@
-studio:               0.9
-collage:              0.9
-diafanie:             0.9

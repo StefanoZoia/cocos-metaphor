@@ -1,5 +1,0 @@
-silvio:               0.9
-berlusconi:           0.9
-satira:               0.9
-politica:             0.9
-photoshop:            0.9

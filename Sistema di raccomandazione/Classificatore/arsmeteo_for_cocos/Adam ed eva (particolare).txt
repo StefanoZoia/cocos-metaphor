@@ -1,2 +1,0 @@
-rosso:                0.9
-psiche:               0.9

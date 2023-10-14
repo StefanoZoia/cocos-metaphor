@@ -1,2 +1,0 @@
-notturno:             0.9
-barchetta_di_carta:   0.9

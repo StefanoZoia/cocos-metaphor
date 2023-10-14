@@ -1,3 +1,0 @@
-ripetizione:          0.9
-frattali_naturali:    0.9
-ricorsivi:            0.9

@@ -1,2 +1,0 @@
-merenda:              0.9
-sinoira:              0.9

@@ -1,6 +1,0 @@
-dehors:               0.9
-tavolino:             0.9
-sedia:                0.9
-avventore:            0.9
-ombrellone:           0.9
-relax:                0.9

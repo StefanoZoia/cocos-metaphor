@@ -1,3 +1,0 @@
-orma:                 0.9
-sabbia:               0.9
-impronta:             0.9

@@ -1,2 +1,0 @@
-ombra:                0.9
-grafia:               0.9

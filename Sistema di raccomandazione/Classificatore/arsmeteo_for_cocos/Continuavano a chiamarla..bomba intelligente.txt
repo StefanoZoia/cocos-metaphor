@@ -1,3 +1,0 @@
-cartone:              0.9
-matita:               0.9
-acrilico:             0.9

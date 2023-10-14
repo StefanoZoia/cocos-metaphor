@@ -1,4 +1,0 @@
-libro:                0.9
-hugo:                 0.9
-edificio:             0.9
-parigi:               0.9

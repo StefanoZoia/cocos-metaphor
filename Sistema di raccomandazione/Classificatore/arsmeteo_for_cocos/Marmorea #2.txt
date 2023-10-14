@@ -1,2 +1,0 @@
-blu:                  0.9
-venatura:             0.9

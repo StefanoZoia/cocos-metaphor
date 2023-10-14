@@ -1,2 +1,0 @@
-fumetto:              0.9
-superman:             0.9

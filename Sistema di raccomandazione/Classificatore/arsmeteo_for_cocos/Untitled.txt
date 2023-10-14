@@ -1,2 +1,0 @@
-graffito:             0.9
-arte_contemporanea:   0.9

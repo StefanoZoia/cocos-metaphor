@@ -1,3 +1,0 @@
-totem:                0.9
-disegno:              0.9
-giallo:               0.9

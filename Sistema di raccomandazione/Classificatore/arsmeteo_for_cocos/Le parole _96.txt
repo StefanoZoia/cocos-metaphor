@@ -1,3 +1,0 @@
-parola:               0.9
-solo:                 0.9
-urlo:                 0.9

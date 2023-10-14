@@ -1,3 +1,0 @@
-odalisca:             0.9
-danzatroce:           0.9
-anonimo:              0.9

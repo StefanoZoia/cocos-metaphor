@@ -1,5 +1,0 @@
-drago:                0.9
-essenza:              0.9
-spirito:              0.9
-turbolenza:           0.9
-energia:              0.9

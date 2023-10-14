@@ -1,6 +1,0 @@
-anticipation: 0.859
-excited: 0.859
-eagerness: 0.812
-expectant: 0.789
-thrilling: 0.781
-hope: 0.773

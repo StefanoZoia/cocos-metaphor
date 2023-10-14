@@ -1,5 +1,0 @@
-on_behalf_of:         0.9
-iacopus:              0.9
-bohumillo:            0.9
-evoluzione:           0.9
-segno:                0.9

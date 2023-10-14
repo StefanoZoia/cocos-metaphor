@@ -1,5 +1,0 @@
-lettera_x:            0.9
-ragno:                0.9
-libro:                0.9
-affinità:             0.9
-libro_aperto:         0.9

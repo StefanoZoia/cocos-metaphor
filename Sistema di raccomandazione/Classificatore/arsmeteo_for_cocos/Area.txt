@@ -1,4 +1,0 @@
-verde:                0.9
-habitat:              0.9
-tessitura:            0.9
-emblema:              0.9

@@ -1,5 +1,0 @@
-tv:                   0.9
-arancio:              0.9
-nero:                 0.9
-chiaro:               0.9
-sfocare:              0.9

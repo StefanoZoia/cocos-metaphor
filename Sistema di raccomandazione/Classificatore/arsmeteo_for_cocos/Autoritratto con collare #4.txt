@@ -1,2 +1,0 @@
-ri_costruzione:       0.9
-entelecheia:          0.9

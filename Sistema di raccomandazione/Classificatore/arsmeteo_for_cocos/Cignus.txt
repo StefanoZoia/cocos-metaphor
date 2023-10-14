@@ -1,3 +1,0 @@
-modigliani:           0.9
-bestiario:            0.9
-stilismo:             0.9

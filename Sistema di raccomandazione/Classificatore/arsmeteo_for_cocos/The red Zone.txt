@@ -1,3 +1,0 @@
-incisione:            0.9
-libido:               0.9
-materiale:            0.9

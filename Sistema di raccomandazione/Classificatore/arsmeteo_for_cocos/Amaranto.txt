@@ -1,2 +1,0 @@
-petalo:               0.9
-mandare:              0.9

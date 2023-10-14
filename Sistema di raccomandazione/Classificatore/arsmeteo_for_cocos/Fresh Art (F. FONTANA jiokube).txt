@@ -1,3 +1,0 @@
-fresh_art:            0.9
-jiokube:              0.9
-fabrizio_fontana:     0.9

@@ -1,4 +1,0 @@
-scheletro:            0.9
-abominevole:          0.9
-thanatos:             0.9
-maschera_tragica:     0.9

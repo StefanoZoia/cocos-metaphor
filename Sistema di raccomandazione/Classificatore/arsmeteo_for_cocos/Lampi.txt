@@ -1,2 +1,0 @@
-polso:                0.9
-hypno:                0.9

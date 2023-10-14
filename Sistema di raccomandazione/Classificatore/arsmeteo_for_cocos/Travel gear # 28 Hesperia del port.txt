@@ -1,3 +1,0 @@
-con_senso:            0.9
-ricostruire_spazi_temporanei:0.9
-travel_gear:          0.9

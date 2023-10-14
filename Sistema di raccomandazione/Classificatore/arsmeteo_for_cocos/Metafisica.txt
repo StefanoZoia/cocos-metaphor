@@ -1,3 +1,0 @@
-astr_azione:          0.9
-studio:               0.9
-filosofi_al_computer: 0.9

@@ -1,3 +1,0 @@
-acqua:                0.9
-rifotografare:        0.9
-labbrone:             0.9

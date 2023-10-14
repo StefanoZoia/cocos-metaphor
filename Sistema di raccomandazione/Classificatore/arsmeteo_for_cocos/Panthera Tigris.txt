@@ -1,3 +1,0 @@
-bestiario:            0.9
-incubo:               0.9
-puntilismo:           0.9

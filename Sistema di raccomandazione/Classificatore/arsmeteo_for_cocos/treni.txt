@@ -1,4 +1,0 @@
-tramonto:             0.9
-tradotta:             0.9
-tramestio:            0.9
-trotto:               0.9

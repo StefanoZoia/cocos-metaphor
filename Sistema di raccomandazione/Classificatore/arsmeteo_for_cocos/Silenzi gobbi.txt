@@ -1,2 +1,0 @@
-videopoesia:          0.9
-cut-up:               0.9

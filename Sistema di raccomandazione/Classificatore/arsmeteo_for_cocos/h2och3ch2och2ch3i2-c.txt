@@ -1,1 +1,0 @@
-movimento:            0.9

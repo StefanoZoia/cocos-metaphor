@@ -1,3 +1,0 @@
-eskadi:               0.9
-aska:                 0.9
-concerto:             0.9

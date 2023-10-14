@@ -1,4 +1,0 @@
-oggetto:              0.9
-travel_gear:          0.9
-legame:               0.9
-comunicazione:        0.9

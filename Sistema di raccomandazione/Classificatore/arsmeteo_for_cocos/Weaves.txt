@@ -1,3 +1,0 @@
-intreccio:            0.9
-intrico:              0.9
-complessità:          0.9

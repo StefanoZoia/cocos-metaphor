@@ -1,3 +1,0 @@
-ormbre:               0.9
-tremolio:             0.9
-cellulare:            0.9

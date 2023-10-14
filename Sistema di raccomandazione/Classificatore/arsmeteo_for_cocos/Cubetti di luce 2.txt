@@ -1,5 +1,0 @@
-cubetto:              0.9
-rosso_blu:            0.9
-cielo_notturno:       0.9
-anniversario:         0.9
-buren:                0.9

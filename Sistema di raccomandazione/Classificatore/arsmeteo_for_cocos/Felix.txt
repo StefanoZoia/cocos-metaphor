@@ -1,4 +1,0 @@
-gatto:                0.9
-muretto:              0.9
-violino:              0.9
-notte:                0.9

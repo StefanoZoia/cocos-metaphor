@@ -1,4 +1,0 @@
-lettura:              0.9
-rilassatezza:         0.9
-libertà:              0.9
-piacere:              0.9

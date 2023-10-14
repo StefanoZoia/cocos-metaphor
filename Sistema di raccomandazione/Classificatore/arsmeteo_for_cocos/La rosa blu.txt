@@ -1,3 +1,0 @@
-rosa:                 0.9
-frattale:             0.9
-blu:                  0.9

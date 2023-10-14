@@ -1,4 +1,0 @@
-sposo:                0.9
-morte:                0.9
-amore:                0.9
-infinito:             0.9

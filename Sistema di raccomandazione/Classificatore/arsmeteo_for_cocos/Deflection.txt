@@ -1,4 +1,0 @@
-fluttuante:           0.9
-simmetria:            0.9
-architettura_improbabile:0.9
-abitazione:           0.9

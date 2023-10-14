@@ -1,3 +1,0 @@
-figurativo:           0.9
-gran_paradiso:        0.9
-tela:                 0.9

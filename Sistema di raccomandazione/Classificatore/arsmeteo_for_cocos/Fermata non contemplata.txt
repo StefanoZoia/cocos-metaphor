@@ -1,5 +1,0 @@
-fermata:              0.9
-arresto:              0.9
-attesa:               0.9
-stop:                 0.9
-pausa:                0.9

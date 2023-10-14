@@ -1,3 +1,0 @@
-santa:                0.9
-baratto:              0.9
-anna:                 0.9

@@ -1,2 +1,0 @@
-elettronica:          0.9
-vintage:              0.9

@@ -1,5 +1,0 @@
-galatina:             0.9
-jioko:                0.9
-calcio_balilla:       0.9
-biancheria:           0.9
-fontana:              0.9

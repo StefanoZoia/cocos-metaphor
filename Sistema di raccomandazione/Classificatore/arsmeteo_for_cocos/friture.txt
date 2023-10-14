@@ -1,3 +1,0 @@
-grasso_che_cola:      0.9
-tradizione:           0.9
-delikatessen:         0.9

@@ -1,3 +1,0 @@
-caos:                 0.9
-volontà:              0.9
-colore_giallo:        0.9

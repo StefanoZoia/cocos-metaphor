@@ -1,1 +1,0 @@
-manichino:            0.9

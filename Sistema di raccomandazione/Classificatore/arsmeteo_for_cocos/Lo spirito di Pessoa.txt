@@ -1,2 +1,0 @@
-pochoir:              0.9
-muro:                 0.9

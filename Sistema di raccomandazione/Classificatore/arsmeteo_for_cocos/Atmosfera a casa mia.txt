@@ -1,1 +1,0 @@
-atmosfera:            0.9

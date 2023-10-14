@@ -1,3 +1,0 @@
-madelaine:            0.9
-mano:                 0.9
-riflesso:             0.9

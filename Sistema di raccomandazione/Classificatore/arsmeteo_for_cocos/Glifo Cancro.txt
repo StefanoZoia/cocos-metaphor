@@ -1,2 +1,0 @@
-glifo:                0.9
-cancro:               0.9

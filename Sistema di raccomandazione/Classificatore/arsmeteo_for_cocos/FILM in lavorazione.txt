@@ -1,2 +1,0 @@
-costume:              0.9
-figurino:             0.9

@@ -1,4 +1,0 @@
-genio:                0.9
-desiderio:            0.9
-lampada:              0.9
-sorpresa:             0.9

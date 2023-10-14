@@ -1,3 +1,0 @@
-attesa:               0.9
-gestuale:             0.9
-vestito_viola:        0.9

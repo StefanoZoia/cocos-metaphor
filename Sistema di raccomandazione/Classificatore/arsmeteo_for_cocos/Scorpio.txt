@@ -1,3 +1,0 @@
-sgorbio:              0.9
-animale:              0.9
-in_cauda_venenum:     0.9

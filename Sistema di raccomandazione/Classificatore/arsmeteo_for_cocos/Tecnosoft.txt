@@ -1,4 +1,0 @@
-luce:                 0.9
-lampada:              0.9
-sottosopra:           0.9
-soffitto:             0.9

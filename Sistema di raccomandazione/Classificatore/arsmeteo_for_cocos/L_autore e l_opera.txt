@@ -1,2 +1,0 @@
-autore:               0.9
-opera:                0.9

@@ -1,4 +1,0 @@
-afrodite:             0.9
-conchiglia:           0.9
-oro:                  0.9
-dea:                  0.9

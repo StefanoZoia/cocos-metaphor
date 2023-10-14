@@ -1,4 +1,0 @@
-mente:                0.9
-paesaggio_mentale:    0.9
-spira:                0.9
-orizzonte:            0.9

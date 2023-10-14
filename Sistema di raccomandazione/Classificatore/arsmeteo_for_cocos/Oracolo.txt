@@ -1,4 +1,0 @@
-futuro:               0.9
-domanda:              0.9
-risposta:             0.9
-paura:                0.9

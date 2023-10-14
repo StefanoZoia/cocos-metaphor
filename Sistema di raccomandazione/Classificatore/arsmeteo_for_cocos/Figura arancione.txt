@@ -1,2 +1,0 @@
-donna:                0.9
-vestito_arancione:    0.9

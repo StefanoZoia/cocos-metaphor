@@ -1,4 +1,0 @@
-barriere_architettoniche:0.9
-inciviltà:            0.9
-incatenare:           0.9
-costrizione:          0.9

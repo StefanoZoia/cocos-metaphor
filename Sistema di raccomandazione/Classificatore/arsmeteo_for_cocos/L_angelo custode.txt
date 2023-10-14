@@ -1,3 +1,0 @@
-angelo:               0.9
-angelo_custode:       0.9
-protezione:           0.9

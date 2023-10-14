@@ -1,5 +1,0 @@
-tuareg:               0.9
-deserto:              0.9
-tradizione:           0.9
-conoscenza:           0.9
-territorio:           0.9

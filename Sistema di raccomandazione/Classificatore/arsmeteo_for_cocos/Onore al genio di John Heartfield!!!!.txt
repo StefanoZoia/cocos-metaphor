@@ -1,3 +1,0 @@
-collage:              0.9
-politico:             0.9
-soldo:                0.9

@@ -1,3 +1,0 @@
-natura_silente:       0.9
-zucca:                0.9
-tavola:               0.9

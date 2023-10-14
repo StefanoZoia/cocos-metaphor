@@ -1,4 +1,0 @@
-binario:              0.9
-simmetria:            0.9
-colore:               0.9
-meta:                 0.9

@@ -1,3 +1,0 @@
-pittore:              0.9
-claudio_guasti:       0.9
-gioconda_giocosa:     0.9

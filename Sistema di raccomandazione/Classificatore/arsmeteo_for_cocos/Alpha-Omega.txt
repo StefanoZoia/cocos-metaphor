@@ -1,3 +1,0 @@
-espansione:           0.9
-geometria:            0.9
-iperbole:             0.9

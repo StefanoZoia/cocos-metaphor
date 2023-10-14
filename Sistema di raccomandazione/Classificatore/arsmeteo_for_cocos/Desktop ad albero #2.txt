@@ -1,3 +1,0 @@
-il_logico:            0.9
-ricorrente:           0.9
-circolare:            0.9

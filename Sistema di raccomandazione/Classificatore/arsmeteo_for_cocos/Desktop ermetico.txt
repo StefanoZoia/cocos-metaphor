@@ -1,3 +1,0 @@
-ermetismo:            0.9
-ermetis:              0.9
-ermes_metis:          0.9

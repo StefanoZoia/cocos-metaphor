@@ -1,2 +1,0 @@
-sogno_o_son:          0.9
-_desto:               0.9

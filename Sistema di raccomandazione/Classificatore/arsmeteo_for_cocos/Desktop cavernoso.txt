@@ -1,2 +1,0 @@
-buio:                 0.9
-materia_sospesa:      0.9

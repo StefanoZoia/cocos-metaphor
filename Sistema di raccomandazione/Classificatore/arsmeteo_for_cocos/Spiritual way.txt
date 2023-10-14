@@ -1,2 +1,0 @@
-ricerca:              0.9
-anelo:                0.9

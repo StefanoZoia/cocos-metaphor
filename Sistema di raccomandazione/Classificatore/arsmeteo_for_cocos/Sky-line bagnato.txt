@@ -1,5 +1,0 @@
-goccia:               0.9
-buquebus:             0.9
-temporale:            0.9
-arrivo:               0.9
-porto:                0.9

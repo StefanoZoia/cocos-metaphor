@@ -1,3 +1,0 @@
-caino:                0.9
-fratello:             0.9
-occhio:               0.9

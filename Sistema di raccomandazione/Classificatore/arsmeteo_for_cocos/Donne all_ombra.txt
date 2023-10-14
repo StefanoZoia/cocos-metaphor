@@ -1,5 +1,0 @@
-fotografia:           0.9
-donna:                0.9
-velo:                 0.9
-gerusalemme:          0.9
-ombra:                0.9

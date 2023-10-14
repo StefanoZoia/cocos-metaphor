@@ -1,4 +1,0 @@
-lago:                 0.9
-vegetazione:          0.9
-meraviglia:           0.9
-natura:               0.9

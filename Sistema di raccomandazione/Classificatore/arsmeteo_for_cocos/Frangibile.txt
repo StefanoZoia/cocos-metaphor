@@ -1,2 +1,0 @@
-vetro:                0.9
-frangibile:           0.9

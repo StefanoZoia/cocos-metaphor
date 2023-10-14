@@ -1,4 +1,0 @@
-anorex:               0.9
-aniressia:            0.9
-coniglio:             0.9
-scheletro:            0.9

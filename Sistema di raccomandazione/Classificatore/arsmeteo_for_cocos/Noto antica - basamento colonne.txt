@@ -1,1 +1,0 @@
-basamento_colonne:    0.9

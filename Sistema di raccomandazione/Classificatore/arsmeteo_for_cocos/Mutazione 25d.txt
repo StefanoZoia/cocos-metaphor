@@ -1,2 +1,0 @@
-disumano:             0.9
-ferire:               0.9

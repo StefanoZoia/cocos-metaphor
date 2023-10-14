@@ -1,4 +1,0 @@
-mondo:                0.9
-sublunare:            0.9
-buio:                 0.9
-pupazzo:              0.9

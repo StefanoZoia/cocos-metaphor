@@ -1,3 +1,0 @@
-crepa:                0.9
-lontananza:           0.9
-virtuale:             0.9

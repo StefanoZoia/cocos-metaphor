@@ -1,2 +1,0 @@
-foresta:              0.9
-mostro:               0.9

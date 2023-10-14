@@ -1,4 +1,0 @@
-paesaggio_preso_in_prestito:0.9
-collina:              0.9
-prato:                0.9
-bianco_e_nero:        0.9

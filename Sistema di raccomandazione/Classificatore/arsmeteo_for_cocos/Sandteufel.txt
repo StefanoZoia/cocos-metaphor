@@ -1,4 +1,0 @@
-corno:                0.9
-sabbia:               0.9
-diavolo:              0.9
-conchiglia:           0.9

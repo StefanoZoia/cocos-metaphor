@@ -1,3 +1,0 @@
-fungo:                0.9
-mucillagine:          0.9
-cosa:                 0.9

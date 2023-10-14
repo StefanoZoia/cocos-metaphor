@@ -1,2 +1,0 @@
-impeto:               0.9
-tramonto:             0.9

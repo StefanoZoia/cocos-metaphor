@@ -1,5 +1,0 @@
-baubaubeach:          0.9
-cane:                 0.9
-bagnante:             0.9
-spiaggia:             0.9
-mare:                 0.9

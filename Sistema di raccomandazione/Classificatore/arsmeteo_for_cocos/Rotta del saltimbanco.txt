@@ -1,3 +1,0 @@
-mappa:                0.9
-rotta:                0.9
-totem:                0.9

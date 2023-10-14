@@ -1,3 +1,0 @@
-ira:                  0.9
-collera:              0.9
-rabbia:               0.9

@@ -1,3 +1,0 @@
-tavola_semantica:     0.9
-avventore_nano:       0.9
-doppia_personalità:   0.9

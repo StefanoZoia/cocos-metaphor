@@ -1,3 +1,0 @@
-trapano:              0.9
-chiodo:               0.9
-metallo:              0.9

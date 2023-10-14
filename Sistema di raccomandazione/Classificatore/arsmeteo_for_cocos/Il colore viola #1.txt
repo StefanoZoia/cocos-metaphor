@@ -1,2 +1,0 @@
-strati_grafia:        0.9
-blu:                  0.9

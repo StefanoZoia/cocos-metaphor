@@ -1,5 +1,0 @@
-cielo:                0.9
-ottagono:             0.9
-castel_del_monte:     0.9
-mistero:              0.9
-ottagonale:           0.9

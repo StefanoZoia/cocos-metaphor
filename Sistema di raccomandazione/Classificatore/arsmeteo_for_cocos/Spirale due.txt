@@ -1,5 +1,0 @@
-movimento:            0.9
-visione:              0.9
-colore:               0.9
-digitalart:           0.9
-spirale:              0.9

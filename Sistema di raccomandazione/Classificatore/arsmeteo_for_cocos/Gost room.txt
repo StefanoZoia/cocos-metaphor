@@ -1,3 +1,0 @@
-fantasma:             0.9
-rave:                 0.9
-striscia:             0.9

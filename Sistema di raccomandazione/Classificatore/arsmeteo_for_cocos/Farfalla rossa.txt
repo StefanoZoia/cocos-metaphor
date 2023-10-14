@@ -1,2 +1,0 @@
-farfalla_rossa:       0.9
-in_volo:              0.9

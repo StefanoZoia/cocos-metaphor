@@ -1,4 +1,0 @@
-barbona|barbone:      0.9
-chitarra:             0.9
-notte:                0.9
-luce:                 0.9

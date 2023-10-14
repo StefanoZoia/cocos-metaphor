@@ -1,3 +1,0 @@
-caravella:            0.9
-barcellona:           0.9
-cartolina:            0.9

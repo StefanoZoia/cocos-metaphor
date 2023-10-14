@@ -1,2 +1,0 @@
-ahi:                  0.9
-bang_di_bang:         0.9

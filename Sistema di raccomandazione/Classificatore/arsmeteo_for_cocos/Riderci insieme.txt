@@ -1,1 +1,0 @@
-insieme_verso:        0.9

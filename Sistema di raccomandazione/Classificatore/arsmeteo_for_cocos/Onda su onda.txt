@@ -1,3 +1,0 @@
-onda:                 0.9
-estivo:               0.9
-notturno:             0.9

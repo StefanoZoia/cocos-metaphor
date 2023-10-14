@@ -1,2 +1,0 @@
-ascii_code:           0.9
-zhuge_liang:          0.9

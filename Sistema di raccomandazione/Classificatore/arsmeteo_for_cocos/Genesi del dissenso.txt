@@ -1,6 +1,0 @@
-massa:                0.9
-consenso:             0.9
-dissenso:             0.9
-uniformità:           0.9
-variazione:           0.9
-ripetizione:          0.9

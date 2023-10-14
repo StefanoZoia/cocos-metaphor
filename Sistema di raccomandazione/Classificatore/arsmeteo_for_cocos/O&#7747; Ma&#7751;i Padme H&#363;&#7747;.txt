@@ -1,3 +1,0 @@
-mantra:               0.9
-numero:               0.9
-cabala:               0.9

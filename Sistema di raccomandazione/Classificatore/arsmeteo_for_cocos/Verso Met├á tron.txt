@@ -1,4 +1,0 @@
-sincronicità:         0.9
-linea:                0.9
-farfalla:             0.9
-cabala:               0.9

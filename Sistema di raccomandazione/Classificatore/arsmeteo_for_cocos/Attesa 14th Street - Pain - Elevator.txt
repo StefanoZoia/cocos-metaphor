@@ -1,3 +1,0 @@
-attesa:               0.9
-rumore:               0.9
-odore:                0.9

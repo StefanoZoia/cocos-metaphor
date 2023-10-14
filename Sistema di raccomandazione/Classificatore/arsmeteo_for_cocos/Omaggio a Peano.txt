@@ -1,3 +1,0 @@
-curva:                0.9
-omaggio:              0.9
-nous:                 0.9

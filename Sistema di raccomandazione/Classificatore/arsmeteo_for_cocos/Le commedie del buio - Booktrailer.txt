@@ -1,3 +1,0 @@
-commedia:             0.9
-buio:                 0.9
-booktrailer:          0.9

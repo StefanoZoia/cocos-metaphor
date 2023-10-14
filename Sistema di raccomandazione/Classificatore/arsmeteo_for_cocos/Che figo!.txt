@@ -1,6 +1,0 @@
-autoreferenziale:     0.9
-icona:                0.9
-iconicità:            0.9
-metaicona:            0.9
-metaiconicità:        0.9
-autosponsor:          0.9

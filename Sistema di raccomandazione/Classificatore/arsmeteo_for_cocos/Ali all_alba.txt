@@ -1,2 +1,0 @@
-abbraccio:            0.9
-mano:                 0.9

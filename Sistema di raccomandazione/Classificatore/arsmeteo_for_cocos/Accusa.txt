@@ -1,2 +1,0 @@
-selezione:            0.9
-naturale:             0.9

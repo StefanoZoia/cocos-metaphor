@@ -1,3 +1,0 @@
-pegaso:               0.9
-evolution:            0.9
-evoluzione:           0.9

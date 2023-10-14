@@ -1,6 +1,0 @@
-consapevolezza:       0.9
-beatitudine:          0.9
-solo:                 0.9
-animale:              0.9
-riflessivo:           0.9
-sicuro:               0.9

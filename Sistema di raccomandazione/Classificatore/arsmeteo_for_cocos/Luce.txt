@@ -1,4 +1,0 @@
-luminescenza:         0.9
-luce:                 0.9
-riflesso:             0.9
-colore_bianco:        0.9

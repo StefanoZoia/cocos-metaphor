@@ -1,3 +1,0 @@
-tenerezza:            0.9
-attenzione:           0.9
-cultura:              0.9

@@ -1,4 +1,0 @@
-messico:              0.9
-polvere:              0.9
-sonno:                0.9
-povertà:              0.9

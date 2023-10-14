@@ -1,5 +1,0 @@
-buddha:               0.9
-attesa:               0.9
-esterno:              0.9
-sedere:               0.9
-aria:                 0.9

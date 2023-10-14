@@ -1,4 +1,0 @@
-nebulosa:             0.9
-cetonia:              0.9
-linea:                0.9
-luce:                 0.9

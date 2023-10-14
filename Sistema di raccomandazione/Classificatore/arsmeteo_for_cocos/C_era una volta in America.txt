@@ -1,3 +1,0 @@
-acrilico+matita+pastelli:0.9
-olio:                 0.9
-cartone:              0.9

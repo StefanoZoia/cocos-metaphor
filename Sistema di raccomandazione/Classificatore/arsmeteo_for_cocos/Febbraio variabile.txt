@@ -1,3 +1,0 @@
-febbraio:             0.9
-quadratino:           0.9
-quadratinismo:        0.9

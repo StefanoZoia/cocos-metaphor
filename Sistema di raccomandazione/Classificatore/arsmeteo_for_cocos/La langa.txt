@@ -1,3 +1,0 @@
-collina:              0.9
-langa:                0.9
-densità:              0.9

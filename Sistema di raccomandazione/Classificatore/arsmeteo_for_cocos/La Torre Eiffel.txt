@@ -1,3 +1,0 @@
-liquido:              0.9
-parigi:               0.9
-torre:                0.9

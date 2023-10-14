@@ -1,2 +1,0 @@
-tr_ampolo:            0.9
-animare:              0.9

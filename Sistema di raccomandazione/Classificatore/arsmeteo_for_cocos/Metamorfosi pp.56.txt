@@ -1,2 +1,0 @@
-metamorfosi:          0.9
-rispecchiamento:      0.9

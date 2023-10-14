@@ -1,3 +1,0 @@
-melograno:            0.9
-natura_morta:         0.9
-castagna:             0.9

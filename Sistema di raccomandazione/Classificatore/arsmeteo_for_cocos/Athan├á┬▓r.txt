@@ -1,4 +1,0 @@
-athanor:              0.9
-fuoco:                0.9
-fenice:               0.9
-sogno:                0.9

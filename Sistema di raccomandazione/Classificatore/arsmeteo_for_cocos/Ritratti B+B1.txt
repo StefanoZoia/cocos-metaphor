@@ -1,5 +1,0 @@
-carta:                0.9
-acquerello:           0.9
-coppia:               0.9
-sposo:                0.9
-anniversario:         0.9

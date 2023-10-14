@@ -1,3 +1,0 @@
-glamour:              0.9
-moda:                 0.9
-provino:              0.9

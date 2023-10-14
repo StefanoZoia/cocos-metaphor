@@ -1,4 +1,0 @@
-dimensione:           0.9
-52x38:                0.9
-stampa:               0.9
-china:                0.9

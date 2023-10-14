@@ -1,3 +1,0 @@
-contrasto:            0.9
-sogno:                0.9
-miraggio:             0.9

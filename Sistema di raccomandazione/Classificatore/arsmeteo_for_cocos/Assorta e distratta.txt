@@ -1,3 +1,0 @@
-dettaglio:            0.9
-pore:                 0.9
-foto_rubate:          0.9

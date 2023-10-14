@@ -1,5 +1,0 @@
-gabbiano:             0.9
-deserto:              0.9
-mauritania:           0.9
-oceano:               0.9
-solitudine:           0.9

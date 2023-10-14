@@ -1,3 +1,0 @@
-danza:                0.9
-solstizio:            0.9
-donna:                0.9

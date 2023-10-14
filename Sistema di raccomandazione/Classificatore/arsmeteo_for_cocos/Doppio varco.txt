@@ -1,3 +1,0 @@
-doppio:               0.9
-oppio:                0.9
-pio:                  0.9

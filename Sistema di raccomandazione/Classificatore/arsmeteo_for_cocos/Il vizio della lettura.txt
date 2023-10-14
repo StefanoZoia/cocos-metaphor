@@ -1,4 +1,0 @@
-lettura:              0.9
-vizio:                0.9
-teste|testo:          0.9
-contesto:             0.9

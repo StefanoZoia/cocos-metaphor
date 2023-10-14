@@ -1,3 +1,0 @@
-linearità:            0.9
-essenzialità:         0.9
-metallico:            0.9

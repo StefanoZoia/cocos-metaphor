@@ -1,3 +1,0 @@
-accumulazione:        0.9
-polvere:              0.9
-legaccio:             0.9

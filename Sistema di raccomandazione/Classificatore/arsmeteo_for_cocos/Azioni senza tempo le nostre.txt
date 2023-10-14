@@ -1,2 +1,0 @@
-performance:          0.9
-comunicazione:        0.9

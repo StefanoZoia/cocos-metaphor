@@ -1,4 +1,0 @@
-traslazione:          0.9
-modello:              0.9
-replica:              0.9
-cellulare:            0.9

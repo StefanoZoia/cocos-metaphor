@@ -1,5 +1,0 @@
-totem:                0.9
-rosso_cadmio:         0.9
-chitarra:             0.9
-ripetizione:          0.9
-tre:                  0.9

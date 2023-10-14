@@ -1,3 +1,0 @@
-veliero:              0.9
-ricordo_di_viaggio:   0.9
-fiammifero:           0.9

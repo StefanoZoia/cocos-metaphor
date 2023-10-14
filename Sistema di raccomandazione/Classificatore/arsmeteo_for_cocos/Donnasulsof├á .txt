@@ -1,3 +1,0 @@
-olio:                 0.9
-astrazione:           0.9
-colore_grigio:        0.9

@@ -1,3 +1,0 @@
-verde:                0.9
-ramo:                 0.9
-primavera:            0.9

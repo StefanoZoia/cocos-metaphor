@@ -1,4 +1,0 @@
-fango:                0.9
-nitta:                0.9
-bruno:                0.9
-notte:                0.9

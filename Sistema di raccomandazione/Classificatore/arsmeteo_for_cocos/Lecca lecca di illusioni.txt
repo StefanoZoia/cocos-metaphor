@@ -1,4 +1,0 @@
-magia:                0.9
-luce:                 0.9
-ombra:                0.9
-evocazione:           0.9

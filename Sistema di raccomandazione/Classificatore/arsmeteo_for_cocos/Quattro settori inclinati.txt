@@ -1,2 +1,0 @@
-evoluto:              0.9
-quadratinismo:        0.9

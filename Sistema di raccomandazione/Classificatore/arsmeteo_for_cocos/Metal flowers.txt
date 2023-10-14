@@ -1,3 +1,0 @@
-incisione:            0.9
-fiore:                0.9
-metallo:              0.9

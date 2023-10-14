@@ -1,3 +1,0 @@
-arancia:              0.9
-teiera:               0.9
-limone:               0.9

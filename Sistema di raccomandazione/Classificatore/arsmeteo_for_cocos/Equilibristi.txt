@@ -1,2 +1,0 @@
-equilibrio:           0.9
-armonia:              0.9

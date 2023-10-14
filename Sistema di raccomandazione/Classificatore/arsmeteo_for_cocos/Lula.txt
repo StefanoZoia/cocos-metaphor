@@ -1,6 +1,0 @@
-brasile:              0.9
-lula:                 0.9
-digitale:             0.9
-ritratto:             0.9
-portrait:             0.9
-arte:                 0.9

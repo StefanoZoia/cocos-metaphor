@@ -1,2 +1,0 @@
-nero:                 0.9
-petrolio:             0.9

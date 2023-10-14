@@ -1,2 +1,0 @@
-girafes:              0.9
-giraffa:              0.9

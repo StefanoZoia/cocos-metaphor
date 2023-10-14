@@ -1,3 +1,0 @@
-donna_bendata:        0.9
-vista_interiore:      0.9
-drappo:               0.9

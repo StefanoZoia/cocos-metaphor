@@ -1,3 +1,0 @@
-codex:                0.9
-miniatura:            0.9
-smalto:               0.9

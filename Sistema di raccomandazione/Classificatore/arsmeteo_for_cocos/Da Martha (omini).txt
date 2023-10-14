@@ -1,4 +1,0 @@
-martha:               0.9
-elaborazione:         0.9
-omino:                0.9
-omaggio:              0.9

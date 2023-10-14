@@ -1,3 +1,0 @@
-sogno:                0.9
-terra:                0.9
-albero_che_cammina:   0.9

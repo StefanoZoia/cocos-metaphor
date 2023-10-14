@@ -1,2 +1,0 @@
-mongolfiera:          0.9
-ovale:                0.9

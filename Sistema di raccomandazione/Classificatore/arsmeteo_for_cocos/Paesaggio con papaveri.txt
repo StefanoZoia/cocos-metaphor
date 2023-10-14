@@ -1,2 +1,0 @@
-papavero:             0.9
-paesaggio:            0.9

@@ -1,3 +1,0 @@
-italiano:             0.9
-vero:                 0.9
-odio:                 0.9

@@ -1,3 +1,0 @@
-bambino:              0.9
-bolle_di_sapone:      0.9
-primavera:            0.9

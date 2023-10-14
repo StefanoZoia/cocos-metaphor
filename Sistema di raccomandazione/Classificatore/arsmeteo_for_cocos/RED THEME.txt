@@ -1,3 +1,0 @@
-red:                  0.9
-theme:                0.9
-red_ink:              0.9

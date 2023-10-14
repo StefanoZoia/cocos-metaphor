@@ -1,4 +1,0 @@
-luna:                 0.9
-donna:                0.6
-guarigione:           0.6
-simbolo:              0.6

@@ -1,2 +1,0 @@
-happiness:            0.9
-humility:             0.9

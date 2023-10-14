@@ -1,2 +1,0 @@
-totem:                0.9
-divinità:             0.9

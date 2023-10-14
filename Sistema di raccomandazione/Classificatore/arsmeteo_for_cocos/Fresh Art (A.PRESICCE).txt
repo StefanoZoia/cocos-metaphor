@@ -1,2 +1,0 @@
-freshart:             0.9
-annalisa_presicce:    0.9

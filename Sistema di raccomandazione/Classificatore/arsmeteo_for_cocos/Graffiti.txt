@@ -1,6 +1,0 @@
-graffito:             0.9
-muro:                 0.6
-mattone:              0.6
-vernice:              0.6
-urbano:               0.6
-espressione:          0.6

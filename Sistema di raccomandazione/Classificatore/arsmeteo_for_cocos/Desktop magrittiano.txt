@@ -1,3 +1,0 @@
-pioggia:              0.9
-silenzio:             0.9
-people:               0.9

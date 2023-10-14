@@ -1,3 +1,0 @@
-nous:                 0.9
-smalto:               0.9
-rettangolismo:        0.9

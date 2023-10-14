@@ -1,5 +1,0 @@
-marcia:               0.9
-lavoratore:           0.9
-diritto:              0.9
-sciopero:             0.9
-piazza:               0.9

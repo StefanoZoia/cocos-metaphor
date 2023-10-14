@@ -1,2 +1,0 @@
-triade:               0.9
-omino:                0.9

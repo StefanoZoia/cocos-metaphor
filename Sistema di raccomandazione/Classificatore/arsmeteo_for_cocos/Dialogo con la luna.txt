@@ -1,2 +1,0 @@
-_sedia_giacca_rosso:  0.9
-figura_luna_seduto_sulla:0.9

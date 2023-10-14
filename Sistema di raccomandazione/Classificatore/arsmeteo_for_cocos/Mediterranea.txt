@@ -1,5 +1,0 @@
-bicchiere:            0.9
-ragazza:              0.9
-anfora:               0.9
-vino:                 0.9
-barchetta_di_carta:   0.9

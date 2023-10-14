@@ -1,1 +1,0 @@
-saluto_riflesso:      0.9

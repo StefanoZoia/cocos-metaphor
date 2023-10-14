@@ -1,5 +1,0 @@
-paesaggio:            0.9
-colore:               0.9
-solo:                 0.9
-alba:                 0.9
-tramonto:             0.9

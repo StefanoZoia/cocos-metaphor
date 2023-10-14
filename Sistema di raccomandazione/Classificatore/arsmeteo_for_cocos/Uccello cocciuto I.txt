@@ -1,3 +1,0 @@
-città:                0.9
-muro:                 0.9
-uccello:              0.9

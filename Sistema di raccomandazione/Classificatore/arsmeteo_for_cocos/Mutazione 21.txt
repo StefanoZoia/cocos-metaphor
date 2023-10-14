@@ -1,3 +1,0 @@
-squarcio:             0.9
-interiore:            0.9
-animalità:            0.9

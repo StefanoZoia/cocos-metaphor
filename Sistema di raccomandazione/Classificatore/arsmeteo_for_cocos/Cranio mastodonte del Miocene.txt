@@ -1,3 +1,0 @@
-cranio:               0.9
-mastodonte:           0.9
-miocene:              0.9

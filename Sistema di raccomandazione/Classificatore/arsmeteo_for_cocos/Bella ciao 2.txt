@@ -1,3 +1,0 @@
-primo_maggio:         0.9
-mondina:              0.9
-bella_ciao:           0.9

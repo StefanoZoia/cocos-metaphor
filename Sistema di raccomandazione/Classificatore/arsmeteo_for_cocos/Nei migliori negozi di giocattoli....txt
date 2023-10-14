@@ -1,3 +1,0 @@
-scatola:              0.9
-giocattolo:           0.9
-personaggio:          0.9

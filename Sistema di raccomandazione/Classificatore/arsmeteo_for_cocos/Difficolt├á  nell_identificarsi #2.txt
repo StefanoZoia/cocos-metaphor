@@ -1,3 +1,0 @@
-informale:            0.9
-oscilazioni:          0.9
-vaghezza:             0.9

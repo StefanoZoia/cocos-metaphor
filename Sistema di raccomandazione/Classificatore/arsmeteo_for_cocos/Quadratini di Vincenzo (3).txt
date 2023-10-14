@@ -1,2 +1,0 @@
-quadratino:           0.9
-con_girasole:         0.9

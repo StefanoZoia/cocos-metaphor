@@ -1,3 +1,0 @@
-donna:                0.9
-fugura:               0.9
-bronzo:               0.9

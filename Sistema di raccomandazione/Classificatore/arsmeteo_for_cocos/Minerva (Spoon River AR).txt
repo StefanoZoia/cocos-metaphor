@@ -1,3 +1,0 @@
-minerva:              0.9
-teatro:               0.9
-spoon_river:          0.9

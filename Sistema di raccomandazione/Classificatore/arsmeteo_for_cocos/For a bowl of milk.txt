@@ -1,3 +1,0 @@
-radiohead:            0.9
-fotopittura:          0.9
-sospensione:          0.9

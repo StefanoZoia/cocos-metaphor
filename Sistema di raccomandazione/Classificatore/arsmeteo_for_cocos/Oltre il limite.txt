@@ -1,3 +1,0 @@
-limite:               0.9
-simmetria:            0.9
-geometria:            0.9

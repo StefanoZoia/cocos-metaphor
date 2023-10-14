@@ -1,3 +1,0 @@
-acqua:                0.9
-arazzo:               0.9
-figurativo:           0.9

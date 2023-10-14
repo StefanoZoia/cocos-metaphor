@@ -1,4 +1,0 @@
-autumn:               0.9
-ambient:              0.9
-calore:               0.9
-dimettere:            0.9

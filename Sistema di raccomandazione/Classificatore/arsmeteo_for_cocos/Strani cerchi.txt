@@ -1,3 +1,0 @@
-forme_inconsistenti:  0.9
-contrasto:            0.9
-geometria:            0.9

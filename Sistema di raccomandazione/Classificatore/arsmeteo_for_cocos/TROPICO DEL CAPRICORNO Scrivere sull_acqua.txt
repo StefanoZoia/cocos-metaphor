@@ -1,3 +1,0 @@
-scrittura:            0.9
-foglia:               0.9
-atelier_nomade:       0.9

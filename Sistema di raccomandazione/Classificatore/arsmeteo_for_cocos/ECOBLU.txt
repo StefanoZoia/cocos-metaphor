@@ -1,3 +1,0 @@
-ecografia:            0.9
-blu:                  0.9
-puffo:                0.9

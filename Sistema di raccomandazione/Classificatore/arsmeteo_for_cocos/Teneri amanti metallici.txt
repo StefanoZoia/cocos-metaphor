@@ -1,2 +1,0 @@
-robot:                0.9
-uccelli_metallici:    0.9

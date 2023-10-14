@@ -1,2 +1,0 @@
-casa:                 0.9
-montagna:             0.9

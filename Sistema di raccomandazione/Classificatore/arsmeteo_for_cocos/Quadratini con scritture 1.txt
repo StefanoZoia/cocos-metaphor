@@ -1,3 +1,0 @@
-quadratino:           0.9
-segno:                0.9
-giallo:               0.9

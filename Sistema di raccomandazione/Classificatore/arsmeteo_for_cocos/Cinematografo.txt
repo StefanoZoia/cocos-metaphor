@@ -1,5 +1,0 @@
-cinema:               0.9
-cinematografo:        0.9
-proiettore:           0.9
-sala:                 0.9
-illustrazione:        0.9

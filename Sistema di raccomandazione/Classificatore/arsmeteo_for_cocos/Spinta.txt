@@ -1,3 +1,0 @@
-elemento:             0.9
-ordine:               0.9
-sistema:              0.9

@@ -1,3 +1,0 @@
-colti_in_movimento:   0.9
-sorpresa:             0.9
-inatteso:             0.9

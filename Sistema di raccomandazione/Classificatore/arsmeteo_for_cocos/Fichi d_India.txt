@@ -1,3 +1,0 @@
-fichi_d_india:        0.9
-campagna:             0.9
-sicilia:              0.9

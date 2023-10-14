@@ -1,5 +1,0 @@
-volo:                 0.9
-aereo:                0.9
-solo:                 0.9
-nuvola:               0.9
-cielo:                0.9

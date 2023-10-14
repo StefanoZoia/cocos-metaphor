@@ -1,4 +1,0 @@
-icona:                0.9
-marylin:              0.9
-graffito:             0.9
-michelotti:           0.9

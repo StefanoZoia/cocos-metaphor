@@ -1,3 +1,0 @@
-grafica:              0.9
-libro:                0.9
-avventura:            0.9

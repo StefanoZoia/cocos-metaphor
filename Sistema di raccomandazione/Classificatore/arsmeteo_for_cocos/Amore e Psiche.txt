@@ -1,3 +1,0 @@
-canova:               0.9
-amore:                0.9
-scultura:             0.9

@@ -1,3 +1,0 @@
-stilita:              0.9
-nuvola:               0.9
-contemplazione:       0.9

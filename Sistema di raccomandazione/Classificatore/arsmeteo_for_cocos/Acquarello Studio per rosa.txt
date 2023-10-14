@@ -1,2 +1,0 @@
-studio:               0.9
-rosa:                 0.9

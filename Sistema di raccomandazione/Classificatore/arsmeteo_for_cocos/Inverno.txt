@@ -1,3 +1,0 @@
-inverno:              0.9
-bambino:              0.9
-pupazzo_di_neve:      0.9

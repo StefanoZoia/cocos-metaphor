@@ -1,2 +1,0 @@
-fungo:                0.9
-illustrazione:        0.9

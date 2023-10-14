@@ -1,3 +1,0 @@
-memoria:              0.9
-tempo_:               0.9
-passato:              0.9

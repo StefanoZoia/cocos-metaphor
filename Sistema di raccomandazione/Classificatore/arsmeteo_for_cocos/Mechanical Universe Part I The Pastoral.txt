@@ -1,2 +1,0 @@
-meccanico:            0.9
-sorpresa:             0.9

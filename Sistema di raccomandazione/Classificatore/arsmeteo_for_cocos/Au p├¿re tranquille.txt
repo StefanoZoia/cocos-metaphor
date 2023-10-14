@@ -1,5 +1,0 @@
-paris:                0.9
-brasserie:            0.9
-tavolino:             0.9
-passante:             0.9
-tradizione:           0.9

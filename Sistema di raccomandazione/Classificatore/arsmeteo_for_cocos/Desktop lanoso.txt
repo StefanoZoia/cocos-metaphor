@@ -1,2 +1,0 @@
-illusione_ottica:     0.9
-ludi_digitali:        0.9

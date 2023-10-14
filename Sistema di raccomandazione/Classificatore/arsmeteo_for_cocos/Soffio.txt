@@ -1,6 +1,0 @@
-soffio:               0.9
-soffione:             0.9
-desiderio:            0.9
-donna:                0.9
-oro:                  0.9
-evasione:             0.9

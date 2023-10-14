@@ -1,3 +1,0 @@
-disco:                0.9
-cantautore:           0.9
-vincenzo_ampolo:      0.9

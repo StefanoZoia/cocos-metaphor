@@ -1,2 +1,0 @@
-sax:                  0.9
-griglia:              0.9

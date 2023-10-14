@@ -1,2 +1,0 @@
-arco_celeste:         0.9
-linguaggio_alieno:    0.9

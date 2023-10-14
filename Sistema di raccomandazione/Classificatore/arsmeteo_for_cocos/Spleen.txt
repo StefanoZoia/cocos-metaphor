@@ -1,2 +1,0 @@
-spleen:               0.9
-rovina:               0.9

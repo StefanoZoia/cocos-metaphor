@@ -1,3 +1,0 @@
-volto:                0.9
-viola:                0.9
-segno:                0.9

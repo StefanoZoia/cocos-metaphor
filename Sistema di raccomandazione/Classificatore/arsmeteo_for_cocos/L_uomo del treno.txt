@@ -1,3 +1,0 @@
-uomo:                 0.9
-treno:                0.9
-specchio:             0.9

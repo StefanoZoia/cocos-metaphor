@@ -1,4 +1,0 @@
-eclisse|eclissi:      0.9
-donna:                0.9
-figura:               0.9
-ciondolo:             0.9

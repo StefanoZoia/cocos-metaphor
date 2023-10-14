@@ -1,3 +1,0 @@
-omino:                0.9
-verde:                0.9
-bolla:                0.9

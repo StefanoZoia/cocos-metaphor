@@ -1,4 +1,0 @@
-finestra:             0.9
-attesa:               0.9
-sguardo:              0.9
-abito_rosso:          0.9

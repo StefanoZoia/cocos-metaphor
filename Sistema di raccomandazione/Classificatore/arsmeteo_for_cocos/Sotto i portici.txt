@@ -1,2 +1,0 @@
-bicicletta:           0.9
-portico:              0.9

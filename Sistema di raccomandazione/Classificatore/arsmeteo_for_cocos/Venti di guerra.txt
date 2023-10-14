@@ -1,3 +1,0 @@
-colore_rosso:         0.9
-jet:                  0.9
-guerra:               0.9

@@ -1,3 +1,0 @@
-mare:                 0.9
-perofondità:          0.9
-abisso:               0.9

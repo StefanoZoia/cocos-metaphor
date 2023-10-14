@@ -1,4 +1,0 @@
-amico:                0.9
-ballerina:            0.9
-cameriera:            0.9
-carta:                0.9

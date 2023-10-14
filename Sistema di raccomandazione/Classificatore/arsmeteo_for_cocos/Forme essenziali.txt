@@ -1,3 +1,0 @@
-caffettiera:          0.9
-natura_morta:         0.9
-scodella:             0.9

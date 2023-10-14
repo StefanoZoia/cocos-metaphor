@@ -1,5 +1,0 @@
-bambola:              0.9
-paura:                0.9
-surfanta:             0.9
-colori_acidi:         0.9
-surreale:             0.9

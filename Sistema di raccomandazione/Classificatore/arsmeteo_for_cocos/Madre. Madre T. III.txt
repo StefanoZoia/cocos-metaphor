@@ -1,3 +1,0 @@
-madre_madre_t:        0.9
-video:                0.9
-velocità:             0.9

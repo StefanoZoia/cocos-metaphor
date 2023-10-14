@@ -1,3 +1,0 @@
-studio:               0.9
-garofano:             0.9
-fiore:                0.9

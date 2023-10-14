@@ -1,3 +1,0 @@
-quotidiano:           0.9
-città:                0.9
-incrocio:             0.9

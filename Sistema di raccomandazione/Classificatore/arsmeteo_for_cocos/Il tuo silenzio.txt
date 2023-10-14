@@ -1,3 +1,0 @@
-buio:                 0.9
-notte:                0.9
-bianca:               0.9

@@ -1,4 +1,0 @@
-bonelli:              0.9
-fumetto:              0.9
-mitico:               0.9
-generazionale:        0.9

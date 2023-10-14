@@ -1,1 +1,0 @@
-maschera:             0.9

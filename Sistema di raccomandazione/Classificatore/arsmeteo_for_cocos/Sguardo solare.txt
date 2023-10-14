@@ -1,4 +1,0 @@
-solo:                 0.9
-occhio:               0.9
-cielo:                0.9
-nuvola:               0.9

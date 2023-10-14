@@ -1,1 +1,0 @@
-fondo_rosso:          0.9

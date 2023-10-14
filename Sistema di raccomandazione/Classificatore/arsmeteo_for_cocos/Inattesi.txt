@@ -1,2 +1,0 @@
-sorpresa:             0.9
-incontro:             0.9

@@ -1,2 +1,0 @@
-elvira:               0.9
-biatta:               0.9

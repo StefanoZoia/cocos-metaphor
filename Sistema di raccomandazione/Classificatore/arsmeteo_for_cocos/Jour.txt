@@ -1,3 +1,0 @@
-giorno:               0.9
-mattino:              0.9
-natura:               0.9

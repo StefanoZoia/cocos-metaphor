@@ -1,2 +1,0 @@
-interno:              0.9
-sonoro:               0.9

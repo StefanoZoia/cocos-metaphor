@@ -1,3 +1,0 @@
-sottosuolo:           0.9
-caduta:               0.9
-gioco:                0.9

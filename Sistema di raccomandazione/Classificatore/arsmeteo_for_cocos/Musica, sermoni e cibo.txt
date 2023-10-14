@@ -1,3 +1,0 @@
-pubblicità:           0.9
-cibo_spirituale:      0.9
-solitudine:           0.9

@@ -1,3 +1,0 @@
-rosso:                0.9
-segno_di_fuoco:       0.9
-cardinale:            0.9

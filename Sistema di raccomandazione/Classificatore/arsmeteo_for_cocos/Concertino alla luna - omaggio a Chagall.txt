@@ -1,5 +1,0 @@
-chagall:              0.9
-luna:                 0.9
-violinista:           0.9
-sul_mondo:            0.9
-musica:               0.9

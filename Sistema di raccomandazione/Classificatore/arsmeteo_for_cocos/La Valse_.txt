@@ -1,4 +1,0 @@
-danza:                0.9
-neon:                 0.9
-mummia:               0.9
-nero:                 0.9

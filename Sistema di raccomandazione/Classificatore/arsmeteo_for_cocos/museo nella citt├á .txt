@@ -1,4 +1,0 @@
-maglione:             0.9
-mural:                0.9
-passeggiata:          0.9
-corgnati:             0.9

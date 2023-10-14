@@ -1,4 +1,0 @@
-ritratto:             0.9
-ragazza:              0.9
-bellezza:             0.9
-glamour:              0.9

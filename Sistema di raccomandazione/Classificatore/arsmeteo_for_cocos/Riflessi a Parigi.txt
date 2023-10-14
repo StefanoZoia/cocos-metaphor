@@ -1,2 +1,0 @@
-riflessione:          0.9
-particolare:          0.9

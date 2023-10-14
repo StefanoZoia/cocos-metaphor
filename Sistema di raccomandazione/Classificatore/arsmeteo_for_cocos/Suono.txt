@@ -1,3 +1,0 @@
-suono:                0.9
-teaser:               0.9
-definizione:          0.9

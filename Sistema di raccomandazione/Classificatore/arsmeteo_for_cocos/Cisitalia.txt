@@ -1,3 +1,0 @@
-cisitalia:            0.9
-automobile:           0.9
-auto_da_corsa:        0.9

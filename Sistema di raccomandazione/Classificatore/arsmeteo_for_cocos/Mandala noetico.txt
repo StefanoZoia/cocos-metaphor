@@ -1,3 +1,0 @@
-nous:                 0.9
-orientalismo:         0.9
-mandare:              0.9

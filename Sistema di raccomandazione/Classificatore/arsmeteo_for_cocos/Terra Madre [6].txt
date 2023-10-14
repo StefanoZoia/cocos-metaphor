@@ -1,4 +1,0 @@
-terra_made:           0.9
-donna:                0.9
-tradizione:           0.9
-sguardo:              0.9

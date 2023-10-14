@@ -1,3 +1,0 @@
-materiale:            0.9
-smalto:               0.9
-informale:            0.9

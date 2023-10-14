@@ -1,2 +1,0 @@
-gruppo:               0.9
-composizione:         0.9

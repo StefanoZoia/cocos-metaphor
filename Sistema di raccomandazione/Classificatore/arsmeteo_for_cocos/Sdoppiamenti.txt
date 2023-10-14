@@ -1,4 +1,0 @@
-specchio:             0.9
-bacon:                0.9
-borges:               0.9
-polaroid:             0.9
