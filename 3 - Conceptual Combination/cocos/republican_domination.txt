@@ -26,3 +26,9 @@ T(head), -royalist, 0.773
 
 Result: {"dominance": 0.923, "social_control": 0.808, "politician": 0.851, "kansas": 0.831, "colorado": 0.825, "nebraska": 0.825, "advocate": 0.818, "political_party_member": 0.802, "@scenario_probability": 0.004769978284830476}
 Scenario: [1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.004769978284830476]
+Result: {"dominance": 0.923, "social_control": 0.808, "politician": 0.851, "kansas": 0.831, "colorado": 0.825, "nebraska": 0.825, "advocate": 0.818, "political_party_member": 0.802, "@scenario_probability": 0.004769978284830476}
+Scenario: [1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.004769978284830476]
+Result: {"dominance": 0.923, "politician": 0.851, "kansas": 0.831, "colorado": 0.825, "nebraska": 0.825, "advocate": 0.818, "@scenario_probability": 0.00027983181661581693}
+Scenario: [1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00027983181661581693]
+Result: {"dominance": 0.923, "social_control": 0.808, "politician": 0.851, "kansas": 0.831, "colorado": 0.825, "nebraska": 0.825, "advocate": 0.818, "political_party_member": 0.802, "@scenario_probability": 0.004769978284830476}
+Scenario: [1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.004769978284830476]

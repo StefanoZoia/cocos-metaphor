@@ -28,3 +28,9 @@ T(head), perceive_external_envrnment_and_recollect_data, 0.823
 
 Result: {"journey_from_country_to_country": 0.872, "journey_by_train": 0.872, "journey_far": 0.872, "journey_to_foreign_land": 0.872, "near_destination": 0.846, "thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "@scenario_probability": 2.265128984482639e-05}
 Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 2.265128984482639e-05]
+Result: {"journey_from_country_to_country": 0.872, "journey_by_train": 0.872, "journey_far": 0.872, "journey_to_foreign_land": 0.872, "near_destination": 0.846, "thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "@scenario_probability": 2.265128984482639e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 2.265128984482639e-05]
+Result: {"journey_from_country_to_country": 0.872, "journey_by_train": 0.872, "journey_far": 0.872, "journey_to_foreign_land": 0.872, "thinking": 0.906, "subjective": 0.894, "@scenario_probability": 6.93636634739166e-07}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 6.93636634739166e-07]
+Result: {"journey_from_country_to_country": 0.872, "journey_by_train": 0.872, "journey_far": 0.872, "journey_to_foreign_land": 0.872, "near_destination": 0.846, "thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "@scenario_probability": 2.265128984482639e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 2.265128984482639e-05]

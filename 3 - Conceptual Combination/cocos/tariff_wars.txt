@@ -23,3 +23,9 @@ T(head), intangible_artifact, 0.743
 
 Result: {"bad_for_children_and_flowers": 0.826, "violence": 0.801, "change_people_greatly": 0.799, "series_of_movies": 0.766, "typically": 0.745, "army": 0.745, "tax": 0.863, "british": 0.75, "@scenario_probability": 0.2884794918685219}
 Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0.2884794918685219]
+Result: {"bad_for_children_and_flowers": 0.826, "violence": 0.801, "change_people_greatly": 0.799, "series_of_movies": 0.766, "typically": 0.745, "army": 0.745, "tax": 0.863, "british": 0.75, "@scenario_probability": 0.2884794918685219}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0.2884794918685219]
+Result: {"bad_for_children_and_flowers": 0.826, "violence": 0.801, "change_people_greatly": 0.799, "series_of_movies": 0.766, "tax": 0.863, "british": 0.75, "@scenario_probability": 0.033797358603217226}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0.033797358603217226]
+Result: {"bad_for_children_and_flowers": 0.826, "violence": 0.801, "change_people_greatly": 0.799, "series_of_movies": 0.766, "typically": 0.745, "army": 0.745, "tax": 0.863, "british": 0.75, "@scenario_probability": 0.2884794918685219}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0.2884794918685219]

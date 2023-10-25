@@ -24,3 +24,9 @@ T(head), mumbai, 0.747
 
 Result: {"drug": 0.864, "substance_abuse": 0.799, "-underdose": 0.765, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "situation": 0.763, "@scenario_probability": 0.077789886746343}
 Scenario: [1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.077789886746343]
+Result: {"drug": 0.864, "substance_abuse": 0.799, "-underdose": 0.765, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "situation": 0.763, "@scenario_probability": 0.077789886746343}
+Scenario: [1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.077789886746343]
+Result: {"drug": 0.864, "substance_abuse": 0.799, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "@scenario_probability": 0.007422554146150939}
+Scenario: [1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.007422554146150939]
+Result: {"drug": 0.864, "substance_abuse": 0.799, "-underdose": 0.765, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "situation": 0.763, "@scenario_probability": 0.077789886746343}
+Scenario: [1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.077789886746343]

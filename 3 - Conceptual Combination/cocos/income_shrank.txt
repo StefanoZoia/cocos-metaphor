@@ -22,3 +22,9 @@ T(head), -cost, 0.738
 
 Result: {"us": 0.752, "-outgo": 0.835, "-tax": 0.807, "financial_gain": 0.8, "-expense": 0.795, "business": 0.791, "-payment": 0.759, "commerce": 0.752, "@scenario_probability": 1.063595671016928}
 Scenario: [1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1.063595671016928]
+Result: {"us": 0.752, "-outgo": 0.835, "-tax": 0.807, "financial_gain": 0.8, "-expense": 0.795, "business": 0.791, "-payment": 0.759, "commerce": 0.752, "@scenario_probability": 1.063595671016928}
+Scenario: [1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1.063595671016928]
+Result: {"us": 0.752, "-outgo": 0.835, "-tax": 0.807, "financial_gain": 0.8, "-expense": 0.795, "business": 0.791, "@scenario_probability": 0.11137447450687452}
+Scenario: [1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.11137447450687452]
+Result: {"us": 0.752, "-outgo": 0.835, "-tax": 0.807, "financial_gain": 0.8, "-expense": 0.795, "business": 0.791, "-payment": 0.759, "commerce": 0.752, "@scenario_probability": 1.063595671016928}
+Scenario: [1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1.063595671016928]

@@ -27,3 +27,9 @@ T(head), shoot_bullets, 0.795
 
 Result: {"chasm": 0.899, "bottom_of_sea": 0.811, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "shot": 0.807, "gun_shop": 0.805, "@scenario_probability": 0.0013173536869455775}
 Scenario: [1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0013173536869455775]
+Result: {"chasm": 0.899, "bottom_of_sea": 0.811, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "shot": 0.807, "gun_shop": 0.805, "@scenario_probability": 0.0013173536869455775}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0013173536869455775]
+Result: {"chasm": 0.899, "bottom_of_sea": 0.811, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "@scenario_probability": 7.631763376079918e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 7.631763376079918e-05]
+Result: {"chasm": 0.899, "bottom_of_sea": 0.811, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "shot": 0.807, "gun_shop": 0.805, "@scenario_probability": 0.0013173536869455775}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0013173536869455775]

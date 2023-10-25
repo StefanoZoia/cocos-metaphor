@@ -28,3 +28,9 @@ T(head), shoot_bullets, 0.795
 
 Result: {"attack": 0.907, "battle": 0.837, "military": 0.823, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "shot": 0.807, "@scenario_probability": 0.00012278870648048046}
 Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00012278870648048046]
+Result: {"attack": 0.907, "battle": 0.837, "military": 0.823, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "shot": 0.807, "@scenario_probability": 0.00012278870648048046}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00012278870648048046]
+Result: {"attack": 0.907, "battle": 0.837, "military": 0.823, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "@scenario_probability": 6.7545008323342645e-06}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 6.7545008323342645e-06]
+Result: {"attack": 0.907, "battle": 0.837, "military": 0.823, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "shot": 0.807, "@scenario_probability": 0.00012278870648048046}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00012278870648048046]

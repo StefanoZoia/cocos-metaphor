@@ -28,3 +28,9 @@ T(head), state, 0.725
 
 Result: {"deal_blow": 0.847, "-proponent": 0.805, "cook_goose": 0.801, "-supporter": 0.801, "dig_up_skeletons": 0.8, "competing": 0.791, "-respondent": 0.766, "-unfreedom": 0.787, "@scenario_probability": 0.0003293201506408367}
 Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.0003293201506408367]
+Result: {"deal_blow": 0.847, "-proponent": 0.805, "cook_goose": 0.801, "-supporter": 0.801, "dig_up_skeletons": 0.8, "competing": 0.791, "-respondent": 0.766, "-unfreedom": 0.787, "@scenario_probability": 0.0003293201506408367}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.0003293201506408367]
+Result: {"deal_blow": 0.847, "-proponent": 0.805, "cook_goose": 0.801, "-supporter": 0.801, "dig_up_skeletons": 0.8, "-unfreedom": 0.787, "@scenario_probability": 2.6581237497632883e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2.6581237497632883e-05]
+Result: {"deal_blow": 0.847, "-proponent": 0.805, "cook_goose": 0.801, "-supporter": 0.801, "dig_up_skeletons": 0.8, "competing": 0.791, "-respondent": 0.766, "-unfreedom": 0.787, "@scenario_probability": 0.0003293201506408367}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.0003293201506408367]

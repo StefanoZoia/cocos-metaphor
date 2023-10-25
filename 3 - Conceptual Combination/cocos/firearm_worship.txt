@@ -28,3 +28,9 @@ T(head), killing_people, 0.694
 
 Result: {"reverence": 0.877, "religion": 0.853, "love": 0.837, "chapel": 0.827, "church": 0.822, "temple": 0.816, "gun": 0.93, "sights": 0.823, "@scenario_probability": 0.00014625058568801033}
 Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00014625058568801033]
+Result: {"reverence": 0.877, "religion": 0.853, "love": 0.837, "chapel": 0.827, "church": 0.822, "temple": 0.816, "gun": 0.93, "sights": 0.823, "@scenario_probability": 0.00014625058568801033}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00014625058568801033]
+Result: {"reverence": 0.877, "religion": 0.853, "love": 0.837, "chapel": 0.827, "gun": 0.93, "sights": 0.823, "@scenario_probability": 7.141237271679721e-06}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 7.141237271679721e-06]
+Result: {"reverence": 0.877, "religion": 0.853, "love": 0.837, "chapel": 0.827, "church": 0.822, "temple": 0.816, "gun": 0.93, "sights": 0.823, "@scenario_probability": 0.00014625058568801033}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00014625058568801033]

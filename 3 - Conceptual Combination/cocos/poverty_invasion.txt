@@ -27,3 +27,9 @@ T(head), mumbai, 0.747
 
 Result: {"penetration": 0.86, "entrance": 0.819, "medicine": 0.805, "spread": 0.799, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "@scenario_probability": 0.0016729568962951561}
 Scenario: [1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.0016729568962951561]
+Result: {"penetration": 0.86, "entrance": 0.819, "medicine": 0.805, "spread": 0.799, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "@scenario_probability": 0.0016729568962951561}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.0016729568962951561]
+Result: {"penetration": 0.86, "entrance": 0.819, "medicine": 0.805, "spread": 0.799, "financial_condition": 0.865, "undesirable": 0.833, "@scenario_probability": 0.0001174974271623103}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.0001174974271623103]
+Result: {"penetration": 0.86, "entrance": 0.819, "medicine": 0.805, "spread": 0.799, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "@scenario_probability": 0.0016729568962951561}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.0016729568962951561]

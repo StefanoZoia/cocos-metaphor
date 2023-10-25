@@ -28,3 +28,9 @@ T(head), source_of_revenue, 0.738
 
 Result: {"preserve": 0.824, "change": 0.801, "harden": 0.795, "bills": 0.827, "fund_govenment_services": 0.816, "percentage_of_income": 0.804, "debt": 0.804, "going_up": 0.784, "@scenario_probability": 0.00022746947438994904}
 Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00022746947438994904]
+Result: {"preserve": 0.824, "change": 0.801, "harden": 0.795, "bills": 0.827, "fund_govenment_services": 0.816, "percentage_of_income": 0.804, "debt": 0.804, "going_up": 0.784, "@scenario_probability": 0.00022746947438994904}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00022746947438994904]
+Result: {"preserve": 0.824, "change": 0.801, "bills": 0.827, "fund_govenment_services": 0.816, "percentage_of_income": 0.804, "debt": 0.804, "@scenario_probability": 1.6160230275296723e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1.6160230275296723e-05]
+Result: {"preserve": 0.824, "change": 0.801, "harden": 0.795, "bills": 0.827, "fund_govenment_services": 0.816, "percentage_of_income": 0.804, "debt": 0.804, "going_up": 0.784, "@scenario_probability": 0.00022746947438994904}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00022746947438994904]

@@ -26,3 +26,9 @@ T(head), physics, 0.754
 
 Result: {"fold": 0.822, "idea": 0.812, "difficulty": 0.812, "person": 0.807, "unsteadiness": 0.914, "disorder": 0.864, "-stability": 0.859, "undependability": 0.828, "@scenario_probability": 0.004277874715832316}
 Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0.004277874715832316]
+Result: {"fold": 0.822, "idea": 0.812, "difficulty": 0.812, "person": 0.807, "unsteadiness": 0.914, "disorder": 0.864, "-stability": 0.859, "undependability": 0.828, "@scenario_probability": 0.004277874715832316}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0.004277874715832316]
+Result: {"fold": 0.822, "difficulty": 0.812, "unsteadiness": 0.914, "disorder": 0.864, "-stability": 0.859, "undependability": 0.828, "@scenario_probability": 0.0002368719611485398}
+Scenario: [1, 0, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0.0002368719611485398]
+Result: {"fold": 0.822, "idea": 0.812, "difficulty": 0.812, "person": 0.807, "unsteadiness": 0.914, "disorder": 0.864, "-stability": 0.859, "undependability": 0.828, "@scenario_probability": 0.004277874715832316}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0.004277874715832316]

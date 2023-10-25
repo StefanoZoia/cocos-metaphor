@@ -26,3 +26,9 @@ T(head), government, 0.793
 
 Result: {"fortitude": 0.861, "connection": 0.831, "part": 0.822, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "good_thing": 0.84, "@scenario_probability": 0.0022524216723293646}
 Scenario: [1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.0022524216723293646]
+Result: {"fortitude": 0.861, "connection": 0.831, "part": 0.822, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "good_thing": 0.84, "@scenario_probability": 0.0022524216723293646}
+Scenario: [1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.0022524216723293646]
+Result: {"fortitude": 0.861, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "good_thing": 0.84, "@scenario_probability": 9.919357960978623e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 9.919357960978623e-05]
+Result: {"fortitude": 0.861, "connection": 0.831, "part": 0.822, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "good_thing": 0.84, "@scenario_probability": 0.0022524216723293646}
+Scenario: [1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.0022524216723293646]

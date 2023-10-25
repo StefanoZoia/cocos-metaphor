@@ -23,3 +23,9 @@ T(head), activity_of_government, 0.721
 
 Result: {"flood": 0.85, "-ebb": 0.84, "motion": 0.819, "rate": 0.813, "exist": 0.811, "change_of_location": 0.808, "move": 0.808, "imposition": 0.862, "@scenario_probability": 0.31755181208791894}
 Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.31755181208791894]
+Result: {"flood": 0.85, "-ebb": 0.84, "motion": 0.819, "rate": 0.813, "exist": 0.811, "change_of_location": 0.808, "move": 0.808, "imposition": 0.862, "@scenario_probability": 0.31755181208791894}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.31755181208791894]
+Result: {"flood": 0.85, "-ebb": 0.84, "motion": 0.819, "rate": 0.813, "exist": 0.811, "imposition": 0.862, "@scenario_probability": 0.01793057972381543}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0.01793057972381543]
+Result: {"flood": 0.85, "-ebb": 0.84, "motion": 0.819, "rate": 0.813, "exist": 0.811, "change_of_location": 0.808, "move": 0.808, "imposition": 0.862, "@scenario_probability": 0.31755181208791894}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.31755181208791894]

@@ -28,3 +28,9 @@ T(head), government, 0.793
 
 Result: {"physical_activity": 0.881, "playing_football": 0.878, "sport": 0.874, "passtime": 0.87, "ball": 0.869, "game": 0.864, "equality_for_everyone": 0.854, "open_media": 0.853, "@scenario_probability": 2.3116369370938983e-05}
 Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 2.3116369370938983e-05]
+Result: {"physical_activity": 0.881, "playing_football": 0.878, "sport": 0.874, "passtime": 0.87, "ball": 0.869, "game": 0.864, "equality_for_everyone": 0.854, "open_media": 0.853, "@scenario_probability": 2.3116369370938983e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 2.3116369370938983e-05]
+Result: {"physical_activity": 0.881, "playing_football": 0.878, "sport": 0.874, "passtime": 0.87, "ball": 0.869, "equality_for_everyone": 0.854, "@scenario_probability": 6.270657706783956e-07}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 6.270657706783956e-07]
+Result: {"physical_activity": 0.881, "playing_football": 0.878, "sport": 0.874, "passtime": 0.87, "ball": 0.869, "game": 0.864, "equality_for_everyone": 0.854, "open_media": 0.853, "@scenario_probability": 2.3116369370938983e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 2.3116369370938983e-05]

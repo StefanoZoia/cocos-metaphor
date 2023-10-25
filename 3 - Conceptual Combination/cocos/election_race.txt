@@ -28,3 +28,9 @@ T(head), opportunity_to_vote, 0.748
 
 Result: {"contest": 0.859, "compete": 0.858, "significant_in_genetics": 0.829, "competition_in": 0.82, "group": 0.804, "vote": 0.899, "choice": 0.856, "predestination": 0.838, "@scenario_probability": 0.0001324243057052246}
 Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.0001324243057052246]
+Result: {"contest": 0.859, "compete": 0.858, "significant_in_genetics": 0.829, "competition_in": 0.82, "group": 0.804, "vote": 0.899, "choice": 0.856, "predestination": 0.838, "@scenario_probability": 0.0001324243057052246}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.0001324243057052246]
+Result: {"contest": 0.859, "compete": 0.858, "significant_in_genetics": 0.829, "vote": 0.899, "choice": 0.856, "predestination": 0.838, "@scenario_probability": 7.086411699551516e-06}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 7.086411699551516e-06]
+Result: {"contest": 0.859, "compete": 0.858, "significant_in_genetics": 0.829, "competition_in": 0.82, "group": 0.804, "vote": 0.899, "choice": 0.856, "predestination": 0.838, "@scenario_probability": 0.0001324243057052246}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.0001324243057052246]

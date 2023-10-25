@@ -25,3 +25,9 @@ T(head), watch_evening_news, 0.667
 
 Result: {"quiet_storm": 0.944, "omnibenevolent": 0.918, "glorified_in_christianity": 0.907, "omniscient": 0.889, "heaven": 0.884, "love": 0.874, "worship": 0.868, "events": 0.834, "@scenario_probability": 0.012126474101971431}
 Scenario: [1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0.012126474101971431]
+Result: {"quiet_storm": 0.944, "omnibenevolent": 0.918, "glorified_in_christianity": 0.907, "omniscient": 0.889, "heaven": 0.884, "love": 0.874, "worship": 0.868, "events": 0.834, "@scenario_probability": 0.012126474101971431}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0.012126474101971431]
+Result: {"quiet_storm": 0.944, "omnibenevolent": 0.918, "glorified_in_christianity": 0.907, "omniscient": 0.889, "heaven": 0.884, "events": 0.834, "@scenario_probability": 0.0002658568545276087}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0.0002658568545276087]
+Result: {"quiet_storm": 0.944, "omnibenevolent": 0.918, "glorified_in_christianity": 0.907, "omniscient": 0.889, "heaven": 0.884, "love": 0.874, "worship": 0.868, "events": 0.834, "@scenario_probability": 0.012126474101971431}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0.012126474101971431]

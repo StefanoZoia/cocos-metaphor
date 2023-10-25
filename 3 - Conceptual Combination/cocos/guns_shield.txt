@@ -28,3 +28,9 @@ T(head), shoot_bullets, 0.795
 
 Result: {"armor": 0.882, "protect": 0.88, "protective_covering": 0.847, "heraldry": 0.816, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "@scenario_probability": 0.00013260820315661112}
 Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00013260820315661112]
+Result: {"armor": 0.882, "protect": 0.88, "protective_covering": 0.847, "heraldry": 0.816, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "@scenario_probability": 0.00013260820315661112}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00013260820315661112]
+Result: {"armor": 0.882, "protect": 0.88, "protective_covering": 0.847, "heraldry": 0.816, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "@scenario_probability": 6.969634293760262e-06}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 6.969634293760262e-06]
+Result: {"armor": 0.882, "protect": 0.88, "protective_covering": 0.847, "heraldry": 0.816, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "@scenario_probability": 0.00013260820315661112}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00013260820315661112]

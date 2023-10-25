@@ -24,3 +24,9 @@ T(head), going_nowhere, 0.741
 
 Result: {"tower": 0.841, "shine": 0.839, "visual_signal": 0.809, "nautical": 0.787, "legislature": 0.896, "meeting": 0.854, "decide_illegal": 0.804, "instruct_people": 0.79, "@scenario_probability": 0.061012784938530566}
 Scenario: [1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0.061012784938530566]
+Result: {"tower": 0.841, "shine": 0.839, "visual_signal": 0.809, "nautical": 0.787, "legislature": 0.896, "meeting": 0.854, "decide_illegal": 0.804, "instruct_people": 0.79, "@scenario_probability": 0.061012784938530566}
+Scenario: [1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0.061012784938530566]
+Result: {"tower": 0.841, "shine": 0.839, "visual_signal": 0.809, "legislature": 0.896, "meeting": 0.854, "decide_illegal": 0.804, "@scenario_probability": 0.004389529008251929}
+Scenario: [1, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0.004389529008251929]
+Result: {"tower": 0.841, "shine": 0.839, "visual_signal": 0.809, "nautical": 0.787, "legislature": 0.896, "meeting": 0.854, "decide_illegal": 0.804, "instruct_people": 0.79, "@scenario_probability": 0.061012784938530566}
+Scenario: [1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0.061012784938530566]

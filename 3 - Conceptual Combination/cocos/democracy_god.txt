@@ -28,3 +28,9 @@ T(head), government, 0.793
 
 Result: {"quiet_storm": 0.944, "omnibenevolent": 0.918, "glorified_in_christianity": 0.907, "omniscient": 0.889, "heaven": 0.884, "love": 0.874, "worship": 0.868, "equality_for_everyone": 0.854, "@scenario_probability": 2.1001928188484956e-05}
 Scenario: [1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 2.1001928188484956e-05]
+Result: {"quiet_storm": 0.944, "omnibenevolent": 0.918, "glorified_in_christianity": 0.907, "omniscient": 0.889, "heaven": 0.884, "love": 0.874, "worship": 0.868, "equality_for_everyone": 0.854, "@scenario_probability": 2.1001928188484956e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 2.1001928188484956e-05]
+Result: {"quiet_storm": 0.944, "omnibenevolent": 0.918, "glorified_in_christianity": 0.907, "omniscient": 0.889, "heaven": 0.884, "equality_for_everyone": 0.854, "@scenario_probability": 4.6043940887133923e-07}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 4.6043940887133923e-07]
+Result: {"quiet_storm": 0.944, "omnibenevolent": 0.918, "glorified_in_christianity": 0.907, "omniscient": 0.889, "heaven": 0.884, "love": 0.874, "worship": 0.868, "equality_for_everyone": 0.854, "@scenario_probability": 2.1001928188484956e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 2.1001928188484956e-05]

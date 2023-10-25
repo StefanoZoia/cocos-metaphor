@@ -28,3 +28,9 @@ T(head), -debt, 0.714
 
 Result: {"high_and_rocky": 0.873, "very_large": 0.867, "volcanoes": 0.865, "beautiful_to_look_at": 0.841, "highlands": 0.827, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "@scenario_probability": 0.00012405322203459955}
 Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.00012405322203459955]
+Result: {"high_and_rocky": 0.873, "very_large": 0.867, "volcanoes": 0.865, "beautiful_to_look_at": 0.841, "highlands": 0.827, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "@scenario_probability": 0.00012405322203459955}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.00012405322203459955]
+Result: {"high_and_rocky": 0.873, "very_large": 0.867, "volcanoes": 0.865, "beautiful_to_look_at": 0.841, "abundance": 0.871, "financial_condition": 0.85, "@scenario_probability": 4.942985527030746e-06}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 4.942985527030746e-06]
+Result: {"high_and_rocky": 0.873, "very_large": 0.867, "volcanoes": 0.865, "beautiful_to_look_at": 0.841, "highlands": 0.827, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "@scenario_probability": 0.00012405322203459955}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.00012405322203459955]

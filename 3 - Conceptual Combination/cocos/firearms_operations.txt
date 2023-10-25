@@ -19,3 +19,9 @@ T(head), used_in_shooting_gallery, 0.661
 
 Result: {"transaction": 0.868, "people_go_to_hospital_to": 0.67, "done_with_anasthetic": 0.655, "scare_people": 0.797, "intelligent_agent_activity": 0.757, "cabinet": 0.744, "@scenario_probability": 5.796457587782759}
 Scenario: [1, 1, 1, 1, 1, 1, 0, 5.796457587782759]
+Result: {"transaction": 0.868, "people_go_to_hospital_to": 0.67, "done_with_anasthetic": 0.655, "scare_people": 0.797, "intelligent_agent_activity": 0.757, "cabinet": 0.744, "@scenario_probability": 5.796457587782759}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 5.796457587782759]
+Result: {"transaction": 0.868, "people_go_to_hospital_to": 0.67, "done_with_anasthetic": 0.655, "scare_people": 0.797, "intelligent_agent_activity": 0.757, "cabinet": 0.744, "@scenario_probability": 5.796457587782759}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 5.796457587782759]
+Result: {"transaction": 0.868, "people_go_to_hospital_to": 0.67, "done_with_anasthetic": 0.655, "scare_people": 0.797, "intelligent_agent_activity": 0.757, "cabinet": 0.744, "@scenario_probability": 5.796457587782759}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 5.796457587782759]

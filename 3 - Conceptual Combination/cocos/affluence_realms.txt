@@ -18,3 +18,9 @@ T(head), -indigence, 0.815
 
 Result: {"fantasy": 0.722, "legal": 0.696, "rpg": 0.691, "formal": 0.673, "wealth": 0.891, "@scenario_probability": 3.852023972411737}
 Scenario: [1, 1, 1, 1, 1, 0, 3.852023972411737]
+Result: {"fantasy": 0.722, "legal": 0.696, "rpg": 0.691, "formal": 0.673, "wealth": 0.891, "@scenario_probability": 3.852023972411737}
+Scenario: [1, 1, 1, 1, 1, 0, 3.852023972411737]
+Result: {"fantasy": 0.722, "legal": 0.696, "rpg": 0.691, "formal": 0.673, "wealth": 0.891, "@scenario_probability": 3.852023972411737}
+Scenario: [1, 1, 1, 1, 1, 0, 3.852023972411737]
+Result: {"fantasy": 0.722, "legal": 0.696, "rpg": 0.691, "formal": 0.673, "wealth": 0.891, "@scenario_probability": 3.852023972411737}
+Scenario: [1, 1, 1, 1, 1, 0, 3.852023972411737]

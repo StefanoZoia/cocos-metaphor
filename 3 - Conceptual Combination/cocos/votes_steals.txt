@@ -23,3 +23,9 @@ T(head), ethnic_group, 0.743
 
 Result: {"baseball": 0.792, "have_no_money": 0.755, "gain": 0.742, "take": 0.737, "move": 0.729, "want_money": 0.724, "tallied_in_election": 0.776, "counted_in_election": 0.766, "@scenario_probability": 0.2278254654290026}
 Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0.2278254654290026]
+Result: {"baseball": 0.792, "have_no_money": 0.755, "gain": 0.742, "take": 0.737, "move": 0.729, "want_money": 0.724, "tallied_in_election": 0.776, "counted_in_election": 0.766, "@scenario_probability": 0.2278254654290026}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0.2278254654290026]
+Result: {"baseball": 0.792, "have_no_money": 0.755, "gain": 0.742, "take": 0.737, "tallied_in_election": 0.776, "counted_in_election": 0.766, "@scenario_probability": 0.032286022463655806}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0.032286022463655806]
+Result: {"baseball": 0.792, "have_no_money": 0.755, "gain": 0.742, "take": 0.737, "move": 0.729, "want_money": 0.724, "tallied_in_election": 0.776, "counted_in_election": 0.766, "@scenario_probability": 0.2278254654290026}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0.2278254654290026]

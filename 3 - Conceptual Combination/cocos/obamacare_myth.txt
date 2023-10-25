@@ -19,3 +19,9 @@ T(head), pejorative, 0.773
 
 Result: {"story": 0.867, "cause_stigma": 0.814, "grow_out_of_real_event": 0.797, "-fact": 0.745, "-true": 0.689, "us": 0.787, "@scenario_probability": 5.157959264955402}
 Scenario: [1, 1, 1, 1, 1, 1, 0, 5.157959264955402]
+Result: {"story": 0.867, "cause_stigma": 0.814, "grow_out_of_real_event": 0.797, "-fact": 0.745, "-true": 0.689, "us": 0.787, "@scenario_probability": 5.157959264955402}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 5.157959264955402]
+Result: {"story": 0.867, "cause_stigma": 0.814, "grow_out_of_real_event": 0.797, "-fact": 0.745, "-true": 0.689, "us": 0.787, "@scenario_probability": 5.157959264955402}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 5.157959264955402]
+Result: {"story": 0.867, "cause_stigma": 0.814, "grow_out_of_real_event": 0.797, "-fact": 0.745, "-true": 0.689, "us": 0.787, "@scenario_probability": 5.157959264955402}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 5.157959264955402]

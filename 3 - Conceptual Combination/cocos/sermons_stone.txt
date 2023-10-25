@@ -26,3 +26,9 @@ T(head), public_speaking, 0.671
 
 Result: {"stone": 0.915, "throwing": 0.87, "opaque": 0.844, "pave_floors": 0.835, "throw": 0.831, "build_strong_buildings": 0.824, "crushing_scissors": 0.824, "church": 0.889, "@scenario_probability": 0.007125257132675324}
 Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0.007125257132675324]
+Result: {"stone": 0.915, "throwing": 0.87, "opaque": 0.844, "pave_floors": 0.835, "throw": 0.831, "build_strong_buildings": 0.824, "crushing_scissors": 0.824, "church": 0.889, "@scenario_probability": 0.007125257132675324}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0.007125257132675324]
+Result: {"stone": 0.915, "throwing": 0.87, "opaque": 0.844, "pave_floors": 0.835, "throw": 0.831, "church": 0.889, "@scenario_probability": 0.000325065930079636}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0.000325065930079636]
+Result: {"stone": 0.915, "throwing": 0.87, "opaque": 0.844, "pave_floors": 0.835, "throw": 0.831, "build_strong_buildings": 0.824, "crushing_scissors": 0.824, "church": 0.889, "@scenario_probability": 0.007125257132675324}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0.007125257132675324]

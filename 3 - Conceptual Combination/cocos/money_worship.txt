@@ -28,3 +28,9 @@ T(head), banks, 0.851
 
 Result: {"reverence": 0.877, "religion": 0.853, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "money_supply": 0.861, "currency": 0.858, "buy_food": 0.854, "@scenario_probability": 2.233279389867649e-05}
 Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 2.233279389867649e-05]
+Result: {"reverence": 0.877, "religion": 0.853, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "money_supply": 0.861, "currency": 0.858, "buy_food": 0.854, "@scenario_probability": 2.233279389867649e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 2.233279389867649e-05]
+Result: {"reverence": 0.877, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "money_supply": 0.861, "currency": 0.858, "@scenario_probability": 6.579703850762219e-07}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 6.579703850762219e-07]
+Result: {"reverence": 0.877, "religion": 0.853, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "money_supply": 0.861, "currency": 0.858, "buy_food": 0.854, "@scenario_probability": 2.233279389867649e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 2.233279389867649e-05]

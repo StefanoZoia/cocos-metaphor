@@ -28,3 +28,9 @@ T(head), jealous_of_power, 0.827
 
 Result: {"increase_efficiency": 0.911, "method": 0.852, "compute_results": 0.841, "organizing_things": 0.839, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "@scenario_probability": 2.6430333705460342e-05}
 Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 2.6430333705460342e-05]
+Result: {"increase_efficiency": 0.911, "method": 0.852, "compute_results": 0.841, "organizing_things": 0.839, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "@scenario_probability": 2.6430333705460342e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 2.6430333705460342e-05]
+Result: {"increase_efficiency": 0.911, "method": 0.852, "compute_results": 0.841, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "@scenario_probability": 9.732635906291156e-07}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 9.732635906291156e-07]
+Result: {"increase_efficiency": 0.911, "method": 0.852, "compute_results": 0.841, "organizing_things": 0.839, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "@scenario_probability": 2.6430333705460342e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 2.6430333705460342e-05]

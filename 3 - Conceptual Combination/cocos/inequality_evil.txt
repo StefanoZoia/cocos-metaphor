@@ -24,3 +24,9 @@ T(head), situation, 0.758
 
 Result: {"bad": 0.868, "very_very_bad": 0.825, "providing_opposition_to_good": 0.797, "torture": 0.778, "-good": 0.766, "difference": 0.844, "mathematics": 0.786, "-equal": 0.764, "@scenario_probability": 0.07610467522459784}
 Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0.07610467522459784]
+Result: {"bad": 0.868, "very_very_bad": 0.825, "providing_opposition_to_good": 0.797, "torture": 0.778, "-good": 0.766, "difference": 0.844, "mathematics": 0.786, "-equal": 0.764, "@scenario_probability": 0.07610467522459784}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0.07610467522459784]
+Result: {"bad": 0.868, "very_very_bad": 0.825, "providing_opposition_to_good": 0.797, "torture": 0.778, "difference": 0.844, "mathematics": 0.786, "@scenario_probability": 0.007181531489828151}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0.007181531489828151]
+Result: {"bad": 0.868, "very_very_bad": 0.825, "providing_opposition_to_good": 0.797, "torture": 0.778, "-good": 0.766, "difference": 0.844, "mathematics": 0.786, "-equal": 0.764, "@scenario_probability": 0.07610467522459784}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0.07610467522459784]

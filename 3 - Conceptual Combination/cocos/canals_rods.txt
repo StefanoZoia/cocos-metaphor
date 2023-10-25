@@ -22,3 +22,9 @@ T(head), sailed_to_reach_other_ports, 0.705
 
 Result: {"rod": 0.824, "pole": 0.769, "walking_stick": 0.76, "hanging_curtains": 0.758, "catch_fish": 0.75, "hardware_store": 0.749, "fishing_camp": 0.742, "transport_goods_long_distances": 0.823, "@scenario_probability": 0.9715405581336765}
 Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0.9715405581336765]
+Result: {"rod": 0.824, "pole": 0.769, "walking_stick": 0.76, "hanging_curtains": 0.758, "catch_fish": 0.75, "hardware_store": 0.749, "fishing_camp": 0.742, "transport_goods_long_distances": 0.823, "@scenario_probability": 0.9715405581336765}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0.9715405581336765]
+Result: {"rod": 0.824, "pole": 0.769, "walking_stick": 0.76, "hanging_curtains": 0.758, "catch_fish": 0.75, "transport_goods_long_distances": 0.823, "@scenario_probability": 0.11320579004462487}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0.11320579004462487]
+Result: {"rod": 0.824, "pole": 0.769, "walking_stick": 0.76, "hanging_curtains": 0.758, "catch_fish": 0.75, "hardware_store": 0.749, "fishing_camp": 0.742, "transport_goods_long_distances": 0.823, "@scenario_probability": 0.9715405581336765}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0.9715405581336765]

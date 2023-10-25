@@ -28,3 +28,9 @@ T(head), jealous_of_power, 0.827
 
 Result: {"aid": 0.883, "comfort": 0.854, "social_welfare": 0.838, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "force_citizens_to_comply": 0.833, "@scenario_probability": 3.190906300155366e-05}
 Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 3.190906300155366e-05]
+Result: {"aid": 0.883, "comfort": 0.854, "social_welfare": 0.838, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "force_citizens_to_comply": 0.833, "@scenario_probability": 3.190906300155366e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 3.190906300155366e-05]
+Result: {"aid": 0.883, "comfort": 0.854, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "@scenario_probability": 1.2366776645417591e-06}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1.2366776645417591e-06]
+Result: {"aid": 0.883, "comfort": 0.854, "social_welfare": 0.838, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "force_citizens_to_comply": 0.833, "@scenario_probability": 3.190906300155366e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 3.190906300155366e-05]

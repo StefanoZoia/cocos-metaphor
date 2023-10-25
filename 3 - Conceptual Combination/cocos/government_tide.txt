@@ -28,3 +28,9 @@ T(head), jealous_of_power, 0.827
 
 Result: {"tide": 0.946, "rising_at_hour": 0.882, "tidal_flow": 0.847, "riptide": 0.834, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "@scenario_probability": 3.226318760796767e-05}
 Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 3.226318760796767e-05]
+Result: {"tide": 0.946, "rising_at_hour": 0.882, "tidal_flow": 0.847, "riptide": 0.834, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "@scenario_probability": 3.226318760796767e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 3.226318760796767e-05]
+Result: {"tide": 0.946, "rising_at_hour": 0.882, "tidal_flow": 0.847, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "@scenario_probability": 1.232290856721837e-06}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1.232290856721837e-06]
+Result: {"tide": 0.946, "rising_at_hour": 0.882, "tidal_flow": 0.847, "riptide": 0.834, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "@scenario_probability": 3.226318760796767e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 3.226318760796767e-05]

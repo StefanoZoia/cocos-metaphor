@@ -28,3 +28,9 @@ T(head), banks, 0.851
 
 Result: {"climbing": 0.91, "mountainous_region": 0.906, "mountainside": 0.873, "rocky_area": 0.862, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "money_supply": 0.861, "@scenario_probability": 1.120095241701756e-05}
 Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1.120095241701756e-05]
+Result: {"climbing": 0.91, "mountainous_region": 0.906, "mountainside": 0.873, "rocky_area": 0.862, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "money_supply": 0.861, "@scenario_probability": 1.120095241701756e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1.120095241701756e-05]
+Result: {"climbing": 0.91, "mountainous_region": 0.906, "mountainside": 0.873, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "@scenario_probability": 2.8949323651507424e-07}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 2.8949323651507424e-07]
+Result: {"climbing": 0.91, "mountainous_region": 0.906, "mountainside": 0.873, "rocky_area": 0.862, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "money_supply": 0.861, "@scenario_probability": 1.120095241701756e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1.120095241701756e-05]

@@ -28,3 +28,9 @@ T(head), perceive_external_envrnment_and_recollect_data, 0.823
 
 Result: {"memorable": 0.908, "marking_boundary_on_land": 0.831, "thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "think_about": 0.842, "remember": 0.842, "intelligence": 0.836, "@scenario_probability": 3.51411621504028e-05}
 Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 3.51411621504028e-05]
+Result: {"memorable": 0.908, "marking_boundary_on_land": 0.831, "thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "think_about": 0.842, "remember": 0.842, "intelligence": 0.836, "@scenario_probability": 3.51411621504028e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 3.51411621504028e-05]
+Result: {"memorable": 0.908, "thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "think_about": 0.842, "remember": 0.842, "@scenario_probability": 1.4019721010608136e-06}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1.4019721010608136e-06]
+Result: {"memorable": 0.908, "marking_boundary_on_land": 0.831, "thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "think_about": 0.842, "remember": 0.842, "intelligence": 0.836, "@scenario_probability": 3.51411621504028e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 3.51411621504028e-05]

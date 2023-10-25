@@ -28,3 +28,9 @@ T(head), globe, 0.872
 
 Result: {"ferrous_metal": 0.911, "ironing_clothes": 0.902, "metal": 0.878, "rust": 0.878, "planet_in_solar_system": 0.895, "spherical": 0.892, "finite": 0.885, "planet": 0.879, "@scenario_probability": 5.1600852882458004e-06}
 Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 5.1600852882458004e-06]
+Result: {"ferrous_metal": 0.911, "ironing_clothes": 0.902, "metal": 0.878, "rust": 0.878, "planet_in_solar_system": 0.895, "spherical": 0.892, "finite": 0.885, "planet": 0.879, "@scenario_probability": 5.1600852882458004e-06}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 5.1600852882458004e-06]
+Result: {"ferrous_metal": 0.911, "ironing_clothes": 0.902, "planet_in_solar_system": 0.895, "spherical": 0.892, "finite": 0.885, "planet": 0.879, "@scenario_probability": 9.962939875552029e-08}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 9.962939875552029e-08]
+Result: {"ferrous_metal": 0.911, "ironing_clothes": 0.902, "metal": 0.878, "rust": 0.878, "planet_in_solar_system": 0.895, "spherical": 0.892, "finite": 0.885, "planet": 0.879, "@scenario_probability": 5.1600852882458004e-06}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 5.1600852882458004e-06]

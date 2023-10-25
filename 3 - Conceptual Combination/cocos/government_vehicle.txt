@@ -28,3 +28,9 @@ T(head), jealous_of_power, 0.827
 
 Result: {"travel": 0.868, "seat_nine": 0.852, "conveyance": 0.845, "receive_damage": 0.839, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "@scenario_probability": 2.1121833140300052e-05}
 Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 2.1121833140300052e-05]
+Result: {"travel": 0.868, "seat_nine": 0.852, "conveyance": 0.845, "receive_damage": 0.839, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "@scenario_probability": 2.1121833140300052e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 2.1121833140300052e-05]
+Result: {"travel": 0.868, "seat_nine": 0.852, "conveyance": 0.845, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "@scenario_probability": 7.777847753223983e-07}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 7.777847753223983e-07]
+Result: {"travel": 0.868, "seat_nine": 0.852, "conveyance": 0.845, "receive_damage": 0.839, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "@scenario_probability": 2.1121833140300052e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 2.1121833140300052e-05]

@@ -24,3 +24,9 @@ T(head), government, 0.793
 
 Result: {"happen_suddenly": 0.827, "kill_people": 0.819, "very_destructive": 0.818, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "good_thing": 0.84, "@scenario_probability": 0.038085184858821876}
 Scenario: [1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.038085184858821876]
+Result: {"happen_suddenly": 0.827, "kill_people": 0.819, "very_destructive": 0.818, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "good_thing": 0.84, "@scenario_probability": 0.038085184858821876}
+Scenario: [1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.038085184858821876]
+Result: {"happen_suddenly": 0.827, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "good_thing": 0.84, "@scenario_probability": 0.0018727026513031147}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.0018727026513031147]
+Result: {"happen_suddenly": 0.827, "kill_people": 0.819, "very_destructive": 0.818, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "good_thing": 0.84, "@scenario_probability": 0.038085184858821876}
+Scenario: [1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.038085184858821876]

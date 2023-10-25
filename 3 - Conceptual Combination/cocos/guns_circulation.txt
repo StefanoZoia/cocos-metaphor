@@ -28,3 +28,9 @@ T(head), shoot_bullets, 0.795
 
 Result: {"dissemination": 0.845, "library_science": 0.826, "spread": 0.826, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "shot": 0.807, "@scenario_probability": 5.9149393066511366e-05}
 Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 5.9149393066511366e-05]
+Result: {"dissemination": 0.845, "library_science": 0.826, "spread": 0.826, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "shot": 0.807, "@scenario_probability": 5.9149393066511366e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 5.9149393066511366e-05]
+Result: {"dissemination": 0.845, "library_science": 0.826, "spread": 0.826, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "@scenario_probability": 3.2537570933962854e-06}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 3.2537570933962854e-06]
+Result: {"dissemination": 0.845, "library_science": 0.826, "spread": 0.826, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "shot": 0.807, "@scenario_probability": 5.9149393066511366e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 5.9149393066511366e-05]

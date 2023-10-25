@@ -18,3 +18,9 @@ T(head), activity_of_government, 0.721
 
 Result: {"shelter": 0.867, "safe_place": 0.812, "site": 0.762, "imposition": 0.862, "process_results_in_taxes": 0.731, "@scenario_probability": 9.431026042773183}
 Scenario: [1, 1, 1, 1, 1, 0, 9.431026042773183]
+Result: {"shelter": 0.867, "safe_place": 0.812, "site": 0.762, "imposition": 0.862, "process_results_in_taxes": 0.731, "@scenario_probability": 9.431026042773183}
+Scenario: [1, 1, 1, 1, 1, 0, 9.431026042773183]
+Result: {"shelter": 0.867, "safe_place": 0.812, "site": 0.762, "imposition": 0.862, "process_results_in_taxes": 0.731, "@scenario_probability": 9.431026042773183}
+Scenario: [1, 1, 1, 1, 1, 0, 9.431026042773183]
+Result: {"shelter": 0.867, "safe_place": 0.812, "site": 0.762, "imposition": 0.862, "process_results_in_taxes": 0.731, "@scenario_probability": 9.431026042773183}
+Scenario: [1, 1, 1, 1, 1, 0, 9.431026042773183]

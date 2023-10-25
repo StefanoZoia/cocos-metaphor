@@ -28,3 +28,9 @@ T(head), jealous_of_power, 0.827
 
 Result: {"narcotic": 0.866, "craving": 0.864, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "force_citizens_to_comply": 0.833, "rule_people": 0.832, "@scenario_probability": 5.745273175276042e-05}
 Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 5.745273175276042e-05]
+Result: {"narcotic": 0.866, "craving": 0.864, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "force_citizens_to_comply": 0.833, "rule_people": 0.832, "@scenario_probability": 5.745273175276042e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 5.745273175276042e-05]
+Result: {"narcotic": 0.866, "craving": 0.864, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "@scenario_probability": 2.3257771984593556e-06}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 2.3257771984593556e-06]
+Result: {"narcotic": 0.866, "craving": 0.864, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "force_citizens_to_comply": 0.833, "rule_people": 0.832, "@scenario_probability": 5.745273175276042e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 5.745273175276042e-05]

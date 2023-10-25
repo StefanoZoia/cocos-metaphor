@@ -28,3 +28,9 @@ T(head), mumbai, 0.747
 
 Result: {"sexual_assault": 0.9, "plundering": 0.852, "evil_and_wrong": 0.85, "assail": 0.829, "destroy": 0.812, "crime_against_people": 0.807, "financial_condition": 0.865, "undesirable": 0.833, "@scenario_probability": 0.0002073444742348101}
 Scenario: [1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.0002073444742348101]
+Result: {"sexual_assault": 0.9, "plundering": 0.852, "evil_and_wrong": 0.85, "assail": 0.829, "destroy": 0.812, "crime_against_people": 0.807, "financial_condition": 0.865, "undesirable": 0.833, "@scenario_probability": 0.0002073444742348101}
+Scenario: [1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.0002073444742348101]
+Result: {"sexual_assault": 0.9, "plundering": 0.852, "evil_and_wrong": 0.85, "assail": 0.829, "financial_condition": 0.865, "undesirable": 0.833, "@scenario_probability": 1.1480956200877548e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1.1480956200877548e-05]
+Result: {"sexual_assault": 0.9, "plundering": 0.852, "evil_and_wrong": 0.85, "assail": 0.829, "destroy": 0.812, "crime_against_people": 0.807, "financial_condition": 0.865, "undesirable": 0.833, "@scenario_probability": 0.0002073444742348101}
+Scenario: [1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.0002073444742348101]

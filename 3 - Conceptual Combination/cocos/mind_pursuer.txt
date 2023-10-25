@@ -25,3 +25,9 @@ T(head), perceive_external_envrnment_and_recollect_data, 0.823
 
 Result: {"follower": 0.845, "thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "think_about": 0.842, "remember": 0.842, "intelligence": 0.836, "recall": 0.827, "@scenario_probability": 0.009403780493500918}
 Scenario: [1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.009403780493500918]
+Result: {"follower": 0.845, "thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "think_about": 0.842, "remember": 0.842, "intelligence": 0.836, "recall": 0.827, "@scenario_probability": 0.009403780493500918}
+Scenario: [1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.009403780493500918]
+Result: {"follower": 0.845, "thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "think_about": 0.842, "remember": 0.842, "@scenario_probability": 0.0003859052147926271}
+Scenario: [1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.0003859052147926271]
+Result: {"follower": 0.845, "thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "think_about": 0.842, "remember": 0.842, "intelligence": 0.836, "recall": 0.827, "@scenario_probability": 0.009403780493500918}
+Scenario: [1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.009403780493500918]

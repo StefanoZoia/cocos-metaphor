@@ -28,3 +28,9 @@ T(head), shoot_bullets, 0.795
 
 Result: {"termination": 0.837, "ending": 0.825, "war_zone": 0.809, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "shot": 0.807, "@scenario_probability": 0.00017929897504457103}
 Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00017929897504457103]
+Result: {"termination": 0.837, "ending": 0.825, "war_zone": 0.809, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "shot": 0.807, "@scenario_probability": 0.00017929897504457103}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00017929897504457103]
+Result: {"termination": 0.837, "ending": 0.825, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "@scenario_probability": 1.0123866901735922e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1.0123866901735922e-05]
+Result: {"termination": 0.837, "ending": 0.825, "war_zone": 0.809, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "shot": 0.807, "@scenario_probability": 0.00017929897504457103}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00017929897504457103]

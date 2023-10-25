@@ -28,3 +28,9 @@ T(head), banks, 0.851
 
 Result: {"vegetation": 0.837, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "money_supply": 0.861, "currency": 0.858, "buy_food": 0.854, "banks": 0.851, "@scenario_probability": 5.399259812001759e-05}
 Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 5.399259812001759e-05]
+Result: {"vegetation": 0.837, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "money_supply": 0.861, "currency": 0.858, "buy_food": 0.854, "banks": 0.851, "@scenario_probability": 5.399259812001759e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 5.399259812001759e-05]
+Result: {"vegetation": 0.837, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "money_supply": 0.861, "currency": 0.858, "@scenario_probability": 1.6161658270926107e-06}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1.6161658270926107e-06]
+Result: {"vegetation": 0.837, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "money_supply": 0.861, "currency": 0.858, "buy_food": 0.854, "banks": 0.851, "@scenario_probability": 5.399259812001759e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 5.399259812001759e-05]

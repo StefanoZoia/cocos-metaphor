@@ -23,3 +23,9 @@ T(head), used_in_shooting_gallery, 0.661
 
 Result: {"drama": 0.867, "melodramas": 0.851, "-comedy": 0.841, "present_opportunity_for_growth": 0.806, "group_people": 0.784, "written_or_spoken_work": 0.765, "scare_people": 0.797, "intelligent_agent_activity": 0.757, "@scenario_probability": 0.4004895955115459}
 Scenario: [1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0.4004895955115459]
+Result: {"drama": 0.867, "melodramas": 0.851, "-comedy": 0.841, "present_opportunity_for_growth": 0.806, "group_people": 0.784, "written_or_spoken_work": 0.765, "scare_people": 0.797, "intelligent_agent_activity": 0.757, "@scenario_probability": 0.4004895955115459}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0.4004895955115459]
+Result: {"drama": 0.867, "melodramas": 0.851, "-comedy": 0.841, "present_opportunity_for_growth": 0.806, "group_people": 0.784, "scare_people": 0.797, "@scenario_probability": 0.03949190276666032}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0.03949190276666032]
+Result: {"drama": 0.867, "melodramas": 0.851, "-comedy": 0.841, "present_opportunity_for_growth": 0.806, "group_people": 0.784, "written_or_spoken_work": 0.765, "scare_people": 0.797, "intelligent_agent_activity": 0.757, "@scenario_probability": 0.4004895955115459}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0.4004895955115459]

@@ -28,3 +28,9 @@ T(head), agent_non_geographical, 0.749
 
 Result: {"climbing": 0.91, "mountainous_region": 0.906, "mountainside": 0.873, "rocky_area": 0.862, "very_large": 0.858, "colorado": 0.842, "government": 0.866, "bureaucrats": 0.853, "@scenario_probability": 0.0001003027885601919}
 Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.0001003027885601919]
+Result: {"climbing": 0.91, "mountainous_region": 0.906, "mountainside": 0.873, "rocky_area": 0.862, "very_large": 0.858, "colorado": 0.842, "government": 0.866, "bureaucrats": 0.853, "@scenario_probability": 0.0001003027885601919}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.0001003027885601919]
+Result: {"climbing": 0.91, "mountainous_region": 0.906, "mountainside": 0.873, "rocky_area": 0.862, "very_large": 0.858, "government": 0.866, "@scenario_probability": 3.243592639502076e-06}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 3.243592639502076e-06]
+Result: {"climbing": 0.91, "mountainous_region": 0.906, "mountainside": 0.873, "rocky_area": 0.862, "very_large": 0.858, "colorado": 0.842, "government": 0.866, "bureaucrats": 0.853, "@scenario_probability": 0.0001003027885601919}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.0001003027885601919]

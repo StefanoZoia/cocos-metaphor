@@ -25,3 +25,9 @@ T(head), watch_evening_news, 0.667
 
 Result: {"spending_money": 0.933, "owning": 0.92, "purchase": 0.913, "buy_accessory": 0.888, "owning_thing": 0.886, "money": 0.878, "picking_out_right_thing": 0.87, "events": 0.834, "@scenario_probability": 0.01348053184380382}
 Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0.01348053184380382]
+Result: {"spending_money": 0.933, "owning": 0.92, "purchase": 0.913, "buy_accessory": 0.888, "owning_thing": 0.886, "money": 0.878, "picking_out_right_thing": 0.87, "events": 0.834, "@scenario_probability": 0.01348053184380382}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0.01348053184380382]
+Result: {"spending_money": 0.933, "owning": 0.92, "purchase": 0.913, "buy_accessory": 0.888, "owning_thing": 0.886, "events": 0.834, "@scenario_probability": 0.00027989583829854755}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0.00027989583829854755]
+Result: {"spending_money": 0.933, "owning": 0.92, "purchase": 0.913, "buy_accessory": 0.888, "owning_thing": 0.886, "money": 0.878, "picking_out_right_thing": 0.87, "events": 0.834, "@scenario_probability": 0.01348053184380382}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0.01348053184380382]

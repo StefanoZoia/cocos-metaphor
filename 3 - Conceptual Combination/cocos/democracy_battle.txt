@@ -28,3 +28,9 @@ T(head), government, 0.793
 
 Result: {"fighting": 0.941, "fight": 0.917, "battle": 0.915, "war": 0.895, "fighting_war": 0.89, "fight_between_enemies": 0.861, "winning_war": 0.858, "equality_for_everyone": 0.854, "@scenario_probability": 2.5397297255302405e-05}
 Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2.5397297255302405e-05]
+Result: {"fighting": 0.941, "fight": 0.917, "battle": 0.915, "war": 0.895, "fighting_war": 0.89, "fight_between_enemies": 0.861, "winning_war": 0.858, "equality_for_everyone": 0.854, "@scenario_probability": 2.5397297255302405e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2.5397297255302405e-05]
+Result: {"fighting": 0.941, "fight": 0.917, "battle": 0.915, "war": 0.895, "fighting_war": 0.89, "equality_for_everyone": 0.854, "@scenario_probability": 6.785786750176097e-07}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 6.785786750176097e-07]
+Result: {"fighting": 0.941, "fight": 0.917, "battle": 0.915, "war": 0.895, "fighting_war": 0.89, "fight_between_enemies": 0.861, "winning_war": 0.858, "equality_for_everyone": 0.854, "@scenario_probability": 2.5397297255302405e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2.5397297255302405e-05]

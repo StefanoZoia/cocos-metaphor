@@ -25,3 +25,9 @@ T(head), agent_non_geographical, 0.749
 
 Result: {"endeavor": 0.853, "effort": 0.845, "attempt": 0.844, "present_challenge": 0.793, "government": 0.866, "bureaucrats": 0.853, "government_officials": 0.834, "organization": 0.814, "@scenario_probability": 0.021717455629865243}
 Scenario: [1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.021717455629865243]
+Result: {"endeavor": 0.853, "effort": 0.845, "attempt": 0.844, "present_challenge": 0.793, "government": 0.866, "bureaucrats": 0.853, "government_officials": 0.834, "organization": 0.814, "@scenario_probability": 0.021717455629865243}
+Scenario: [1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.021717455629865243]
+Result: {"endeavor": 0.853, "effort": 0.845, "attempt": 0.844, "government": 0.866, "bureaucrats": 0.853, "government_officials": 0.834, "@scenario_probability": 0.0012953724026588168}
+Scenario: [1, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.0012953724026588168]
+Result: {"endeavor": 0.853, "effort": 0.845, "attempt": 0.844, "present_challenge": 0.793, "government": 0.866, "bureaucrats": 0.853, "government_officials": 0.834, "organization": 0.814, "@scenario_probability": 0.021717455629865243}
+Scenario: [1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.021717455629865243]

@@ -28,3 +28,9 @@ T(head), banks, 0.851
 
 Result: {"high_and_rocky": 0.873, "very_large": 0.867, "volcanoes": 0.865, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "money_supply": 0.861, "currency": 0.858, "@scenario_probability": 1.903656200927404e-05}
 Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1.903656200927404e-05]
+Result: {"high_and_rocky": 0.873, "very_large": 0.867, "volcanoes": 0.865, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "money_supply": 0.861, "currency": 0.858, "@scenario_probability": 1.903656200927404e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1.903656200927404e-05]
+Result: {"high_and_rocky": 0.873, "very_large": 0.867, "volcanoes": 0.865, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "@scenario_probability": 5.086291228271067e-07}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 5.086291228271067e-07]
+Result: {"high_and_rocky": 0.873, "very_large": 0.867, "volcanoes": 0.865, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "money_supply": 0.861, "currency": 0.858, "@scenario_probability": 1.903656200927404e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1.903656200927404e-05]

@@ -28,3 +28,9 @@ T(head), government, 0.793
 
 Result: {"eating": 0.882, "hotel": 0.872, "dinner": 0.866, "establishment": 0.863, "eating_out": 0.859, "eat": 0.855, "equality_for_everyone": 0.854, "open_media": 0.853, "@scenario_probability": 1.9836781414104034e-05}
 Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1.9836781414104034e-05]
+Result: {"eating": 0.882, "hotel": 0.872, "dinner": 0.866, "establishment": 0.863, "eating_out": 0.859, "eat": 0.855, "equality_for_everyone": 0.854, "open_media": 0.853, "@scenario_probability": 1.9836781414104034e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1.9836781414104034e-05]
+Result: {"eating": 0.882, "hotel": 0.872, "dinner": 0.866, "establishment": 0.863, "eating_out": 0.859, "equality_for_everyone": 0.854, "@scenario_probability": 5.797508564085855e-07}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 5.797508564085855e-07]
+Result: {"eating": 0.882, "hotel": 0.872, "dinner": 0.866, "establishment": 0.863, "eating_out": 0.859, "eat": 0.855, "equality_for_everyone": 0.854, "open_media": 0.853, "@scenario_probability": 1.9836781414104034e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1.9836781414104034e-05]

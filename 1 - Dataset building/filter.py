@@ -1,4 +1,4 @@
-# Questo programma filtra le righe del tsv di Tsvetko et al
+# Questo programma filtra le righe del tsv di Tsvetkov et al
 # selezionando le righe per le quali tutti gli annotatori erano concordi
 
 import csv

@@ -28,3 +28,9 @@ T(head), activities, 0.752
 
 Result: {"heat": 0.946, "form_of_energy": 0.911, "temperature": 0.884, "oven": 0.864, "-cold": 0.861, "heater": 0.845, "election": 0.868, "election_day": 0.867, "@scenario_probability": 7.437234716830383e-05}
 Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 7.437234716830383e-05]
+Result: {"heat": 0.946, "form_of_energy": 0.911, "temperature": 0.884, "oven": 0.864, "-cold": 0.861, "heater": 0.845, "election": 0.868, "election_day": 0.867, "@scenario_probability": 7.437234716830383e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 7.437234716830383e-05]
+Result: {"heat": 0.946, "form_of_energy": 0.911, "temperature": 0.884, "oven": 0.864, "election": 0.868, "election_day": 0.867, "@scenario_probability": 2.202409774984512e-06}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 2.202409774984512e-06]
+Result: {"heat": 0.946, "form_of_energy": 0.911, "temperature": 0.884, "oven": 0.864, "-cold": 0.861, "heater": 0.845, "election": 0.868, "election_day": 0.867, "@scenario_probability": 7.437234716830383e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 7.437234716830383e-05]

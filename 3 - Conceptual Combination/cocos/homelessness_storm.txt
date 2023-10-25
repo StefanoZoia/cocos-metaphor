@@ -22,3 +22,9 @@ T(head), condition, 0.79
 
 Result: {"rain": 0.914, "raining": 0.902, "tropical_seas": 0.888, "flooding": 0.875, "atmospheric_phenomenon": 0.865, "rain_on_heads": 0.847, "storm_center": 0.845, "social_and_economic_problem": 0.811, "@scenario_probability": 1.0671542903003635}
 Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1.0671542903003635]
+Result: {"rain": 0.914, "raining": 0.902, "tropical_seas": 0.888, "flooding": 0.875, "atmospheric_phenomenon": 0.865, "rain_on_heads": 0.847, "storm_center": 0.845, "social_and_economic_problem": 0.811, "@scenario_probability": 1.0671542903003635}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1.0671542903003635]
+Result: {"rain": 0.914, "raining": 0.902, "tropical_seas": 0.888, "flooding": 0.875, "atmospheric_phenomenon": 0.865, "social_and_economic_problem": 0.811, "@scenario_probability": 0.03535983456330122}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0.03535983456330122]
+Result: {"rain": 0.914, "raining": 0.902, "tropical_seas": 0.888, "flooding": 0.875, "atmospheric_phenomenon": 0.865, "rain_on_heads": 0.847, "storm_center": 0.845, "social_and_economic_problem": 0.811, "@scenario_probability": 1.0671542903003635}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1.0671542903003635]

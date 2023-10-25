@@ -28,3 +28,9 @@ T(head), historical, 0.744
 
 Result: {"biology": 0.861, "continuous": 0.849, "-revolution": 0.809, "organic_process": 0.797, "adaptation": 0.797, "-extinction": 0.796, "legislature": 0.91, "legislative_organization": 0.874, "@scenario_probability": 0.00023206482348617208}
 Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00023206482348617208]
+Result: {"biology": 0.861, "continuous": 0.849, "-revolution": 0.809, "organic_process": 0.797, "adaptation": 0.797, "-extinction": 0.796, "legislature": 0.91, "legislative_organization": 0.874, "@scenario_probability": 0.00023206482348617208}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00023206482348617208]
+Result: {"biology": 0.861, "continuous": 0.849, "-revolution": 0.809, "adaptation": 0.797, "legislature": 0.91, "legislative_organization": 0.874, "@scenario_probability": 1.5148308150238883e-05}
+Scenario: [1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1.5148308150238883e-05]
+Result: {"biology": 0.861, "continuous": 0.849, "-revolution": 0.809, "organic_process": 0.797, "adaptation": 0.797, "-extinction": 0.796, "legislature": 0.91, "legislative_organization": 0.874, "@scenario_probability": 0.00023206482348617208}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00023206482348617208]

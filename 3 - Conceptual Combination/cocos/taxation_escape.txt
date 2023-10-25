@@ -23,3 +23,9 @@ T(head), activity_of_government, 0.721
 
 Result: {"escape": 0.946, "flee": 0.901, "avoidance": 0.847, "diversion": 0.835, "discharge": 0.825, "issue": 0.811, "means": 0.808, "imposition": 0.862, "@scenario_probability": 0.43431311720322174}
 Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.43431311720322174]
+Result: {"escape": 0.946, "flee": 0.901, "avoidance": 0.847, "diversion": 0.835, "discharge": 0.825, "issue": 0.811, "means": 0.808, "imposition": 0.862, "@scenario_probability": 0.43431311720322174}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.43431311720322174]
+Result: {"escape": 0.946, "flee": 0.901, "avoidance": 0.847, "diversion": 0.835, "discharge": 0.825, "imposition": 0.862, "@scenario_probability": 0.02405103465509898}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0.02405103465509898]
+Result: {"escape": 0.946, "flee": 0.901, "avoidance": 0.847, "diversion": 0.835, "discharge": 0.825, "issue": 0.811, "means": 0.808, "imposition": 0.862, "@scenario_probability": 0.43431311720322174}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.43431311720322174]

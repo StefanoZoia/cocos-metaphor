@@ -28,3 +28,9 @@ T(head), -debt, 0.714
 
 Result: {"contest": 0.859, "compete": 0.858, "significant_in_genetics": 0.829, "competition_in": 0.82, "group": 0.804, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "@scenario_probability": 0.0001399720628667279}
 Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.0001399720628667279]
+Result: {"contest": 0.859, "compete": 0.858, "significant_in_genetics": 0.829, "competition_in": 0.82, "group": 0.804, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "@scenario_probability": 0.0001399720628667279}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.0001399720628667279]
+Result: {"contest": 0.859, "compete": 0.858, "significant_in_genetics": 0.829, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "@scenario_probability": 7.4903142487837605e-06}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 7.4903142487837605e-06]
+Result: {"contest": 0.859, "compete": 0.858, "significant_in_genetics": 0.829, "competition_in": 0.82, "group": 0.804, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "@scenario_probability": 0.0001399720628667279}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.0001399720628667279]

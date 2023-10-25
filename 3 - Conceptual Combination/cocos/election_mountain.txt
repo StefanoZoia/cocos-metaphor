@@ -28,3 +28,9 @@ T(head), opportunity_to_vote, 0.748
 
 Result: {"climbing": 0.91, "mountainous_region": 0.906, "mountainside": 0.873, "rocky_area": 0.862, "very_large": 0.858, "colorado": 0.842, "vote": 0.899, "choice": 0.856, "@scenario_probability": 0.00010272270191464098}
 Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00010272270191464098]
+Result: {"climbing": 0.91, "mountainous_region": 0.906, "mountainside": 0.873, "rocky_area": 0.862, "very_large": 0.858, "colorado": 0.842, "vote": 0.899, "choice": 0.856, "@scenario_probability": 0.00010272270191464098}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00010272270191464098]
+Result: {"climbing": 0.91, "mountainous_region": 0.906, "mountainside": 0.873, "rocky_area": 0.862, "very_large": 0.858, "vote": 0.899, "@scenario_probability": 3.242650612085588e-06}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 3.242650612085588e-06]
+Result: {"climbing": 0.91, "mountainous_region": 0.906, "mountainside": 0.873, "rocky_area": 0.862, "very_large": 0.858, "colorado": 0.842, "vote": 0.899, "choice": 0.856, "@scenario_probability": 0.00010272270191464098}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00010272270191464098]

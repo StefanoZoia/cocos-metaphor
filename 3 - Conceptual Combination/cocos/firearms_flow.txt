@@ -24,3 +24,9 @@ T(head), used_in_shooting_gallery, 0.661
 
 Result: {"flood": 0.85, "-ebb": 0.84, "motion": 0.819, "rate": 0.813, "exist": 0.811, "change_of_location": 0.808, "move": 0.808, "scare_people": 0.797, "@scenario_probability": 0.08250021963828318}
 Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0.08250021963828318]
+Result: {"flood": 0.85, "-ebb": 0.84, "motion": 0.819, "rate": 0.813, "exist": 0.811, "change_of_location": 0.808, "move": 0.808, "scare_people": 0.797, "@scenario_probability": 0.08250021963828318}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0.08250021963828318]
+Result: {"flood": 0.85, "-ebb": 0.84, "motion": 0.819, "rate": 0.813, "exist": 0.811, "scare_people": 0.797, "@scenario_probability": 0.004658379228668862}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0.004658379228668862]
+Result: {"flood": 0.85, "-ebb": 0.84, "motion": 0.819, "rate": 0.813, "exist": 0.811, "change_of_location": 0.808, "move": 0.808, "scare_people": 0.797, "@scenario_probability": 0.08250021963828318}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0.08250021963828318]

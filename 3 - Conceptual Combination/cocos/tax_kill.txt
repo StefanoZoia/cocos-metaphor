@@ -28,3 +28,9 @@ T(head), legalized_theft_by_government, 0.762
 
 Result: {"murder": 0.942, "killed_love": 0.9, "killed_wife": 0.9, "shoot": 0.881, "buy_gun": 0.875, "use_knife": 0.874, "destroy": 0.871, "levy": 0.89, "@scenario_probability": 7.782439320102983e-05}
 Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 7.782439320102983e-05]
+Result: {"murder": 0.942, "killed_love": 0.9, "killed_wife": 0.9, "shoot": 0.881, "buy_gun": 0.875, "use_knife": 0.874, "destroy": 0.871, "levy": 0.89, "@scenario_probability": 7.782439320102983e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 7.782439320102983e-05]
+Result: {"murder": 0.942, "killed_love": 0.9, "killed_wife": 0.9, "shoot": 0.881, "buy_gun": 0.875, "levy": 0.89, "@scenario_probability": 1.6616762435265214e-06}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1.6616762435265214e-06]
+Result: {"murder": 0.942, "killed_love": 0.9, "killed_wife": 0.9, "shoot": 0.881, "buy_gun": 0.875, "use_knife": 0.874, "destroy": 0.871, "levy": 0.89, "@scenario_probability": 7.782439320102983e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 7.782439320102983e-05]

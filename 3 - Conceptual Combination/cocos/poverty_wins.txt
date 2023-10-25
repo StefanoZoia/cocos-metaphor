@@ -28,3 +28,9 @@ T(head), mumbai, 0.747
 
 Result: {"victory": 0.821, "compete": 0.81, "-lose": 0.787, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "situation": 0.763, "@scenario_probability": 0.00033492435622153063}
 Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00033492435622153063]
+Result: {"victory": 0.821, "compete": 0.81, "-lose": 0.787, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "situation": 0.763, "@scenario_probability": 0.00033492435622153063}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00033492435622153063]
+Result: {"victory": 0.821, "compete": 0.81, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "@scenario_probability": 2.8156288752548513e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 2.8156288752548513e-05]
+Result: {"victory": 0.821, "compete": 0.81, "-lose": 0.787, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "situation": 0.763, "@scenario_probability": 0.00033492435622153063}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00033492435622153063]

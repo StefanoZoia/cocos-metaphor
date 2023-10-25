@@ -23,3 +23,9 @@ T(head), activity_of_government, 0.721
 
 Result: {"motor": 0.904, "fuel_to_operate": 0.878, "car": 0.873, "automobile": 0.866, "power": 0.856, "camshaft": 0.85, "piston": 0.837, "imposition": 0.862, "@scenario_probability": 0.3924506634695647}
 Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.3924506634695647]
+Result: {"motor": 0.904, "fuel_to_operate": 0.878, "car": 0.873, "automobile": 0.866, "power": 0.856, "camshaft": 0.85, "piston": 0.837, "imposition": 0.862, "@scenario_probability": 0.3924506634695647}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.3924506634695647]
+Result: {"motor": 0.904, "fuel_to_operate": 0.878, "car": 0.873, "automobile": 0.866, "power": 0.856, "imposition": 0.862, "@scenario_probability": 0.013487130117128203}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0.013487130117128203]
+Result: {"motor": 0.904, "fuel_to_operate": 0.878, "car": 0.873, "automobile": 0.866, "power": 0.856, "camshaft": 0.85, "piston": 0.837, "imposition": 0.862, "@scenario_probability": 0.3924506634695647}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.3924506634695647]

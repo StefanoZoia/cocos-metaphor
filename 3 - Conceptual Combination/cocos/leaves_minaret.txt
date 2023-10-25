@@ -24,3 +24,9 @@ T(head), roof, 0.818
 
 Result: {"mosque": 0.886, "tower": 0.866, "fall_from_tree": 0.917, "green_in_colour": 0.881, "trees": 0.867, "fall_off_trees": 0.857, "tree": 0.855, "cover_ground": 0.831, "@scenario_probability": 0.07026513214696646}
 Scenario: [1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.07026513214696646]
+Result: {"mosque": 0.886, "tower": 0.866, "fall_from_tree": 0.917, "green_in_colour": 0.881, "trees": 0.867, "fall_off_trees": 0.857, "tree": 0.855, "cover_ground": 0.831, "@scenario_probability": 0.07026513214696646}
+Scenario: [1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.07026513214696646]
+Result: {"mosque": 0.886, "tower": 0.866, "fall_from_tree": 0.917, "green_in_colour": 0.881, "trees": 0.867, "fall_off_trees": 0.857, "@scenario_probability": 0.002423413013647214}
+Scenario: [1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.002423413013647214]
+Result: {"mosque": 0.886, "tower": 0.866, "fall_from_tree": 0.917, "green_in_colour": 0.881, "trees": 0.867, "fall_off_trees": 0.857, "tree": 0.855, "cover_ground": 0.831, "@scenario_probability": 0.07026513214696646}
+Scenario: [1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.07026513214696646]

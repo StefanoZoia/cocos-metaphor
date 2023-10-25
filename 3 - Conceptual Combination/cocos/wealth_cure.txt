@@ -28,3 +28,9 @@ T(head), -debt, 0.714
 
 Result: {"preserve": 0.824, "change": 0.801, "harden": 0.795, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "@scenario_probability": 0.0003063419253025123}
 Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.0003063419253025123]
+Result: {"preserve": 0.824, "change": 0.801, "harden": 0.795, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "@scenario_probability": 0.0003063419253025123}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.0003063419253025123]
+Result: {"preserve": 0.824, "change": 0.801, "harden": 0.795, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "@scenario_probability": 2.1129184930568126e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 2.1129184930568126e-05]
+Result: {"preserve": 0.824, "change": 0.801, "harden": 0.795, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "@scenario_probability": 0.0003063419253025123}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.0003063419253025123]

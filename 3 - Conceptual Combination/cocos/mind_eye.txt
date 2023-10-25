@@ -28,3 +28,9 @@ T(head), perceive_external_envrnment_and_recollect_data, 0.823
 
 Result: {"blinking": 0.9, "staring": 0.887, "looking": 0.884, "eye_socket": 0.883, "eyeball": 0.875, "epicanthus": 0.873, "thinking": 0.906, "subjective": 0.894, "@scenario_probability": 1.1943994257547532e-05}
 Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1.1943994257547532e-05]
+Result: {"blinking": 0.9, "staring": 0.887, "looking": 0.884, "eye_socket": 0.883, "eyeball": 0.875, "epicanthus": 0.873, "thinking": 0.906, "subjective": 0.894, "@scenario_probability": 1.1943994257547532e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1.1943994257547532e-05]
+Result: {"blinking": 0.9, "staring": 0.887, "looking": 0.884, "eye_socket": 0.883, "thinking": 0.906, "subjective": 0.894, "@scenario_probability": 2.4822243016012703e-07}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 2.4822243016012703e-07]
+Result: {"blinking": 0.9, "staring": 0.887, "looking": 0.884, "eye_socket": 0.883, "eyeball": 0.875, "epicanthus": 0.873, "thinking": 0.906, "subjective": 0.894, "@scenario_probability": 1.1943994257547532e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1.1943994257547532e-05]

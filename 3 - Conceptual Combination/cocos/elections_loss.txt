@@ -25,3 +25,9 @@ T(head), watch_evening_news, 0.667
 
 Result: {"losing_or_being_lost": 0.898, "-profit": 0.851, "failure": 0.849, "disadvantage": 0.839, "decline": 0.837, "-gain": 0.832, "events": 0.834, "national_or_local": 0.819, "@scenario_probability": 0.011383281014658755}
 Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0.011383281014658755]
+Result: {"losing_or_being_lost": 0.898, "-profit": 0.851, "failure": 0.849, "disadvantage": 0.839, "decline": 0.837, "-gain": 0.832, "events": 0.834, "national_or_local": 0.819, "@scenario_probability": 0.011383281014658755}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0.011383281014658755]
+Result: {"losing_or_being_lost": 0.898, "-profit": 0.851, "failure": 0.849, "disadvantage": 0.839, "decline": 0.837, "events": 0.834, "@scenario_probability": 0.0005079817218079971}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0.0005079817218079971]
+Result: {"losing_or_being_lost": 0.898, "-profit": 0.851, "failure": 0.849, "disadvantage": 0.839, "decline": 0.837, "-gain": 0.832, "events": 0.834, "national_or_local": 0.819, "@scenario_probability": 0.011383281014658755}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0.011383281014658755]

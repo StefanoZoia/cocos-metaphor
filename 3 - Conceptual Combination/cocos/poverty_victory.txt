@@ -28,3 +28,9 @@ T(head), mumbai, 0.747
 
 Result: {"-defeat": 0.882, "success": 0.866, "conquer_opponent": 0.821, "ending": 0.818, "-loss": 0.814, "celebrate": 0.806, "financial_condition": 0.865, "undesirable": 0.833, "@scenario_probability": 0.00017448111581700284}
 Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00017448111581700284]
+Result: {"-defeat": 0.882, "success": 0.866, "conquer_opponent": 0.821, "ending": 0.818, "-loss": 0.814, "celebrate": 0.806, "financial_condition": 0.865, "undesirable": 0.833, "@scenario_probability": 0.00017448111581700284}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00017448111581700284]
+Result: {"-defeat": 0.882, "success": 0.866, "conquer_opponent": 0.821, "ending": 0.818, "financial_condition": 0.865, "undesirable": 0.833, "@scenario_probability": 9.596296485115822e-06}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 9.596296485115822e-06]
+Result: {"-defeat": 0.882, "success": 0.866, "conquer_opponent": 0.821, "ending": 0.818, "-loss": 0.814, "celebrate": 0.806, "financial_condition": 0.865, "undesirable": 0.833, "@scenario_probability": 0.00017448111581700284}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00017448111581700284]

@@ -19,3 +19,9 @@ T(head), canada, 0.758
 
 Result: {"accomplishment": 0.824, "attempt": 0.795, "assembly": 0.862, "congress": 0.859, "making_laws": 0.839, "pass_law": 0.815, "@scenario_probability": 8.026564603570382}
 Scenario: [1, 1, 1, 1, 1, 1, 0, 8.026564603570382]
+Result: {"accomplishment": 0.824, "attempt": 0.795, "assembly": 0.862, "congress": 0.859, "making_laws": 0.839, "pass_law": 0.815, "@scenario_probability": 8.026564603570382}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 8.026564603570382]
+Result: {"accomplishment": 0.824, "attempt": 0.795, "assembly": 0.862, "congress": 0.859, "making_laws": 0.839, "pass_law": 0.815, "@scenario_probability": 8.026564603570382}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 8.026564603570382]
+Result: {"accomplishment": 0.824, "attempt": 0.795, "assembly": 0.862, "congress": 0.859, "making_laws": 0.839, "pass_law": 0.815, "@scenario_probability": 8.026564603570382}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 8.026564603570382]

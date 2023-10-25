@@ -28,3 +28,9 @@ T(head), perceive_external_envrnment_and_recollect_data, 0.823
 
 Result: {"torso": 0.852, "coffin": 0.843, "body_substance": 0.837, "thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "think_about": 0.842, "remember": 0.842, "@scenario_probability": 2.241124463022241e-05}
 Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 2.241124463022241e-05]
+Result: {"torso": 0.852, "coffin": 0.843, "body_substance": 0.837, "thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "think_about": 0.842, "remember": 0.842, "@scenario_probability": 2.241124463022241e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 2.241124463022241e-05]
+Result: {"torso": 0.852, "coffin": 0.843, "thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "remember": 0.842, "@scenario_probability": 8.189796641193214e-07}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 8.189796641193214e-07]
+Result: {"torso": 0.852, "coffin": 0.843, "body_substance": 0.837, "thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "think_about": 0.842, "remember": 0.842, "@scenario_probability": 2.241124463022241e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 2.241124463022241e-05]

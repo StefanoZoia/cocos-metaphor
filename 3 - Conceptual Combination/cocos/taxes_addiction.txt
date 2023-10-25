@@ -28,3 +28,9 @@ T(head), source_of_revenue, 0.738
 
 Result: {"narcotic": 0.866, "craving": 0.864, "bad": 0.831, "physiological_state": 0.817, "bills": 0.827, "fund_govenment_services": 0.816, "percentage_of_income": 0.804, "debt": 0.804, "@scenario_probability": 0.00012813982195756558}
 Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00012813982195756558]
+Result: {"narcotic": 0.866, "craving": 0.864, "bad": 0.831, "physiological_state": 0.817, "bills": 0.827, "fund_govenment_services": 0.816, "percentage_of_income": 0.804, "debt": 0.804, "@scenario_probability": 0.00012813982195756558}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00012813982195756558]
+Result: {"narcotic": 0.866, "craving": 0.864, "bad": 0.831, "physiological_state": 0.817, "bills": 0.827, "fund_govenment_services": 0.816, "@scenario_probability": 7.6152499324302544e-06}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 7.6152499324302544e-06]
+Result: {"narcotic": 0.866, "craving": 0.864, "bad": 0.831, "physiological_state": 0.817, "bills": 0.827, "fund_govenment_services": 0.816, "percentage_of_income": 0.804, "debt": 0.804, "@scenario_probability": 0.00012813982195756558}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00012813982195756558]

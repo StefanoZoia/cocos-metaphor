@@ -28,3 +28,9 @@ T(head), -rich, 0.71
 
 Result: {"subjugation": 0.843, "sadomasochism": 0.813, "pauper": 0.859, "beg": 0.857, "impoverish": 0.831, "defy": 0.813, "need_clothes": 0.799, "street": 0.797, "@scenario_probability": 0.0003641790586513416}
 Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0003641790586513416]
+Result: {"subjugation": 0.843, "sadomasochism": 0.813, "pauper": 0.859, "beg": 0.857, "impoverish": 0.831, "defy": 0.813, "need_clothes": 0.799, "street": 0.797, "@scenario_probability": 0.0003641790586513416}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0003641790586513416]
+Result: {"subjugation": 0.843, "sadomasochism": 0.813, "pauper": 0.859, "beg": 0.857, "impoverish": 0.831, "defy": 0.813, "@scenario_probability": 2.3334686127657508e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 2.3334686127657508e-05]
+Result: {"subjugation": 0.843, "sadomasochism": 0.813, "pauper": 0.859, "beg": 0.857, "impoverish": 0.831, "defy": 0.813, "need_clothes": 0.799, "street": 0.797, "@scenario_probability": 0.0003641790586513416}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0003641790586513416]

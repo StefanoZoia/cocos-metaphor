@@ -28,3 +28,9 @@ T(head), -debt, 0.714
 
 Result: {"narcotic": 0.866, "craving": 0.864, "bad": 0.831, "physiological_state": 0.817, "smoke": 0.798, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "@scenario_probability": 0.0001706701498517851}
 Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.0001706701498517851]
+Result: {"narcotic": 0.866, "craving": 0.864, "bad": 0.831, "physiological_state": 0.817, "smoke": 0.798, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "@scenario_probability": 0.0001706701498517851}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.0001706701498517851]
+Result: {"narcotic": 0.866, "craving": 0.864, "bad": 0.831, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "@scenario_probability": 9.676873885173597e-06}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 9.676873885173597e-06]
+Result: {"narcotic": 0.866, "craving": 0.864, "bad": 0.831, "physiological_state": 0.817, "smoke": 0.798, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "@scenario_probability": 0.0001706701498517851}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.0001706701498517851]

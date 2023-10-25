@@ -28,3 +28,9 @@ T(head), jealous_of_power, 0.827
 
 Result: {"climbing": 0.91, "mountainous_region": 0.906, "mountainside": 0.873, "rocky_area": 0.862, "very_large": 0.858, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "@scenario_probability": 2.3901510833391382e-05}
 Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 2.3901510833391382e-05]
+Result: {"climbing": 0.91, "mountainous_region": 0.906, "mountainside": 0.873, "rocky_area": 0.862, "very_large": 0.858, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "@scenario_probability": 2.3901510833391382e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 2.3901510833391382e-05]
+Result: {"climbing": 0.91, "mountainous_region": 0.906, "mountainside": 0.873, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "@scenario_probability": 6.332835849452101e-07}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 6.332835849452101e-07]
+Result: {"climbing": 0.91, "mountainous_region": 0.906, "mountainside": 0.873, "rocky_area": 0.862, "very_large": 0.858, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "@scenario_probability": 2.3901510833391382e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 2.3901510833391382e-05]

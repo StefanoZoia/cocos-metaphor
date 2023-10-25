@@ -6,6 +6,7 @@ import cocos_config as cfg
 import os
 import json
 
+
 # translates a scenario from bits to properties
 def scenario_to_properties(scenario, typical_props):
     properties_dict = dict()
@@ -51,6 +52,6 @@ def cocos(filename, max_attrs = math.inf):
 def main():
     for file in os.listdir(cfg.COCOS_DIR):
         cocos(os.path.join(cfg.COCOS_DIR, file), cfg.MAX_ATTRS)
-
+    
 
 if __name__ == '__main__' : main()

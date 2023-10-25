@@ -28,3 +28,9 @@ T(head), government, 0.793
 
 Result: {"sharp": 0.909, "fencing": 0.895, "weapon": 0.882, "sheath": 0.876, "blacksmith": 0.86, "blade": 0.859, "stabbing": 0.857, "equality_for_everyone": 0.854, "@scenario_probability": 2.0537790829093004e-05}
 Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2.0537790829093004e-05]
+Result: {"sharp": 0.909, "fencing": 0.895, "weapon": 0.882, "sheath": 0.876, "blacksmith": 0.86, "blade": 0.859, "stabbing": 0.857, "equality_for_everyone": 0.854, "@scenario_probability": 2.0537790829093004e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2.0537790829093004e-05]
+Result: {"sharp": 0.909, "fencing": 0.895, "weapon": 0.882, "sheath": 0.876, "blacksmith": 0.86, "equality_for_everyone": 0.854, "@scenario_probability": 5.625160140987829e-07}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 5.625160140987829e-07]
+Result: {"sharp": 0.909, "fencing": 0.895, "weapon": 0.882, "sheath": 0.876, "blacksmith": 0.86, "blade": 0.859, "stabbing": 0.857, "equality_for_everyone": 0.854, "@scenario_probability": 2.0537790829093004e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2.0537790829093004e-05]

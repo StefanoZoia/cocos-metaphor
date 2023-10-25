@@ -24,3 +24,9 @@ T(head), government, 0.793
 
 Result: {"fantasy": 0.802, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "good_thing": 0.84, "government_of_people": 0.816, "-dictatorship": 0.809, "@scenario_probability": 0.06392211473159558}
 Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.06392211473159558]
+Result: {"fantasy": 0.802, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "good_thing": 0.84, "government_of_people": 0.816, "-dictatorship": 0.809, "@scenario_probability": 0.06392211473159558}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.06392211473159558]
+Result: {"fantasy": 0.802, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "good_thing": 0.84, "@scenario_probability": 0.003403013282143282}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.003403013282143282]
+Result: {"fantasy": 0.802, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "good_thing": 0.84, "government_of_people": 0.816, "-dictatorship": 0.809, "@scenario_probability": 0.06392211473159558}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.06392211473159558]

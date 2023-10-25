@@ -28,3 +28,9 @@ T(head), government, 0.793
 
 Result: {"sailing": 0.888, "sail": 0.887, "swimming": 0.885, "beach": 0.881, "diving": 0.878, "fish": 0.877, "swim_in": 0.873, "equality_for_everyone": 0.854, "@scenario_probability": 1.8782223652390906e-05}
 Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1.8782223652390906e-05]
+Result: {"sailing": 0.888, "sail": 0.887, "swimming": 0.885, "beach": 0.881, "diving": 0.878, "fish": 0.877, "swim_in": 0.873, "equality_for_everyone": 0.854, "@scenario_probability": 1.8782223652390906e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1.8782223652390906e-05]
+Result: {"sailing": 0.888, "sail": 0.887, "swimming": 0.885, "beach": 0.881, "diving": 0.878, "equality_for_everyone": 0.854, "@scenario_probability": 3.8321456134823677e-07}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 3.8321456134823677e-07]
+Result: {"sailing": 0.888, "sail": 0.887, "swimming": 0.885, "beach": 0.881, "diving": 0.878, "fish": 0.877, "swim_in": 0.873, "equality_for_everyone": 0.854, "@scenario_probability": 1.8782223652390906e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1.8782223652390906e-05]

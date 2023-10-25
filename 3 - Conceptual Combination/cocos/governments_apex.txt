@@ -28,3 +28,9 @@ T(head), make_new_laws, 0.788
 
 Result: {"celestial_point": 0.802, "celestial_sphere": 0.802, "-nadir": 0.799, "govern_peoples": 0.878, "govern_peasants": 0.878, "arm_rebels": 0.819, "tax_cigarettes_quite_highly": 0.815, "control_information": 0.798, "@scenario_probability": 0.00013989783835103884}
 Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00013989783835103884]
+Result: {"celestial_point": 0.802, "celestial_sphere": 0.802, "-nadir": 0.799, "govern_peoples": 0.878, "govern_peasants": 0.878, "arm_rebels": 0.819, "tax_cigarettes_quite_highly": 0.815, "control_information": 0.798, "@scenario_probability": 0.00013989783835103884}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00013989783835103884]
+Result: {"celestial_point": 0.802, "celestial_sphere": 0.802, "govern_peoples": 0.878, "govern_peasants": 0.878, "arm_rebels": 0.819, "tax_cigarettes_quite_highly": 0.815, "@scenario_probability": 8.908585658026289e-06}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 8.908585658026289e-06]
+Result: {"celestial_point": 0.802, "celestial_sphere": 0.802, "-nadir": 0.799, "govern_peoples": 0.878, "govern_peasants": 0.878, "arm_rebels": 0.819, "tax_cigarettes_quite_highly": 0.815, "control_information": 0.798, "@scenario_probability": 0.00013989783835103884}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00013989783835103884]

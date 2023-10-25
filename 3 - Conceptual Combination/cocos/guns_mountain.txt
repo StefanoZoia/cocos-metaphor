@@ -28,3 +28,9 @@ T(head), shoot_bullets, 0.795
 
 Result: {"climbing": 0.91, "mountainous_region": 0.906, "mountainside": 0.873, "rocky_area": 0.862, "very_large": 0.858, "colorado": 0.842, "austria": 0.827, "firearm_shoots_bullets": 0.838, "@scenario_probability": 5.1347706649367725e-05}
 Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 5.1347706649367725e-05]
+Result: {"climbing": 0.91, "mountainous_region": 0.906, "mountainside": 0.873, "rocky_area": 0.862, "very_large": 0.858, "colorado": 0.842, "austria": 0.827, "firearm_shoots_bullets": 0.838, "@scenario_probability": 5.1347706649367725e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 5.1347706649367725e-05]
+Result: {"climbing": 0.91, "mountainous_region": 0.906, "mountainside": 0.873, "rocky_area": 0.862, "very_large": 0.858, "firearm_shoots_bullets": 0.838, "@scenario_probability": 2.0156106316133035e-06}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2.0156106316133035e-06]
+Result: {"climbing": 0.91, "mountainous_region": 0.906, "mountainside": 0.873, "rocky_area": 0.862, "very_large": 0.858, "colorado": 0.842, "austria": 0.827, "firearm_shoots_bullets": 0.838, "@scenario_probability": 5.1347706649367725e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 5.1347706649367725e-05]

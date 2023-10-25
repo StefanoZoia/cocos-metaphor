@@ -23,3 +23,9 @@ T(head), -republic, 0.685
 
 Result: {"collapse": 0.946, "weaken": 0.836, "fold": 0.826, "happening": 0.817, "illness": 0.811, "autocracy": 0.907, "dictator": 0.836, "-democracy": 0.809, "@scenario_probability": 0.4294037117861785}
 Scenario: [1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0.4294037117861785]
+Result: {"collapse": 0.946, "weaken": 0.836, "fold": 0.826, "happening": 0.817, "illness": 0.811, "autocracy": 0.907, "dictator": 0.836, "-democracy": 0.809, "@scenario_probability": 0.4294037117861785}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0.4294037117861785]
+Result: {"collapse": 0.946, "weaken": 0.836, "fold": 0.826, "happening": 0.817, "autocracy": 0.907, "dictator": 0.836, "@scenario_probability": 0.023626075625430384}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0.023626075625430384]
+Result: {"collapse": 0.946, "weaken": 0.836, "fold": 0.826, "happening": 0.817, "illness": 0.811, "autocracy": 0.907, "dictator": 0.836, "-democracy": 0.809, "@scenario_probability": 0.4294037117861785}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0.4294037117861785]

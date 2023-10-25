@@ -28,3 +28,9 @@ T(head), -debt, 0.714
 
 Result: {"change": 0.742, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "economics": 0.774, "conquering_nation": 0.762, "@scenario_probability": 0.0010332166165586585}
 Scenario: [0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.0010332166165586585]
+Result: {"change": 0.742, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "economics": 0.774, "conquering_nation": 0.762, "@scenario_probability": 0.0010332166165586585}
+Scenario: [0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.0010332166165586585]
+Result: {"change": 0.742, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "@scenario_probability": 9.422818940272964e-05}
+Scenario: [0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 9.422818940272964e-05]
+Result: {"change": 0.742, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "economics": 0.774, "conquering_nation": 0.762, "@scenario_probability": 0.0010332166165586585}
+Scenario: [0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.0010332166165586585]

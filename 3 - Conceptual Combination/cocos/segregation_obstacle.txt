@@ -27,3 +27,9 @@ T(head), biology, 0.759
 
 Result: {"hindrance": 0.918, "obstruction": 0.892, "trip_person": 0.786, "-desegregation": 0.908, "separation": 0.879, "meiosis": 0.84, "genetics": 0.816, "social_organization": 0.799, "@scenario_probability": 0.00153733496081263}
 Scenario: [1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00153733496081263]
+Result: {"hindrance": 0.918, "obstruction": 0.892, "trip_person": 0.786, "-desegregation": 0.908, "separation": 0.879, "meiosis": 0.84, "genetics": 0.816, "social_organization": 0.799, "@scenario_probability": 0.00153733496081263}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00153733496081263]
+Result: {"hindrance": 0.918, "obstruction": 0.892, "-desegregation": 0.908, "separation": 0.879, "meiosis": 0.84, "genetics": 0.816, "@scenario_probability": 0.00010529530552566416}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00010529530552566416]
+Result: {"hindrance": 0.918, "obstruction": 0.892, "trip_person": 0.786, "-desegregation": 0.908, "separation": 0.879, "meiosis": 0.84, "genetics": 0.816, "social_organization": 0.799, "@scenario_probability": 0.00153733496081263}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00153733496081263]

@@ -25,3 +25,9 @@ T(head), canada, 0.758
 
 Result: {"-defeat": 0.882, "success": 0.866, "conquer_opponent": 0.821, "ending": 0.818, "assembly": 0.862, "congress": 0.859, "making_laws": 0.839, "pass_law": 0.815, "@scenario_probability": 0.009842891703554266}
 Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0.009842891703554266]
+Result: {"-defeat": 0.882, "success": 0.866, "conquer_opponent": 0.821, "ending": 0.818, "assembly": 0.862, "congress": 0.859, "making_laws": 0.839, "pass_law": 0.815, "@scenario_probability": 0.009842891703554266}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0.009842891703554266]
+Result: {"-defeat": 0.882, "success": 0.866, "conquer_opponent": 0.821, "assembly": 0.862, "congress": 0.859, "making_laws": 0.839, "@scenario_probability": 0.0004971127599242089}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0.0004971127599242089]
+Result: {"-defeat": 0.882, "success": 0.866, "conquer_opponent": 0.821, "ending": 0.818, "assembly": 0.862, "congress": 0.859, "making_laws": 0.839, "pass_law": 0.815, "@scenario_probability": 0.009842891703554266}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0.009842891703554266]

@@ -28,3 +28,9 @@ T(head), -satiety, 0.824
 
 Result: {"compete": 0.888, "conflict": 0.868, "controversy": 0.853, "starvation": 0.875, "painful": 0.864, "desire": 0.858, "feeling": 0.833, "sensation": 0.828, "@scenario_probability": 4.706774791416032e-05}
 Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 4.706774791416032e-05]
+Result: {"compete": 0.888, "conflict": 0.868, "controversy": 0.853, "starvation": 0.875, "painful": 0.864, "desire": 0.858, "feeling": 0.833, "sensation": 0.828, "@scenario_probability": 4.706774791416032e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 4.706774791416032e-05]
+Result: {"compete": 0.888, "conflict": 0.868, "controversy": 0.853, "starvation": 0.875, "painful": 0.864, "desire": 0.858, "@scenario_probability": 1.960166662442284e-06}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1.960166662442284e-06]
+Result: {"compete": 0.888, "conflict": 0.868, "controversy": 0.853, "starvation": 0.875, "painful": 0.864, "desire": 0.858, "feeling": 0.833, "sensation": 0.828, "@scenario_probability": 4.706774791416032e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 4.706774791416032e-05]

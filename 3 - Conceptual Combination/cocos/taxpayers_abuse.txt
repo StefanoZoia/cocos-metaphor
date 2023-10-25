@@ -25,3 +25,9 @@ T(head), legal_agent, 0.687
 
 Result: {"disrespect": 0.853, "use": 0.839, "attack": 0.831, "outside_of": 0.786, "-care": 0.74, "payer": 0.805, "government_stooges": 0.772, "pay_government": 0.735, "@scenario_probability": 0.035470108705072036}
 Scenario: [1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0.035470108705072036]
+Result: {"disrespect": 0.853, "use": 0.839, "attack": 0.831, "outside_of": 0.786, "-care": 0.74, "payer": 0.805, "government_stooges": 0.772, "pay_government": 0.735, "@scenario_probability": 0.035470108705072036}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0.035470108705072036]
+Result: {"disrespect": 0.853, "use": 0.839, "attack": 0.831, "outside_of": 0.786, "payer": 0.805, "government_stooges": 0.772, "@scenario_probability": 0.004493271722337678}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0.004493271722337678]
+Result: {"disrespect": 0.853, "use": 0.839, "attack": 0.831, "outside_of": 0.786, "-care": 0.74, "payer": 0.805, "government_stooges": 0.772, "pay_government": 0.735, "@scenario_probability": 0.035470108705072036}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0.035470108705072036]

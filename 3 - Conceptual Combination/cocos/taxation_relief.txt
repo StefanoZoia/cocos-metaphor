@@ -23,3 +23,9 @@ T(head), activity_of_government, 0.721
 
 Result: {"aid": 0.883, "comfort": 0.854, "social_welfare": 0.838, "liberation": 0.831, "damages": 0.83, "sculpture": 0.828, "law": 0.807, "imposition": 0.862, "@scenario_probability": 0.4088547649136717}
 Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.4088547649136717]
+Result: {"aid": 0.883, "comfort": 0.854, "social_welfare": 0.838, "liberation": 0.831, "damages": 0.83, "sculpture": 0.828, "law": 0.807, "imposition": 0.862, "@scenario_probability": 0.4088547649136717}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.4088547649136717]
+Result: {"aid": 0.883, "comfort": 0.854, "social_welfare": 0.838, "liberation": 0.831, "damages": 0.83, "imposition": 0.862, "@scenario_probability": 0.020311918622790692}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0.020311918622790692]
+Result: {"aid": 0.883, "comfort": 0.854, "social_welfare": 0.838, "liberation": 0.831, "damages": 0.83, "sculpture": 0.828, "law": 0.807, "imposition": 0.862, "@scenario_probability": 0.4088547649136717}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.4088547649136717]

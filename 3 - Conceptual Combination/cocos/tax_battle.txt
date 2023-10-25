@@ -28,3 +28,9 @@ T(head), legalized_theft_by_government, 0.762
 
 Result: {"fighting": 0.941, "fight": 0.917, "battle": 0.915, "war": 0.895, "fighting_war": 0.89, "fight_between_enemies": 0.861, "winning_war": 0.858, "levy": 0.89, "@scenario_probability": 0.000100007444664919}
 Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.000100007444664919]
+Result: {"fighting": 0.941, "fight": 0.917, "battle": 0.915, "war": 0.895, "fighting_war": 0.89, "fight_between_enemies": 0.861, "winning_war": 0.858, "levy": 0.89, "@scenario_probability": 0.000100007444664919}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.000100007444664919]
+Result: {"fighting": 0.941, "fight": 0.917, "battle": 0.915, "war": 0.895, "fighting_war": 0.89, "levy": 0.89, "@scenario_probability": 2.6720528019354242e-06}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2.6720528019354242e-06]
+Result: {"fighting": 0.941, "fight": 0.917, "battle": 0.915, "war": 0.895, "fighting_war": 0.89, "fight_between_enemies": 0.861, "winning_war": 0.858, "levy": 0.89, "@scenario_probability": 0.000100007444664919}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.000100007444664919]

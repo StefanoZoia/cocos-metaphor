@@ -28,3 +28,9 @@ T(head), perceive_external_envrnment_and_recollect_data, 0.823
 
 Result: {"build_cathedral": 0.916, "contractor": 0.886, "creator": 0.848, "thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "think_about": 0.842, "remember": 0.842, "@scenario_probability": 3.587911350012825e-05}
 Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 3.587911350012825e-05]
+Result: {"build_cathedral": 0.916, "contractor": 0.886, "creator": 0.848, "thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "think_about": 0.842, "remember": 0.842, "@scenario_probability": 3.587911350012825e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 3.587911350012825e-05]
+Result: {"build_cathedral": 0.916, "contractor": 0.886, "creator": 0.848, "thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "@scenario_probability": 1.2633733016305509e-06}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1.2633733016305509e-06]
+Result: {"build_cathedral": 0.916, "contractor": 0.886, "creator": 0.848, "thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "think_about": 0.842, "remember": 0.842, "@scenario_probability": 3.587911350012825e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 3.587911350012825e-05]

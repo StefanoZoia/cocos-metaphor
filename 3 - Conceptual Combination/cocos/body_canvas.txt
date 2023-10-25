@@ -28,3 +28,9 @@ T(head), mass, 0.818
 
 Result: {"painting_on": 0.913, "painting": 0.908, "paint": 0.89, "paint_picture_on": 0.872, "art_store": 0.87, "covering": 0.861, "art": 0.858, "torso": 0.852, "@scenario_probability": 1.9470726916716407e-05}
 Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1.9470726916716407e-05]
+Result: {"painting_on": 0.913, "painting": 0.908, "paint": 0.89, "paint_picture_on": 0.872, "art_store": 0.87, "covering": 0.861, "art": 0.858, "torso": 0.852, "@scenario_probability": 1.9470726916716407e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1.9470726916716407e-05]
+Result: {"painting_on": 0.913, "painting": 0.908, "paint": 0.89, "paint_picture_on": 0.872, "art_store": 0.87, "torso": 0.852, "@scenario_probability": 5.202293748015515e-07}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 5.202293748015515e-07]
+Result: {"painting_on": 0.913, "painting": 0.908, "paint": 0.89, "paint_picture_on": 0.872, "art_store": 0.87, "covering": 0.861, "art": 0.858, "torso": 0.852, "@scenario_probability": 1.9470726916716407e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1.9470726916716407e-05]

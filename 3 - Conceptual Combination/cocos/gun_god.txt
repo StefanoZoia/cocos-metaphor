@@ -28,3 +28,9 @@ T(head), shoot_bullets, 0.883
 
 Result: {"quiet_storm": 0.944, "omnibenevolent": 0.918, "glorified_in_christianity": 0.907, "firearm_shoots_bullets": 0.931, "shooting_things": 0.915, "shoot": 0.904, "weapon": 0.903, "shot": 0.897, "@scenario_probability": 1.9078992741468227e-06}
 Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1.9078992741468227e-06]
+Result: {"quiet_storm": 0.944, "omnibenevolent": 0.918, "glorified_in_christianity": 0.907, "firearm_shoots_bullets": 0.931, "shooting_things": 0.915, "shoot": 0.904, "weapon": 0.903, "shot": 0.897, "@scenario_probability": 1.9078992741468227e-06}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1.9078992741468227e-06]
+Result: {"quiet_storm": 0.944, "omnibenevolent": 0.918, "glorified_in_christianity": 0.907, "firearm_shoots_bullets": 0.931, "shooting_things": 0.915, "shoot": 0.904, "@scenario_probability": 2.353337462762043e-08}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 2.353337462762043e-08]
+Result: {"quiet_storm": 0.944, "omnibenevolent": 0.918, "glorified_in_christianity": 0.907, "firearm_shoots_bullets": 0.931, "shooting_things": 0.915, "shoot": 0.904, "weapon": 0.903, "shot": 0.897, "@scenario_probability": 1.9078992741468227e-06}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1.9078992741468227e-06]

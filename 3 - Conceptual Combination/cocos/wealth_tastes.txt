@@ -28,3 +28,9 @@ T(head), -debt, 0.714
 
 Result: {"sensation": 0.773, "experience": 0.766, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "economics": 0.774, "@scenario_probability": 0.0003960223180171091}
 Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0003960223180171091]
+Result: {"sensation": 0.773, "experience": 0.766, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "economics": 0.774, "@scenario_probability": 0.0003960223180171091}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0003960223180171091]
+Result: {"sensation": 0.773, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "@scenario_probability": 3.5324353947849494e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 3.5324353947849494e-05]
+Result: {"sensation": 0.773, "experience": 0.766, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "economics": 0.774, "@scenario_probability": 0.0003960223180171091}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0003960223180171091]

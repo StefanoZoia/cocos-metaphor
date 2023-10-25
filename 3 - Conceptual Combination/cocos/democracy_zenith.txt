@@ -27,3 +27,9 @@ T(head), government, 0.793
 
 Result: {"celestial_point": 0.832, "celestial_sphere": 0.832, "-nadir": 0.831, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "good_thing": 0.84, "@scenario_probability": 0.0008836311926360923}
 Scenario: [1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.0008836311926360923]
+Result: {"celestial_point": 0.832, "celestial_sphere": 0.832, "-nadir": 0.831, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "good_thing": 0.84, "@scenario_probability": 0.0008836311926360923}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.0008836311926360923]
+Result: {"celestial_point": 0.832, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "good_thing": 0.84, "@scenario_probability": 3.6286298975579636e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 3.6286298975579636e-05]
+Result: {"celestial_point": 0.832, "celestial_sphere": 0.832, "-nadir": 0.831, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "good_thing": 0.84, "@scenario_probability": 0.0008836311926360923}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.0008836311926360923]

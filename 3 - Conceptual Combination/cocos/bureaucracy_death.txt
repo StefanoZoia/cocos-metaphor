@@ -28,3 +28,9 @@ T(head), agent_non_geographical, 0.749
 
 Result: {"homicide": 0.891, "murder": 0.89, "inevitable": 0.887, "suicide": 0.886, "tragic": 0.872, "dying_of_blo": 0.857, "government": 0.866, "bureaucrats": 0.853, "@scenario_probability": 7.89410082265384e-05}
 Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 7.89410082265384e-05]
+Result: {"homicide": 0.891, "murder": 0.89, "inevitable": 0.887, "suicide": 0.886, "tragic": 0.872, "dying_of_blo": 0.857, "government": 0.866, "bureaucrats": 0.853, "@scenario_probability": 7.89410082265384e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 7.89410082265384e-05]
+Result: {"homicide": 0.891, "murder": 0.89, "inevitable": 0.887, "suicide": 0.886, "tragic": 0.872, "government": 0.866, "@scenario_probability": 2.2700017289928257e-06}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2.2700017289928257e-06]
+Result: {"homicide": 0.891, "murder": 0.89, "inevitable": 0.887, "suicide": 0.886, "tragic": 0.872, "dying_of_blo": 0.857, "government": 0.866, "bureaucrats": 0.853, "@scenario_probability": 7.89410082265384e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 7.89410082265384e-05]

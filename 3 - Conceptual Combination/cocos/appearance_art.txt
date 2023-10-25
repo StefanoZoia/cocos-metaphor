@@ -28,3 +28,9 @@ T(head), philosophy, 0.755
 
 Result: {"art": 0.946, "artist": 0.909, "art's_sake": 0.898, "express_yourself": 0.895, "gallery_opening": 0.887, "museum": 0.877, "abstract": 0.873, "attendance": 0.849, "@scenario_probability": 4.4729697759498745e-05}
 Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 4.4729697759498745e-05]
+Result: {"art": 0.946, "artist": 0.909, "art's_sake": 0.898, "express_yourself": 0.895, "gallery_opening": 0.887, "museum": 0.877, "abstract": 0.873, "attendance": 0.849, "@scenario_probability": 4.4729697759498745e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 4.4729697759498745e-05]
+Result: {"art": 0.946, "artist": 0.909, "art's_sake": 0.898, "express_yourself": 0.895, "gallery_opening": 0.887, "attendance": 0.849, "@scenario_probability": 9.126220528187309e-07}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 9.126220528187309e-07]
+Result: {"art": 0.946, "artist": 0.909, "art's_sake": 0.898, "express_yourself": 0.895, "gallery_opening": 0.887, "museum": 0.877, "abstract": 0.873, "attendance": 0.849, "@scenario_probability": 4.4729697759498745e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 4.4729697759498745e-05]

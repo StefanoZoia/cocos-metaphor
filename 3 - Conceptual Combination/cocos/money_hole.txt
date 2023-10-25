@@ -28,3 +28,9 @@ T(head), banks, 0.851
 
 Result: {"golf": 0.865, "hide_in": 0.863, "golf_course": 0.861, "swiss_cheese": 0.86, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "money_supply": 0.861, "@scenario_probability": 8.13187266371744e-06}
 Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 8.13187266371744e-06]
+Result: {"golf": 0.865, "hide_in": 0.863, "golf_course": 0.861, "swiss_cheese": 0.86, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "money_supply": 0.861, "@scenario_probability": 8.13187266371744e-06}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 8.13187266371744e-06]
+Result: {"golf": 0.865, "hide_in": 0.863, "golf_course": 0.861, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "@scenario_probability": 2.137134241362686e-07}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 2.137134241362686e-07]
+Result: {"golf": 0.865, "hide_in": 0.863, "golf_course": 0.861, "swiss_cheese": 0.86, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "money_supply": 0.861, "@scenario_probability": 8.13187266371744e-06}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 8.13187266371744e-06]

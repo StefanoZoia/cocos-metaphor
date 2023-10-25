@@ -22,3 +22,9 @@ T(head), -debt, 0.714
 
 Result: {"accomplishment": 0.824, "attempt": 0.795, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "economics": 0.774, "@scenario_probability": 1.3463098436586869}
 Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1.3463098436586869]
+Result: {"accomplishment": 0.824, "attempt": 0.795, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "economics": 0.774, "@scenario_probability": 1.3463098436586869}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1.3463098436586869]
+Result: {"accomplishment": 0.824, "attempt": 0.795, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "-poverty": 0.792, "@scenario_probability": 0.10324063165685857}
+Scenario: [1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0.10324063165685857]
+Result: {"accomplishment": 0.824, "attempt": 0.795, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "economics": 0.774, "@scenario_probability": 1.3463098436586869}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1.3463098436586869]

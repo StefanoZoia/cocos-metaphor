@@ -28,3 +28,9 @@ T(head), pay, 0.848
 
 Result: {"flood": 0.85, "money": 0.908, "bribe": 0.877, "payment": 0.872, "buy_things_with": 0.868, "currency": 0.866, "giving_away": 0.866, "bank": 0.851, "@scenario_probability": 3.656693390525273e-05}
 Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 3.656693390525273e-05]
+Result: {"flood": 0.85, "money": 0.908, "bribe": 0.877, "payment": 0.872, "buy_things_with": 0.868, "currency": 0.866, "giving_away": 0.866, "bank": 0.851, "@scenario_probability": 3.656693390525273e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 3.656693390525273e-05]
+Result: {"flood": 0.85, "money": 0.908, "bribe": 0.877, "payment": 0.872, "buy_things_with": 0.868, "giving_away": 0.866, "@scenario_probability": 9.906771850428324e-07}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 9.906771850428324e-07]
+Result: {"flood": 0.85, "money": 0.908, "bribe": 0.877, "payment": 0.872, "buy_things_with": 0.868, "currency": 0.866, "giving_away": 0.866, "bank": 0.851, "@scenario_probability": 3.656693390525273e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 3.656693390525273e-05]

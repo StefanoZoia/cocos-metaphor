@@ -25,3 +25,9 @@ T(head), legalized_theft_by_government, 0.762
 
 Result: {"craving": 0.799, "levy": 0.89, "charge": 0.84, "-income": 0.807, "determine": 0.798, "-subsidy": 0.788, "-rebate": 0.785, "-refund": 0.778, "@scenario_probability": 0.06290470985027125}
 Scenario: [1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.06290470985027125]
+Result: {"craving": 0.799, "levy": 0.89, "charge": 0.84, "-income": 0.807, "determine": 0.798, "-subsidy": 0.788, "-rebate": 0.785, "-refund": 0.778, "@scenario_probability": 0.06290470985027125}
+Scenario: [1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.06290470985027125]
+Result: {"craving": 0.799, "levy": 0.89, "charge": 0.84, "-income": 0.807, "determine": 0.798, "-subsidy": 0.788, "@scenario_probability": 0.004916152475158328}
+Scenario: [1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.004916152475158328]
+Result: {"craving": 0.799, "levy": 0.89, "charge": 0.84, "-income": 0.807, "determine": 0.798, "-subsidy": 0.788, "-rebate": 0.785, "-refund": 0.778, "@scenario_probability": 0.06290470985027125}
+Scenario: [1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.06290470985027125]

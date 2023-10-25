@@ -23,3 +23,9 @@ T(head), -amendment, 0.755
 
 Result: {"newspapers": 0.802, "newspaper": 0.791, "legal": 0.777, "video_games": 0.745, "law": 0.831, "property": 0.814, "beginning": 0.809, "government": 0.798, "@scenario_probability": 0.32403216890127495}
 Scenario: [1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0.32403216890127495]
+Result: {"newspapers": 0.802, "newspaper": 0.791, "legal": 0.777, "video_games": 0.745, "law": 0.831, "property": 0.814, "beginning": 0.809, "government": 0.798, "@scenario_probability": 0.32403216890127495}
+Scenario: [1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0.32403216890127495]
+Result: {"newspapers": 0.802, "newspaper": 0.791, "law": 0.831, "property": 0.814, "beginning": 0.809, "government": 0.798, "@scenario_probability": 0.031831410233078526}
+Scenario: [1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0.031831410233078526]
+Result: {"newspapers": 0.802, "newspaper": 0.791, "legal": 0.777, "video_games": 0.745, "law": 0.831, "property": 0.814, "beginning": 0.809, "government": 0.798, "@scenario_probability": 0.32403216890127495}
+Scenario: [1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0.32403216890127495]

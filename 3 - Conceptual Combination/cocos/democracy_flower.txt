@@ -28,3 +28,9 @@ T(head), government, 0.793
 
 Result: {"flower_garden": 0.914, "blossom": 0.909, "angiosperm": 0.872, "vase": 0.864, "floral_leaf": 0.853, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "@scenario_probability": 2.2542878899502742e-05}
 Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 2.2542878899502742e-05]
+Result: {"flower_garden": 0.914, "blossom": 0.909, "angiosperm": 0.872, "vase": 0.864, "floral_leaf": 0.853, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "@scenario_probability": 2.2542878899502742e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 2.2542878899502742e-05]
+Result: {"flower_garden": 0.914, "blossom": 0.909, "angiosperm": 0.872, "vase": 0.864, "equality_for_everyone": 0.854, "open_media": 0.853, "@scenario_probability": 6.748384235390995e-07}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 6.748384235390995e-07]
+Result: {"flower_garden": 0.914, "blossom": 0.909, "angiosperm": 0.872, "vase": 0.864, "floral_leaf": 0.853, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "@scenario_probability": 2.2542878899502742e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 2.2542878899502742e-05]

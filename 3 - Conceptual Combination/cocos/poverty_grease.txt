@@ -28,3 +28,9 @@ T(head), mumbai, 0.747
 
 Result: {"oil": 0.882, "sticky": 0.864, "fat": 0.837, "garage": 0.812, "fast_food_restaurant": 0.811, "cover": 0.802, "financial_condition": 0.865, "undesirable": 0.833, "@scenario_probability": 0.00016096644197010766}
 Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00016096644197010766]
+Result: {"oil": 0.882, "sticky": 0.864, "fat": 0.837, "garage": 0.812, "fast_food_restaurant": 0.811, "cover": 0.802, "financial_condition": 0.865, "undesirable": 0.833, "@scenario_probability": 0.00016096644197010766}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00016096644197010766]
+Result: {"oil": 0.882, "sticky": 0.864, "fat": 0.837, "garage": 0.812, "financial_condition": 0.865, "undesirable": 0.833, "@scenario_probability": 9.261196871270291e-06}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 9.261196871270291e-06]
+Result: {"oil": 0.882, "sticky": 0.864, "fat": 0.837, "garage": 0.812, "fast_food_restaurant": 0.811, "cover": 0.802, "financial_condition": 0.865, "undesirable": 0.833, "@scenario_probability": 0.00016096644197010766}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00016096644197010766]

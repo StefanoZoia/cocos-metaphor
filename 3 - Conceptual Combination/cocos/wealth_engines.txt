@@ -28,3 +28,9 @@ T(head), -debt, 0.714
 
 Result: {"internal_combustion_engines": 0.899, "motors": 0.873, "power_machines": 0.83, "repair_shop": 0.819, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "-poverty": 0.792, "@scenario_probability": 0.000384883576194502}
 Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0.000384883576194502]
+Result: {"internal_combustion_engines": 0.899, "motors": 0.873, "power_machines": 0.83, "repair_shop": 0.819, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "-poverty": 0.792, "@scenario_probability": 0.000384883576194502}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0.000384883576194502]
+Result: {"internal_combustion_engines": 0.899, "motors": 0.873, "power_machines": 0.83, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "@scenario_probability": 2.2338921690301387e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 2.2338921690301387e-05]
+Result: {"internal_combustion_engines": 0.899, "motors": 0.873, "power_machines": 0.83, "repair_shop": 0.819, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "-poverty": 0.792, "@scenario_probability": 0.000384883576194502}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0.000384883576194502]

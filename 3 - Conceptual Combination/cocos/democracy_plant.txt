@@ -28,3 +28,9 @@ T(head), government, 0.793
 
 Result: {"flower_in_spring": 0.89, "bloom": 0.885, "alive": 0.869, "grow_in_garden": 0.854, "flower_when_watered": 0.852, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "@scenario_probability": 2.284537554890153e-05}
 Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 2.284537554890153e-05]
+Result: {"flower_in_spring": 0.89, "bloom": 0.885, "alive": 0.869, "grow_in_garden": 0.854, "flower_when_watered": 0.852, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "@scenario_probability": 2.284537554890153e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 2.284537554890153e-05]
+Result: {"flower_in_spring": 0.89, "bloom": 0.885, "alive": 0.869, "grow_in_garden": 0.854, "equality_for_everyone": 0.854, "open_media": 0.853, "@scenario_probability": 6.893543857357713e-07}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 6.893543857357713e-07]
+Result: {"flower_in_spring": 0.89, "bloom": 0.885, "alive": 0.869, "grow_in_garden": 0.854, "flower_when_watered": 0.852, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "@scenario_probability": 2.284537554890153e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 2.284537554890153e-05]

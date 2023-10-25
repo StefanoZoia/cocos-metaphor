@@ -23,3 +23,9 @@ T(head), activity_of_government, 0.721
 
 Result: {"malfunction": 0.845, "casualty": 0.844, "change": 0.811, "change_of_integrity": 0.804, "military": 0.782, "-repair": 0.777, "imposition": 0.862, "process_results_in_taxes": 0.731, "@scenario_probability": 0.3901825187460706}
 Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0.3901825187460706]
+Result: {"malfunction": 0.845, "casualty": 0.844, "change": 0.811, "change_of_integrity": 0.804, "military": 0.782, "-repair": 0.777, "imposition": 0.862, "process_results_in_taxes": 0.731, "@scenario_probability": 0.3901825187460706}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0.3901825187460706]
+Result: {"malfunction": 0.845, "casualty": 0.844, "change": 0.811, "change_of_integrity": 0.804, "military": 0.782, "imposition": 0.862, "@scenario_probability": 0.04120847616586389}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0.04120847616586389]
+Result: {"malfunction": 0.845, "casualty": 0.844, "change": 0.811, "change_of_integrity": 0.804, "military": 0.782, "-repair": 0.777, "imposition": 0.862, "process_results_in_taxes": 0.731, "@scenario_probability": 0.3901825187460706}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0.3901825187460706]

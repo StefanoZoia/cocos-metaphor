@@ -25,3 +25,9 @@ T(head), -debt, 0.714
 
 Result: {"charge": 0.849, "idea": 0.815, "concern": 0.805, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "@scenario_probability": 0.022456661666902036}
 Scenario: [1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.022456661666902036]
+Result: {"charge": 0.849, "idea": 0.815, "concern": 0.805, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "@scenario_probability": 0.022456661666902036}
+Scenario: [1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.022456661666902036]
+Result: {"charge": 0.849, "idea": 0.815, "concern": 0.805, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "@scenario_probability": 0.0015488933054612559}
+Scenario: [1, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.0015488933054612559]
+Result: {"charge": 0.849, "idea": 0.815, "concern": 0.805, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "@scenario_probability": 0.022456661666902036}
+Scenario: [1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.022456661666902036]

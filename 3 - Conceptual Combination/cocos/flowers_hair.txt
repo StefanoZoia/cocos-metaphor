@@ -28,3 +28,9 @@ T(head), purple, 0.865
 
 Result: {"combing": 0.921, "hair": 0.915, "wigs": 0.909, "shampooing": 0.901, "braiding": 0.891, "fragrant": 0.925, "pink": 0.911, "perennials": 0.902, "@scenario_probability": 2.5165326315071583e-06}
 Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 2.5165326315071583e-06]
+Result: {"combing": 0.921, "hair": 0.915, "wigs": 0.909, "shampooing": 0.901, "braiding": 0.891, "fragrant": 0.925, "pink": 0.911, "perennials": 0.902, "@scenario_probability": 2.5165326315071583e-06}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 2.5165326315071583e-06]
+Result: {"combing": 0.921, "hair": 0.915, "wigs": 0.909, "fragrant": 0.925, "pink": 0.911, "perennials": 0.902, "@scenario_probability": 3.3826866054295235e-08}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 3.3826866054295235e-08]
+Result: {"combing": 0.921, "hair": 0.915, "wigs": 0.909, "shampooing": 0.901, "braiding": 0.891, "fragrant": 0.925, "pink": 0.911, "perennials": 0.902, "@scenario_probability": 2.5165326315071583e-06}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 2.5165326315071583e-06]

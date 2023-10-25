@@ -28,3 +28,9 @@ T(head), shoot_bullets, 0.883
 
 Result: {"crime": 0.946, "firearm_shoots_bullets": 0.931, "shooting_things": 0.915, "shoot": 0.904, "weapon": 0.903, "shot": 0.897, "gun_shop": 0.894, "holster": 0.889, "@scenario_probability": 1.5380973887395843e-05}
 Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1.5380973887395843e-05]
+Result: {"crime": 0.946, "firearm_shoots_bullets": 0.931, "shooting_things": 0.915, "shoot": 0.904, "weapon": 0.903, "shot": 0.897, "gun_shop": 0.894, "holster": 0.889, "@scenario_probability": 1.5380973887395843e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1.5380973887395843e-05]
+Result: {"crime": 0.946, "firearm_shoots_bullets": 0.931, "shooting_things": 0.915, "shoot": 0.904, "weapon": 0.903, "shot": 0.897, "@scenario_probability": 2.2770543626564224e-07}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 2.2770543626564224e-07]
+Result: {"crime": 0.946, "firearm_shoots_bullets": 0.931, "shooting_things": 0.915, "shoot": 0.904, "weapon": 0.903, "shot": 0.897, "gun_shop": 0.894, "holster": 0.889, "@scenario_probability": 1.5380973887395843e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1.5380973887395843e-05]

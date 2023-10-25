@@ -28,3 +28,9 @@ T(head), shoot_bullets, 0.795
 
 Result: {"condiment": 0.828, "cover": 0.822, "page": 0.819, "move": 0.818, "publication": 0.813, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "@scenario_probability": 6.509941005010774e-05}
 Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 6.509941005010774e-05]
+Result: {"condiment": 0.828, "cover": 0.822, "page": 0.819, "move": 0.818, "publication": 0.813, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "@scenario_probability": 6.509941005010774e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 6.509941005010774e-05]
+Result: {"condiment": 0.828, "cover": 0.822, "page": 0.819, "move": 0.818, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "@scenario_probability": 3.4215008573259e-06}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 3.4215008573259e-06]
+Result: {"condiment": 0.828, "cover": 0.822, "page": 0.819, "move": 0.818, "publication": 0.813, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "@scenario_probability": 6.509941005010774e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 6.509941005010774e-05]

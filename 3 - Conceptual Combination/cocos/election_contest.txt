@@ -28,3 +28,9 @@ T(head), opportunity_to_vote, 0.748
 
 Result: {"competition": 0.917, "game": 0.832, "competing_against": 0.81, "winner_and_many_losers": 0.809, "involve_type_of_play": 0.808, "vote": 0.899, "choice": 0.856, "predestination": 0.838, "@scenario_probability": 0.0001542279146525408}
 Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.0001542279146525408]
+Result: {"competition": 0.917, "game": 0.832, "competing_against": 0.81, "winner_and_many_losers": 0.809, "involve_type_of_play": 0.808, "vote": 0.899, "choice": 0.856, "predestination": 0.838, "@scenario_probability": 0.0001542279146525408}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.0001542279146525408]
+Result: {"competition": 0.917, "game": 0.832, "competing_against": 0.81, "vote": 0.899, "choice": 0.856, "predestination": 0.838, "@scenario_probability": 8.652422141590846e-06}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 8.652422141590846e-06]
+Result: {"competition": 0.917, "game": 0.832, "competing_against": 0.81, "winner_and_many_losers": 0.809, "involve_type_of_play": 0.808, "vote": 0.899, "choice": 0.856, "predestination": 0.838, "@scenario_probability": 0.0001542279146525408}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.0001542279146525408]

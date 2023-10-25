@@ -28,3 +28,9 @@ T(head), government, 0.793
 
 Result: {"spank": 0.801, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "good_thing": 0.84, "government_of_people": 0.816, "-dictatorship": 0.809, "@scenario_probability": 0.00013946273653227283}
 Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.00013946273653227283]
+Result: {"spank": 0.801, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "good_thing": 0.84, "government_of_people": 0.816, "-dictatorship": 0.809, "@scenario_probability": 0.00013946273653227283}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.00013946273653227283]
+Result: {"spank": 0.801, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "good_thing": 0.84, "@scenario_probability": 7.424559509274033e-06}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 7.424559509274033e-06]
+Result: {"spank": 0.801, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "good_thing": 0.84, "government_of_people": 0.816, "-dictatorship": 0.809, "@scenario_probability": 0.00013946273653227283}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.00013946273653227283]

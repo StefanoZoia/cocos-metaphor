@@ -28,3 +28,9 @@ T(head), shoot_bullets, 0.795
 
 Result: {"supporter": 0.839, "principle": 0.829, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "shot": 0.807, "gun_shop": 0.805, "@scenario_probability": 0.0001422156620900754}
 Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0001422156620900754]
+Result: {"supporter": 0.839, "principle": 0.829, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "shot": 0.807, "gun_shop": 0.805, "@scenario_probability": 0.0001422156620900754}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0001422156620900754]
+Result: {"supporter": 0.839, "principle": 0.829, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "@scenario_probability": 8.238913301715554e-06}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 8.238913301715554e-06]
+Result: {"supporter": 0.839, "principle": 0.829, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "shot": 0.807, "gun_shop": 0.805, "@scenario_probability": 0.0001422156620900754}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0001422156620900754]

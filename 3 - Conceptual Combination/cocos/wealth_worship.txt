@@ -28,3 +28,9 @@ T(head), -debt, 0.714
 
 Result: {"reverence": 0.877, "religion": 0.853, "love": 0.837, "chapel": 0.827, "church": 0.822, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "@scenario_probability": 0.00011154455398684318}
 Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.00011154455398684318]
+Result: {"reverence": 0.877, "religion": 0.853, "love": 0.837, "chapel": 0.827, "church": 0.822, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "@scenario_probability": 0.00011154455398684318}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.00011154455398684318]
+Result: {"reverence": 0.877, "religion": 0.853, "love": 0.837, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "@scenario_probability": 5.052858653460976e-06}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 5.052858653460976e-06]
+Result: {"reverence": 0.877, "religion": 0.853, "love": 0.837, "chapel": 0.827, "church": 0.822, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "@scenario_probability": 0.00011154455398684318}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.00011154455398684318]

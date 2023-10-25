@@ -28,3 +28,9 @@ T(head), government, 0.793
 
 Result: {"reverence": 0.877, "religion": 0.853, "love": 0.837, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "good_thing": 0.84, "@scenario_probability": 3.903170984258139e-05}
 Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 3.903170984258139e-05]
+Result: {"reverence": 0.877, "religion": 0.853, "love": 0.837, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "good_thing": 0.84, "@scenario_probability": 3.903170984258139e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 3.903170984258139e-05]
+Result: {"reverence": 0.877, "religion": 0.853, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "@scenario_probability": 1.4478394957821635e-06}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1.4478394957821635e-06]
+Result: {"reverence": 0.877, "religion": 0.853, "love": 0.837, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "good_thing": 0.84, "@scenario_probability": 3.903170984258139e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 3.903170984258139e-05]

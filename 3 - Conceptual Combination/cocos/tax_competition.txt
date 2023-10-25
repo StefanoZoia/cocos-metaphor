@@ -28,3 +28,9 @@ T(head), legalized_theft_by_government, 0.762
 
 Result: {"competing": 0.881, "natural": 0.825, "business_relation": 0.803, "group_action": 0.802, "levy": 0.89, "charge": 0.84, "-income": 0.807, "determine": 0.798, "@scenario_probability": 0.00013040797097739774}
 Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00013040797097739774]
+Result: {"competing": 0.881, "natural": 0.825, "business_relation": 0.803, "group_action": 0.802, "levy": 0.89, "charge": 0.84, "-income": 0.807, "determine": 0.798, "@scenario_probability": 0.00013040797097739774}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00013040797097739774]
+Result: {"competing": 0.881, "natural": 0.825, "business_relation": 0.803, "levy": 0.89, "charge": 0.84, "-income": 0.807, "@scenario_probability": 8.149734072106699e-06}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 8.149734072106699e-06]
+Result: {"competing": 0.881, "natural": 0.825, "business_relation": 0.803, "group_action": 0.802, "levy": 0.89, "charge": 0.84, "-income": 0.807, "determine": 0.798, "@scenario_probability": 0.00013040797097739774}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00013040797097739774]

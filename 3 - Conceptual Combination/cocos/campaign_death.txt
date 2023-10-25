@@ -28,3 +28,9 @@ T(head), project, 0.801
 
 Result: {"homicide": 0.891, "murder": 0.89, "inevitable": 0.887, "suicide": 0.886, "tragic": 0.872, "dying_of_blo": 0.857, "war": 0.887, "expedition": 0.868, "@scenario_probability": 2.5540197460522535e-05}
 Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 2.5540197460522535e-05]
+Result: {"homicide": 0.891, "murder": 0.89, "inevitable": 0.887, "suicide": 0.886, "tragic": 0.872, "dying_of_blo": 0.857, "war": 0.887, "expedition": 0.868, "@scenario_probability": 2.5540197460522535e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 2.5540197460522535e-05]
+Result: {"homicide": 0.891, "murder": 0.89, "inevitable": 0.887, "suicide": 0.886, "tragic": 0.872, "war": 0.887, "@scenario_probability": 6.480875404836609e-07}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 6.480875404836609e-07]
+Result: {"homicide": 0.891, "murder": 0.89, "inevitable": 0.887, "suicide": 0.886, "tragic": 0.872, "dying_of_blo": 0.857, "war": 0.887, "expedition": 0.868, "@scenario_probability": 2.5540197460522535e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 2.5540197460522535e-05]

@@ -28,3 +28,9 @@ T(head), government, 0.793
 
 Result: {"section": 0.884, "episode": 0.858, "book": 0.857, "club": 0.844, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "@scenario_probability": 3.777135470154644e-05}
 Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 3.777135470154644e-05]
+Result: {"section": 0.884, "episode": 0.858, "book": 0.857, "club": 0.844, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "@scenario_probability": 3.777135470154644e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 3.777135470154644e-05]
+Result: {"section": 0.884, "episode": 0.858, "book": 0.857, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "@scenario_probability": 1.3002198469557994e-06}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1.3002198469557994e-06]
+Result: {"section": 0.884, "episode": 0.858, "book": 0.857, "club": 0.844, "equality_for_everyone": 0.854, "open_media": 0.853, "political_orientation": 0.852, "political_system": 0.843, "@scenario_probability": 3.777135470154644e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 3.777135470154644e-05]

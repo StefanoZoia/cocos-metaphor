@@ -24,3 +24,9 @@ T(head), jealous_of_power, 0.827
 
 Result: {"depose": 0.862, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "force_citizens_to_comply": 0.833, "rule_people": 0.832, "-fun": 0.829, "@scenario_probability": 0.04215260297235236}
 Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.04215260297235236]
+Result: {"depose": 0.862, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "force_citizens_to_comply": 0.833, "rule_people": 0.832, "-fun": 0.829, "@scenario_probability": 0.04215260297235236}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.04215260297235236]
+Result: {"depose": 0.862, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "force_citizens_to_comply": 0.833, "@scenario_probability": 0.0017557065657617778}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.0017557065657617778]
+Result: {"depose": 0.862, "corrupt": 0.897, "govern_country": 0.896, "polity": 0.874, "country": 0.839, "force_citizens_to_comply": 0.833, "rule_people": 0.832, "-fun": 0.829, "@scenario_probability": 0.04215260297235236}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.04215260297235236]

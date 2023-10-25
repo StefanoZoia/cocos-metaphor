@@ -28,3 +28,9 @@ T(head), mumbai, 0.747
 
 Result: {"identification": 0.887, "playing_poker": 0.873, "playing_games_with": 0.873, "birthday": 0.871, "christmas": 0.866, "deck": 0.865, "introduce_yourself": 0.848, "financial_condition": 0.865, "@scenario_probability": 0.00013794584388822682}
 Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.00013794584388822682]
+Result: {"identification": 0.887, "playing_poker": 0.873, "playing_games_with": 0.873, "birthday": 0.871, "christmas": 0.866, "deck": 0.865, "introduce_yourself": 0.848, "financial_condition": 0.865, "@scenario_probability": 0.00013794584388822682}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.00013794584388822682]
+Result: {"identification": 0.887, "playing_poker": 0.873, "playing_games_with": 0.873, "birthday": 0.871, "christmas": 0.866, "financial_condition": 0.865, "@scenario_probability": 3.858993233431146e-06}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 3.858993233431146e-06]
+Result: {"identification": 0.887, "playing_poker": 0.873, "playing_games_with": 0.873, "birthday": 0.871, "christmas": 0.866, "deck": 0.865, "introduce_yourself": 0.848, "financial_condition": 0.865, "@scenario_probability": 0.00013794584388822682}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.00013794584388822682]

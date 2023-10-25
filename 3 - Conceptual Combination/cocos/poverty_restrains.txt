@@ -25,3 +25,9 @@ T(head), mumbai, 0.747
 
 Result: {"restrict": 0.797, "prevent": 0.778, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "situation": 0.763, "curse": 0.75, "@scenario_probability": 0.028508702885949817}
 Scenario: [1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.028508702885949817]
+Result: {"restrict": 0.797, "prevent": 0.778, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "situation": 0.763, "curse": 0.75, "@scenario_probability": 0.028508702885949817}
+Scenario: [1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.028508702885949817]
+Result: {"restrict": 0.797, "prevent": 0.778, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "@scenario_probability": 0.0029517529855701647}
+Scenario: [1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.0029517529855701647]
+Result: {"restrict": 0.797, "prevent": 0.778, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "situation": 0.763, "curse": 0.75, "@scenario_probability": 0.028508702885949817}
+Scenario: [1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.028508702885949817]

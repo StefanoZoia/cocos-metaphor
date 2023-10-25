@@ -28,3 +28,9 @@ T(head), historical, 0.744
 
 Result: {"victory": 0.821, "compete": 0.81, "-lose": 0.787, "-defeat": 0.763, "legislature": 0.91, "legislative_organization": 0.874, "us": 0.783, "-congress": 0.78, "@scenario_probability": 0.00039334793217531285}
 Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00039334793217531285]
+Result: {"victory": 0.821, "compete": 0.81, "-lose": 0.787, "-defeat": 0.763, "legislature": 0.91, "legislative_organization": 0.874, "us": 0.783, "-congress": 0.78, "@scenario_probability": 0.00039334793217531285}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00039334793217531285]
+Result: {"victory": 0.821, "compete": 0.81, "-lose": 0.787, "legislature": 0.91, "legislative_organization": 0.874, "us": 0.783, "@scenario_probability": 3.4461069972814477e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 3.4461069972814477e-05]
+Result: {"victory": 0.821, "compete": 0.81, "-lose": 0.787, "-defeat": 0.763, "legislature": 0.91, "legislative_organization": 0.874, "us": 0.783, "-congress": 0.78, "@scenario_probability": 0.00039334793217531285}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00039334793217531285]

@@ -24,3 +24,9 @@ T(head), mumbai, 0.747
 
 Result: {"advancing_into_battle": 0.767, "metal_rod": 0.758, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "situation": 0.763, "curse": 0.75, "@scenario_probability": 0.07787059185837411}
 Scenario: [1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.07787059185837411]
+Result: {"advancing_into_battle": 0.767, "metal_rod": 0.758, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "situation": 0.763, "curse": 0.75, "@scenario_probability": 0.07787059185837411}
+Scenario: [1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.07787059185837411]
+Result: {"advancing_into_battle": 0.767, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "situation": 0.763, "@scenario_probability": 0.00828701988994131}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00828701988994131]
+Result: {"advancing_into_battle": 0.767, "metal_rod": 0.758, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "situation": 0.763, "curse": 0.75, "@scenario_probability": 0.07787059185837411}
+Scenario: [1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.07787059185837411]

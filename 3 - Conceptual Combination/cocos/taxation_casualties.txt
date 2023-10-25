@@ -22,3 +22,9 @@ T(head), activity_of_government, 0.721
 
 Result: {"hospital": 0.781, "victim": 0.778, "military": 0.737, "decrease": 0.735, "survivor": 0.726, "british": 0.691, "imposition": 0.862, "process_results_in_taxes": 0.731, "@scenario_probability": 1.0014933433740039}
 Scenario: [1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1.0014933433740039]
+Result: {"hospital": 0.781, "victim": 0.778, "military": 0.737, "decrease": 0.735, "survivor": 0.726, "british": 0.691, "imposition": 0.862, "process_results_in_taxes": 0.731, "@scenario_probability": 1.0014933433740039}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1.0014933433740039]
+Result: {"hospital": 0.781, "victim": 0.778, "military": 0.737, "decrease": 0.735, "imposition": 0.862, "process_results_in_taxes": 0.731, "@scenario_probability": 0.1690216905473033}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0.1690216905473033]
+Result: {"hospital": 0.781, "victim": 0.778, "military": 0.737, "decrease": 0.735, "survivor": 0.726, "british": 0.691, "imposition": 0.862, "process_results_in_taxes": 0.731, "@scenario_probability": 1.0014933433740039}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1.0014933433740039]

@@ -28,3 +28,9 @@ T(head), -debt, 0.714
 
 Result: {"attack": 0.907, "battle": 0.837, "military": 0.823, "tort": 0.797, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "@scenario_probability": 0.00025769075435221246}
 Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00025769075435221246]
+Result: {"attack": 0.907, "battle": 0.837, "military": 0.823, "tort": 0.797, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "@scenario_probability": 0.00025769075435221246}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00025769075435221246]
+Result: {"attack": 0.907, "battle": 0.837, "military": 0.823, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "@scenario_probability": 1.7237516969836085e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1.7237516969836085e-05]
+Result: {"attack": 0.907, "battle": 0.837, "military": 0.823, "tort": 0.797, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "@scenario_probability": 0.00025769075435221246}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.00025769075435221246]

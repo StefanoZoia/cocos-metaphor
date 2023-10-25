@@ -28,3 +28,9 @@ T(head), agent_non_geographical, 0.749
 
 Result: {"victory": 0.821, "compete": 0.81, "-lose": 0.787, "government": 0.866, "bureaucrats": 0.853, "government_officials": 0.834, "organization": 0.814, "system_of_running_bureaus": 0.783, "@scenario_probability": 0.00035868040955801885}
 Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00035868040955801885]
+Result: {"victory": 0.821, "compete": 0.81, "-lose": 0.787, "government": 0.866, "bureaucrats": 0.853, "government_officials": 0.834, "organization": 0.814, "system_of_running_bureaus": 0.783, "@scenario_probability": 0.00035868040955801885}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00035868040955801885]
+Result: {"victory": 0.821, "compete": 0.81, "government": 0.866, "bureaucrats": 0.853, "government_officials": 0.834, "organization": 0.814, "@scenario_probability": 2.690360635256051e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 2.690360635256051e-05]
+Result: {"victory": 0.821, "compete": 0.81, "-lose": 0.787, "government": 0.866, "bureaucrats": 0.853, "government_officials": 0.834, "organization": 0.814, "system_of_running_bureaus": 0.783, "@scenario_probability": 0.00035868040955801885}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00035868040955801885]

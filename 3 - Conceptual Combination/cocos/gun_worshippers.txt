@@ -22,3 +22,9 @@ T(head), shoot_bullets, 0.883
 
 Result: {"church": 0.897, "firearm_shoots_bullets": 0.931, "shooting_things": 0.915, "shoot": 0.904, "weapon": 0.903, "shot": 0.897, "gun_shop": 0.894, "holster": 0.889, "@scenario_probability": 0.8688673036344619}
 Scenario: [1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.8688673036344619]
+Result: {"church": 0.897, "firearm_shoots_bullets": 0.931, "shooting_things": 0.915, "shoot": 0.904, "weapon": 0.903, "shot": 0.897, "gun_shop": 0.894, "holster": 0.889, "@scenario_probability": 0.8688673036344619}
+Scenario: [1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.8688673036344619]
+Result: {"church": 0.897, "firearm_shoots_bullets": 0.931, "shooting_things": 0.915, "shoot": 0.904, "weapon": 0.903, "shot": 0.897, "@scenario_probability": 0.012863022190887727}
+Scenario: [1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.012863022190887727]
+Result: {"church": 0.897, "firearm_shoots_bullets": 0.931, "shooting_things": 0.915, "shoot": 0.904, "weapon": 0.903, "shot": 0.897, "gun_shop": 0.894, "holster": 0.889, "@scenario_probability": 0.8688673036344619}
+Scenario: [1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.8688673036344619]

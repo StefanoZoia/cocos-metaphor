@@ -23,3 +23,9 @@ T(head), activity_of_government, 0.721
 
 Result: {"-defeat": 0.882, "success": 0.866, "conquer_opponent": 0.821, "ending": 0.818, "-loss": 0.814, "celebrate": 0.806, "play_soccer": 0.8, "imposition": 0.862, "@scenario_probability": 0.37796871535960974}
 Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.37796871535960974]
+Result: {"-defeat": 0.882, "success": 0.866, "conquer_opponent": 0.821, "ending": 0.818, "-loss": 0.814, "celebrate": 0.806, "play_soccer": 0.8, "imposition": 0.862, "@scenario_probability": 0.37796871535960974}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.37796871535960974]
+Result: {"-defeat": 0.882, "success": 0.866, "conquer_opponent": 0.821, "ending": 0.818, "-loss": 0.814, "imposition": 0.862, "@scenario_probability": 0.022743775055758142}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0.022743775055758142]
+Result: {"-defeat": 0.882, "success": 0.866, "conquer_opponent": 0.821, "ending": 0.818, "-loss": 0.814, "celebrate": 0.806, "play_soccer": 0.8, "imposition": 0.862, "@scenario_probability": 0.37796871535960974}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.37796871535960974]

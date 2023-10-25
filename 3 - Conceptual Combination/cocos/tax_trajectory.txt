@@ -25,3 +25,9 @@ T(head), legalized_theft_by_government, 0.762
 
 Result: {"mechanical_phenomenon": 0.79, "levy": 0.89, "charge": 0.84, "-income": 0.807, "determine": 0.798, "-subsidy": 0.788, "-rebate": 0.785, "-refund": 0.778, "@scenario_probability": 0.015647153723536762}
 Scenario: [1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.015647153723536762]
+Result: {"mechanical_phenomenon": 0.79, "levy": 0.89, "charge": 0.84, "-income": 0.807, "determine": 0.798, "-subsidy": 0.788, "-rebate": 0.785, "-refund": 0.778, "@scenario_probability": 0.015647153723536762}
+Scenario: [1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.015647153723536762]
+Result: {"mechanical_phenomenon": 0.79, "levy": 0.89, "charge": 0.84, "-income": 0.807, "determine": 0.798, "-subsidy": 0.788, "@scenario_probability": 0.0012228622259008225}
+Scenario: [1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.0012228622259008225]
+Result: {"mechanical_phenomenon": 0.79, "levy": 0.89, "charge": 0.84, "-income": 0.807, "determine": 0.798, "-subsidy": 0.788, "-rebate": 0.785, "-refund": 0.778, "@scenario_probability": 0.015647153723536762}
+Scenario: [1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.015647153723536762]

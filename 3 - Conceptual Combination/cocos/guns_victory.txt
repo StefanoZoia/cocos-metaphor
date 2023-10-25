@@ -28,3 +28,9 @@ T(head), shoot_bullets, 0.795
 
 Result: {"-defeat": 0.882, "success": 0.866, "conquer_opponent": 0.821, "ending": 0.818, "-loss": 0.814, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "@scenario_probability": 5.701797918635055e-05}
 Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 5.701797918635055e-05]
+Result: {"-defeat": 0.882, "success": 0.866, "conquer_opponent": 0.821, "ending": 0.818, "-loss": 0.814, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "@scenario_probability": 5.701797918635055e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 5.701797918635055e-05]
+Result: {"-defeat": 0.882, "success": 0.866, "conquer_opponent": 0.821, "ending": 0.818, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "@scenario_probability": 2.977068995181053e-06}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 2.977068995181053e-06]
+Result: {"-defeat": 0.882, "success": 0.866, "conquer_opponent": 0.821, "ending": 0.818, "-loss": 0.814, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "@scenario_probability": 5.701797918635055e-05}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 5.701797918635055e-05]

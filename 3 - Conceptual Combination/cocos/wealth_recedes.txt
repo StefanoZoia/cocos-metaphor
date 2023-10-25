@@ -24,3 +24,9 @@ T(head), -debt, 0.714
 
 Result: {"withdraw": 0.786, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "economics": 0.774, "conquering_nation": 0.762, "@scenario_probability": 0.1437985861475515}
 Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.1437985861475515]
+Result: {"withdraw": 0.786, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "economics": 0.774, "conquering_nation": 0.762, "@scenario_probability": 0.1437985861475515}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.1437985861475515]
+Result: {"withdraw": 0.786, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "@scenario_probability": 0.013114268774041688}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.013114268774041688]
+Result: {"withdraw": 0.786, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "economics": 0.774, "conquering_nation": 0.762, "@scenario_probability": 0.1437985861475515}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.1437985861475515]

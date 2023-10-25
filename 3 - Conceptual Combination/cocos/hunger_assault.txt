@@ -28,3 +28,9 @@ T(head), -satiety, 0.824
 
 Result: {"attack": 0.907, "battle": 0.837, "starvation": 0.875, "painful": 0.864, "desire": 0.858, "feeling": 0.833, "sensation": 0.828, "-satiation": 0.827, "@scenario_probability": 0.0001026523600516384}
 Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0001026523600516384]
+Result: {"attack": 0.907, "battle": 0.837, "starvation": 0.875, "painful": 0.864, "desire": 0.858, "feeling": 0.833, "sensation": 0.828, "-satiation": 0.827, "@scenario_probability": 0.0001026523600516384}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0001026523600516384]
+Result: {"attack": 0.907, "battle": 0.837, "starvation": 0.875, "painful": 0.864, "desire": 0.858, "feeling": 0.833, "@scenario_probability": 4.46074751546033e-06}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 4.46074751546033e-06]
+Result: {"attack": 0.907, "battle": 0.837, "starvation": 0.875, "painful": 0.864, "desire": 0.858, "feeling": 0.833, "sensation": 0.828, "-satiation": 0.827, "@scenario_probability": 0.0001026523600516384}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0001026523600516384]

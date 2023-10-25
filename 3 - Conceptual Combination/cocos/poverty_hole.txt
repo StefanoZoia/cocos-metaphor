@@ -28,3 +28,9 @@ T(head), mumbai, 0.747
 
 Result: {"golf": 0.865, "hide_in": 0.863, "golf_course": 0.861, "swiss_cheese": 0.86, "dark": 0.856, "screws": 0.846, "defect": 0.844, "financial_condition": 0.865, "@scenario_probability": 0.00012945619809415898}
 Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.00012945619809415898]
+Result: {"golf": 0.865, "hide_in": 0.863, "golf_course": 0.861, "swiss_cheese": 0.86, "dark": 0.856, "screws": 0.846, "defect": 0.844, "financial_condition": 0.865, "@scenario_probability": 0.00012945619809415898}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.00012945619809415898]
+Result: {"golf": 0.865, "hide_in": 0.863, "golf_course": 0.861, "swiss_cheese": 0.86, "dark": 0.856, "financial_condition": 0.865, "@scenario_probability": 4.355673903137818e-06}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 4.355673903137818e-06]
+Result: {"golf": 0.865, "hide_in": 0.863, "golf_course": 0.861, "swiss_cheese": 0.86, "dark": 0.856, "screws": 0.846, "defect": 0.844, "financial_condition": 0.865, "@scenario_probability": 0.00012945619809415898}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0.00012945619809415898]

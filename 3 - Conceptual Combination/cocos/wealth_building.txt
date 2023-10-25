@@ -28,3 +28,9 @@ T(head), -debt, 0.714
 
 Result: {"building_materials": 0.913, "architect": 0.875, "tradesmen": 0.871, "shelter": 0.864, "man_made": 0.855, "housing": 0.852, "abundance": 0.871, "financial_condition": 0.85, "@scenario_probability": 8.344346164064128e-05}
 Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 8.344346164064128e-05]
+Result: {"building_materials": 0.913, "architect": 0.875, "tradesmen": 0.871, "shelter": 0.864, "man_made": 0.855, "housing": 0.852, "abundance": 0.871, "financial_condition": 0.85, "@scenario_probability": 8.344346164064128e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 8.344346164064128e-05]
+Result: {"building_materials": 0.913, "architect": 0.875, "tradesmen": 0.871, "shelter": 0.864, "man_made": 0.855, "abundance": 0.871, "@scenario_probability": 2.5579188738224748e-06}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2.5579188738224748e-06]
+Result: {"building_materials": 0.913, "architect": 0.875, "tradesmen": 0.871, "shelter": 0.864, "man_made": 0.855, "housing": 0.852, "abundance": 0.871, "financial_condition": 0.85, "@scenario_probability": 8.344346164064128e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 8.344346164064128e-05]

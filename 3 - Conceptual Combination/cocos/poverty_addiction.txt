@@ -28,3 +28,9 @@ T(head), mumbai, 0.747
 
 Result: {"narcotic": 0.866, "craving": 0.864, "bad": 0.831, "physiological_state": 0.817, "smoke": 0.798, "award": 0.793, "financial_condition": 0.865, "undesirable": 0.833, "@scenario_probability": 0.00018870450198619403}
 Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00018870450198619403]
+Result: {"narcotic": 0.866, "craving": 0.864, "bad": 0.831, "physiological_state": 0.817, "smoke": 0.798, "award": 0.793, "financial_condition": 0.865, "undesirable": 0.833, "@scenario_probability": 0.00018870450198619403}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00018870450198619403]
+Result: {"narcotic": 0.866, "craving": 0.864, "bad": 0.831, "physiological_state": 0.817, "financial_condition": 0.865, "undesirable": 0.833, "@scenario_probability": 1.2468892986012812e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1.2468892986012812e-05]
+Result: {"narcotic": 0.866, "craving": 0.864, "bad": 0.831, "physiological_state": 0.817, "smoke": 0.798, "award": 0.793, "financial_condition": 0.865, "undesirable": 0.833, "@scenario_probability": 0.00018870450198619403}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0.00018870450198619403]

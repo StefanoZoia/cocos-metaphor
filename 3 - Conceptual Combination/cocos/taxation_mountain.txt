@@ -23,3 +23,9 @@ T(head), activity_of_government, 0.721
 
 Result: {"climbing": 0.91, "mountainous_region": 0.906, "mountainside": 0.873, "rocky_area": 0.862, "very_large": 0.858, "colorado": 0.842, "austria": 0.827, "imposition": 0.862, "@scenario_probability": 0.4196602028476346}
 Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.4196602028476346]
+Result: {"climbing": 0.91, "mountainous_region": 0.906, "mountainside": 0.873, "rocky_area": 0.862, "very_large": 0.858, "colorado": 0.842, "austria": 0.827, "imposition": 0.862, "@scenario_probability": 0.4196602028476346}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.4196602028476346]
+Result: {"climbing": 0.91, "mountainous_region": 0.906, "mountainside": 0.873, "rocky_area": 0.862, "very_large": 0.858, "imposition": 0.862, "@scenario_probability": 0.016473404981858203}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0.016473404981858203]
+Result: {"climbing": 0.91, "mountainous_region": 0.906, "mountainside": 0.873, "rocky_area": 0.862, "very_large": 0.858, "colorado": 0.842, "austria": 0.827, "imposition": 0.862, "@scenario_probability": 0.4196602028476346}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0.4196602028476346]

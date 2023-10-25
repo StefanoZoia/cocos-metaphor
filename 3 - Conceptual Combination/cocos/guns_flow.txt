@@ -28,3 +28,9 @@ T(head), shoot_bullets, 0.795
 
 Result: {"flood": 0.85, "-ebb": 0.84, "motion": 0.819, "rate": 0.813, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "@scenario_probability": 4.554424320961388e-05}
 Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 4.554424320961388e-05]
+Result: {"flood": 0.85, "-ebb": 0.84, "motion": 0.819, "rate": 0.813, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "@scenario_probability": 4.554424320961388e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 4.554424320961388e-05]
+Result: {"flood": 0.85, "-ebb": 0.84, "motion": 0.819, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "@scenario_probability": 2.4095481645841014e-06}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 2.4095481645841014e-06]
+Result: {"flood": 0.85, "-ebb": 0.84, "motion": 0.819, "rate": 0.813, "firearm_shoots_bullets": 0.838, "shooting_things": 0.824, "shoot": 0.814, "weapon": 0.813, "@scenario_probability": 4.554424320961388e-05}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 4.554424320961388e-05]

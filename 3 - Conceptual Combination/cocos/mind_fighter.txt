@@ -28,3 +28,9 @@ T(head), perceive_external_envrnment_and_recollect_data, 0.823
 
 Result: {"fight": 0.894, "warplane": 0.888, "airplane": 0.854, "thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "think_about": 0.842, "remember": 0.842, "@scenario_probability": 4.120767369301991e-05}
 Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 4.120767369301991e-05]
+Result: {"fight": 0.894, "warplane": 0.888, "airplane": 0.854, "thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "think_about": 0.842, "remember": 0.842, "@scenario_probability": 4.120767369301991e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 4.120767369301991e-05]
+Result: {"fight": 0.894, "warplane": 0.888, "airplane": 0.854, "thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "@scenario_probability": 1.451002259737518e-06}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1.451002259737518e-06]
+Result: {"fight": 0.894, "warplane": 0.888, "airplane": 0.854, "thinking": 0.906, "subjective": 0.894, "cognition": 0.856, "think_about": 0.842, "remember": 0.842, "@scenario_probability": 4.120767369301991e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 4.120767369301991e-05]

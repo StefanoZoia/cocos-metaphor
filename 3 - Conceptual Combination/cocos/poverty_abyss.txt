@@ -27,3 +27,9 @@ T(head), mumbai, 0.747
 
 Result: {"chasm": 0.899, "bottom_of_sea": 0.811, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "situation": 0.763, "curse": 0.75, "@scenario_probability": 0.0017780054817939227}
 Scenario: [1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0017780054817939227]
+Result: {"chasm": 0.899, "bottom_of_sea": 0.811, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "situation": 0.763, "curse": 0.75, "@scenario_probability": 0.0017780054817939227}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0017780054817939227]
+Result: {"chasm": 0.899, "bottom_of_sea": 0.811, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "@scenario_probability": 0.0001840923106968806}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.0001840923106968806]
+Result: {"chasm": 0.899, "bottom_of_sea": 0.811, "financial_condition": 0.865, "undesirable": 0.833, "-wealth": 0.792, "drive_crime": 0.789, "situation": 0.763, "curse": 0.75, "@scenario_probability": 0.0017780054817939227}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0017780054817939227]

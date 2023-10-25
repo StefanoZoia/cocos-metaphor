@@ -28,3 +28,9 @@ T(head), government, 0.793
 
 Result: {"sparks": 0.896, "hot": 0.892, "burn": 0.892, "burn_skin": 0.886, "burn_fingers": 0.886, "fire": 0.874, "equality_for_everyone": 0.854, "open_media": 0.853, "@scenario_probability": 2.8509084857618698e-05}
 Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 2.8509084857618698e-05]
+Result: {"sparks": 0.896, "hot": 0.892, "burn": 0.892, "burn_skin": 0.886, "burn_fingers": 0.886, "fire": 0.874, "equality_for_everyone": 0.854, "open_media": 0.853, "@scenario_probability": 2.8509084857618698e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 2.8509084857618698e-05]
+Result: {"sparks": 0.896, "hot": 0.892, "burn": 0.892, "burn_skin": 0.886, "burn_fingers": 0.886, "equality_for_everyone": 0.854, "@scenario_probability": 7.082893190714877e-07}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 7.082893190714877e-07]
+Result: {"sparks": 0.896, "hot": 0.892, "burn": 0.892, "burn_skin": 0.886, "burn_fingers": 0.886, "fire": 0.874, "equality_for_everyone": 0.854, "open_media": 0.853, "@scenario_probability": 2.8509084857618698e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 2.8509084857618698e-05]

@@ -27,3 +27,9 @@ T(head), killing_people, 0.694
 
 Result: {"disrespect": 0.853, "use": 0.839, "attack": 0.831, "outside_of": 0.786, "gun": 0.93, "sights": 0.823, "killing": 0.813, "firing_pin": 0.811, "@scenario_probability": 0.0025961980852121924}
 Scenario: [1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.0025961980852121924]
+Result: {"disrespect": 0.853, "use": 0.839, "attack": 0.831, "outside_of": 0.786, "gun": 0.93, "sights": 0.823, "killing": 0.813, "firing_pin": 0.811, "@scenario_probability": 0.0025961980852121924}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.0025961980852121924]
+Result: {"disrespect": 0.853, "use": 0.839, "attack": 0.831, "gun": 0.93, "sights": 0.823, "killing": 0.813, "@scenario_probability": 0.00016472897744199868}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.00016472897744199868]
+Result: {"disrespect": 0.853, "use": 0.839, "attack": 0.831, "outside_of": 0.786, "gun": 0.93, "sights": 0.823, "killing": 0.813, "firing_pin": 0.811, "@scenario_probability": 0.0025961980852121924}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.0025961980852121924]

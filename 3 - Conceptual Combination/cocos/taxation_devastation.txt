@@ -19,3 +19,9 @@ T(head), activity_of_government, 0.721
 
 Result: {"ruin": 0.859, "deterioration": 0.849, "feeling": 0.801, "law": 0.736, "imposition": 0.862, "process_results_in_taxes": 0.731, "@scenario_probability": 7.558576807102208}
 Scenario: [1, 1, 1, 1, 1, 1, 0, 7.558576807102208]
+Result: {"ruin": 0.859, "deterioration": 0.849, "feeling": 0.801, "law": 0.736, "imposition": 0.862, "process_results_in_taxes": 0.731, "@scenario_probability": 7.558576807102208}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 7.558576807102208]
+Result: {"ruin": 0.859, "deterioration": 0.849, "feeling": 0.801, "law": 0.736, "imposition": 0.862, "process_results_in_taxes": 0.731, "@scenario_probability": 7.558576807102208}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 7.558576807102208]
+Result: {"ruin": 0.859, "deterioration": 0.849, "feeling": 0.801, "law": 0.736, "imposition": 0.862, "process_results_in_taxes": 0.731, "@scenario_probability": 7.558576807102208}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 7.558576807102208]
