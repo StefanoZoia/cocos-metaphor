@@ -123,68 +123,68 @@ SOCIAL GROUPS ARE CONTAINERS,Our circle of friends is quite diverse.,,,
 SOCIAL GROUPS ARE CONTAINERS,He's hasn't penetrated that group.,,,
 SOCIAL GROUPS ARE BUILDINGS,He's about to rock the foundations of the literary establishment with his novel.,,,
 SOCIAL GROUPS ARE BUILDINGS,"By early afternoon, queues were already building up.",building,queues,VN
-SOCIAL GROUP IS A FABRIC,Cop scandals fray the social fabric.,,,
-SOCIAL GROUP IS A FABRIC,"Thus, we must reweave the torn fabric of rural American with thread strong enough to withstand the inevitable ravages of time.",,,
-SIMILARITY IS PROXIMITY,Her hair is very near to his in color.,,,
-SIMILARITY IS PROXIMITY,That's far from a perfect circle.,,,
-SICKNESS IS DOWN,He's sinking fast.,,,
-SICKNESS IS DOWN,He came down with the flu.,,,
-SEQUENCE OF ACTIONS IS A SEQUENCE OF MOVEMENTS,"Create a complete, measurable, action plan which includes all the steps necessary to achieve your goal.",,,
-SENSING IS SMELLING,I smell a rat.,,,
-SELF-INITIATED STATE CHANGE IS SELF-PROPELLED MOTION,She climbed out of poverty.,,,
-SELECTION IS ADOPTION,They adopted the customs of their neighbors.,,,
-SEEKING KNOWLEDGE IS SEARCHING,He's looking for meaning in his life and isn't finding any.,,,
-SEEING IS TOUCHING,His eyes scoured the horizon.,,,
-SCALES ARE PATHS,The temperature shot up.,,,
-SCALES ARE PATHS,Fuel consumption rose to the highest it has been in 20 years.,,,
-SAD IS DOWN,I'm feeling down.,,,
-SAD IS DOWN,I'm depressed.,,,
-SAD IS DOWN,He's really low these days.,,,
-SAD IS DOWN,I fell into a depression.,,,
-SAD IS DOWN,My spirits sank.,,,
-ROMANTIC RELATIONSHIPS ARE VEHICLES,Our relationship is veering off-course.,,,
-ROMANTIC RELATIONSHIP IS A JOURNEY,Where are we in this relationship?,,,
-ROMANTIC RELATIONSHIP IS A JOURNEY,It feels like this relationship is going nowhere.,,,
-ROMANTIC RELATIONSHIP ENCOUNTERING DIFFICULTIES IS A VEHICLE ENCOUNTERING OBSTACLES,Our relationship is losing steam.,,,
-REVOLUTION IS TOPPLING A PHYSICAL OBJECT,The coup toppled the brutal dictatorship.,,,
-REVOLUTION IS TOPPLING A PHYSICAL OBJECT,The Revolutionary and Napoleonic Wars tore down the ancient structure of Europe,,,
-RELATIONSHIPS ARE PHYSICAL STRUCTURES,Their relationship is built on a solid foundation of trust and commitment.,,,
-RELATIONSHIPS ARE OBJECTS,Our relationship is rock solid.,,,
-RELATIONSHIPS ARE OBJECTS,She has a fragile relationship with her mother as it is.,,,
-RELATIONSHIPS ARE CONTAINERS,She's trapped in a relationship with a scumbag.,,,
-RELATIONSHIPS ARE CONTAINERS,They had a falling out.,,,
-RELATIONSHIPS ARE COMPLEX STRUCTURES,It takes work to build any relationship.,,,
-RELATIONSHIPS ARE COMPLEX STRUCTURES,The relationship fell apart.,,,
-RELATEDNESS IS PROXIMITY,These ideas are closely related.,,,
-REFINING A LAW IS TRIMMING A PLANT,"I concede that it has become indispensable to prune legislation, but it seems to me that this must be done with prudence and thought.",,,
-QUANTITY IS VERTICALITY,The number of books printed each year keeps going up.,,,
-QUANTITY IS VERTICALITY,His income fell last year.,,,
-QUANTITY IS SIZE,What is the size of your bank account?,,,
-QUANTITY IS SIZE,He doesn't know how big our national debt is.,,,
-QUALITIES ARE SUBSTANCES,He has a lot of smarts.,,,
-QUALITIES ARE SUBSTANCES,He's devoid of common sense.,,,
-PURPOSEFUL THINKING IS GOAL-DIRECTED MOTION,We are trying to find the most elegant approach to solving this problem.,,,
-PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION,She made great strides in her dissertation.,,,
-PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION,We are sliding backward.,,,
-PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION,We are moving ahead.,,,
-PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION,We are going nowhere with this.,,,
-PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION,We have taken the first step.,,,
-PURITY IS CLEANLINESS,He's pure evil.,,,
-PURITY IS CLEANLINESS,Her soul was scrubbed clean of impurities.,,,
-PURIFYING IS CLEANSING,You must cleanse your soul of sin.,,,
-PURIFYING IS CLEANSING,The impure must be washed clean through contrition.,,,
-PUBLIC EVALUABILITY OF GOVERMNENT IS TRANSPARENCY,Increased transparency has increased the public's confidence in government.,,,
-PSYCHOLOGICAL HARM IS PHYSICAL INJURY,It was a traumatic experience.,,,
-PSYCHOLOGICAL HARM IS PHYSICAL INJURY,Her death hurt him.,,,
-PSYCHOLOGICAL HARM IS PHYSICAL INJURY,The accusation wounded her.,,,
-PSYCHOLOGICAL HARM IS PHYSICAL INJURY,He’s mentally ill/fit.,,,
-PSYCHOLOGICAL HARM IS PHYSICAL INJURY,My pride was wounded.,,,
-PSYCHOLOGICAL HARM IS PHYSICAL INJURY,"She recovered from the wound to her psyche, but scars remained.",,,
-PROVING IS SHOWING,The marks on the carpet show that the perpetrator wore boots.,,,
-PROGRESSING THROUGH LIFE IS MOVING THROUGH A TERRAIN,He's over the hill.,,,
-PROGRESSING THROUGH LIFE IS MOVING THROUGH A TERRAIN,She's past her peak.,,,
-PROGRESSING THROUGH LIFE IS MOVING THROUGH A TERRAIN,Life is full of peaks and valleys.,,,
-PROGRESSING THROUGH LIFE IS MOVING ALONG A PATH,"He made it this far in life without a partner, he can survive without one going forward.",,,
+SOCIAL GROUP IS A FABRIC,Cop scandals fray the social fabric.,fabric,social,AN
+SOCIAL GROUP IS A FABRIC,"Thus, we must reweave the torn fabric of rural American with thread strong enough to withstand the inevitable ravages of time.",,,-
+SIMILARITY IS PROXIMITY,Her hair is very near to his in color.,,,-
+SIMILARITY IS PROXIMITY,That's far from a perfect circle.,,,-
+SICKNESS IS DOWN,He's sinking fast.,,,-
+SICKNESS IS DOWN,He came down with the flu.,,,-
+SEQUENCE OF ACTIONS IS A SEQUENCE OF MOVEMENTS,"Create a complete, measurable, action plan which includes all the steps necessary to achieve your goal.",,,-
+SENSING IS SMELLING,I smell a rat.,,,-
+SELF-INITIATED STATE CHANGE IS SELF-PROPELLED MOTION,She climbed out of poverty.,,,-
+SELECTION IS ADOPTION,They adopted the customs of their neighbors.,adopted,customs,VN
+SEEKING KNOWLEDGE IS SEARCHING,He's looking for meaning in his life and isn't finding any.,looking for,meaning,VN
+SEEING IS TOUCHING,His eyes scoured the horizon.,scoured,horizon,VN
+SCALES ARE PATHS,The temperature shot up.,shot up,temperature,VN
+SCALES ARE PATHS,Fuel consumption rose to the highest it has been in 20 years.,rose,consumption,VN
+SAD IS DOWN,I'm feeling down.,,,-
+SAD IS DOWN,I'm depressed.,,,-
+SAD IS DOWN,He's really low these days.,,,-
+SAD IS DOWN,I fell into a depression.,,,-
+SAD IS DOWN,My spirits sank.,sank,spirits,VN
+ROMANTIC RELATIONSHIPS ARE VEHICLES,Our relationship is veering off-course.,veering,relationship,VN
+ROMANTIC RELATIONSHIP IS A JOURNEY,Where are we in this relationship?,,,-
+ROMANTIC RELATIONSHIP IS A JOURNEY,It feels like this relationship is going nowhere.,going,relationship,VN
+ROMANTIC RELATIONSHIP ENCOUNTERING DIFFICULTIES IS A VEHICLE ENCOUNTERING OBSTACLES,Our relationship is losing steam.,,,-
+REVOLUTION IS TOPPLING A PHYSICAL OBJECT,The coup toppled the brutal dictatorship.,toppled,dictatorship,VN
+REVOLUTION IS TOPPLING A PHYSICAL OBJECT,The Revolutionary and Napoleonic Wars tore down the ancient structure of Europe,,,-
+RELATIONSHIPS ARE PHYSICAL STRUCTURES,Their relationship is built on a solid foundation of trust and commitment.,,,-
+RELATIONSHIPS ARE OBJECTS,Our relationship is rock solid.,solid,relationship,AN
+RELATIONSHIPS ARE OBJECTS,She has a fragile relationship with her mother as it is.,fragile,relationship,AN
+RELATIONSHIPS ARE CONTAINERS,She's trapped in a relationship with a scumbag.,,,-
+RELATIONSHIPS ARE CONTAINERS,They had a falling out.,,,-
+RELATIONSHIPS ARE COMPLEX STRUCTURES,It takes work to build any relationship.,build,relationship,VN
+RELATIONSHIPS ARE COMPLEX STRUCTURES,The relationship fell apart.,,,-
+RELATEDNESS IS PROXIMITY,These ideas are closely related.,closely,related,AR
+REFINING A LAW IS TRIMMING A PLANT,"I concede that it has become indispensable to prune legislation, but it seems to me that this must be done with prudence and thought.",prune,legislation,VN
+QUANTITY IS VERTICALITY,The number of books printed each year keeps going up.,,,-
+QUANTITY IS VERTICALITY,His income fell last year.,fell,income,VN
+QUANTITY IS SIZE,What is the size of your bank account?,size,bank account,NN
+QUANTITY IS SIZE,He doesn't know how big our national debt is.,big,debt,AN
+QUALITIES ARE SUBSTANCES,He has a lot of smarts.,,,-
+QUALITIES ARE SUBSTANCES,He's devoid of common sense.,,,-
+PURPOSEFUL THINKING IS GOAL-DIRECTED MOTION,We are trying to find the most elegant approach to solving this problem.,,,-
+PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION,She made great strides in her dissertation.,strides,dissertation,NN
+PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION,We are sliding backward.,,,-
+PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION,We are moving ahead.,,,-
+PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION,We are going nowhere with this.,,,-
+PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION,We have taken the first step.,,,-
+PURITY IS CLEANLINESS,He's pure evil.,,,-
+PURITY IS CLEANLINESS,Her soul was scrubbed clean of impurities.,scrubbed clean,soul,VN
+PURIFYING IS CLEANSING,You must cleanse your soul of sin.,cleanse,soul,VN
+PURIFYING IS CLEANSING,The impure must be washed clean through contrition.,,,-
+PUBLIC EVALUABILITY OF GOVERMNENT IS TRANSPARENCY,Increased transparency has increased the public's confidence in government.,,,-
+PSYCHOLOGICAL HARM IS PHYSICAL INJURY,It was a traumatic experience.,,,-
+PSYCHOLOGICAL HARM IS PHYSICAL INJURY,Her death hurt him.,,,-
+PSYCHOLOGICAL HARM IS PHYSICAL INJURY,The accusation wounded her.,wounded,accusation,VN
+PSYCHOLOGICAL HARM IS PHYSICAL INJURY,He’s mentally ill/fit.,,,-
+PSYCHOLOGICAL HARM IS PHYSICAL INJURY,My pride was wounded.,wounded,pride,VN
+PSYCHOLOGICAL HARM IS PHYSICAL INJURY,"She recovered from the wound to her psyche, but scars remained.",wound,psyche,NN
+PROVING IS SHOWING,The marks on the carpet show that the perpetrator wore boots.,,,-
+PROGRESSING THROUGH LIFE IS MOVING THROUGH A TERRAIN,He's over the hill.,,,-
+PROGRESSING THROUGH LIFE IS MOVING THROUGH A TERRAIN,She's past her peak.,,,-
+PROGRESSING THROUGH LIFE IS MOVING THROUGH A TERRAIN,Life is full of peaks and valleys.,peaks,life,NN
+PROGRESSING THROUGH LIFE IS MOVING ALONG A PATH,"He made it this far in life without a partner, he can survive without one going forward.",,,-
 PROGRESS IS FORWARD MOTION ALONG A PATH,He hadn't made much headway in writing the termpaper.,,,
 PROGRESS IS FORWARD MOTION ALONG A PATH,Let's keep moving forward on this experiment.,,,
 PROGRESS IS FORWARD MOTION ALONG A PATH,I'm afraid I haven't gotten very far in grading the exams.,,,
