@@ -185,43 +185,43 @@ PROGRESSING THROUGH LIFE IS MOVING THROUGH A TERRAIN,He's over the hill.,,,-
 PROGRESSING THROUGH LIFE IS MOVING THROUGH A TERRAIN,She's past her peak.,,,-
 PROGRESSING THROUGH LIFE IS MOVING THROUGH A TERRAIN,Life is full of peaks and valleys.,peaks,life,NN
 PROGRESSING THROUGH LIFE IS MOVING ALONG A PATH,"He made it this far in life without a partner, he can survive without one going forward.",,,-
-PROGRESS IS FORWARD MOTION ALONG A PATH,He hadn't made much headway in writing the termpaper.,,,
-PROGRESS IS FORWARD MOTION ALONG A PATH,Let's keep moving forward on this experiment.,,,
-PROGRESS IS FORWARD MOTION ALONG A PATH,I'm afraid I haven't gotten very far in grading the exams.,,,
-PREVENTING ENACTMENT OF LEGISLATION IS BLOCKING MOTION,House Republicans blocked the Democrats' attempts to move forward with the healthcare bill.,,,
-PREVENTING ENACTMENT OF LEGISLATION IS BLOCKING MOTION,The Senator's filibuster halted the passage of the bill.,,,
-PREVENTED CHANGE OF STATE IS PREVENTED CHANGE OF LOCATION,"He's holding you back, you need to leave him.",,,
-PREVENTED CHANGE OF STATE IS PREVENTED CHANGE OF LOCATION,I'm going to the top and nothing will stand in my way.,,,
-PREPARING IDEAS TO BE UNDERSTOOD IS FOOD PREPARATION,They're just half-baked ideas.,,,
-PREPARING IDEAS TO BE UNDERSTOOD IS FOOD PREPARATION,Just give me the raw facts.,,,
-PREPARING IDEAS TO BE UNDERSTOOD IS FOOD PREPARATION,I need to put this on the back burner for a while.,,,
-POWER IS A POSSESSED OBJECT,He holds all the power.,,,
-POVERTY IS A WEED,We are not free from the creeping vines of poverty.,,,
-POVERTY IS A WEED,Mother Martha is working to loosen the strangling weeds of poverty and watching children blossom and thrive under her care.,,,
-POVERTY IS A MOTION IMPEDIMENT,"Though politically the country is free, its people remain chained by poverty.",,,
-POVERTY IS A DISEASE,"The epidemic of poverty is spreading in America, and it's taking its toll on American families.",,,
-POVERTY IS A DISEASE,"As President Obama has said, we can't treat the symptoms of poverty in isolation.",,,
-POVERTY IS A CRIME,He appealed to logos (logic) by trying to analyze why poverty is a crime and tries to differentiate it from being poor.,,,
-POLITICIANS ARE STAGE ACTORS,The President played his part magnificently.,,,
-POLITICAL UNREST IS A WILDFIRE,The wildfire of revolution rapidly spread throughout the land.,,,
-POLITICAL UNREST IS A WILDFIRE,,,,
-POLITICAL REGION IS A VEHICLE,They are rocking the ship of state.,,,
-POLITICAL REGION IS A VEHICLE,Dirt threatens to sink ship of state,,,
-PHYSICAL STRENGTH IS VERTICALITY,His strength declined as he aged.,,,
-PHASE OF AN ELECTION IS LEG IN A RACE,"As Election Day drew near, the candidates pulled into the final lap of the race.",,,
-PHASE OF AN ELECTION IS LEG IN A RACE,Last Legs of Campaign Can Decide Race,,,
-PHASE OF AN ELECTION IS LEG IN A RACE,How both candidates fair in the final leg of campaigning will likely determine the winner in each state.,,,
-PEOPLE ARE PLANTS,Bloom where you are planted.,,,
-PEOPLE ARE PLANTS,The young man is rather green and does not have enough experience to drive the large machinery.,,,
-PEOPLE ARE PLANTS,We saw the withered old woman.,,,
-Ongoing causation is nourishing,"Incurable sex offenders, lousy judges and the new media: Moral panic sustenance in the age of new media",,,
-ORGANIZATION IS PHYSICAL STRUCTURE,The Lakers' defense fell apart in the final quarter leading to an embarrassing upset.,,,
-ORGANIZATION IS PHYSICAL STRUCTURE,Which part of the theory don't you agree with?,,,
-ORGANIZATION IS PHYSICAL STRUCTURE,I admire the way this automated collection system is put together.,,,
-ORGANIZATION IS A MACHINE,"Since the enactment of SB 163 (Evans), the three branches of state government have been working smoothly in the transition process called for in that landmark legislation.",,,
-OPPORTUNITIES ARE PORTALS,Opportunity is an open door.,,,
-OPPORTUNITIES ARE PATHS,His job offer opened up new paths of opportunity for him.,,,
-OPPORTUNITIES ARE OBJECTS,We've got plenty of chances left.,,,
+PROGRESS IS FORWARD MOTION ALONG A PATH,He hadn't made much headway in writing the termpaper.,headway,writing,VN
+PROGRESS IS FORWARD MOTION ALONG A PATH,Let's keep moving forward on this experiment.,,,-
+PROGRESS IS FORWARD MOTION ALONG A PATH,I'm afraid I haven't gotten very far in grading the exams.,,,-
+PREVENTING ENACTMENT OF LEGISLATION IS BLOCKING MOTION,House Republicans blocked the Democrats' attempts to move forward with the healthcare bill.,move forward,bill,VN
+PREVENTING ENACTMENT OF LEGISLATION IS BLOCKING MOTION,The Senator's filibuster halted the passage of the bill.,,,-
+PREVENTED CHANGE OF STATE IS PREVENTED CHANGE OF LOCATION,"He's holding you back, you need to leave him.",,,-
+PREVENTED CHANGE OF STATE IS PREVENTED CHANGE OF LOCATION,I'm going to the top and nothing will stand in my way.,,,-
+PREPARING IDEAS TO BE UNDERSTOOD IS FOOD PREPARATION,They're just half-baked ideas.,half-baked,ideas,AN
+PREPARING IDEAS TO BE UNDERSTOOD IS FOOD PREPARATION,Just give me the raw facts.,raw,facts,AN
+PREPARING IDEAS TO BE UNDERSTOOD IS FOOD PREPARATION,I need to put this on the back burner for a while.,,,-
+POWER IS A POSSESSED OBJECT,He holds all the power.,holds,power,VN
+POVERTY IS A WEED,We are not free from the creeping vines of poverty.,vines,poverty,NN
+POVERTY IS A WEED,Mother Martha is working to loosen the strangling weeds of poverty and watching children blossom and thrive under her care.,weeds,poverty,NN
+POVERTY IS A MOTION IMPEDIMENT,"Though politically the country is free, its people remain chained by poverty.",chained,poverty,VN
+POVERTY IS A DISEASE,"The epidemic of poverty is spreading in America, and it's taking its toll on American families.",epidemic,poverty,NN
+POVERTY IS A DISEASE,"As President Obama has said, we can't treat the symptoms of poverty in isolation.",symptoms,poverty,NN
+POVERTY IS A CRIME,He appealed to logos (logic) by trying to analyze why poverty is a crime and tries to differentiate it from being poor.,crime,poverty,NN
+POLITICIANS ARE STAGE ACTORS,The President played his part magnificently.,,,-
+POLITICAL UNREST IS A WILDFIRE,The wildfire of revolution rapidly spread throughout the land.,wildfire,revolution,NN
+POLITICAL UNREST IS A WILDFIRE,,,,-
+POLITICAL REGION IS A VEHICLE,They are rocking the ship of state.,,,-
+POLITICAL REGION IS A VEHICLE,Dirt threatens to sink ship of state,,,-
+PHYSICAL STRENGTH IS VERTICALITY,His strength declined as he aged.,declined,strength,VN
+PHASE OF AN ELECTION IS LEG IN A RACE,"As Election Day drew near, the candidates pulled into the final lap of the race.",,,-
+PHASE OF AN ELECTION IS LEG IN A RACE,Last Legs of Campaign Can Decide Race,Race,Campaign,NN
+PHASE OF AN ELECTION IS LEG IN A RACE,How both candidates fair in the final leg of campaigning will likely determine the winner in each state.,,,-
+PEOPLE ARE PLANTS,Bloom where you are planted.,,,-
+PEOPLE ARE PLANTS,The young man is rather green and does not have enough experience to drive the large machinery.,,,-
+PEOPLE ARE PLANTS,We saw the withered old woman.,,,-
+Ongoing causation is nourishing,"Incurable sex offenders, lousy judges and the new media: Moral panic sustenance in the age of new media",sustanance,panic,NN
+ORGANIZATION IS PHYSICAL STRUCTURE,The Lakers' defense fell apart in the final quarter leading to an embarrassing upset.,fell apart,defense,VN
+ORGANIZATION IS PHYSICAL STRUCTURE,Which part of the theory don't you agree with?,,,-
+ORGANIZATION IS PHYSICAL STRUCTURE,I admire the way this automated collection system is put together.,,,-
+ORGANIZATION IS A MACHINE,"Since the enactment of SB 163 (Evans), the three branches of state government have been working smoothly in the transition process called for in that landmark legislation.",,,-
+OPPORTUNITIES ARE PORTALS,Opportunity is an open door.,door,opportunity,NN
+OPPORTUNITIES ARE PATHS,His job offer opened up new paths of opportunity for him.,paths,opportunity,NN
+OPPORTUNITIES ARE OBJECTS,We've got plenty of chances left.,,,-
 OPPORTUNITIES ARE OBJECTS,I've squandered every opportunity to advance my career.,,,
 NONVISUAL PERCEPTUAL SPACE IS PHYSICAL SPACE,Here comes the beep!,,,
 NEARBY COUNTRIES ARE NEIGHBORS,Canada is by far the closest of all our neighbors.,,,
