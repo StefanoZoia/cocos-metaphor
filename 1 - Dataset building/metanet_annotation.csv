@@ -22,106 +22,106 @@ ANGER IS FIRE,He's seeing red.,,,-
 ANALYZING IS DISSECTING,"The hallways are filled with the sounds of middle school students, primarily eighth graders, dissecting the second presidential debate from the evening before.",,,-
 AMOUNT OF PROGRESS TOWARD ENACTING LEGISLATION IS DISTANCE MOVED ALONG A PATH,"Senate Majority Leader Harry Reid, D-Nevada, told reporters that the next 24 hours would be ""very important"" toward efforts to reach a deal to lessen the harshest impacts of the fiscal cliff, a combination of broad tax hikes and deep spending cuts due to take effect at the start of the new year.",,,-
 AMOUNT OF PROGRESS IS AMOUNT OF DISTANCE MOVED,"President Obama said the international community has made great strides toward locking down loose nuclear material, but warned the threat of nuclear materials falling into the hands of terrorist remains.",,,-
-AMOUNT OF POVERTY IS SIZE OF GEOGRAPHIC FEATURE,WE CANNOT HAVE ISLANDS OF PROSPERITY NEXT TO OCEANS OF POVERTY AND SQUALOR,,,
-AMOUNT OF GUNS IS A FLUID,flood of guns,,,
-AMOUNT OF GUN VIOLENCE IS A FLUID,We have not found a way to stem this rising flood of gun violence.,,,
-AMOUNT OF GUN VIOLENCE IS A FLUID,We are drowning in an ocean of gun violence.,,,
-ALTERNATIVES ARE DIFFERENT AVAILABLE PATHS,He started going down a bad life path.,,,
-WORDS ARE CONTAINERS,That remark is completely impenetrable.,,,
-WORDS ARE CONTAINERS,"Whatever Emily meant, it's likely to be locked up in that cryptic little verse forever.",,,
-WORDS ARE CONTAINERS,He writes sentences in such a way as to seal up the meaning in them.,,,
-WINNING AN ELECTION IS WINNING A WAR,President Obama won a major victory in November.,,,
-WINNING AN ELECTION IS WINNING A RACE,"In the Supervisors race, my candidate came out slightly ahead of his closest rival.",,,
-WINNING AN ELECTION IS WINNING A BOXING MATCH,The Tea Party candidate knocked out the mainline Republican candidate in the primary.,,,
-WHOLES ARE POSSESSORS,The eye possesses several parts.,,,
-WHOLES ARE POSSESSORS,Which car part belongs to which car?,,,
-WHOLES ARE CONTAINERS,The book contains more than 150 recipes for cabbage.,,,
-WELL-FUNCTIONING BUREAUCRACY IS A SMOOTHLY FUNCTIONING MACHINE,"Despite the debt crisis, the welfare bureaucracy continued to hum along, producing checks every month.",,,
-WELL-BEING IS WEALTH,Was it worth it?,,,
+AMOUNT OF POVERTY IS SIZE OF GEOGRAPHIC FEATURE,WE CANNOT HAVE ISLANDS OF PROSPERITY NEXT TO OCEANS OF POVERTY AND SQUALOR,oceans,poverty,NN
+AMOUNT OF GUNS IS A FLUID,flood of guns,flood,guns,NN
+AMOUNT OF GUN VIOLENCE IS A FLUID,We have not found a way to stem this rising flood of gun violence.,flood,violence,NN
+AMOUNT OF GUN VIOLENCE IS A FLUID,We are drowning in an ocean of gun violence.,ocean,violence,NN
+ALTERNATIVES ARE DIFFERENT AVAILABLE PATHS,He started going down a bad life path.,path,life,NN
+WORDS ARE CONTAINERS,That remark is completely impenetrable.,impenetrable,remark,AN
+WORDS ARE CONTAINERS,"Whatever Emily meant, it's likely to be locked up in that cryptic little verse forever.",,,-
+WORDS ARE CONTAINERS,He writes sentences in such a way as to seal up the meaning in them.,,,-
+WINNING AN ELECTION IS WINNING A WAR,President Obama won a major victory in November.,,,-
+WINNING AN ELECTION IS WINNING A RACE,"In the Supervisors race, my candidate came out slightly ahead of his closest rival.",,,-
+WINNING AN ELECTION IS WINNING A BOXING MATCH,The Tea Party candidate knocked out the mainline Republican candidate in the primary.,,,-
+WHOLES ARE POSSESSORS,The eye possesses several parts.,,,-
+WHOLES ARE POSSESSORS,Which car part belongs to which car?,,,-
+WHOLES ARE CONTAINERS,The book contains more than 150 recipes for cabbage.,,,-
+WELL-FUNCTIONING BUREAUCRACY IS A SMOOTHLY FUNCTIONING MACHINE,"Despite the debt crisis, the welfare bureaucracy continued to hum along, producing checks every month.",,,-
+WELL-BEING IS WEALTH,Was it worth it?,,,-
 WELL-BEING IS WEALTH,The human cost of that disaster is enormous.,,,
-WELL-BEING IS VERTICALITY,Things are looking up today!,,,
-VOTING IS SPEAKING,The voters of Dillon have clearly spoken.,,,
-VISUAL FIELD IS A CONTAINER,It's out of my field of vision.,,,
-VISUAL FIELD IS A CONTAINER,The island is now in full view.,,,
-UNDERSTANDING IS GRASPING,He just can't seem to grasp the concept.,,,
-UNDERSTANDING IS GRASPING,He got a good handle on the subject matter.,,,
-UNDERSTANDING IS FOLLOWING,I don't follow you.,,,
-UNDERSTANDING IS FOLLOWING,"This lecture will be fast-paced, so try to keep up!",,,
-UNDERSTANDING IS DIGESTING,I haven't fully digested the main gist of that paper.,,,
-UNCONTROLLED CRIME IS A RAMPAGING ANIMAL,Crime is stalking the youth of our major cities.,,,
-UNCONTROLLED CRIME IS A RAMPAGING ANIMAL,"gang crime ravages inner cities, destroys families, and causes whole neighborhoods to hunker down in fear",,,
-UNCONSCIOUS IS DOWN,He fell into a coma.,,,
+WELL-BEING IS VERTICALITY,Things are looking up today!,,,-
+VOTING IS SPEAKING,The voters of Dillon have clearly spoken.,,,-
+VISUAL FIELD IS A CONTAINER,It's out of my field of vision.,,,-
+VISUAL FIELD IS A CONTAINER,The island is now in full view.,full,view,AN
+UNDERSTANDING IS GRASPING,He just can't seem to grasp the concept.,,,-
+UNDERSTANDING IS GRASPING,He got a good handle on the subject matter.,,,-
+UNDERSTANDING IS FOLLOWING,I don't follow you.,,,-
+UNDERSTANDING IS FOLLOWING,"This lecture will be fast-paced, so try to keep up!",,,-
+UNDERSTANDING IS DIGESTING,I haven't fully digested the main gist of that paper.,,,-
+UNCONTROLLED CRIME IS A RAMPAGING ANIMAL,Crime is stalking the youth of our major cities.,,,-
+UNCONTROLLED CRIME IS A RAMPAGING ANIMAL,"gang crime ravages inner cities, destroys families, and causes whole neighborhoods to hunker down in fear",,,-
+UNCONSCIOUS IS DOWN,He fell into a coma.,,,-
 TRUST RELATIONSHIPS ARE BUILDINGS,We are working hard to rebuild the trust of our customers.,,,
-TRUST RELATIONSHIPS ARE BUILDINGS,The scandals have shaken the foundations of trust in the market.,,,
-TRUST IN GOVERNMENT IS A BUILDING,"It is how, in every Western country, trust in government has suddenly, dramatically collapsed in the crisis' aftermath.",,,
-TIME PERIODS ARE CONTAINERS,My morning has been very full.,,,
-TIME IS MONEY,We spent all day at the fair.,,,
-TIME IS MONEY,Time-theft,,,
-TIME IS A SUBSTANCE,The flow of time,,,
-TIME IS A SUBSTANCE,"Like sands through the hourglass, so are the days of our lives.",,,
-TIME IS A RESOURCE,Our time is valuable.,,,
-TIME IS A RESOURCE,We don't have much time.,,,
-TIME IS A MOVING OBJECT,Time flies.,,,
-TIME IS A MOVING OBJECT,The time will come when…,,,
-TIME IS A MOVING OBJECT,The time has long since gone when…,,,
-TIME IS A MOVING OBJECT,The time for action has arrived.,,,
-TIME IS A LANDSCAPE THROUGH WHICH THE OBSERVER MOVES,That's all behind us now.,,,
-TIME IS A LANDSCAPE THROUGH WHICH THE OBSERVER MOVES,You can't go back in time!,,,
-TIME IS A LANDSCAPE THROUGH WHICH THE OBSERVER MOVES,We're looking ahead to the future.,,,
-TIME IS A LANDSCAPE THROUGH WHICH THE OBSERVER MOVES,He has a great future in front of him.,,,
-TIME IS A COMMODITY,Don't waste your time.,,,
-THINKING IS SPEAKING,I can barely hear myself think.,,,
-THINKING IS SPEAKING,He's an articulate thinker.,,,
-THINKING IS SPEAKING,She doesn't listen to her conscience.,,,
-THINKING IS SPEAKING,That sounds like a good idea.,,,
-THINKING IS PERCEIVING,"For many weeks, I couldn't see how to solve the problem.",,,
-THINKING IS PERCEIVING,"I see that the two lines must be equal, but I don't know how to prove it.",,,
-THINKING IS OBJECT MANIPULATION,Let's toss some ideas around.,,,
-THINKING IS MOVING,We're making progress on defining what kind of house we are looking for.,,,
-THINKING IS LINGUISTIC ACTIVITY,I can't read her mind.,,,
-THINKING IS LINGUISTIC ACTIVITY,I misread his intentions.,,,
-THEORIES ARE COMPLEX STRUCTURES,Her theory requires the reader to understand  many interconnected factors.,,,
-THEORIES ARE BUILDINGS,Opponents tried to dismantle the theory piece by piece.,,,
-THEORIES ARE BUILDINGS,This theory has a solid foundation.,,,
-THEORIES ARE BUILDINGS,The theoretical framework needs to be filled in with empirical data.,,,
-TERMINATION OF CONTROL IS LOSS OF A POSSESSION,"The dummies were 2-to-1 in favor of the Arizona immigration law; the court gutted it. Only those dummies, not in a state of denial, understand that we the people have lost control of our government.",,,
-TERMINATION OF CONTROL IS LOSS OF A POSSESSION,"But meanwhile, you may not have noticed that our government gave away control of the Internet.",,,
-TAXES ARE DUES,"Taxes, after all, are dues that we pay for the privileges of membership in an organized society",,,
-TAXES ARE DISEASES,"During a panel discussion that included Washington Governor Christine Gregoire and Nevada Governor Brian Sandoval, Brown accused California lawmakers of adhering to ""the notion that taxes are like some kind of sexually transmitted disease,"" the Los Angeles Times reports.",,,
-TAXES ARE DISEASES,Those insidious taxes infect every aspect of our lives.,,,
-TAXATION IS THEFT,Government steals the people's wealth through overt and hidden taxes,,,
+TRUST RELATIONSHIPS ARE BUILDINGS,The scandals have shaken the foundations of trust in the market.,foundations,trust,NN
+TRUST IN GOVERNMENT IS A BUILDING,"It is how, in every Western country, trust in government has suddenly, dramatically collapsed in the crisis' aftermath.",collapsed,trust,VN
+TIME PERIODS ARE CONTAINERS,My morning has been very full.,full,morning,AN
+TIME IS MONEY,We spent all day at the fair.,,,-
+TIME IS MONEY,Time-theft,,,-
+TIME IS A SUBSTANCE,The flow of time,flow,time,NN
+TIME IS A SUBSTANCE,"Like sands through the hourglass, so are the days of our lives.",sands,days,NN
+TIME IS A RESOURCE,Our time is valuable.,valuable,time,AN
+TIME IS A RESOURCE,We don't have much time.,,,-
+TIME IS A MOVING OBJECT,Time flies.,flies,time,VN
+TIME IS A MOVING OBJECT,The time will come when…,come,time,VN
+TIME IS A MOVING OBJECT,The time has long since gone when…,gone,time,VN
+TIME IS A MOVING OBJECT,The time for action has arrived.,arrived,time,VN
+TIME IS A LANDSCAPE THROUGH WHICH THE OBSERVER MOVES,That's all behind us now.,,,-
+TIME IS A LANDSCAPE THROUGH WHICH THE OBSERVER MOVES,You can't go back in time!,back,time,-
+TIME IS A LANDSCAPE THROUGH WHICH THE OBSERVER MOVES,We're looking ahead to the future.,ahead,future,-
+TIME IS A LANDSCAPE THROUGH WHICH THE OBSERVER MOVES,He has a great future in front of him.,front,future,-
+TIME IS A COMMODITY,Don't waste your time.,waste,time,VN
+THINKING IS SPEAKING,I can barely hear myself think.,hear,think,VV
+THINKING IS SPEAKING,He's an articulate thinker.,articulate,thinker,AN
+THINKING IS SPEAKING,She doesn't listen to her conscience.,listen,conscience,VN
+THINKING IS SPEAKING,That sounds like a good idea.,,,-
+THINKING IS PERCEIVING,"For many weeks, I couldn't see how to solve the problem.",,,-
+THINKING IS PERCEIVING,"I see that the two lines must be equal, but I don't know how to prove it.",,,-
+THINKING IS OBJECT MANIPULATION,Let's toss some ideas around.,toss,ideas,VN
+THINKING IS MOVING,We're making progress on defining what kind of house we are looking for.,,,-
+THINKING IS LINGUISTIC ACTIVITY,I can't read her mind.,read,mind,VN
+THINKING IS LINGUISTIC ACTIVITY,I misread his intentions.,misread,intentions,VN
+THEORIES ARE COMPLEX STRUCTURES,Her theory requires the reader to understand  many interconnected factors.,interconnected,factors,AN
+THEORIES ARE BUILDINGS,Opponents tried to dismantle the theory piece by piece.,dismantle,theory,VN
+THEORIES ARE BUILDINGS,This theory has a solid foundation.,foundation,theory,NN
+THEORIES ARE BUILDINGS,The theoretical framework needs to be filled in with empirical data.,filled,framework,VN
+TERMINATION OF CONTROL IS LOSS OF A POSSESSION,"The dummies were 2-to-1 in favor of the Arizona immigration law; the court gutted it. Only those dummies, not in a state of denial, understand that we the people have lost control of our government.",,,-
+TERMINATION OF CONTROL IS LOSS OF A POSSESSION,"But meanwhile, you may not have noticed that our government gave away control of the Internet.",,,-
+TAXES ARE DUES,"Taxes, after all, are dues that we pay for the privileges of membership in an organized society",,,-
+TAXES ARE DISEASES,"During a panel discussion that included Washington Governor Christine Gregoire and Nevada Governor Brian Sandoval, Brown accused California lawmakers of adhering to ""the notion that taxes are like some kind of sexually transmitted disease,"" the Los Angeles Times reports.",disease,taxes,NN
+TAXES ARE DISEASES,Those insidious taxes infect every aspect of our lives.,infect,taxes,VN
+TAXATION IS THEFT,Government steals the people's wealth through overt and hidden taxes,steals,taxes,VN
 TAXATION IS SLAVERY,America Tax Slaves Work 6.5 Months Every Year to Pay for Government,,,
-TAXATION IS PUNISHMENT,"The state cannot pay its bills and poorly educates its young, and its taxation punishes whatever success that its suffocating regulatory regime does not prevent.",,,
-TAXATION IS CAUSING HARM,High sales taxes hurt local small businesses.,,,
-TAXATION IS CAUSING HARM,We are being taxed to death!,,,
-TAXATION IS A BURDEN,"According to the Tax Foundation, Texas residents on average shoulder the fifth lowest tax burden compared to other residents in the 50 states.",,,
-TAXATION IS A BURDEN,"The Obama campaign is taking a swipe at Mitt Romney's tax plan in a new television ad, saying it will create a ""heavy load"" for the middle class.",,,
-TAXATION IS A BURDEN,President Obama decided to target certain and specific products or services he deems unhealthy and levied heavy taxes on them.,,,
-TAXATION IS A BURDEN,Remember when President Obama literally laughed out loud at the idea his health-care plan would impose taxes on the middle class?,,,
-TAXATION IS A BURDEN,"The new president delivered on his tax cut promises, which, combined with a recession in 2001, caused the tax burden to fall considerably.",,,
-TAXATION IS A BURDEN,New Taxes Burdensome for Farm and Ranch Families,,,
-SYMPATHY IS WARMTH,She's cold as ice.,,,
-SUBJUGATION IS DOWN,He is under my control.,,,
-SUBJUGATION IS DOWN,He fell from power.,,,
-SUBJUGATION IS DOWN,His power is on the decline.,,,
-STATUS IS VERTICALITY,He has a lofty position.,,,
-STATUS IS VERTICALITY,She fell in status.,,,
-STATUS IS VERTICALITY,He's a social climber.,,,
-STATUS IS VERTICALITY,I reached a plateau in my career some years back.,,,
-STATE OF NATION IS LOCATION ALONG PATH,East Timor took the first steps toward independence in the 1990s.,,,
-STATE OF NATION IS LOCATION ALONG PATH,The country is slowly moving out of recession.,,,
-SOLVING A PROBLEM IS FIXING A BROKEN OBJECT,Pam Gulleson: “Social Security Isn’t Broken”,,,
-SOLVING A PROBLEM IS FIXING A BROKEN OBJECT,Hempsted Building Department is broken,,,
-SOCIETY IS A PERSON,Our society is suffering from many social problems.,,,
-SOCIETY IS A COMPLEX STRUCTURE,"Functionalism interprets each part of society in terms of how it contributes to the stability of the whole society. Society is more than the sum of its parts; rather, ...",,,
-SOCIAL PROBLEMS ARE PHYSICAL AFFLICTIONS,A cure for social ills? Prevention,,,
-SOCIAL PROBLEMS ARE PHYSICAL AFFLICTIONS,UW researcher is a leader in showing how prevention techniques can pay off in curing social problems.,,,
-SOCIAL PROBLEMS ARE DISEASES,Our society is turning gangrene with dishonesty.,,,
-SOCIAL PROBLEMS ARE DISEASES,اینگونه جنبشهای اجتماعی (social movements) در واقع یک بیماری اجتتماعی هستند.,,,
-SOCIAL ORGANIZATIONS ARE PLANTS,My business is growing like a weed.,,,
-SOCIAL GROUPS ARE CONTAINERS,Our circle of friends is quite diverse.,,,
-SOCIAL GROUPS ARE CONTAINERS,He's hasn't penetrated that group.,,,
-SOCIAL GROUPS ARE BUILDINGS,He's about to rock the foundations of the literary establishment with his novel.,,,
+TAXATION IS PUNISHMENT,"The state cannot pay its bills and poorly educates its young, and its taxation punishes whatever success that its suffocating regulatory regime does not prevent.",punishes,taxation,VN
+TAXATION IS CAUSING HARM,High sales taxes hurt local small businesses.,hurt,taxes,VN
+TAXATION IS CAUSING HARM,We are being taxed to death!,death,taxed,VN
+TAXATION IS A BURDEN,"According to the Tax Foundation, Texas residents on average shoulder the fifth lowest tax burden compared to other residents in the 50 states.",burden,tax,NN
+TAXATION IS A BURDEN,"The Obama campaign is taking a swipe at Mitt Romney's tax plan in a new television ad, saying it will create a ""heavy load"" for the middle class.",,,-
+TAXATION IS A BURDEN,President Obama decided to target certain and specific products or services he deems unhealthy and levied heavy taxes on them.,heavy,taxes,AN
+TAXATION IS A BURDEN,Remember when President Obama literally laughed out loud at the idea his health-care plan would impose taxes on the middle class?,impose,taxes,VN
+TAXATION IS A BURDEN,"The new president delivered on his tax cut promises, which, combined with a recession in 2001, caused the tax burden to fall considerably.",burden,tax,NN
+TAXATION IS A BURDEN,New Taxes Burdensome for Farm and Ranch Families,burdensome,taxes,AN
+SYMPATHY IS WARMTH,She's cold as ice.,,,-
+SUBJUGATION IS DOWN,He is under my control.,under,control,-
+SUBJUGATION IS DOWN,He fell from power.,fell,power,VN
+SUBJUGATION IS DOWN,His power is on the decline.,decline,power,NN
+STATUS IS VERTICALITY,He has a lofty position.,,,-
+STATUS IS VERTICALITY,She fell in status.,fell,status,VN
+STATUS IS VERTICALITY,He's a social climber.,climber,social,AN
+STATUS IS VERTICALITY,I reached a plateau in my career some years back.,plateau,career,NN
+STATE OF NATION IS LOCATION ALONG PATH,East Timor took the first steps toward independence in the 1990s.,steps,independence,NN
+STATE OF NATION IS LOCATION ALONG PATH,The country is slowly moving out of recession.,moving,recession,VN
+SOLVING A PROBLEM IS FIXING A BROKEN OBJECT,Pam Gulleson: “Social Security Isn’t Broken”,,,-
+SOLVING A PROBLEM IS FIXING A BROKEN OBJECT,Hempsted Building Department is broken,,,-
+SOCIETY IS A PERSON,Our society is suffering from many social problems.,suffering,society,VN
+SOCIETY IS A COMPLEX STRUCTURE,"Functionalism interprets each part of society in terms of how it contributes to the stability of the whole society. Society is more than the sum of its parts; rather, ...",part,society,NN
+SOCIAL PROBLEMS ARE PHYSICAL AFFLICTIONS,A cure for social ills? Prevention,ills,social,AN
+SOCIAL PROBLEMS ARE PHYSICAL AFFLICTIONS,UW researcher is a leader in showing how prevention techniques can pay off in curing social problems.,curing,problem,VN
+SOCIAL PROBLEMS ARE DISEASES,Our society is turning gangrene with dishonesty.,gangrene,dishonesty,NN
+SOCIAL PROBLEMS ARE DISEASES,اینگونه جنبشهای اجتماعی (social movements) در واقع یک بیماری اجتتماعی هستند.,,,-
+SOCIAL ORGANIZATIONS ARE PLANTS,My business is growing like a weed.,growing,business,VN
+SOCIAL GROUPS ARE CONTAINERS,Our circle of friends is quite diverse.,circle,friends,NN
+SOCIAL GROUPS ARE CONTAINERS,He's hasn't penetrated that group.,penetrated,group,VN
+SOCIAL GROUPS ARE BUILDINGS,He's about to rock the foundations of the literary establishment with his novel.,foundations,establishment,NN
 SOCIAL GROUPS ARE BUILDINGS,"By early afternoon, queues were already building up.",building,queues,VN
 SOCIAL GROUP IS A FABRIC,Cop scandals fray the social fabric.,fabric,social,AN
 SOCIAL GROUP IS A FABRIC,"Thus, we must reweave the torn fabric of rural American with thread strong enough to withstand the inevitable ravages of time.",,,-
