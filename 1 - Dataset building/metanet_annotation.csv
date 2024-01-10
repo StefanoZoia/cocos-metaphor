@@ -126,7 +126,7 @@ SOCIAL GROUPS ARE BUILDINGS,"By early afternoon, queues were already building up
 SOCIAL GROUP IS A FABRIC,Cop scandals fray the social fabric.,fabric,social,AN
 SOCIAL GROUP IS A FABRIC,"Thus, we must reweave the torn fabric of rural American with thread strong enough to withstand the inevitable ravages of time.",,,-
 SIMILARITY IS PROXIMITY,Her hair is very near to his in color.,,,-
-SIMILARITY IS PROXIMITY,That's far from a perfect circle.,,,-
+SIMILARITY IS PROXIMITY,That's far from a perfect circle.,far,perfect,AA
 SICKNESS IS DOWN,He's sinking fast.,,,-
 SICKNESS IS DOWN,He came down with the flu.,,,-
 SEQUENCE OF ACTIONS IS A SEQUENCE OF MOVEMENTS,"Create a complete, measurable, action plan which includes all the steps necessary to achieve your goal.",,,-
@@ -147,7 +147,7 @@ ROMANTIC RELATIONSHIP IS A JOURNEY,Where are we in this relationship?,,,-
 ROMANTIC RELATIONSHIP IS A JOURNEY,It feels like this relationship is going nowhere.,going,relationship,VN
 ROMANTIC RELATIONSHIP ENCOUNTERING DIFFICULTIES IS A VEHICLE ENCOUNTERING OBSTACLES,Our relationship is losing steam.,,,-
 REVOLUTION IS TOPPLING A PHYSICAL OBJECT,The coup toppled the brutal dictatorship.,toppled,dictatorship,VN
-REVOLUTION IS TOPPLING A PHYSICAL OBJECT,The Revolutionary and Napoleonic Wars tore down the ancient structure of Europe,,,-
+REVOLUTION IS TOPPLING A PHYSICAL OBJECT,The Revolutionary and Napoleonic Wars tore down the ancient structure of Europe,structure,Europe,NN
 RELATIONSHIPS ARE PHYSICAL STRUCTURES,Their relationship is built on a solid foundation of trust and commitment.,,,-
 RELATIONSHIPS ARE OBJECTS,Our relationship is rock solid.,solid,relationship,AN
 RELATIONSHIPS ARE OBJECTS,She has a fragile relationship with her mother as it is.,fragile,relationship,AN
@@ -205,13 +205,13 @@ POVERTY IS A CRIME,He appealed to logos (logic) by trying to analyze why poverty
 POLITICIANS ARE STAGE ACTORS,The President played his part magnificently.,,,-
 POLITICAL UNREST IS A WILDFIRE,The wildfire of revolution rapidly spread throughout the land.,wildfire,revolution,NN
 POLITICAL UNREST IS A WILDFIRE,,,,-
-POLITICAL REGION IS A VEHICLE,They are rocking the ship of state.,,,-
-POLITICAL REGION IS A VEHICLE,Dirt threatens to sink ship of state,,,-
+POLITICAL REGION IS A VEHICLE,They are rocking the ship of state.,ship,state,NN
+POLITICAL REGION IS A VEHICLE,Dirt threatens to sink ship of state,ship,state,NN
 PHYSICAL STRENGTH IS VERTICALITY,His strength declined as he aged.,declined,strength,VN
-PHASE OF AN ELECTION IS LEG IN A RACE,"As Election Day drew near, the candidates pulled into the final lap of the race.",,,-
+PHASE OF AN ELECTION IS LEG IN A RACE,"As Election Day drew near, the candidates pulled into the final lap of the race.",race,Election,NN
 PHASE OF AN ELECTION IS LEG IN A RACE,Last Legs of Campaign Can Decide Race,Race,Campaign,NN
-PHASE OF AN ELECTION IS LEG IN A RACE,How both candidates fair in the final leg of campaigning will likely determine the winner in each state.,,,-
-PEOPLE ARE PLANTS,Bloom where you are planted.,,,-
+PHASE OF AN ELECTION IS LEG IN A RACE,How both candidates fair in the final leg of campaigning will likely determine the winner in each state.,leg,campaigning,NN
+PEOPLE ARE PLANTS,Bloom where you are planted.,,,
 PEOPLE ARE PLANTS,The young man is rather green and does not have enough experience to drive the large machinery.,,,-
 PEOPLE ARE PLANTS,We saw the withered old woman.,,,-
 Ongoing causation is nourishing,"Incurable sex offenders, lousy judges and the new media: Moral panic sustenance in the age of new media",sustanance,panic,NN
