@@ -125,7 +125,7 @@ SOCIAL GROUPS ARE BUILDINGS,He's about to rock the foundations of the literary e
 SOCIAL GROUPS ARE BUILDINGS,"By early afternoon, queues were already building up.",building,queues,VN
 SOCIAL GROUP IS A FABRIC,Cop scandals fray the social fabric.,fabric,social,AN
 SOCIAL GROUP IS A FABRIC,"Thus, we must reweave the torn fabric of rural American with thread strong enough to withstand the inevitable ravages of time.",,,-
-SIMILARITY IS PROXIMITY,Her hair is very near to his in color.,,,-
+SIMILARITY IS PROXIMITY,Her hair is very near to his in color.,near,color,AN
 SIMILARITY IS PROXIMITY,That's far from a perfect circle.,far,perfect,AA
 SICKNESS IS DOWN,He's sinking fast.,,,-
 SICKNESS IS DOWN,He came down with the flu.,,,-
@@ -148,7 +148,7 @@ ROMANTIC RELATIONSHIP IS A JOURNEY,It feels like this relationship is going nowh
 ROMANTIC RELATIONSHIP ENCOUNTERING DIFFICULTIES IS A VEHICLE ENCOUNTERING OBSTACLES,Our relationship is losing steam.,,,-
 REVOLUTION IS TOPPLING A PHYSICAL OBJECT,The coup toppled the brutal dictatorship.,toppled,dictatorship,VN
 REVOLUTION IS TOPPLING A PHYSICAL OBJECT,The Revolutionary and Napoleonic Wars tore down the ancient structure of Europe,structure,Europe,NN
-RELATIONSHIPS ARE PHYSICAL STRUCTURES,Their relationship is built on a solid foundation of trust and commitment.,,,-
+RELATIONSHIPS ARE PHYSICAL STRUCTURES,Their relationship is built on a solid foundation of trust and commitment.,built,relationship,VN
 RELATIONSHIPS ARE OBJECTS,Our relationship is rock solid.,solid,relationship,AN
 RELATIONSHIPS ARE OBJECTS,She has a fragile relationship with her mother as it is.,fragile,relationship,AN
 RELATIONSHIPS ARE CONTAINERS,She's trapped in a relationship with a scumbag.,,,-
@@ -163,7 +163,7 @@ QUANTITY IS SIZE,What is the size of your bank account?,size,bank account,NN
 QUANTITY IS SIZE,He doesn't know how big our national debt is.,big,debt,AN
 QUALITIES ARE SUBSTANCES,He has a lot of smarts.,,,-
 QUALITIES ARE SUBSTANCES,He's devoid of common sense.,,,-
-PURPOSEFUL THINKING IS GOAL-DIRECTED MOTION,We are trying to find the most elegant approach to solving this problem.,,,-
+PURPOSEFUL THINKING IS GOAL-DIRECTED MOTION,We are trying to find the most elegant approach to solving this problem.,approach,solving,VN
 PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION,She made great strides in her dissertation.,strides,dissertation,NN
 PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION,We are sliding backward.,,,-
 PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION,We are moving ahead.,,,-
@@ -172,7 +172,7 @@ PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION,We have taken the fi
 PURITY IS CLEANLINESS,He's pure evil.,,,-
 PURITY IS CLEANLINESS,Her soul was scrubbed clean of impurities.,scrubbed clean,soul,VN
 PURIFYING IS CLEANSING,You must cleanse your soul of sin.,cleanse,soul,VN
-PURIFYING IS CLEANSING,The impure must be washed clean through contrition.,,,-
+PURIFYING IS CLEANSING,The impure must be washed clean through contrition.,washed,impure,VN
 PUBLIC EVALUABILITY OF GOVERMNENT IS TRANSPARENCY,Increased transparency has increased the public's confidence in government.,,,-
 PSYCHOLOGICAL HARM IS PHYSICAL INJURY,It was a traumatic experience.,,,-
 PSYCHOLOGICAL HARM IS PHYSICAL INJURY,Her death hurt him.,,,-
@@ -189,7 +189,7 @@ PROGRESS IS FORWARD MOTION ALONG A PATH,He hadn't made much headway in writing t
 PROGRESS IS FORWARD MOTION ALONG A PATH,Let's keep moving forward on this experiment.,,,-
 PROGRESS IS FORWARD MOTION ALONG A PATH,I'm afraid I haven't gotten very far in grading the exams.,,,-
 PREVENTING ENACTMENT OF LEGISLATION IS BLOCKING MOTION,House Republicans blocked the Democrats' attempts to move forward with the healthcare bill.,move forward,bill,VN
-PREVENTING ENACTMENT OF LEGISLATION IS BLOCKING MOTION,The Senator's filibuster halted the passage of the bill.,,,-
+PREVENTING ENACTMENT OF LEGISLATION IS BLOCKING MOTION,The Senator's filibuster halted the passage of the bill.,passage,bill,NN
 PREVENTED CHANGE OF STATE IS PREVENTED CHANGE OF LOCATION,"He's holding you back, you need to leave him.",,,-
 PREVENTED CHANGE OF STATE IS PREVENTED CHANGE OF LOCATION,I'm going to the top and nothing will stand in my way.,,,-
 PREPARING IDEAS TO BE UNDERSTOOD IS FOOD PREPARATION,They're just half-baked ideas.,half-baked,ideas,AN
