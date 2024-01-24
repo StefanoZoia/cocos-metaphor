@@ -1,8 +1,0 @@
-fall_from_tree: 0.917
-green_in_colour: 0.881
-trees: 0.867
-fall_off_trees: 0.857
-tree: 0.855
-cover_ground: 0.831
-purple: 0.826
-roof: 0.818

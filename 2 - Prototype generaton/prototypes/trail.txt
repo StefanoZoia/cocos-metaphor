@@ -1,8 +1,0 @@
-path: 0.879
-track: 0.873
-smooth: 0.836
-travel: 0.816
-drag: 0.809
--follow: 0.771
-graph_theory: 0.749
-inert_artifact: 0.746

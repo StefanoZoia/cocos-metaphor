@@ -1,5 +1,0 @@
-payer: 0.894
-pay_government: 0.817
-share_money_with_deadbeats: 0.813
-experience_frustration: 0.793
-legal_agent: 0.763

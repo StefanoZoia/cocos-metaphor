@@ -1,8 +1,0 @@
-british: 0.753
-suit: 0.7497
-card_game: 0.747
-announce: 0.7272000000000001
-playing_card: 0.7263000000000001
-cards: 0.7236
-sound: 0.7227
-move: 0.7092

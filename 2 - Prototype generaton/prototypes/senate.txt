@@ -1,8 +1,0 @@
-legislature: 0.91
-legislative_organization: 0.874
-us: 0.783
--congress: 0.78
-upper_house: 0.75
-in_countries_which_have_multiple_legislative_bodies_senate_is_often_more_senior: 0.749
-legal_government_organization: 0.744
-historical: 0.744

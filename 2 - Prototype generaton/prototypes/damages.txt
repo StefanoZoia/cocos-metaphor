@@ -1,4 +1,0 @@
-compensation: 0.903
-legal: 0.802
-television_season: 0.715
-bringing_suit: 0.676

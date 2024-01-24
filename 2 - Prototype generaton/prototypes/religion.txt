@@ -1,8 +1,0 @@
-religious_leaders: 0.921
-confusing: 0.873
-belief_system: 0.84
-important_to_people: 0.837
-unknowable: 0.836
--connected_to_science: 0.826
-subjective_created_mythology: 0.814
-change_people's_behaviour: 0.811

@@ -1,8 +1,0 @@
-flower_garden: 0.914
-blossom: 0.909
-angiosperm: 0.872
-vase: 0.864
-floral_leaf: 0.853
-yellow: 0.848
-symmetrical: 0.845
-stamen: 0.842

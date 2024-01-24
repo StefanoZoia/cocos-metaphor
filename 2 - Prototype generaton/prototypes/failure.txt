@@ -1,8 +1,0 @@
--success: 0.867
-omission: 0.858
-disorder: 0.816
-fortune: 0.815
-unfortunate: 0.813
-happening: 0.809
-lower_expectations: 0.803
-nonaccomplishment: 0.801

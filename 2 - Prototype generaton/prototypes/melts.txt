@@ -1,8 +1,0 @@
-dissolve: 0.792
-chocolate: 0.775
-jump_into_pool_of_lava: 0.7524
-weaken: 0.7505999999999999
-blend: 0.7461
-ice: 0.7371
-wax: 0.7299000000000001
-ice_cream: 0.7200000000000001

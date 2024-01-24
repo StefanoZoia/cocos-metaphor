@@ -1,8 +1,0 @@
-attempt_to_forgive: 0.833
-unfortunate: 0.827
-person: 0.824
-labor_to_breath: 0.802
-report_crime: 0.799
-report_crime_to_police: 0.799
-explain_day_away: 0.795
-crime_scene: 0.768

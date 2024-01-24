@@ -1,8 +1,0 @@
--future: 0.85
-time: 0.842
-tense: 0.832
-life: 0.828
-time_period: 0.828
--present: 0.821
--recent: 0.809
-history: 0.807

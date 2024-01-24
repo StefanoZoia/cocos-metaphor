@@ -1,8 +1,0 @@
-prison: 0.921
-jail: 0.918
-attempt_escape: 0.848
-attempt_to_escape: 0.848
-live_on_bread_and_water: 0.838
-scape_from_jail: 0.835
-long_to_free: 0.813
-military_base: 0.757

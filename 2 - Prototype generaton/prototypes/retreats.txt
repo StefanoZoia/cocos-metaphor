@@ -1,8 +1,0 @@
-withdrawal: 0.7812
-bugle_call: 0.7389
-travel: 0.7362
-signal: 0.7334999999999999
-area: 0.7317
-military: 0.7308000000000001
--advance: 0.6858000000000001
-chess: 0.6831

@@ -1,2 +1,0 @@
-transport_goods_long_distances: 0.823
-sailed_to_reach_other_ports: 0.705

@@ -1,8 +1,0 @@
-yield: 0.855
-give: 0.829
-delivery: 0.806
-blackjack: 0.775
--victory: 0.76
-property_law: 0.755
-performing: 0.751
-insurance: 0.75

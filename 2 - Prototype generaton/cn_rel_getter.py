@@ -85,7 +85,7 @@ def get_cn_rel_with_score(word):
                     nextURL = f"http://api.conceptnet.io{obj['view']['nextPage']}"
                     print(nextURL)
                     obj = get_json_or_retry(nextURL)
-        # if the  is an error, return True
+        # if there is no error, return True
         return True
 
 

@@ -1,8 +1,0 @@
-subjugation: 0.843
-sadomasochism: 0.813
-sexual_activity: 0.789
-constraining: 0.786
--freedom: 0.777
--free: 0.74
-human_sexual_behavior: 0.716
--liberty: 0.69

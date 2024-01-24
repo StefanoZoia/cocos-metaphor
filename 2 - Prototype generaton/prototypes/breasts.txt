@@ -1,6 +1,0 @@
-feed_babies: 0.811
--bosom: 0.785
-mammals: 0.731
-girls_and_women: 0.717
-all_female_mammals: 0.661
-form_regardless_of_size: 0.654

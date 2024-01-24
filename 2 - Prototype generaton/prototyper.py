@@ -79,7 +79,7 @@ def get_properties(concept, expand=True):
                 conditionally_update_dict(pos_dict, other, score)
                 
     # if less than MIN_PROP properties have been retrieved, expand to root concepts
-    # NOTE: even if a root concet has few properties, the expansion stops
+    # NOTE: even if a root concept has few properties, the expansion stops
     if expand and (len(pos_dict) + len(neg_dict)) < cfg.MIN_PROP:
         # get each root concept's properties
         for root in root_concepts:
@@ -102,7 +102,7 @@ def merge_properties(pos_dict, neg_dict):
         if prop in merged:
             merged.pop(prop)
         else:
-            # prepone '-' and append
+            # prepose '-' and append
             neg = f'-{prop}'
             merged[neg] = neg_dict[prop]
     return merged

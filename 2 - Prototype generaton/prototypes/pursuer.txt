@@ -1,5 +1,0 @@
-follower: 0.845
-close_distance: 0.818
-person: 0.797
-legal: 0.786
-scotland: 0.766
