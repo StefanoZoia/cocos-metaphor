@@ -1,8 +1,0 @@
-planet_in_solar_system: 0.895
-spherical: 0.892
-finite: 0.885
-planet: 0.879
-universe: 0.876
-solar_system: 0.876
-ground: 0.874
-globe: 0.872

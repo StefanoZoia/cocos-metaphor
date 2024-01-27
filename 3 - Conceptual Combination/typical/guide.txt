@@ -1,8 +1,0 @@
-leader: 0.834
-teach_follower: 0.826
-direct: 0.819
-orient: 0.809
-structure: 0.807
-point_out_scenic_features: 0.807
-point_in_right_direction: 0.807
-show_tourist_group_cathedral: 0.798

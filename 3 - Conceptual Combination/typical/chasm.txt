@@ -1,3 +1,0 @@
-opening: 0.818
-planetology: 0.751
-geology: 0.741

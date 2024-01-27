@@ -1,8 +1,0 @@
-oil: 0.882
-sticky: 0.864
-fat: 0.837
-garage: 0.812
-fast_food_restaurant: 0.811
-cover: 0.802
-coat_bearing: 0.8
-coat_moving_parts: 0.8

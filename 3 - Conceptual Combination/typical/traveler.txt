@@ -1,8 +1,0 @@
-journey_from_country_to_country: 0.872
-journey_by_train: 0.872
-journey_far: 0.872
-journey_to_foreign_land: 0.872
-near_destination: 0.846
-going_to_france: 0.828
-bus_depot: 0.825
-person: 0.823

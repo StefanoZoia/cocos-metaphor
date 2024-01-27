@@ -28,9 +28,3 @@ T(head), feel, 0.809
 
 Result: {"heat": 0.946, "form_of_energy": 0.911, "temperature": 0.884, "oven": 0.864, "anger": 0.946, "emotional_arousal": 0.895, "emotion": 0.874, "frustration": 0.864, "@scenario_probability": 1.9366221885727603e-05}
 Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1.9366221885727603e-05]
-Result: {"heat": 0.946, "form_of_energy": 0.911, "temperature": 0.884, "oven": 0.864, "anger": 0.946, "emotional_arousal": 0.895, "emotion": 0.874, "frustration": 0.864, "@scenario_probability": 1.9366221885727603e-05}
-Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1.9366221885727603e-05]
-Result: {"heat": 0.946, "form_of_energy": 0.911, "temperature": 0.884, "anger": 0.946, "emotional_arousal": 0.895, "emotion": 0.874, "@scenario_probability": 4.798386595486348e-07}
-Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 4.798386595486348e-07]
-Result: {"heat": 0.946, "form_of_energy": 0.911, "temperature": 0.884, "oven": 0.864, "anger": 0.946, "emotional_arousal": 0.895, "emotion": 0.874, "frustration": 0.864, "@scenario_probability": 1.9366221885727603e-05}
-Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1.9366221885727603e-05]

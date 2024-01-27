@@ -1,8 +1,0 @@
-valley: 0.878
-fishing: 0.875
-canoeing: 0.87
-bridge: 0.869
-swimming: 0.864
-waterfall: 0.863
-ship_freight: 0.861
-watercourse: 0.852

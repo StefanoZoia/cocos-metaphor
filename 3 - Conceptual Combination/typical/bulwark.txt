@@ -1,2 +1,0 @@
-defend: 0.85
-nautical: 0.758

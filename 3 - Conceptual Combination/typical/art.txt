@@ -1,8 +1,0 @@
-art: 0.946
-artist: 0.909
-art's_sake: 0.898
-express_yourself: 0.895
-gallery_opening: 0.887
-museum: 0.877
-abstract: 0.873
-gallery: 0.849

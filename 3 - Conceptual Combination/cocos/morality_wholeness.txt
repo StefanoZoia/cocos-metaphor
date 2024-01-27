@@ -1,0 +1,28 @@
+Title: morality-wholeness
+
+Head Concept Name: morality
+Modifier Concept Name: wholeness
+
+
+
+
+
+T(modifier), good_health, 0.858
+T(modifier), concept, 0.734
+T(modifier), object, 0.727
+T(modifier), -gimpy, 0.684
+T(modifier), -portion, 0.68
+T(modifier), -ground, 0.675
+T(modifier), parts, 0.668
+T(modifier), fraction, 0.654
+
+T(head), -amorality, 0.859
+T(head), quality, 0.828
+T(head), needless, 0.821
+T(head), belief_system, 0.818
+T(head), -baseness, 0.772
+T(head), archaic, 0.748
+
+
+Result: {"good_health": 0.858, "concept": 0.734, "object": 0.727, "-amorality": 0.859, "quality": 0.828, "needless": 0.821, "belief_system": 0.818, "-baseness": 0.772, "@scenario_probability": 0.016061650281633838}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0.016061650281633838]

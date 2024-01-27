@@ -1,0 +1,27 @@
+Title: wealth-substance
+
+Head Concept Name: wealth
+Modifier Concept Name: substance
+
+
+
+
+
+T(modifier), substance, 0.946
+T(modifier), part, 0.816
+T(modifier), physical_entity, 0.794
+T(modifier), container, 0.779
+T(modifier), theology, 0.744
+
+T(head), abundance, 0.871
+T(head), financial_condition, 0.85
+T(head), property, 0.84
+T(head), material_resource, 0.792
+T(head), -poverty, 0.792
+T(head), economics, 0.774
+T(head), conquering_nation, 0.762
+T(head), -debt, 0.714
+
+
+Result: {"substance": 0.946, "part": 0.816, "physical_entity": 0.794, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "@scenario_probability": 0.02080904722813772}
+Scenario: [1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.02080904722813772]

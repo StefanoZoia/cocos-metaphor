@@ -1,4 +1,0 @@
-fight: 0.876
-struggle: 0.862
--solo: 0.712
-pistol: 0.705

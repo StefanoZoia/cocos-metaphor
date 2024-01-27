@@ -1,8 +1,0 @@
-team: 0.946
-group: 0.866
-soccer_game: 0.855
-unit: 0.842
-lose_to_another_team: 0.841
-more_than_one_person: 0.818
-player: 0.813
-row_faster_than_competition: 0.808

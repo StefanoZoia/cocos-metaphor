@@ -1,8 +1,0 @@
-move: 0.833
-better: 0.822
-travel: 0.82
-sum: 0.813
-increase: 0.811
-lend: 0.809
-set: 0.803
-propose: 0.797

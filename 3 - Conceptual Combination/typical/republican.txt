@@ -1,8 +1,0 @@
-politician: 0.851
-kansas: 0.831
-colorado: 0.825
-nebraska: 0.825
-advocate: 0.818
-political_party_member: 0.802
-ireland: 0.773
--royalist: 0.773

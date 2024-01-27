@@ -1,0 +1,30 @@
+Title: action-force
+
+Head Concept Name: action
+Modifier Concept Name: force
+
+
+
+
+
+T(modifier), influence, 0.85
+T(modifier), thrust, 0.846
+T(modifier), act, 0.819
+T(modifier), intensity, 0.819
+T(modifier), organization, 0.813
+T(modifier), social_group, 0.81
+T(modifier), physical_phenomenon, 0.803
+T(modifier), mass, 0.774
+
+T(head), act, 0.864
+T(head), mechanism, 0.839
+T(head), -inaction, 0.835
+T(head), past_or_present, 0.833
+T(head), work, 0.825
+T(head), plot, 0.824
+T(head), cause_change, 0.812
+T(head), cause_effect, 0.812
+
+
+Result: {"influence": 0.85, "thrust": 0.846, "act": 0.864, "mechanism": 0.839, "-inaction": 0.835, "past_or_present": 0.833, "work": 0.825, "plot": 0.824, "@scenario_probability": 4.5146111543144666e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 4.5146111543144666e-05]

@@ -1,0 +1,25 @@
+Title: taxation-causation
+
+Head Concept Name: taxation
+Modifier Concept Name: causation
+
+
+
+
+
+T(modifier), origin, 0.755
+T(modifier), make, 0.749
+T(modifier), justification, 0.747
+T(modifier), -effect, 0.74
+T(modifier), suffer_setback, 0.721
+T(modifier), succeed_effect, 0.715
+T(modifier), -symptom, 0.703
+T(modifier), -result, 0.702
+
+T(head), imposition, 0.862
+T(head), process_results_in_taxes, 0.731
+T(head), activity_of_government, 0.721
+
+
+Result: {"origin": 0.755, "make": 0.749, "justification": 0.747, "-effect": 0.74, "suffer_setback": 0.721, "succeed_effect": 0.715, "imposition": 0.862, "process_results_in_taxes": 0.731, "@scenario_probability": 0.2507401935959316}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0.2507401935959316]

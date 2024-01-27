@@ -1,8 +1,0 @@
-meat: 0.871
-pizza: 0.862
-cooking_and_eating: 0.799
-prepared_solid_food: 0.766
-foodstuff: 0.762
-food: 0.756
-engineering: 0.752
-edible_thing: 0.752

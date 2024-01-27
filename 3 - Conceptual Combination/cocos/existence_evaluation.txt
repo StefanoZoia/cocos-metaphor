@@ -1,0 +1,28 @@
+Title: existence-evaluation
+
+Head Concept Name: existence
+Modifier Concept Name: evaluation
+
+
+
+
+
+T(modifier), appraisal, 0.914
+T(modifier), judgment, 0.854
+T(modifier), computing, 0.756
+T(modifier), programming, 0.752
+T(modifier), judging, 0.751
+T(modifier), mathematics, 0.735
+T(modifier), taking_care_of_proposals, 0.673
+T(modifier), handling_proposals, 0.662
+
+T(head), -inexistence, 0.869
+T(head), -nonexistence, 0.859
+T(head), awful_or_absurd, 0.825
+T(head), -nothingness, 0.804
+T(head), -defunction, 0.794
+T(head), -absence, 0.791
+
+
+Result: {"appraisal": 0.914, "judgment": 0.854, "computing": 0.756, "-inexistence": 0.869, "-nonexistence": 0.859, "awful_or_absurd": 0.825, "-nothingness": 0.804, "-defunction": 0.794, "@scenario_probability": 0.00876954261459371}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0.00876954261459371]

@@ -1,0 +1,30 @@
+Title: happiness-process
+
+Head Concept Name: happiness
+Modifier Concept Name: process
+
+
+
+
+
+T(modifier), require_tools, 0.817
+T(modifier), affect, 0.809
+T(modifier), manage, 0.809
+T(modifier), psychology, 0.802
+T(modifier), look_hung, 0.799
+T(modifier), physical_entity, 0.795
+T(modifier), body_part, 0.794
+T(modifier), manufacturing, 0.794
+
+T(head), satisfaction, 0.901
+T(head), emotional_state, 0.859
+T(head), elusive_and_fleeting, 0.851
+T(head), -unhappiness, 0.85
+T(head), emotion, 0.847
+T(head), feeling, 0.827
+T(head), -sadness, 0.823
+T(head), come_from_very_simple_ideas, 0.813
+
+
+Result: {"require_tools": 0.817, "satisfaction": 0.901, "emotional_state": 0.859, "elusive_and_fleeting": 0.851, "-unhappiness": 0.85, "emotion": 0.847, "feeling": 0.827, "-sadness": 0.823, "@scenario_probability": 6.227806963357376e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 6.227806963357376e-05]

@@ -1,8 +1,0 @@
-climbing: 0.91
-mountainous_region: 0.906
-mountainside: 0.873
-rocky_area: 0.862
-very_large: 0.858
-colorado: 0.842
-austria: 0.827
--hill: 0.825

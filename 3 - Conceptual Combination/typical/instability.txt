@@ -1,6 +1,0 @@
-unsteadiness: 0.914
-disorder: 0.864
--stability: 0.859
-undependability: 0.828
--solidity: 0.79
-physics: 0.754

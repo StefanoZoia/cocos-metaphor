@@ -1,8 +1,0 @@
-year: 0.859
-time_period: 0.838
-one_fourth_of_year: 0.833
-taste: 0.819
-cooking: 0.812
-toughen: 0.801
-broadcasting: 0.773
-weather: 0.769
