@@ -1,0 +1,4 @@
+connection: 0.885
+mathematics: 0.6741
+music: 0.6705
+-climb: 0.6021000000000001

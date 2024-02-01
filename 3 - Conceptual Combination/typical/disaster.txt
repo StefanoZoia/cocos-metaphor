@@ -1,4 +1,0 @@
-destruction: 0.85
-emergency: 0.836
-harmed: 0.766
-physical_destruction_event: 0.728

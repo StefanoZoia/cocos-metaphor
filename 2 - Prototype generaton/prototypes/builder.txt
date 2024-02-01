@@ -1,8 +1,0 @@
-build_cathedral: 0.916
-contractor: 0.886
-creator: 0.848
-install_windows: 0.832
-bridge_river: 0.825
-place_floor_tiles: 0.813
-glass_front: 0.805
-material: 0.803

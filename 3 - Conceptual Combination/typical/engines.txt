@@ -1,8 +1,0 @@
-internal_combustion_engines: 0.899
-motors: 0.873
-power_machines: 0.83
-repair_shop: 0.819
-automobiles_move_because: 0.787
-what_makes_car_run: 0.737
-automatic_shut_offs_when_overheat: 0.723
-cars_can_move_because: 0.705

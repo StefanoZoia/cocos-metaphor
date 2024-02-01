@@ -1,6 +1,0 @@
-payer: 0.8046
-government_stooges: 0.772
-pay_government: 0.7353
-share_money_with_deadbeats: 0.7317
-experience_frustration: 0.7137
-legal_agent: 0.6867

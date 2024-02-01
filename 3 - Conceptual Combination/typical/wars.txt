@@ -1,8 +1,0 @@
-bad_for_children_and_flowers: 0.826
-violence: 0.801
-change_people_greatly: 0.799
-series_of_movies: 0.766
-typically: 0.745
-army: 0.745
-plural_form_of_war: 0.733
-always_happened_and_always_will: 0.711

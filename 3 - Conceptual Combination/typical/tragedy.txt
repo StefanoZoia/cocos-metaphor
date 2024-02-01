@@ -1,7 +1,0 @@
-drama: 0.867
-melodramas: 0.851
--comedy: 0.841
-present_opportunity_for_growth: 0.806
-group_people: 0.784
-written_or_spoken_work: 0.765
-play: 0.745

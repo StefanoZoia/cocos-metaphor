@@ -1,8 +1,0 @@
-sparks: 0.896
-hot: 0.892
-burn: 0.892
-burn_skin: 0.886
-burn_fingers: 0.886
-fire: 0.874
-heat_metal_pan: 0.828
-heat_pot_of_water: 0.828

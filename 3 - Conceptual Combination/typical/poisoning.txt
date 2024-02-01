@@ -1,8 +1,0 @@
-killing: 0.848
-sickness: 0.846
-illness: 0.808
-physiological_state: 0.791
-result_in_death: 0.791
-harmed: 0.788
-life_threatening_condition: 0.781
-causal_sequence: 0.78

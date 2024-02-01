@@ -1,4 +1,0 @@
-mosque: 0.886
-tower: 0.866
-long_thin_object: 0.747
-open_air: 0.732

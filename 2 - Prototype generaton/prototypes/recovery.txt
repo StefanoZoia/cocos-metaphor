@@ -1,6 +1,0 @@
-improvement: 0.839
-act: 0.801
-economics: 0.77
-mining: 0.765
-legal: 0.743
-finding_lost_item: 0.703

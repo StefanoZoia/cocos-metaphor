@@ -1,8 +1,0 @@
--increase: 0.8208000000000001
-change: 0.7524
-change_magnitude: 0.7371
-change_of_magnitude: 0.7371
--elevate: 0.7038000000000001
--gain: 0.6939000000000001
-knitting: 0.6876
-physical_event: 0.6759000000000001

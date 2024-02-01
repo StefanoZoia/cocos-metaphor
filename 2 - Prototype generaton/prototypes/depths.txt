@@ -1,2 +1,0 @@
-region: 0.82
-literary: 0.746

@@ -3,17 +3,13 @@
 ######################################
 
 # path to the file containing the corpus
-CORPUS_FILE = 'corpus.tsv'
-
-# Language code for the data to be processed
-lang_code = 'en'
-
-# The parts of speech for source and target words
-source_pos = 'n'
-target_pos = 'n'
+CORPUS_FILE = 'metanet_corpus.tsv'
 
 # path to the output file of cn_rel_getter - input for prototyper
 INTERMEDIATE_FILE = 'cn-represented.tsv'
+
+# Language code for the data to be processed
+lang_code = 'en'
 
 
 ###################################

@@ -1,8 +1,0 @@
-settle_lawsuits: 0.962
-settle_lawsuit: 0.932
-settle_disputes: 0.923
-courtroom: 0.889
-experts_in_contracts: 0.858
-object_in_court: 0.851
-object_to_evidence: 0.851
-press_charges: 0.85

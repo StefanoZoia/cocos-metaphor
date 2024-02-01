@@ -1,6 +1,0 @@
-church: 0.889
-lecture: 0.8001
-address: 0.7488
-church_service: 0.7325999999999999
-intelligent_agent_activity: 0.6813
-public_speaking: 0.6714

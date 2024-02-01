@@ -1,8 +1,0 @@
-deal_blow: 0.847
--proponent: 0.805
-cook_goose: 0.801
--supporter: 0.801
-dig_up_skeletons: 0.8
-competing: 0.791
--respondent: 0.766
--ally: 0.759

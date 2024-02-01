@@ -1,0 +1,30 @@
+Title: business-object
+
+Head Concept Name: business
+Modifier Concept Name: object
+
+
+
+
+
+T(modifier), thing, 0.843
+T(modifier), disapprove, 0.832
+T(modifier), become_broken, 0.817
+T(modifier), object_oriented_programming, 0.814
+T(modifier), content, 0.81
+T(modifier), belong_to_person, 0.809
+T(modifier), disappear_from_sight, 0.806
+T(modifier), computer_science, 0.803
+
+T(head), business, 0.946
+T(head), enterprise, 0.886
+T(head), business_activity, 0.879
+T(head), opening_early, 0.867
+T(head), making_money, 0.846
+T(head), selling_product, 0.846
+T(head), sector, 0.844
+T(head), business_district, 0.839
+
+
+Result: {"thing": 0.843, "business": 0.946, "enterprise": 0.886, "business_activity": 0.879, "opening_early": 0.867, "making_money": 0.846, "selling_product": 0.846, "sector": 0.844, "@scenario_probability": 4.1533420031625736e-05}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 4.1533420031625736e-05]

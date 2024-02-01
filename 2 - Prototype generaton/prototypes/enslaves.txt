@@ -1,2 +1,0 @@
-subjugate: 0.8145
--rescue: 0.666

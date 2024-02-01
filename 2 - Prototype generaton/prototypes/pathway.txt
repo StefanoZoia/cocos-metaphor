@@ -1,5 +1,0 @@
-path: 0.907
-guide_walker: 0.862
-biochemistry: 0.782
-aisle: 0.759
-tangible_thing: 0.731

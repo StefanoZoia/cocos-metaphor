@@ -1,2 +1,0 @@
-disability: 0.81
-geology: 0.743

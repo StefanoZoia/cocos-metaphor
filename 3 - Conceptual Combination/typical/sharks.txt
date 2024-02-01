@@ -1,8 +1,0 @@
-eat_people: 0.858
-big: 0.839
-circle_ship: 0.804
-eat_humans: 0.801
-taste_blood_in_water: 0.784
-lake: 0.779
-carnivorous_fish: 0.728
-cartilage_skeleton: 0.707

@@ -1,8 +1,0 @@
-assault: 0.871
-criticism: 0.837
-fight: 0.819
-affect: 0.819
-military: 0.814
-knock: 0.814
--defend: 0.806
-degeneration: 0.805

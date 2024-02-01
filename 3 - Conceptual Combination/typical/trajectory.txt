@@ -1,5 +1,0 @@
-mechanical_phenomenon: 0.79
-space: 0.768
-astronomy: 0.768
-cybernetics: 0.751
-localized_spatial_thing: 0.732

@@ -1,4 +1,0 @@
-bathrooms: 0.803
-block_up: 0.782
-doctor: 0.76
-used_in_cleaning: 0.674

@@ -1,8 +1,0 @@
-rod: 0.8235
-pole: 0.7695
-walking_stick: 0.7595999999999999
-hanging_curtains: 0.7578
-catch_fish: 0.7497
-hardware_store: 0.7488
-fishing_camp: 0.7424999999999999
-punish_children: 0.7371

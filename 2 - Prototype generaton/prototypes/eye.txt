@@ -1,8 +1,0 @@
-blinking: 0.9
-staring: 0.887
-looking: 0.884
-eye_socket: 0.883
-eyeball: 0.875
-epicanthus: 0.873
-viewing: 0.869
-winking: 0.869

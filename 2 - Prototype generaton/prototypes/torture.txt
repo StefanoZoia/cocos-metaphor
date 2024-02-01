@@ -1,8 +1,0 @@
-evil: 0.889
-persecution: 0.825
-illegal_under_both_international_and_u.s: 0.824
-pain: 0.818
-injure: 0.802
-violence: 0.765
-human: 0.745
-literary: 0.741

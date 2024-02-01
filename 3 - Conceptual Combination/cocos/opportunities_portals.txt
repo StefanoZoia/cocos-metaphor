@@ -1,0 +1,30 @@
+Title: opportunities-portals
+
+Head Concept Name: opportunities
+Modifier Concept Name: portals
+
+
+
+
+
+T(modifier), portal, 0.824
+T(modifier), entrance, 0.773
+T(modifier), web_site, 0.735
+T(modifier), internet, 0.714
+T(modifier), bridge_building, 0.702
+T(modifier), cavity, 0.693
+T(modifier), architecture, 0.686
+T(modifier), boundary, 0.681
+
+T(head), possibility, 0.794
+T(head), situation, 0.707
+T(head), fork_in_road, 0.697
+T(head), nonstandard, 0.672
+T(head), jumping_at_chance, 0.668
+T(head), euro_english, 0.661
+T(head), -door, 0.634
+T(head), artificial_satellite, 0.628
+
+
+Result: {"portal": 0.824, "entrance": 0.773, "web_site": 0.735, "internet": 0.714, "bridge_building": 0.702, "possibility": 0.794, "situation": 0.707, "fork_in_road": 0.697, "@scenario_probability": 0.0014190458254908366}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.0014190458254908366]

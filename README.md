@@ -21,9 +21,17 @@ The abbreviation nn stands for noun-noun metaphor type, an for adjective-noun (t
 - simple_corpus_[nn/an/na].tsv contains manually extracted metaphors from the Metaphor Detection Dataset developed by Mensa et al.
 - tsv_an.tv contains adjective - noun pairs from the Tsvetkov dataset, filtering only the occurrences that every annotator indicated as metaphorical (by using the filter.py script).
 - gordon_[nn/an/na].tsv contains metaphors from the "Corpus of Rich Metaphor Annotation" by Gordon et al., automatically excluding the occurrences where either the source or the target is a phrase and filtering for the different pos (by using the corpus_filter.py script).
-- all_[nn/an/na].tsv contains the union of all the extracted metaphors, for a total of 115 an, 18 na, 534 nn metaphors
+- all_[nn/an/na].tsv contains the union of all the above metaphors, for a total of 115 an, 18 na, 534 nn metaphors
 
 The script in remove_duplicates.py was used to remove duplicated examples if present
+
+#### MetaNet extension
+
+Our current work is dedicated to the conceptual metaphors in the [MetaNet Wiki](https://metaphor.icsi.berkeley.edu/pub/en/index.php/MetaNet_Metaphor_Wiki).
+- metanet_classes.jsonl contains web-scraped informations about the MetaNet conceptual metaphor classes.
+- metanet_frames.jsonl contains web-scraped informations about the underlying frames and theie relations with Framenet frames.
+- metanet_annotations.csv contains manual annotations of the metaphorical expressions provided by MetaNet as lexicalization examples for the conceptual metaphors outlined in the wiki.
+- metanet_filter.py generates the metanet_corpus.tsv file, containing the representations of the conceptual metaphors as triples, where the source and target are represented by the source and target frames (or the first subsuming frame that can be found in ConceptNet).
 
 ### Libraries 
 
@@ -53,9 +61,9 @@ To run the retrieval of relation from ConceptNet: python3 cn_rel_getter.py
 
 - please, note that the execution may require some time, needed to query the ConceptNet Knowledge Base
 
-To run the generation of prototypes of artworks: python3 prototyper.py
+To run the generation of prototypes of concepts: python3 prototyper.py
 
-###Configuration
+### Configuration
 
 The configuration for both steps is specified in prototyper_config.py.
 In particular, the configuration for prototyper.py specifies how to filter ConceptNet relations

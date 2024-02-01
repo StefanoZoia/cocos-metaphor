@@ -1,8 +1,0 @@
-sexual_assault: 0.9
-plundering: 0.852
-evil_and_wrong: 0.85
-assail: 0.829
-destroy: 0.812
-mustard: 0.807
-crime_against_people: 0.807
-historical: 0.746

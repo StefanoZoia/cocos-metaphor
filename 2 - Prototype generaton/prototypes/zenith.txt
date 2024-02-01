@@ -1,7 +1,0 @@
-celestial_point: 0.832
-celestial_sphere: 0.832
--nadir: 0.831
-astronomy: 0.754
-company: 0.735
-subsidiary: 0.732
--pessimum: 0.725

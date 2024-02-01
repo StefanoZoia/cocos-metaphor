@@ -1,4 +1,0 @@
-autocracy: 0.8163
-dictator: 0.7524
--democracy: 0.7281000000000001
--republic: 0.6165

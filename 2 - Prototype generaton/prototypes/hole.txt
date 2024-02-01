@@ -1,8 +1,0 @@
-golf: 0.865
-hide_in: 0.863
-golf_course: 0.861
-swiss_cheese: 0.86
-dark: 0.856
-screws: 0.846
-defect: 0.844
-donut: 0.84

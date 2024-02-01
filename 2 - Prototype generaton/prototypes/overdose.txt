@@ -1,4 +1,0 @@
-drug: 0.864
-substance_abuse: 0.799
--underdose: 0.765
-race_horse: 0.731

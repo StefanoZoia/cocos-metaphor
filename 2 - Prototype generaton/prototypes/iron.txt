@@ -1,8 +1,0 @@
-ferrous_metal: 0.911
-ironing_clothes: 0.902
-metal: 0.878
-rust: 0.878
-metallic_element: 0.854
-golf_club: 0.853
-press_clothes: 0.845
-press_pants: 0.841

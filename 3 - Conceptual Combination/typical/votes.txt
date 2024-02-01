@@ -1,3 +1,0 @@
-tallied_in_election: 0.776
-counted_in_election: 0.766
-ethnic_group: 0.743

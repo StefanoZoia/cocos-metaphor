@@ -1,8 +1,0 @@
--nonuniform: 0.86
-clothing: 0.858
-attire: 0.827
-outfit: 0.815
-supply: 0.791
-geometry: 0.762
-mathematics: 0.76
-special_outfit: 0.743

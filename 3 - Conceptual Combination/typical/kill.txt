@@ -1,8 +1,0 @@
-murder: 0.942
-killed_love: 0.9
-killed_wife: 0.9
-shoot: 0.881
-buy_gun: 0.875
-use_knife: 0.874
-destroy: 0.871
-get_weapon: 0.87

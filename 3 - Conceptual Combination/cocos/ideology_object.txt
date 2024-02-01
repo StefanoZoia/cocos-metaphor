@@ -1,0 +1,30 @@
+Title: ideology-object
+
+Head Concept Name: ideology
+Modifier Concept Name: object
+
+
+
+
+
+T(modifier), thing, 0.843
+T(modifier), disapprove, 0.832
+T(modifier), become_broken, 0.817
+T(modifier), object_oriented_programming, 0.814
+T(modifier), content, 0.81
+T(modifier), belong_to_person, 0.809
+T(modifier), disappear_from_sight, 0.806
+T(modifier), computer_science, 0.803
+
+T(head), person, 0.879
+T(head), how_to_live_life, 0.844
+T(head), theorization, 0.83
+T(head), change_society, 0.807
+T(head), ideals, 0.792
+T(head), system_of_abstract_thought, 0.759
+T(head), organization, 0.757
+T(head), way_of_looking_at_things, 0.747
+
+
+Result: {"thing": 0.843, "disapprove": 0.832, "become_broken": 0.817, "object_oriented_programming": 0.814, "content": 0.81, "person": 0.879, "how_to_live_life": 0.844, "theorization": 0.83, "@scenario_probability": 0.00010100842514858122}
+Scenario: [1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0.00010100842514858122]

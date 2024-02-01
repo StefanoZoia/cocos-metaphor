@@ -1,0 +1,30 @@
+Title: action-doctor
+
+Head Concept Name: action
+Modifier Concept Name: doctor
+
+
+
+
+
+T(modifier), doctor, 0.915
+T(modifier), prescribe_medicine, 0.913
+T(modifier), doctor's_office, 0.905
+T(modifier), medical_practitioner, 0.879
+T(modifier), prescribe_drug, 0.878
+T(modifier), prescribe_treatment, 0.878
+T(modifier), prescribe_narcotics, 0.878
+T(modifier), visit_patient_at_home, 0.877
+
+T(head), act, 0.864
+T(head), mechanism, 0.839
+T(head), -inaction, 0.835
+T(head), past_or_present, 0.833
+T(head), work, 0.825
+T(head), plot, 0.824
+T(head), cause_change, 0.812
+T(head), cause_effect, 0.812
+
+
+Result: {"doctor": 0.915, "prescribe_medicine": 0.913, "doctor's_office": 0.905, "medical_practitioner": 0.879, "prescribe_drug": 0.878, "prescribe_treatment": 0.878, "prescribe_narcotics": 0.878, "act": 0.864, "@scenario_probability": 2.3084710574550234e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2.3084710574550234e-05]

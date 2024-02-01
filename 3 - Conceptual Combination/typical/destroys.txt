@@ -1,8 +1,0 @@
-explode: 0.7974
-kill: 0.7839
-unmake: 0.7713
--construct: 0.7173
--build: 0.7038000000000001
--create: 0.6957
--rebuild: 0.6894
--produce: 0.6876

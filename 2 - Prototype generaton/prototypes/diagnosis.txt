@@ -1,7 +1,0 @@
-designation: 0.82
-change: 0.797
-medicine: 0.789
-taxonomy: 0.783
-medical_exam: 0.762
-nonstandard: 0.744
-mental_illness: 0.734

@@ -1,0 +1,30 @@
+Title: regulation-harm
+
+Head Concept Name: regulation
+Modifier Concept Name: harm
+
+
+
+
+
+T(modifier), injure, 0.902
+T(modifier), -protect, 0.774
+T(modifier), -favor, 0.768
+T(modifier), fire, 0.753
+T(modifier), -heal, 0.73
+T(modifier), -help, 0.722
+T(modifier), killing, 0.707
+T(modifier), too_much_of, 0.689
+
+T(head), rule, 0.883
+T(head), control, 0.835
+T(head), dominance, 0.829
+T(head), embryology, 0.823
+T(head), organic_process, 0.8
+T(head), genetics, 0.773
+T(head), european_union_law, 0.769
+T(head), medicine, 0.755
+
+
+Result: {"injure": 0.902, "-protect": 0.774, "rule": 0.883, "control": 0.835, "dominance": 0.829, "embryology": 0.823, "organic_process": 0.8, "genetics": 0.773, "@scenario_probability": 0.0004817459761347483}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.0004817459761347483]

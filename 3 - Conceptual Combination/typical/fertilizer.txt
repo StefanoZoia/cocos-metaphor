@@ -1,5 +1,0 @@
-chemical: 0.843
-stimulate_growth: 0.796
-garage: 0.748
-consumable_product: 0.746
-making_grow: 0.668

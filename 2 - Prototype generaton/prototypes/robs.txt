@@ -1,7 +1,0 @@
-steal: 0.7812
-idiot: 0.6822
-slang: 0.6777
-sports: 0.6651
-used_with_of: 0.6642
-nickname_for_robert: 0.648
-get_money_from: 0.6309

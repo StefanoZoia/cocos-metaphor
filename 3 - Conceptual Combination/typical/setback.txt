@@ -1,3 +1,0 @@
-architecture: 0.756
-archaic: 0.747
-us: 0.746

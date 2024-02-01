@@ -1,8 +1,0 @@
-celestial_point: 0.802
-celestial_sphere: 0.802
--nadir: 0.799
-geometry: 0.778
-us: 0.764
-aviation: 0.76
-british: 0.759
-botany: 0.758

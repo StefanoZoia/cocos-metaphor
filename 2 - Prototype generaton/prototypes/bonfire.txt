@@ -1,4 +1,0 @@
-fire: 0.893
-burning: 0.852
-very_large_fire: 0.742
-found_on_beach: 0.685

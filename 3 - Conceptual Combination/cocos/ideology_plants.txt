@@ -1,0 +1,30 @@
+Title: ideology-plants
+
+Head Concept Name: ideology
+Modifier Concept Name: plants
+
+
+
+
+
+T(modifier), poisonous, 0.904
+T(modifier), garden, 0.88
+T(modifier), flower_in_sun, 0.869
+T(modifier), purple_in_color, 0.868
+T(modifier), produce_oxygen, 0.864
+T(modifier), good_for_environment, 0.863
+T(modifier), edible, 0.863
+T(modifier), greenhouse, 0.862
+
+T(head), person, 0.879
+T(head), how_to_live_life, 0.844
+T(head), theorization, 0.83
+T(head), change_society, 0.807
+T(head), ideals, 0.792
+T(head), system_of_abstract_thought, 0.759
+T(head), organization, 0.757
+T(head), way_of_looking_at_things, 0.747
+
+
+Result: {"poisonous": 0.904, "garden": 0.88, "flower_in_sun": 0.869, "purple_in_color": 0.868, "produce_oxygen": 0.864, "good_for_environment": 0.863, "edible": 0.863, "person": 0.879, "@scenario_probability": 7.388085294770054e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 7.388085294770054e-05]

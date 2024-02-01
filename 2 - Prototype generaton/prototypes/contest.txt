@@ -1,8 +1,0 @@
-competition: 0.917
-game: 0.832
-competing_against: 0.81
-winner_and_many_losers: 0.809
-involve_type_of_play: 0.808
-social_event: 0.805
-oppose: 0.8
-legal: 0.75

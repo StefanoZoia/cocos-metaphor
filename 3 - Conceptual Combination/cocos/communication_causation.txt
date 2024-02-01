@@ -1,0 +1,30 @@
+Title: communication-causation
+
+Head Concept Name: communication
+Modifier Concept Name: causation
+
+
+
+
+
+T(modifier), origin, 0.755
+T(modifier), make, 0.749
+T(modifier), justification, 0.747
+T(modifier), -effect, 0.74
+T(modifier), suffer_setback, 0.721
+T(modifier), succeed_effect, 0.715
+T(modifier), -symptom, 0.703
+T(modifier), -result, 0.702
+
+T(head), sender_and_receiver, 0.866
+T(head), connection, 0.85
+T(head), act, 0.815
+T(head), e_mail, 0.81
+T(head), cellphone, 0.804
+T(head), satelite, 0.804
+T(head), phone, 0.801
+T(head), abstraction, 0.799
+
+
+Result: {"origin": 0.755, "sender_and_receiver": 0.866, "connection": 0.85, "act": 0.815, "e_mail": 0.81, "cellphone": 0.804, "satelite": 0.804, "phone": 0.801, "@scenario_probability": 0.000443666293309194}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.000443666293309194]
