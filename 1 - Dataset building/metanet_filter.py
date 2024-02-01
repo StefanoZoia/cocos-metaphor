@@ -14,6 +14,7 @@ import time
 # 4) breadth-first search of “is subcase of” related frames, starting from the metaphors of which m is a subcase
 # 5) derive src/tgt from m's name, assuming that it has the form "TARGET [BE] SOURCE"
 # 6) rule 5) applied to the metaphors of which m is a subcase
+# 7) use the src/tgt frames "relevant framenet frames" as src/tgt
 
 
 REQ_HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0',
@@ -132,6 +133,8 @@ def main():
             super_target = scraped["target subcase of"]
             super_tgt_of[metaphor] = super_st + super_target
 
+    # save relevant_fn_frames for each frame
+    fn_frames_for = dict()
     # save "subcase of" frame relation in a dictionary
     super_frames_of = dict()
 
@@ -141,7 +144,10 @@ def main():
             
             frame = scraped["frame"]
             super_frames = scraped["subcase of"]
+            fn = scraped["relevant_fn_frames"]
+
             super_frames_of[frame] = super_frames
+            fn_frames_for[frame] = fn
 
     # extend the value lists of the subcase dictionaries with a breadth-first search of the relation
     relation_breadth_first_expansion(super_src_of)
@@ -212,6 +218,16 @@ def main():
                         and len(met_subsumers_list) > 0:
                 cur_met = met_subsumers_list.pop(0)
                 source_frame = split_conceptual_metaphor(cur_met)[1]
+
+            ############################
+            # SOURCE - PRIORITY RULE 7 #
+            ############################
+            
+            fn_list = fn_frames_for[metaphors_dict[met]["source"]] if metaphors_dict[met]["source"] in fn_frames_for else list()
+
+            while not is_in_conceptnet(source_frame) \
+                        and len(fn_list) > 0:
+                source_frame = fn_list.pop(0)
             
 
             ###################################
@@ -265,6 +281,16 @@ def main():
                         and len(met_subsumers_list) > 0:
                 cur_met = met_subsumers_list.pop(0)
                 target_frame = split_conceptual_metaphor(cur_met)[0]
+
+            ############################
+            # TARGET - PRIORITY RULE 7 #
+            ############################
+            
+            fn_list = fn_frames_for[metaphors_dict[met]["target"]] if metaphors_dict[met]["target"] in fn_frames_for else list()
+
+            while not is_in_conceptnet(target_frame) \
+                        and len(fn_list) > 0:
+                target_frame = fn_list.pop(0)
                 
             
             ###############################
