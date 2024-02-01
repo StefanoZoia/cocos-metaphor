@@ -222,60 +222,60 @@ ORGANIZATION IS A MACHINE,"Since the enactment of SB 163 (Evans), the three bran
 OPPORTUNITIES ARE PORTALS,Opportunity is an open door.,door,opportunity,NN
 OPPORTUNITIES ARE PATHS,His job offer opened up new paths of opportunity for him.,paths,opportunity,NN
 OPPORTUNITIES ARE OBJECTS,We've got plenty of chances left.,,,-
-OPPORTUNITIES ARE OBJECTS,I've squandered every opportunity to advance my career.,,,
-NONVISUAL PERCEPTUAL SPACE IS PHYSICAL SPACE,Here comes the beep!,,,
-NEARBY COUNTRIES ARE NEIGHBORS,Canada is by far the closest of all our neighbors.,,,
-NATURE IS AN AGENT,3rd #WinterWeatherAdvisory in 3 weeks. Think #MotherNature doesn't want an early spring :P,,,
-NATURE IS AN AGENT,"Dear #Mothernature , please don't tease us Texans with this awesome weather until you plan on staying this way. Thanks:)",,,
-NATURE IS AN AGENT,"Nature Tries to Shift Outer Banks, But Man Keeps Shoveling It Back",,,
-NATURE IS A RESOURCE,"... we must deepen our understanding of the economic value of nature and invest in the vital services that it provides for us, if we are to have a truly sustainable economic future.",,,
-NATURE IS A RESOURCE,"To start with, everything we are made of and everything we make comes from the environment.",,,
-NATIONS WHO ABUSE POWER ARE BULLIES,International Poll Finds U.S. Still Viewed As World's Bully,,,
-NATIONS NOT ABIDING BY INTERNATIONAL LAW ARE OUTLAWS,Great Powers and Outlaw States: Unequal Sovereigns in the International Legal Order,,,
-NATIONAL POLITICS IS A STAGE,"Romney Back on National Stage, If Only Briefly",,,
-NATIONAL POLITICS IS A SPORTS FIELD,Obama accused the Republicans of moving the goalposts in the debate about the deficit.,,,
-NATIONAL POLITICS IS A BATTLEFIELD,Could Texas be a battleground state?,,,
-NATIONAL POLITICS IS A BATTLEFIELD,Women: We Want You on the Political Battlefield,,,
-NATIONAL POLITICAL FUNCTIONALITY IS PHYSICAL INTEGRITY,But Scott Brown’s win in the Massachusetts Senate race does raise a bigger question: is the system broken? I fear the answer is yes.,,,
-NATIONAL INFRASTRUCTURE IS A BUILDING,Infrastructure: The Foundation for Wealth and Poverty Reduction,,,
-NATIONAL INFRASTRUCTURE DETERIORATION IS BUILDING EROSION,"The infrastructure that is the foundation of our nation is eroding, endangering the whole structure of our economy.",,,
-NATION IS CONTAINER,Our nation contains some of the best entrepreneurs in the world.,,,
-NATION IS AN OBJECT,Only one thing stands between Western civilization and chaos: the United States.,,,
-NATION IS A VEHICLE,"Saltykov explored the psychological problems resulting from the shifting of a nation's gears, of creating a new way of life.",,,
-NATION IS A PERSON,We must rouse our nation from its slumber.,,,
-NATION IS A MACHINE,"If the President doesn't show some leadership, the country will grind to a halt.",,,
-NATION IS A MACHINE,...and asked them to be serious towards bringing a full-fledged budget at the earliest to ensure that the country functions smoothly.,,,
-NATION IS A FAMILY,"Our national arguments are family arguments, we still talk to each other at the end of the day.",,,
-NATION IS A COMPLEX STRUCTURE,"""Are They Parts of Our Nation? Tanzanian and Zambian University Students’ Attitude to the European and South Asian Minorities Compared""",,,
-NATION IS A COMPLEX STRUCTURE,No one built this country on their own. This nation is great because we built it together.,,,
-NATION IS A BUILDING,"“This is a time to build a nation, brick by brick, pillar by pillar, not a time to tear down our brothers and sisters or pillage their property,”",,,
-NATION IS A BUILDING,They represent the brick and mortar of our nation's developing infrastructure.,,,
-NATION IS A BUILDING,"""Our nation is built on the bedrock principle that governments derive their just powers from the consent of the governed.""",,,
-NATION IS A BODY,Within a federalist framework the nation is a body in crisis threatened from within by one of its own. It is about to be dismembered.,,,
-NATION IS A BODY,"Iowa is the heart of the nation, where everyone greets you with a smile and you wave at strangers!",,,
-NATION IS A BOAT,Scuttling the Ship of State to appease climate activists,,,
-NATION IS A BOAT,Our country is burdened by debt and that may sink us in the rough waters ahead.,,,
-MULTIPLICITY IS MASS,The grazing field was covered with sheep.,,,
-MORE IS UP,The price of stocks rose.,,,
-MORE IS UP,My to-do list is piling up!,,,
-MORE IS BIG,He is trying to pay off his huge debt.,,,
-MORE IS BIG,The city is expanding the number of recycling containers in parks.,,,
-MORALITY IS UPRIGHTNESS,He's an upstanding citizen.,,,
-MORALITY IS UPRIGHTNESS,That was a low thing to do.,,,
-MORALITY IS UPRIGHTNESS,He's a snake in the grass.,,,
-MORALITY IS STRAIGHTNESS,Be straight with me.,,,
-MORALITY IS STRAIGHTNESS,He's a crooked businessman.,,,
-MORALITY IS PURITY,"He's pure of heart, and therefore would never hurt someone.",,,
-MORALITY IS A STRAIGHT PATH,He is a deviant.,,,
-MORALITY IS A STRAIGHT PATH,He deviated from the straight and narrow.,,,
-MORALITY IS A STRAIGHT PATH,She strayed.,,,
-MORAL IS STRAIGHT,Be straight with me.,,,
-MORAL IS STRAIGHT,God-fearing men must keep strictly to the straight and narrow.,,,
-MORAL AGENTS ARE NURTURING PARENTS,The government takes good care of its people.,,,
+OPPORTUNITIES ARE OBJECTS,I've squandered every opportunity to advance my career.,squandered,opportunity,VN
+NONVISUAL PERCEPTUAL SPACE IS PHYSICAL SPACE,Here comes the beep!,,,-
+NEARBY COUNTRIES ARE NEIGHBORS,Canada is by far the closest of all our neighbors.,neighbors,Canada,NN
+NATURE IS AN AGENT,3rd #WinterWeatherAdvisory in 3 weeks. Think #MotherNature doesn't want an early spring :P,want,#MotherNature,VN
+NATURE IS AN AGENT,"Dear #Mothernature , please don't tease us Texans with this awesome weather until you plan on staying this way. Thanks:)",tease,#Mothernature,VN
+NATURE IS AN AGENT,"Nature Tries to Shift Outer Banks, But Man Keeps Shoveling It Back",tries,Nature,VN
+NATURE IS A RESOURCE,"... we must deepen our understanding of the economic value of nature and invest in the vital services that it provides for us, if we are to have a truly sustainable economic future.",value,nature,NN
+NATURE IS A RESOURCE,"To start with, everything we are made of and everything we make comes from the environment.",comes,environment,VN
+NATIONS WHO ABUSE POWER ARE BULLIES,International Poll Finds U.S. Still Viewed As World's Bully,bully,U.S.,NN
+NATIONS NOT ABIDING BY INTERNATIONAL LAW ARE OUTLAWS,Great Powers and Outlaw States: Unequal Sovereigns in the International Legal Order,Outlaw,States,
+NATIONAL POLITICS IS A STAGE,"Romney Back on National Stage, If Only Briefly",,,-
+NATIONAL POLITICS IS A SPORTS FIELD,Obama accused the Republicans of moving the goalposts in the debate about the deficit.,goalposts,debate,NN
+NATIONAL POLITICS IS A BATTLEFIELD,Could Texas be a battleground state?,,,-
+NATIONAL POLITICS IS A BATTLEFIELD,Women: We Want You on the Political Battlefield,Battlefield,Political,AN
+NATIONAL POLITICAL FUNCTIONALITY IS PHYSICAL INTEGRITY,But Scott Brown’s win in the Massachusetts Senate race does raise a bigger question: is the system broken? I fear the answer is yes.,broken,system,AN
+NATIONAL INFRASTRUCTURE IS A BUILDING,Infrastructure: The Foundation for Wealth and Poverty Reduction,,,-
+NATIONAL INFRASTRUCTURE DETERIORATION IS BUILDING EROSION,"The infrastructure that is the foundation of our nation is eroding, endangering the whole structure of our economy.",foundation,nation,NN
+NATION IS CONTAINER,Our nation contains some of the best entrepreneurs in the world.,contains,nation,VN
+NATION IS AN OBJECT,Only one thing stands between Western civilization and chaos: the United States.,stands,United States,VN
+NATION IS A VEHICLE,"Saltykov explored the psychological problems resulting from the shifting of a nation's gears, of creating a new way of life.",gears,nation,NN
+NATION IS A PERSON,We must rouse our nation from its slumber.,rouse,nation,VN
+NATION IS A MACHINE,"If the President doesn't show some leadership, the country will grind to a halt.",grind,country,VN
+NATION IS A MACHINE,...and asked them to be serious towards bringing a full-fledged budget at the earliest to ensure that the country functions smoothly.,functions,country,VN
+NATION IS A FAMILY,"Our national arguments are family arguments, we still talk to each other at the end of the day.",family,national,AN
+NATION IS A COMPLEX STRUCTURE,"""Are They Parts of Our Nation? Tanzanian and Zambian University Students’ Attitude to the European and South Asian Minorities Compared""",parts,nation,NN
+NATION IS A COMPLEX STRUCTURE,No one built this country on their own. This nation is great because we built it together.,built,nation,VN
+NATION IS A BUILDING,"“This is a time to build a nation, brick by brick, pillar by pillar, not a time to tear down our brothers and sisters or pillage their property,”",build,nation,VN
+NATION IS A BUILDING,They represent the brick and mortar of our nation's developing infrastructure.,brick,nation,NN
+NATION IS A BUILDING,"""Our nation is built on the bedrock principle that governments derive their just powers from the consent of the governed.""",built,nation,VN
+NATION IS A BODY,Within a federalist framework the nation is a body in crisis threatened from within by one of its own. It is about to be dismembered.,body,nation,NN
+NATION IS A BODY,"Iowa is the heart of the nation, where everyone greets you with a smile and you wave at strangers!",heart,nation,NN
+NATION IS A BOAT,Scuttling the Ship of State to appease climate activists,ship,state,NN
+NATION IS A BOAT,Our country is burdened by debt and that may sink us in the rough waters ahead.,sink,country,VN
+MULTIPLICITY IS MASS,The grazing field was covered with sheep.,covered,sheep,VN
+MORE IS UP,The price of stocks rose.,,,-
+MORE IS UP,My to-do list is piling up!,,,-
+MORE IS BIG,He is trying to pay off his huge debt.,,,-
+MORE IS BIG,The city is expanding the number of recycling containers in parks.,expanding,number,VN
+MORALITY IS UPRIGHTNESS,He's an upstanding citizen.,,,-
+MORALITY IS UPRIGHTNESS,That was a low thing to do.,,,-
+MORALITY IS UPRIGHTNESS,He's a snake in the grass.,,,-
+MORALITY IS STRAIGHTNESS,Be straight with me.,,,-
+MORALITY IS STRAIGHTNESS,He's a crooked businessman.,,,-
+MORALITY IS PURITY,"He's pure of heart, and therefore would never hurt someone.",,,-
+MORALITY IS A STRAIGHT PATH,He is a deviant.,,,-
+MORALITY IS A STRAIGHT PATH,He deviated from the straight and narrow.,,,-
+MORALITY IS A STRAIGHT PATH,She strayed.,,,-
+MORAL IS STRAIGHT,Be straight with me.,,,-
+MORAL IS STRAIGHT,God-fearing men must keep strictly to the straight and narrow.,straight,god-fearing,AN
+MORAL AGENTS ARE NURTURING PARENTS,The government takes good care of its people.,take care,government,VN
 MORAL AGENTS ARE NURTURING PARENTS,The CEO looks after her employees with motherly kindness.,,,
 MORAL AGENTS ARE NURTURING PARENTS,"With gentle care and attention, the pastor's congregation will flourish.",,,
-MORAL ACTION IS A FINANCIAL TRANSACTION,He's morally bankrupt.,,,
-MONEY TRANSFER IS FLUID MOTION,cash flow,,,
+MORAL ACTION IS A FINANCIAL TRANSACTION,He's morally bankrupt.,bankrupt,morally,-
+MONEY TRANSFER IS FLUID MOTION,cash flow,flow,cash,NN
 MONEY TRANSFER IS FLUID MOTION,The money is gushing out of my retirement account.,,,
 MONEY IS A LIQUID,The money is all dried up.,,,
 MONEY IS A LIQUID,Liquid assets.,,,
