@@ -51,7 +51,7 @@ UNDERSTANDING IS DIGESTING,I haven't fully digested the main gist of that paper.
 UNCONTROLLED CRIME IS A RAMPAGING ANIMAL,Crime is stalking the youth of our major cities.,,,-
 UNCONTROLLED CRIME IS A RAMPAGING ANIMAL,"gang crime ravages inner cities, destroys families, and causes whole neighborhoods to hunker down in fear",,,-
 UNCONSCIOUS IS DOWN,He fell into a coma.,,,-
-TRUST RELATIONSHIPS ARE BUILDINGS,We are working hard to rebuild the trust of our customers.,rebuild,trust,VN
+TRUST RELATIONSHIPS ARE BUILDINGS,We are working hard to rebuild the trust of our customers.,rebuild,trust,VN-
 TRUST RELATIONSHIPS ARE BUILDINGS,The scandals have shaken the foundations of trust in the market.,foundations,trust,NN
 TRUST IN GOVERNMENT IS A BUILDING,"It is how, in every Western country, trust in government has suddenly, dramatically collapsed in the crisis' aftermath.",collapsed,trust,VN
 TIME PERIODS ARE CONTAINERS,My morning has been very full.,full,morning,AN
@@ -90,7 +90,7 @@ TAXES ARE DUES,"Taxes, after all, are dues that we pay for the privileges of mem
 TAXES ARE DISEASES,"During a panel discussion that included Washington Governor Christine Gregoire and Nevada Governor Brian Sandoval, Brown accused California lawmakers of adhering to ""the notion that taxes are like some kind of sexually transmitted disease,"" the Los Angeles Times reports.",disease,taxes,NN
 TAXES ARE DISEASES,Those insidious taxes infect every aspect of our lives.,infect,taxes,VN
 TAXATION IS THEFT,Government steals the people's wealth through overt and hidden taxes,steals,taxes,VN
-TAXATION IS SLAVERY,America Tax Slaves Work 6.5 Months Every Year to Pay for Government,slaves,tax,NN
+TAXATION IS SLAVERY,America Tax Slaves Work 6.5 Months Every Year to Pay for Government,slaves,tax,NN-
 TAXATION IS PUNISHMENT,"The state cannot pay its bills and poorly educates its young, and its taxation punishes whatever success that its suffocating regulatory regime does not prevent.",punishes,taxation,VN
 TAXATION IS CAUSING HARM,High sales taxes hurt local small businesses.,hurt,taxes,VN
 TAXATION IS CAUSING HARM,We are being taxed to death!,death,taxed,VN
@@ -125,8 +125,8 @@ SOCIAL GROUPS ARE BUILDINGS,He's about to rock the foundations of the literary e
 SOCIAL GROUPS ARE BUILDINGS,"By early afternoon, queues were already building up.",building,queues,VN
 SOCIAL GROUP IS A FABRIC,Cop scandals fray the social fabric.,fabric,social,AN
 SOCIAL GROUP IS A FABRIC,"Thus, we must reweave the torn fabric of rural American with thread strong enough to withstand the inevitable ravages of time.",,,-
-SIMILARITY IS PROXIMITY,Her hair is very near to his in color.,,,-
-SIMILARITY IS PROXIMITY,That's far from a perfect circle.,,,-
+SIMILARITY IS PROXIMITY,Her hair is very near to his in color.,near,color,AN
+SIMILARITY IS PROXIMITY,That's far from a perfect circle.,far,perfect,AA
 SICKNESS IS DOWN,He's sinking fast.,,,-
 SICKNESS IS DOWN,He came down with the flu.,,,-
 SEQUENCE OF ACTIONS IS A SEQUENCE OF MOVEMENTS,"Create a complete, measurable, action plan which includes all the steps necessary to achieve your goal.",,,-
@@ -147,8 +147,8 @@ ROMANTIC RELATIONSHIP IS A JOURNEY,Where are we in this relationship?,,,-
 ROMANTIC RELATIONSHIP IS A JOURNEY,It feels like this relationship is going nowhere.,going,relationship,VN
 ROMANTIC RELATIONSHIP ENCOUNTERING DIFFICULTIES IS A VEHICLE ENCOUNTERING OBSTACLES,Our relationship is losing steam.,,,-
 REVOLUTION IS TOPPLING A PHYSICAL OBJECT,The coup toppled the brutal dictatorship.,toppled,dictatorship,VN
-REVOLUTION IS TOPPLING A PHYSICAL OBJECT,The Revolutionary and Napoleonic Wars tore down the ancient structure of Europe,,,-
-RELATIONSHIPS ARE PHYSICAL STRUCTURES,Their relationship is built on a solid foundation of trust and commitment.,,,-
+REVOLUTION IS TOPPLING A PHYSICAL OBJECT,The Revolutionary and Napoleonic Wars tore down the ancient structure of Europe,structure,Europe,NN
+RELATIONSHIPS ARE PHYSICAL STRUCTURES,Their relationship is built on a solid foundation of trust and commitment.,built,relationship,VN
 RELATIONSHIPS ARE OBJECTS,Our relationship is rock solid.,solid,relationship,AN
 RELATIONSHIPS ARE OBJECTS,She has a fragile relationship with her mother as it is.,fragile,relationship,AN
 RELATIONSHIPS ARE CONTAINERS,She's trapped in a relationship with a scumbag.,,,-
@@ -163,7 +163,7 @@ QUANTITY IS SIZE,What is the size of your bank account?,size,bank account,NN
 QUANTITY IS SIZE,He doesn't know how big our national debt is.,big,debt,AN
 QUALITIES ARE SUBSTANCES,He has a lot of smarts.,,,-
 QUALITIES ARE SUBSTANCES,He's devoid of common sense.,,,-
-PURPOSEFUL THINKING IS GOAL-DIRECTED MOTION,We are trying to find the most elegant approach to solving this problem.,,,-
+PURPOSEFUL THINKING IS GOAL-DIRECTED MOTION,We are trying to find the most elegant approach to solving this problem.,approach,solving,VN
 PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION,She made great strides in her dissertation.,strides,dissertation,NN
 PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION,We are sliding backward.,,,-
 PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION,We are moving ahead.,,,-
@@ -172,7 +172,7 @@ PURPOSEFUL ACTION IS SELF-PROPELLED MOTION TO A DESTINATION,We have taken the fi
 PURITY IS CLEANLINESS,He's pure evil.,,,-
 PURITY IS CLEANLINESS,Her soul was scrubbed clean of impurities.,scrubbed clean,soul,VN
 PURIFYING IS CLEANSING,You must cleanse your soul of sin.,cleanse,soul,VN
-PURIFYING IS CLEANSING,The impure must be washed clean through contrition.,,,-
+PURIFYING IS CLEANSING,The impure must be washed clean through contrition.,washed,impure,VN
 PUBLIC EVALUABILITY OF GOVERMNENT IS TRANSPARENCY,Increased transparency has increased the public's confidence in government.,,,-
 PSYCHOLOGICAL HARM IS PHYSICAL INJURY,It was a traumatic experience.,,,-
 PSYCHOLOGICAL HARM IS PHYSICAL INJURY,Her death hurt him.,,,-
@@ -189,7 +189,7 @@ PROGRESS IS FORWARD MOTION ALONG A PATH,He hadn't made much headway in writing t
 PROGRESS IS FORWARD MOTION ALONG A PATH,Let's keep moving forward on this experiment.,,,-
 PROGRESS IS FORWARD MOTION ALONG A PATH,I'm afraid I haven't gotten very far in grading the exams.,,,-
 PREVENTING ENACTMENT OF LEGISLATION IS BLOCKING MOTION,House Republicans blocked the Democrats' attempts to move forward with the healthcare bill.,move forward,bill,VN
-PREVENTING ENACTMENT OF LEGISLATION IS BLOCKING MOTION,The Senator's filibuster halted the passage of the bill.,,,-
+PREVENTING ENACTMENT OF LEGISLATION IS BLOCKING MOTION,The Senator's filibuster halted the passage of the bill.,passage,bill,NN
 PREVENTED CHANGE OF STATE IS PREVENTED CHANGE OF LOCATION,"He's holding you back, you need to leave him.",,,-
 PREVENTED CHANGE OF STATE IS PREVENTED CHANGE OF LOCATION,I'm going to the top and nothing will stand in my way.,,,-
 PREPARING IDEAS TO BE UNDERSTOOD IS FOOD PREPARATION,They're just half-baked ideas.,half-baked,ideas,AN
@@ -205,12 +205,12 @@ POVERTY IS A CRIME,He appealed to logos (logic) by trying to analyze why poverty
 POLITICIANS ARE STAGE ACTORS,The President played his part magnificently.,,,-
 POLITICAL UNREST IS A WILDFIRE,The wildfire of revolution rapidly spread throughout the land.,wildfire,revolution,NN
 POLITICAL UNREST IS A WILDFIRE,,,,-
-POLITICAL REGION IS A VEHICLE,They are rocking the ship of state.,,,-
-POLITICAL REGION IS A VEHICLE,Dirt threatens to sink ship of state,,,-
+POLITICAL REGION IS A VEHICLE,They are rocking the ship of state.,ship,state,NN
+POLITICAL REGION IS A VEHICLE,Dirt threatens to sink ship of state,ship,state,NN
 PHYSICAL STRENGTH IS VERTICALITY,His strength declined as he aged.,declined,strength,VN
-PHASE OF AN ELECTION IS LEG IN A RACE,"As Election Day drew near, the candidates pulled into the final lap of the race.",,,-
+PHASE OF AN ELECTION IS LEG IN A RACE,"As Election Day drew near, the candidates pulled into the final lap of the race.",race,Election,NN
 PHASE OF AN ELECTION IS LEG IN A RACE,Last Legs of Campaign Can Decide Race,Race,Campaign,NN
-PHASE OF AN ELECTION IS LEG IN A RACE,How both candidates fair in the final leg of campaigning will likely determine the winner in each state.,,,-
+PHASE OF AN ELECTION IS LEG IN A RACE,How both candidates fair in the final leg of campaigning will likely determine the winner in each state.,leg,campaigning,NN
 PEOPLE ARE PLANTS,Bloom where you are planted.,,,-
 PEOPLE ARE PLANTS,The young man is rather green and does not have enough experience to drive the large machinery.,,,-
 PEOPLE ARE PLANTS,We saw the withered old woman.,,,-
