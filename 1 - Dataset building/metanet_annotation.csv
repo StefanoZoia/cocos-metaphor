@@ -33,15 +33,15 @@ WORDS ARE CONTAINERS,He writes sentences in such a way as to seal up the meaning
 WINNING AN ELECTION IS WINNING A WAR,President Obama won a major victory in November.,,,-
 WINNING AN ELECTION IS WINNING A RACE,"In the Supervisors race, my candidate came out slightly ahead of his closest rival.",,,-
 WINNING AN ELECTION IS WINNING A BOXING MATCH,The Tea Party candidate knocked out the mainline Republican candidate in the primary.,,,-
-WHOLES ARE POSSESSORS,The eye possesses several parts.,,,-
-WHOLES ARE POSSESSORS,Which car part belongs to which car?,,,-
+WHOLES ARE POSSESSORS,The eye possesses several parts.,possesses,parts,VN
+WHOLES ARE POSSESSORS,Which car part belongs to which car?,belongs,part,VN
 WHOLES ARE CONTAINERS,The book contains more than 150 recipes for cabbage.,,,-
-WELL-FUNCTIONING BUREAUCRACY IS A SMOOTHLY FUNCTIONING MACHINE,"Despite the debt crisis, the welfare bureaucracy continued to hum along, producing checks every month.",,,-
+WELL-FUNCTIONING BUREAUCRACY IS A SMOOTHLY FUNCTIONING MACHINE,"Despite the debt crisis, the welfare bureaucracy continued to hum along, producing checks every month.",hum,bureaucracy,VN
 WELL-BEING IS WEALTH,Was it worth it?,,,-
 WELL-BEING IS WEALTH,The human cost of that disaster is enormous.,cost,human,AN
 WELL-BEING IS VERTICALITY,Things are looking up today!,,,-
-VOTING IS SPEAKING,The voters of Dillon have clearly spoken.,,,-
-VISUAL FIELD IS A CONTAINER,It's out of my field of vision.,,,-
+VOTING IS SPEAKING,The voters of Dillon have clearly spoken.,spoken,voters,VN
+VISUAL FIELD IS A CONTAINER,It's out of my field of vision.,,,
 VISUAL FIELD IS A CONTAINER,The island is now in full view.,full,view,AN
 UNDERSTANDING IS GRASPING,He just can't seem to grasp the concept.,,,-
 UNDERSTANDING IS GRASPING,He got a good handle on the subject matter.,,,-
@@ -66,9 +66,9 @@ TIME IS A MOVING OBJECT,The time will come when…,come,time,VN
 TIME IS A MOVING OBJECT,The time has long since gone when…,gone,time,VN
 TIME IS A MOVING OBJECT,The time for action has arrived.,arrived,time,VN
 TIME IS A LANDSCAPE THROUGH WHICH THE OBSERVER MOVES,That's all behind us now.,,,-
-TIME IS A LANDSCAPE THROUGH WHICH THE OBSERVER MOVES,You can't go back in time!,back,time,-
-TIME IS A LANDSCAPE THROUGH WHICH THE OBSERVER MOVES,We're looking ahead to the future.,ahead,future,-
-TIME IS A LANDSCAPE THROUGH WHICH THE OBSERVER MOVES,He has a great future in front of him.,front,future,-
+TIME IS A LANDSCAPE THROUGH WHICH THE OBSERVER MOVES,You can't go back in time!,back,time,DN
+TIME IS A LANDSCAPE THROUGH WHICH THE OBSERVER MOVES,We're looking ahead to the future.,ahead,future,DN
+TIME IS A LANDSCAPE THROUGH WHICH THE OBSERVER MOVES,He has a great future in front of him.,front,future,DN
 TIME IS A COMMODITY,Don't waste your time.,waste,time,VN
 THINKING IS SPEAKING,I can barely hear myself think.,think,hear,VV
 THINKING IS SPEAKING,He's an articulate thinker.,articulate,thinker,AN
@@ -84,8 +84,8 @@ THEORIES ARE COMPLEX STRUCTURES,Her theory requires the reader to understand  ma
 THEORIES ARE BUILDINGS,Opponents tried to dismantle the theory piece by piece.,dismantle,theory,VN
 THEORIES ARE BUILDINGS,This theory has a solid foundation.,foundation,theory,NN
 THEORIES ARE BUILDINGS,The theoretical framework needs to be filled in with empirical data.,filled,framework,VN
-TERMINATION OF CONTROL IS LOSS OF A POSSESSION,"The dummies were 2-to-1 in favor of the Arizona immigration law; the court gutted it. Only those dummies, not in a state of denial, understand that we the people have lost control of our government.",,,-
-TERMINATION OF CONTROL IS LOSS OF A POSSESSION,"But meanwhile, you may not have noticed that our government gave away control of the Internet.",,,-
+TERMINATION OF CONTROL IS LOSS OF A POSSESSION,"The dummies were 2-to-1 in favor of the Arizona immigration law; the court gutted it. Only those dummies, not in a state of denial, understand that we the people have lost control of our government.",lost,control,VN
+TERMINATION OF CONTROL IS LOSS OF A POSSESSION,"But meanwhile, you may not have noticed that our government gave away control of the Internet.",gave,control,VN
 TAXES ARE DUES,"Taxes, after all, are dues that we pay for the privileges of membership in an organized society",,,-
 TAXES ARE DISEASES,"During a panel discussion that included Washington Governor Christine Gregoire and Nevada Governor Brian Sandoval, Brown accused California lawmakers of adhering to ""the notion that taxes are like some kind of sexually transmitted disease,"" the Los Angeles Times reports.",disease,taxes,NN
 TAXES ARE DISEASES,Those insidious taxes infect every aspect of our lives.,infect,taxes,VN
@@ -95,7 +95,7 @@ TAXATION IS PUNISHMENT,"The state cannot pay its bills and poorly educates its y
 TAXATION IS CAUSING HARM,High sales taxes hurt local small businesses.,hurt,taxes,VN
 TAXATION IS CAUSING HARM,We are being taxed to death!,death,taxed,VN
 TAXATION IS A BURDEN,"According to the Tax Foundation, Texas residents on average shoulder the fifth lowest tax burden compared to other residents in the 50 states.",burden,tax,NN
-TAXATION IS A BURDEN,"The Obama campaign is taking a swipe at Mitt Romney's tax plan in a new television ad, saying it will create a ""heavy load"" for the middle class.",,,-
+TAXATION IS A BURDEN,"The Obama campaign is taking a swipe at Mitt Romney's tax plan in a new television ad, saying it will create a ""heavy load"" for the middle class.",heavy load,tax plan,NN
 TAXATION IS A BURDEN,President Obama decided to target certain and specific products or services he deems unhealthy and levied heavy taxes on them.,heavy,taxes,AN
 TAXATION IS A BURDEN,Remember when President Obama literally laughed out loud at the idea his health-care plan would impose taxes on the middle class?,impose,taxes,VN
 TAXATION IS A BURDEN,"The new president delivered on his tax cut promises, which, combined with a recession in 2001, caused the tax burden to fall considerably.",burden,tax,NN
@@ -212,8 +212,8 @@ PHASE OF AN ELECTION IS LEG IN A RACE,"As Election Day drew near, the candidates
 PHASE OF AN ELECTION IS LEG IN A RACE,Last Legs of Campaign Can Decide Race,Race,Campaign,NN
 PHASE OF AN ELECTION IS LEG IN A RACE,How both candidates fair in the final leg of campaigning will likely determine the winner in each state.,leg,campaigning,NN
 PEOPLE ARE PLANTS,Bloom where you are planted.,,,-
-PEOPLE ARE PLANTS,The young man is rather green and does not have enough experience to drive the large machinery.,,,-
-PEOPLE ARE PLANTS,We saw the withered old woman.,,,-
+PEOPLE ARE PLANTS,The young man is rather green and does not have enough experience to drive the large machinery.,green,man,AN
+PEOPLE ARE PLANTS,We saw the withered old woman.,withered,woman,AN
 Ongoing causation is nourishing,"Incurable sex offenders, lousy judges and the new media: Moral panic sustenance in the age of new media",sustanance,panic,NN
 ORGANIZATION IS PHYSICAL STRUCTURE,The Lakers' defense fell apart in the final quarter leading to an embarrassing upset.,fell apart,defense,VN
 ORGANIZATION IS PHYSICAL STRUCTURE,Which part of the theory don't you agree with?,,,-
@@ -225,8 +225,8 @@ OPPORTUNITIES ARE OBJECTS,We've got plenty of chances left.,,,-
 OPPORTUNITIES ARE OBJECTS,I've squandered every opportunity to advance my career.,squandered,opportunity,VN
 NONVISUAL PERCEPTUAL SPACE IS PHYSICAL SPACE,Here comes the beep!,,,-
 NEARBY COUNTRIES ARE NEIGHBORS,Canada is by far the closest of all our neighbors.,neighbors,Canada,NN
-NATURE IS AN AGENT,3rd #WinterWeatherAdvisory in 3 weeks. Think #MotherNature doesn't want an early spring :P,want,#MotherNature,VN
-NATURE IS AN AGENT,"Dear #Mothernature , please don't tease us Texans with this awesome weather until you plan on staying this way. Thanks:)",tease,#Mothernature,VN
+NATURE IS AN AGENT,3rd Winter Weather Advisory in 3 weeks. Think Mother Nature doesn't want an early spring :P,want,Mother Nature,VN
+NATURE IS AN AGENT,"Dear Mother nature , please don't tease us Texans with this awesome weather until you plan on staying this way. Thanks:)",tease,Mother nature,VN
 NATURE IS AN AGENT,"Nature Tries to Shift Outer Banks, But Man Keeps Shoveling It Back",tries,Nature,VN
 NATURE IS A RESOURCE,"... we must deepen our understanding of the economic value of nature and invest in the vital services that it provides for us, if we are to have a truly sustainable economic future.",value,nature,NN
 NATURE IS A RESOURCE,"To start with, everything we are made of and everything we make comes from the environment.",comes,environment,VN
