@@ -1,0 +1,21 @@
+Title: taxation-dues
+
+Head Concept Name: taxation
+Modifier Concept Name: dues
+
+
+
+
+
+T(modifier), fixed_charge, 0.766
+T(modifier), right, 0.729
+T(modifier), -paid, 0.676
+T(modifier), should_give_credit_where_credit, 0.612
+
+T(head), imposition, 0.862
+T(head), process_results_in_taxes, 0.731
+T(head), activity_of_government, 0.721
+
+
+Result: {"fixed_charge": 0.766, "right": 0.729, "-paid": 0.676, "should_give_credit_where_credit": 0.612, "imposition": 0.862, "process_results_in_taxes": 0.731, "@scenario_probability": 4.061470116176324}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 4.061470116176324]
