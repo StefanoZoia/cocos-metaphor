@@ -1,0 +1,30 @@
+Title: relationship-buildings
+
+Head Concept Name: relationship
+Modifier Concept Name: buildings
+
+
+
+
+
+T(modifier), city, 0.861
+T(modifier), tall, 0.857
+T(modifier), fall_down, 0.854
+T(modifier), underground, 0.843
+T(modifier), huge, 0.831
+T(modifier), small, 0.831
+T(modifier), university, 0.817
+T(modifier), solid, 0.815
+
+T(head), relation, 0.898
+T(head), ending_in_heartbreak, 0.838
+T(head), state, 0.811
+T(head), -affair, 0.799
+T(head), last_for_year, 0.793
+T(head), last_for_long_time, 0.793
+T(head), music, 0.757
+T(head), mathematics, 0.749
+
+
+Result: {"city": 0.861, "tall": 0.857, "fall_down": 0.854, "underground": 0.843, "huge": 0.831, "small": 0.831, "relation": 0.898, "ending_in_heartbreak": 0.838, "@scenario_probability": 9.278829344295912e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 9.278829344295912e-05]

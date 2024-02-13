@@ -1,0 +1,8 @@
+city: 0.861
+tall: 0.857
+fall_down: 0.854
+underground: 0.843
+huge: 0.831
+small: 0.831
+university: 0.817
+solid: 0.815

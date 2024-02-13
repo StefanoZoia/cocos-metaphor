@@ -9,12 +9,14 @@ import time
 
 # For each conceptual metaphor m, the representation of src and tgt is selected with the following priority:
 # 1) src/tgt frame of m
-# 2) breadth-first search of "both source and target subcase of" and "src/tgt subcase of" related metaphors' src/tgt frames
-# 3) breadth-first search of “is subcase of” related frames, starting from src/tgt frames of m
-# 4) breadth-first search of “is subcase of” related frames, starting from the metaphors of which m is a subcase
-# 5) derive src/tgt from m's name, assuming that it has the form "TARGET [BE] SOURCE"
-# 6) rule 5) applied to the metaphors of which m is a subcase
-# 7) use the src/tgt frames "relevant framenet frames" as src/tgt
+# 2) derive src/tgt from m's name, assuming that it has the form "TARGET [BE] SOURCE"
+# 3) use the src/tgt frames "relevant framenet frames" as src/tgt
+# 4) breadth-first search of “is subcase of” related frames, starting from src/tgt frames of m
+# 5) breadth-first search of "both source and target subcase of" and "src/tgt subcase of" related metaphors:
+#    \-> apply rules 1 to 4 to each related metaphor
+#
+# The iteration of the priority rules stops when a representation is found that is present in ConceptNet,
+# or when there are no more appliable rules
 
 
 REQ_HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0',
@@ -100,7 +102,8 @@ def split_conceptual_metaphor(metaphor):
         if be in metaphor:
             metaphor = metaphor.split(be)
             return (metaphor[0].strip(), metaphor[1].strip())
-
+SPLITTED_SOURCE_INDEX = 1
+SPLITTED_TARGET_INDEX = 0
 
 
 def main():
@@ -167,156 +170,119 @@ def main():
         # for each conceptual metaphor in MetaNet
         for met in metaphors_dict.keys():
 
-            ###################################
-            # SOURCE - PRIORITY RULES 1 and 2 #
-            ###################################
+            ##########################
+            # SOURCE CONCEPT SEARCH  #
+            ##########################
 
-            source_frame = metaphors_dict[met]["source"]
-
-            # check for subsumer in "source subcase of" relation
-            met_subsumers_list = list(super_src_of[met])
-            
-            # while the source frame is not in ConceptNet and there is a subsumer
-            while not is_in_conceptnet(source_frame) \
-                        and len(met_subsumers_list) > 0:
-                # retrieve subsumer
-                subsumer_met = met_subsumers_list.pop(0)
-                # replace source frame with the subsumer's source frame (if exists)
-                if subsumer_met in metaphors_dict.keys():
-                    source_frame = metaphors_dict[subsumer_met]["source"]
-
-            ###################################
-            # SOURCE - PRIORITY RULES 3 and 4 #
-            ###################################
-                    
+            # list containing this metaphor and the subsumers found in a breadth-first search of "source subcase of" relations
             met_subsumers_list = [met] + list(super_src_of[met])
+            # current candidate for source concept
+            source_concept = None
 
-            # explore frame relations starting from met's source frame
-            while not is_in_conceptnet(source_frame) \
+            # RULE 5) apply rules 1 to 4 to each metaphor in met_subsumers_list
+            while not is_in_conceptnet(source_concept) \
                         and len(met_subsumers_list) > 0:
+                
+                # retrieve next metaphor
                 cur_met = met_subsumers_list.pop(0)
-                # check that cur_met is represented in MetaNet
-                if cur_met in metaphors_dict.keys():
-                    source_frame = metaphors_dict[cur_met]["source"]
 
-                    if source_frame in super_frames_of.keys():
-                        frame_subsumers_list = list(super_frames_of[source_frame])
-                        while not is_in_conceptnet(source_frame) \
+                # RULE 1) src/tgt frame of cur_met
+                if cur_met in metaphors_dict.keys():
+                    source_concept = metaphors_dict[cur_met]["source"]
+            
+                # RULE 2) derive src/tgt from cur_met's name, assuming that it has the form "TARGET [BE] SOURCE"
+                if not is_in_conceptnet(source_concept):
+                    source_concept = split_conceptual_metaphor(cur_met)[SPLITTED_SOURCE_INDEX]
+                    
+                # RULE 3) use the src/tgt frames "relevant framenet frames" as src/tgt
+                if not is_in_conceptnet(source_concept) \
+                            and cur_met in metaphors_dict.keys() \
+                            and metaphors_dict[cur_met]["source"] in fn_frames_for.keys():
+                    fn_list = fn_frames_for[metaphors_dict[cur_met]["source"]]
+                    while not is_in_conceptnet(source_concept) \
+                                and len(fn_list) > 0:
+                        source_concept = fn_list.pop(0)
+                
+                # RULE 4) breadth-first search of “is subcase of” related frames, starting from src/tgt frame of cur_met
+                if not is_in_conceptnet(source_concept) and cur_met in metaphors_dict.keys():
+                    source_concept = metaphors_dict[cur_met]["source"]
+
+                    if source_concept in super_frames_of.keys():
+                        frame_subsumers_list = list(super_frames_of[source_concept])
+                        while not is_in_conceptnet(source_concept) \
                                     and len(frame_subsumers_list) > 0:
                             # replace source frame with super-frame
-                            source_frame = frame_subsumers_list.pop(0)
-            
-            ###################################
-            # SOURCE - PRIORITY RULES 5 and 6 #
-            ###################################
-                    
+                            source_concept = frame_subsumers_list.pop(0)
+
+
+            ##########################
+            # TARGET CONCEPT SEARCH  #
+            ##########################
+
+            # list containing this metaphor and the subsumers found in a breadth-first search of "target subcase of" relations
             met_subsumers_list = [met] + list(super_src_of[met])
+            # current candidate for target concept
+            target_concept = None
 
-            # try to infer the source from metaphor's name, assuming that it has the form TARGET [BE] SOURCE
-            # starting from met and following metaphors "subcase of" relations
-            while not is_in_conceptnet(source_frame) \
+            # RULE 5) apply rules 1 to 4 to each metaphor in met_subsumers_list
+            while not is_in_conceptnet(target_concept) \
                         and len(met_subsumers_list) > 0:
+                
+                # retrieve next metaphor
                 cur_met = met_subsumers_list.pop(0)
-                source_frame = split_conceptual_metaphor(cur_met)[1]
 
-            ############################
-            # SOURCE - PRIORITY RULE 7 #
-            ############################
-            
-            fn_list = fn_frames_for[metaphors_dict[met]["source"]] if metaphors_dict[met]["source"] in fn_frames_for else list()
-
-            while not is_in_conceptnet(source_frame) \
-                        and len(fn_list) > 0:
-                source_frame = fn_list.pop(0)
-            
-
-            ###################################
-            # TARGET - PRIORITY RULES 1 and 2 #
-            ###################################
-                        
-            target_frame = metaphors_dict[met]["target"]
-                    
-            # check for subsumer in "target subcase of" relation
-            met_subsumers_list = list(super_tgt_of[met])
-            
-            # while the target frame is not in ConceptNet and there is a subsumer
-            while not is_in_conceptnet(target_frame) \
-                        and len(met_subsumers_list) > 0:
-                # retrieve subsumer
-                subsumer_met = met_subsumers_list.pop(0)
-                # replace target frame with the subsumer's target frame (if exists)
-                if subsumer_met in metaphors_dict.keys():
-                    target_frame = metaphors_dict[subsumer_met]["target"]
-
-            ###################################
-            # TARGET - PRIORITY RULES 3 and 4 #
-            ###################################
-                    
-            met_subsumers_list = [met] + list(super_tgt_of[met])
-
-            # explore frame relations starting from met's target frame
-            while not is_in_conceptnet(target_frame) \
-                        and len(met_subsumers_list) > 0:
-                cur_met = met_subsumers_list.pop(0)
-                # check that cur_met is represented in MetaNet
+                # RULE 1) src/tgt frame of cur_met
                 if cur_met in metaphors_dict.keys():
-                    target_frame = metaphors_dict[cur_met]["target"]
+                    target_concept = metaphors_dict[cur_met]["target"]
+            
+                # RULE 2) derive src/tgt from cur_met's name, assuming that it has the form "TARGET [BE] SOURCE"
+                if not is_in_conceptnet(target_concept):
+                    target_concept = split_conceptual_metaphor(cur_met)[SPLITTED_TARGET_INDEX]
+                    
+                # RULE 3) use the src/tgt frames "relevant framenet frames" as src/tgt
+                if not is_in_conceptnet(target_concept) \
+                            and cur_met in metaphors_dict.keys() \
+                            and metaphors_dict[cur_met]["target"] in fn_frames_for.keys():
+                    fn_list = fn_frames_for[metaphors_dict[cur_met]["target"]]
+                    while not is_in_conceptnet(target_concept) \
+                                and len(fn_list) > 0:
+                        target_concept = fn_list.pop(0)
+                
+                # RULE 4) breadth-first search of “is subcase of” related frames, starting from src/tgt frame of cur_met
+                if not is_in_conceptnet(target_concept) and cur_met in metaphors_dict.keys():
+                    target_concept = metaphors_dict[cur_met]["target"]
 
-                    if target_frame in super_frames_of.keys():
-                        frame_subsumers_list = list(super_frames_of[target_frame])
-                        while not is_in_conceptnet(target_frame) \
+                    if target_concept in super_frames_of.keys():
+                        frame_subsumers_list = list(super_frames_of[target_concept])
+                        while not is_in_conceptnet(target_concept) \
                                     and len(frame_subsumers_list) > 0:
                             # replace target frame with super-frame
-                            target_frame = frame_subsumers_list.pop(0)
-            
-            ###################################
-            # TARGET - PRIORITY RULES 5 and 6 #
-            ###################################
-                    
-            met_subsumers_list = [met] + list(super_src_of[met])
-
-            # try to infer the target from metaphor's name, assuming that it has the form TARGET [BE] SOURCE
-            # starting from met and following metaphors "subcase of" relations
-            while not is_in_conceptnet(target_frame) \
-                        and len(met_subsumers_list) > 0:
-                cur_met = met_subsumers_list.pop(0)
-                target_frame = split_conceptual_metaphor(cur_met)[0]
-
-            ############################
-            # TARGET - PRIORITY RULE 7 #
-            ############################
-            
-            fn_list = fn_frames_for[metaphors_dict[met]["target"]] if metaphors_dict[met]["target"] in fn_frames_for else list()
-
-            while not is_in_conceptnet(target_frame) \
-                        and len(fn_list) > 0:
-                target_frame = fn_list.pop(0)
-                
+                            target_concept = frame_subsumers_list.pop(0)
             
             ###############################
             # OUTPUT FOR CURRENT METAPHOR #
             ###############################
                     
-            # if both source and target frame are represented in ConceptNet
-            if is_in_conceptnet(source_frame) and is_in_conceptnet(target_frame):
+            # if both source and target candidate concepts are represented in ConceptNet
+            if is_in_conceptnet(source_concept) and is_in_conceptnet(target_concept):
                 # if source and target frame are different
-                if source_frame != target_frame:
-                    output_writer.writerow([source_frame, target_frame, met])
+                if source_concept != target_concept:
+                    output_writer.writerow([source_concept, target_concept, met])
                 # else the generalization made the two concepts collide: print a warning
                 else:
                     lost_count += 1
                     too_generalized_count += 1
                     print(f"Conceptual Metaphor {met} cannot be represented")
-                    print(f"\t> source frame \"{metaphors_dict[met]["source"]}\" and target frame \"{metaphors_dict[met]["target"]}\" were both generalized as \"{source_frame}\"")
+                    print(f"\t> source frame \"{metaphors_dict[met]["source"]}\" and target frame \"{metaphors_dict[met]["target"]}\" were both generalized as \"{source_concept}\"")
                     print()
 
             # else print a warning
             else:
                 lost_count += 1
                 print(f"Conceptual Metaphor {met} cannot be represented")
-                if not is_in_conceptnet(source_frame):
+                if not is_in_conceptnet(source_concept):
                     print(f"\t> source frame \"{metaphors_dict[met]["source"]}\" and subsumers not found in ConceptNet")
-                if not is_in_conceptnet(target_frame):
+                if not is_in_conceptnet(target_concept):
                     print(f"\t> target frame \"{metaphors_dict[met]["target"]}\" and subsumers not found in ConceptNet")
                 print()
 

@@ -1,4 +1,0 @@
-body: 0.822
-relationship: 0.818
-math: 0.726
-privledges: 0.678

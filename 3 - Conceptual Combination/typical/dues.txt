@@ -1,0 +1,4 @@
+fixed_charge: 0.7659
+right: 0.7290000000000001
+-paid: 0.6759000000000001
+should_give_credit_where_credit: 0.6120000000000001
