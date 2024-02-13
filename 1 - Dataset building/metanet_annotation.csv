@@ -66,9 +66,9 @@ TIME IS A MOVING OBJECT,The time will come when…,come,time,VN
 TIME IS A MOVING OBJECT,The time has long since gone when…,gone,time,VN
 TIME IS A MOVING OBJECT,The time for action has arrived.,arrived,time,VN
 TIME IS A LANDSCAPE THROUGH WHICH THE OBSERVER MOVES,That's all behind us now.,,,-
-TIME IS A LANDSCAPE THROUGH WHICH THE OBSERVER MOVES,You can't go back in time!,back,time,-
-TIME IS A LANDSCAPE THROUGH WHICH THE OBSERVER MOVES,We're looking ahead to the future.,ahead,future,-
-TIME IS A LANDSCAPE THROUGH WHICH THE OBSERVER MOVES,He has a great future in front of him.,front,future,-
+TIME IS A LANDSCAPE THROUGH WHICH THE OBSERVER MOVES,You can't go back in time!,back,time,DN
+TIME IS A LANDSCAPE THROUGH WHICH THE OBSERVER MOVES,We're looking ahead to the future.,ahead,future,DN
+TIME IS A LANDSCAPE THROUGH WHICH THE OBSERVER MOVES,He has a great future in front of him.,front,future,DN
 TIME IS A COMMODITY,Don't waste your time.,waste,time,VN
 THINKING IS SPEAKING,I can barely hear myself think.,think,hear,VV
 THINKING IS SPEAKING,He's an articulate thinker.,articulate,thinker,AN
@@ -274,64 +274,64 @@ MORAL IS STRAIGHT,God-fearing men must keep strictly to the straight and narrow.
 MORAL AGENTS ARE NURTURING PARENTS,The government takes good care of its people.,take care,government,VN
 MORAL AGENTS ARE NURTURING PARENTS,The CEO looks after her employees with motherly kindness.,,,
 MORAL AGENTS ARE NURTURING PARENTS,"With gentle care and attention, the pastor's congregation will flourish.",,,
-MORAL ACTION IS A FINANCIAL TRANSACTION,He's morally bankrupt.,bankrupt,morally,-
+MORAL ACTION IS A FINANCIAL TRANSACTION,He's morally bankrupt.,bankrupt,morally,DN
 MONEY TRANSFER IS FLUID MOTION,cash flow,flow,cash,NN
-MONEY TRANSFER IS FLUID MOTION,The money is gushing out of my retirement account.,,,
-MONEY IS A LIQUID,The money is all dried up.,,,
-MONEY IS A LIQUID,Liquid assets.,,,
-MONEY IS A LIQUID,Currency,,,
-MONEY IS A LIQUID,He's just sponging off of you.,,,
-MIND IS A MACHINE,We're still trying to grind out the solution to this equation.,,,
-MIND IS A MACHINE,My mind isn't operating today.,,,
-MIND IS A MACHINE,Boy the wheels are turning now!,,,
-MIND IS A MACHINE,I'm a little rusty today.,,,
-MIND IS A MACHINE,We've been working on this problem all day and now we're running out of steam.,,,
-MIND IS A CONTAINER,It's all in your mind.,,,
-MIND IS A CONTAINER,Keep it in the back of your mind.,,,
-MIND IS A COMPUTER,She came to a calculated decision.,,,
-MIND IS A BODY,Do the exercises at the end of this chapter.,,,
-MEMORIZATION IS WRITING,Let me make a mental note of that.,,,
-MEMORIZATION IS WRITING,It's imprinted in my mind forever.,,,
-MEANS ARE PATHS,Do it this way.,,,
-MEANS ARE PATHS,However you want to go about it is fine with me,,,
-MANNER OF ACTION IS MANNER OF MOVEMENT,We're skipping right along.,,,
-MANNER OF ACTION IS MANNER OF MOVEMENT,I'm walking on egg shells.,,,
-MANNER OF ACTION IS MANNER OF MOVEMENT,We slogged through it.,,,
-MAKING RELATED IS CAUSING CONTACT,It is unclear how the new law applies to this situation.,,,
-MAKING A DECISION IS WEIGHING,"Before we draw any conclusions, we must weigh both sides of the issue.",,,
-MACHINES ARE PEOPLE,The engine is dying; we need to repair it.,,,
-LOW STATUS IS DOWN,He is low on the totem pole.,,,
-LOSING AN ELECTION IS LOSING A WAR,"It was a hard-fought battle, but in the end Romney didn't have the numbers to overpower Obama.",,,
-LOSING AN ELECTION IS LOSING A WAR,"While at first the numbers were on his side, eventually Gore had to admit defeat to Bush in 2000.",,,
-LOSING AN ELECTION IS LOSING A RACE,"While Perry appeared to be the frontrunner, Romney came out ahead in the GOP primary.",,,
-LOSING AN ELECTION IS LOSING A RACE,"In the presidential race of 2008, John McCain came up short.",,,
-LOSING AN ELECTION IS LOSING A RACE,"During the Republican primary, several candidates jockeyed for the frontrunner position, but Huntsman quickly fell behind and bowed out.",,,
-LOSING AN ELECTION IS LOSING A BOXING MATCH,"During the Democratic primary in 2008, John Edwards came out swinging but was swiftly knocked out of the election.",,,
-LIFE IS A SEQUENCE OF MOTIONS,It's time to take the next big step in my life.,,,
-LIFE IS A JOURNEY,She hasn't gone as far in life as her parents had hoped.,,,
-LIFE IS A JOURNEY,His life has taken a good course.,,,
-LIFE IS A JOURNEY,I go where my path leads me.,,,
-LIFE IS A JOURNEY,I go where my path leads me.,,,
-LIFE IS A JOURNEY,"As I've traveled through life, I've made a lot of friends along the way.",,,
-LIFE IS A JOURNEY,"He has changed his direction in life, and taken a more spiritual path.",,,
-LESS IS SMALL,She has very little money.,,,
-LESS IS SMALL,The number of available parking spaces continues to shrink.,,,
-LESS IS DOWN,Her temperature is going down.,,,
-LEGISLATIVE ACTIVITY IS MAKING OBJECTS,"Congress is producing little this election year that will become law, yet both parties are churning out bills designed to make the other side look bad.",,,
-LEARNING IS ACQUIRING,This gives me a great idea!,,,
-LEARNING IS ACQUIRING,I got a much better idea of what was going on after the last meeting.,,,
-LEARNING IS ACQUIRING,"She had acquired an intimate knowledge of the terrain, which now helped her to travel quickly.",,,
-LEARNING IS ACQUIRING,Her experience gave her a great deal of knowledge.,,,
-LEADING A NATION IS STEERING A BOAT,The president is steering the country into unknown waters.,,,
-LEADING A NATION IS DRIVING A VEHICLE,The president drove the nation into a ditch.,,,
-LEADING A NATION IS DRIVING A VEHICLE,Obama on GOP: 'They Drove The Country Into A Ditch...Now They Want The Keys Back',,,
-LEADING A NATION IS DRIVING A VEHICLE,Where was he when he drove our country off a cliff?,,,
-LEADER OF A NATION IS HEAD OF BODY,"Obama is the head of the country, whether some people don't like democracy or not.",,,
-LAWS ARE PLANTS,Out of these discussions will grow legislation of farreaching importance.,,,
-LAWS ARE PHYSICAL STRUCTURES,dismantle gun laws,,,
-LAWS ARE OBJECTS,How to Build A Law,,,
-LAW ENFORCEMENT IS SUPPORTING A STRUCTURE,"Aug 25, 2010 – And so, two of the main pillars of our democracy—a free press and the courts—will be assailed at the same time.",,,
-KNOWING IS TOUCHING,"I've almost got an idea, but I can't quite put my finger on it.",,,
+MONEY TRANSFER IS FLUID MOTION,The money is gushing out of my retirement account.,gushing out,money,VN
+MONEY IS A LIQUID,The money is all dried up.,dried,money,AN
+MONEY IS A LIQUID,Liquid assets.,liquid,assets,AN
+MONEY IS A LIQUID,Currency,,,-
+MONEY IS A LIQUID,He's just sponging off of you.,,,-
+MIND IS A MACHINE,We're still trying to grind out the solution to this equation.,grind,solution,VN
+MIND IS A MACHINE,My mind isn't operating today.,operating,mind,VN
+MIND IS A MACHINE,Boy the wheels are turning now!,,,-
+MIND IS A MACHINE,I'm a little rusty today.,,,-
+MIND IS A MACHINE,We've been working on this problem all day and now we're running out of steam.,,,-
+MIND IS A CONTAINER,It's all in your mind.,in,mind,DN
+MIND IS A CONTAINER,Keep it in the back of your mind.,back,mind,DN
+MIND IS A COMPUTER,She came to a calculated decision.,calculated,decision,AN
+MIND IS A BODY,Do the exercises at the end of this chapter.,,,-
+MEMORIZATION IS WRITING,Let me make a mental note of that.,note,mental,AN
+MEMORIZATION IS WRITING,It's imprinted in my mind forever.,imprinted,mind,VN
+MEANS ARE PATHS,Do it this way.,,,-
+MEANS ARE PATHS,However you want to go about it is fine with me,,,-
+MANNER OF ACTION IS MANNER OF MOVEMENT,We're skipping right along.,,,-
+MANNER OF ACTION IS MANNER OF MOVEMENT,I'm walking on egg shells.,,,-
+MANNER OF ACTION IS MANNER OF MOVEMENT,We slogged through it.,,,-
+MAKING RELATED IS CAUSING CONTACT,It is unclear how the new law applies to this situation.,applies,law,VN
+MAKING A DECISION IS WEIGHING,"Before we draw any conclusions, we must weigh both sides of the issue.",weigh,issue,VN
+MACHINES ARE PEOPLE,The engine is dying; we need to repair it.,dying,engine,VN
+LOW STATUS IS DOWN,He is low on the totem pole.,,,-
+LOSING AN ELECTION IS LOSING A WAR,"It was a hard-fought battle, but in the end Romney didn't have the numbers to overpower Obama.",overpower,Obama,VN
+LOSING AN ELECTION IS LOSING A WAR,"While at first the numbers were on his side, eventually Gore had to admit defeat to Bush in 2000.",defeat,Bush,VN
+LOSING AN ELECTION IS LOSING A RACE,"While Perry appeared to be the frontrunner, Romney came out ahead in the GOP primary.",,,-
+LOSING AN ELECTION IS LOSING A RACE,"In the presidential race of 2008, John McCain came up short.",race,presidential,AN
+LOSING AN ELECTION IS LOSING A RACE,"During the Republican primary, several candidates jockeyed for the frontrunner position, but Huntsman quickly fell behind and bowed out.",,,-
+LOSING AN ELECTION IS LOSING A BOXING MATCH,"During the Democratic primary in 2008, John Edwards came out swinging but was swiftly knocked out of the election.",knocked out,election,VN
+LIFE IS A SEQUENCE OF MOTIONS,It's time to take the next big step in my life.,step,life,NN
+LIFE IS A JOURNEY,She hasn't gone as far in life as her parents had hoped.,far,life,DN
+LIFE IS A JOURNEY,His life has taken a good course.,course,life,NN
+LIFE IS A JOURNEY,I go where my path leads me.,,,-
+LIFE IS A JOURNEY,I go where my path leads me.,,,-
+LIFE IS A JOURNEY,"As I've traveled through life, I've made a lot of friends along the way.",traveled,life,VN
+LIFE IS A JOURNEY,"He has changed his direction in life, and taken a more spiritual path.",direction,life,NN
+LESS IS SMALL,She has very little money.,little,money,AN
+LESS IS SMALL,The number of available parking spaces continues to shrink.,shrink,number,VN
+LESS IS DOWN,Her temperature is going down.,,,-
+LEGISLATIVE ACTIVITY IS MAKING OBJECTS,"Congress is producing little this election year that will become law, yet both parties are churning out bills designed to make the other side look bad.",churning out,bills,VN
+LEARNING IS ACQUIRING,This gives me a great idea!,give,idea,VN
+LEARNING IS ACQUIRING,I got a much better idea of what was going on after the last meeting.,got,idea,VN
+LEARNING IS ACQUIRING,"She had acquired an intimate knowledge of the terrain, which now helped her to travel quickly.",acquired,knowledge,VN
+LEARNING IS ACQUIRING,Her experience gave her a great deal of knowledge.,gave,experience,VN
+LEADING A NATION IS STEERING A BOAT,The president is steering the country into unknown waters.,steering,country,VN
+LEADING A NATION IS DRIVING A VEHICLE,The president drove the nation into a ditch.,drove,nation,VN
+LEADING A NATION IS DRIVING A VEHICLE,Obama on GOP: 'They Drove The Country Into A Ditch...Now They Want The Keys Back',drove,country,VN
+LEADING A NATION IS DRIVING A VEHICLE,Where was he when he drove our country off a cliff?,drove,country,VN
+LEADER OF A NATION IS HEAD OF BODY,"Obama is the head of the country, whether some people don't like democracy or not.",head,country,NN
+LAWS ARE PLANTS,Out of these discussions will grow legislation of farreaching importance.,grow,legislation,VN
+LAWS ARE PHYSICAL STRUCTURES,dismantle gun laws,dismantle,laws,VN
+LAWS ARE OBJECTS,How to Build A Law,build,law,VN
+LAW ENFORCEMENT IS SUPPORTING A STRUCTURE,"Aug 25, 2010 – And so, two of the main pillars of our democracy—a free press and the courts—will be assailed at the same time.",pillars,democracy,NN
+KNOWING IS TOUCHING,"I've almost got an idea, but I can't quite put my finger on it.",put my finger,idea,VN
 KNOWING IS TOUCHING,I could never put my finger on what the problem was. I felt crazy at times and there were so many times that I would approach him with a very well-thought out ...,,,
 KNOWING IS SEEING,I see what you mean.,,,
 KNOWING IS PERCEIVING,I see what you mean.,,,
