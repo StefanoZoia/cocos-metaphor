@@ -17,10 +17,14 @@ T(modifier), seeing_idea_become_reality, 0.675
 T(modifier), heart, 0.672
 
 T(head), stance, 0.814
+T(head), position, 0.796
 T(head), -flaccid, 0.721
 T(head), heraldry, 0.703
+T(head), climbing, 0.688
+T(head), scotland, 0.674
+T(head), specifically, 0.654
 T(head), -soft, 0.535
 
 
-Result: {"meteorology": 0.763, "computer_science": 0.733, "keeping_things_orderly_and_tidy": 0.696, "finding_lost_item": 0.691, "getting_fit": 0.677, "stance": 0.814, "-flaccid": 0.721, "heraldry": 0.703, "@scenario_probability": 0.12029072510863624}
-Scenario: [1, 1, 1, 1, 0, 1, 0, 0, 1, 1, 1, 0, 0.12029072510863624]
+Result: {"meteorology": 0.763, "computer_science": 0.733, "keeping_things_orderly_and_tidy": 0.696, "finding_lost_item": 0.691, "stance": 0.814, "position": 0.796, "-flaccid": 0.721, "heraldry": 0.703, "@scenario_probability": 0.0016077086820302183}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0.0016077086820302183]

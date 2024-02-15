@@ -71,8 +71,8 @@ def main():
     with open(cfg.CORPUS_FILE, newline='', encoding='utf-8') as corpus:
         reader = csv.reader(corpus, delimiter='\t', quotechar='"')
         for row in reader:
-            source = row[0].lower()
-            target = row[1].lower()
+            source = row[0].lower().replace(" ", "_").replace("-", "_")
+            target = row[1].lower().replace(" ", "_").replace("-", "_")
             write_cocos_file(head=target, modifier=source)
 
 

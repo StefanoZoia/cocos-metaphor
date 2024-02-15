@@ -33,7 +33,7 @@ feature_weight = {'rel': 0.4, 'rel_weight': 0.2, 'relatedness': 0.4}
 expansion_weight = 0.9
 
 # list of relations identifying a root concept
-root_rel = ['FormOf', 'DerivedFrom']
+root_rel = ['FormOf', 'DerivedFrom', 'IsA', 'PartOf', "MannerOf", "Synonym", "InstanceOf"]
 
 # list of relations that imply a negation
 neg_rel = ['NotIsA', 'NotUsedFor', 'NotCapableOf', 'NotHasProperty', 'ObstructedBy', 'Antonym', 'DistinctFrom']

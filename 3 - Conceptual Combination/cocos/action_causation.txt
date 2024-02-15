@@ -8,13 +8,13 @@ Modifier Concept Name: causation
 
 
 T(modifier), origin, 0.755
+T(modifier), relation, 0.751
 T(modifier), make, 0.749
 T(modifier), justification, 0.747
 T(modifier), -effect, 0.74
+T(modifier), act, 0.73
 T(modifier), suffer_setback, 0.721
 T(modifier), succeed_effect, 0.715
-T(modifier), -symptom, 0.703
-T(modifier), -result, 0.702
 
 T(head), act, 0.864
 T(head), mechanism, 0.839
@@ -26,5 +26,5 @@ T(head), cause_change, 0.812
 T(head), cause_effect, 0.812
 
 
-Result: {"origin": 0.755, "act": 0.864, "mechanism": 0.839, "-inaction": 0.835, "past_or_present": 0.833, "work": 0.825, "plot": 0.824, "cause_effect": 0.812, "@scenario_probability": 0.0004590273238092213}
-Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0.0004590273238092213]
+Result: {"origin": 0.755, "act": 0.864, "mechanism": 0.839, "-inaction": 0.835, "past_or_present": 0.833, "work": 0.825, "plot": 0.824, "cause_effect": 0.812, "@scenario_probability": 0.0003486815241869922}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0.0003486815241869922]

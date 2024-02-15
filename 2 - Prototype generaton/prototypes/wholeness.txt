@@ -1,8 +1,8 @@
 good_health: 0.858
-concept: 0.7343999999999999
-object: 0.7272000000000001
--gimpy: 0.684
--portion: 0.6804
--ground: 0.675
-parts: 0.6678000000000001
-fraction: 0.6543
+honesty: 0.8181
+completeness: 0.7866
+character: 0.7587
+staying_fit: 0.756
+important_for_normal_living: 0.7515
+good: 0.7479
+necessary_for_long_life: 0.7461
