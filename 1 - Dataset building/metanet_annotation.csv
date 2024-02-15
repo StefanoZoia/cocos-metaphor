@@ -204,7 +204,6 @@ POVERTY IS A DISEASE,"As President Obama has said, we can't treat the symptoms o
 POVERTY IS A CRIME,He appealed to logos (logic) by trying to analyze why poverty is a crime and tries to differentiate it from being poor.,crime,poverty,NN
 POLITICIANS ARE STAGE ACTORS,The President played his part magnificently.,,,-
 POLITICAL UNREST IS A WILDFIRE,The wildfire of revolution rapidly spread throughout the land.,wildfire,revolution,NN
-POLITICAL UNREST IS A WILDFIRE,,,,-
 POLITICAL REGION IS A VEHICLE,They are rocking the ship of state.,ship,state,NN
 POLITICAL REGION IS A VEHICLE,Dirt threatens to sink ship of state,ship,state,NN
 PHYSICAL STRENGTH IS VERTICALITY,His strength declined as he aged.,declined,strength,VN
@@ -303,7 +302,7 @@ MACHINES ARE PEOPLE,The engine is dying; we need to repair it.,dying,engine,VN
 LOW STATUS IS DOWN,He is low on the totem pole.,,,-
 LOSING AN ELECTION IS LOSING A WAR,"It was a hard-fought battle, but in the end Romney didn't have the numbers to overpower Obama.",overpower,Obama,VN
 LOSING AN ELECTION IS LOSING A WAR,"While at first the numbers were on his side, eventually Gore had to admit defeat to Bush in 2000.",defeat,Bush,VN
-LOSING AN ELECTION IS LOSING A RACE,"While Perry appeared to be the frontrunner, Romney came out ahead in the GOP primary.",,,-
+LOSING AN ELECTION IS LOSING A RACE,"While Perry appeared to be the frontrunner, Romney came out ahead in the GOP primary.",frontrunner,primary,NN
 LOSING AN ELECTION IS LOSING A RACE,"In the presidential race of 2008, John McCain came up short.",race,presidential,AN
 LOSING AN ELECTION IS LOSING A RACE,"During the Republican primary, several candidates jockeyed for the frontrunner position, but Huntsman quickly fell behind and bowed out.",,,-
 LOSING AN ELECTION IS LOSING A BOXING MATCH,"During the Democratic primary in 2008, John Edwards came out swinging but was swiftly knocked out of the election.",knocked out,election,VN
@@ -342,9 +341,7 @@ JUDGES ARE SPORTS REFEREES,"Feb 24, 2007 – A judge is often thought of in term
 INTERRELATEDNESS IS PHYSICAL INTERCONNECTEDNESS,Emigration has threatened to unravel the fabric of this small society.,fabric,society,NN
 INTERRELATEDNESS IS PHYSICAL INTERCONNECTEDNESS,The chairman has managed to weave together quite a coalition,weave,coalition,VN
 INTERNATIONAL RELATIONS ARE INTERPERSONAL RELATIONSHIPS,Which country is your country's best friend?,friend,country,NN
-INTERNATIONAL RELATIONS ARE INTERPERSONAL RELATIONSHIPS,,,,-
 INTERNATIONAL DISAGREEMENTS ARE QUARRELS,Japan's Spat With China Takes Big Toll on Tourism,,,-
-INTERNATIONAL DISAGREEMENTS ARE QUARRELS,,,,-
 INTERNATIONAL ASSOCIATION IS CONNECTION,France has close ties to former colony Tunisia,,,-
 INTERESTING IDEAS ARE APPETIZING FOODS,She's the kind of person you always need to sugar-coat it for to get her to do anything.,,,-
 INTEREST IN IDEAS IS APPETITE FOR FOOD,He has an appetite for learning.,appetite,learning,VN
@@ -354,7 +351,6 @@ INSTITUTIONS ARE PEOPLE,"Their practices and policies have put them right in the
 INSTITUTIONS ARE BUILDINGS,The Crumbling Walls of the Roman Catholic Church,walls,Church,NN
 INSTITUTIONS ARE BUILDINGS,Institutional reform,,,-
 INSTITUTION IS AN ORGANISM,"May 27, 2011 – The “health” of an institution is measured by the effectiveness of its organization and mission, and also by how well it plans for the future.",health,institution,NN
-INSTITUTION IS AN ORGANISM,,,,-
 INSTITUTION IS A VEHICLE,I would venture to conclude from this that institutions are vehicles of subcultures driven by groups of people with a common destination,vehicles,institution,NN
 INSTITUTION IS A MACHINE,"More especially, the analogy mentioned between institutions and machines must not be interpreted as proposing the theory that institutions are machines—in some essentialist sense.",machines,institution,NN
 INSTITUTION IS A FACTORY,"Society’s great institutions are factories of ideas, regularly churning out new frameworks, insights, and understanding.",factories,institutions,NN
@@ -372,68 +368,65 @@ INEQUALITY IS BEING ON DIFFERENT VERTICAL LEVELS,The upwardly mobile are moving 
 INEQUALITY IS BEING ON DIFFERENT VERTICAL LEVELS,Moving up the social ladder: The bottom rung vs the top rung,ladder,social,AN
 INEFFICIENT GOVERNMENT IS A BLOATED BODY,"Tax Revolt: The Rebellion Against an Overbearing, Bloated, Arrogant, and Abusive Government",,,-
 INEFFICIENT GOVERNMENT IS A BLOATED BODY,Tom Barrett: Put state government on a diet,diet,government,NN
-INEFFICIENT GOVERNMENT IS A BLOATED BODY,,,,-
 INEFFECTIVE GOVERNMENT IS A POORLY-MANAGED BUSINESS,"The point, however, is that saying that government is inefficient because it does not turn a profit is the equivalent of saying that Peyton Manning is a poor quarterback because he doesn’t hit enough home runs. He’s not supposed to.",,,-
 INEFFECTIVE GOVERNMENT IS A POORLY-MANAGED BUSINESS,"The business of municipal government is, in general, the most poorly managed business in the world.",business,government,NN
 INCREASING GOVERNMENT DEBT IS RISING WATER LEVEL,"Debt, debt, debt; we're drowning in it. This morning, the Office for National Statistics published the latest estimates of public sector borrowing. Though borrowing is falling faster than anticipated, thanks to the fact that spending cuts are finally beginning to kick in, the national debt has risen to 64.2 per cent of GDP. More significantly, we now owe more than £1 trillion, or around £16,000 for every person in the country.",drowning,debt,VN
 INCREASING EVALUABILITY OF GOVERNMENT IS INCREASING TRANSPARENCY,"Increasing transparency in government (title of article, International Journal on World Peace)",transparency,government,NN
-INCREASING EVALUABILITY OF GOVERNMENT IS INCREASING TRANSPARENCY,,,,-
 INCREASING EVALUABILITY OF GOVERNMENT IS INCREASING LIGHT,"Stay up to date on Sunlight’s work in D.C., throughout the country and around the world, as well as the latest open government, transparency and technology news.",,,-
-INCREASE IN CRIME IS SPREAD OF DISEASE,"As It Opens to Outsiders, Cuba Is Infected by Crime",Infected,crime,VN
+INCREASE IN CRIME IS SPREAD OF DISEASE,"As It Opens to Outsiders, Cuba Is Infected by Crime",infected,crime,VN
 INCITING GOVERNING ACTION IS FORCED MOVEMENT,"Bloomberg Goes to Washington to Push Gun Laws, but Senate Has Other Ideas",,,-
 INCITING GOVERNING ACTION IS FORCED MOVEMENT,Livingston County judge: Cuomo administration steamrolled lawmakers on gay marriage vote,,,-
 INABILITY TO EVALUATE GOVERNMENT IS INABILITY TO SEE,"The World Bank has issued its latest index of corruption and transparency. The world’s largest democracy, India, is looking a bit red-faced.",,,-
-IMPORTANT IS CENTRAL,The issue is central to these negotiations.,,,
-IMPORTANCE IS WEIGHT,That's a lightweight issue.,,,
-IMPORTANCE IS WEIGHT,This is a substantive / substantial problem for us.,,,
-IMPORTANCE IS SIZE,A big part of this mission was not to contaminate the planet with Earth organisms.,,,
-IMPORTANCE IS SIZE,Texaco is a relatively small player in the California gasoline market but a bigger factor in the Eastern states that want to follow California's lead.,,,
-IMMORALITY IS DISEASE,'It’s sick and disgusting that a painting like this can go on show so soon after my daughter was murdered.,,,
-IMMORALITY IS DISEASE,,,,
-IMMORALITY IS DEGENERATION,The consequence of idolatry is the moral disintegration of human society.,,,
-IMMORAL IS CROOKED,He's a crooked politician.,,,
-ILLEGAL ACTIVITY IS BREAKING A PHYSICAL OBJECT,Shatter the rules of the market economy,,,
-IDEAS ARE POSSESSIONS,I have an idea.,,,
-IDEAS ARE POSSESSIONS,She gave me a good idea.,,,
-IDEAS ARE POSSESSIONS,Keep your opinion to yourself!,,,
-IDEAS ARE PEOPLE,The theory of relativity gave birth to an enormous number of ideas in physics.,,,
-IDEAS ARE PEOPLE,He is the father of modern biology.,,,
-IDEAS ARE PEOPLE,Whose brainchild was that?,,,
-IDEAS ARE PEOPLE,Look at what his ideas have spawned.,,,
-IDEAS ARE PEOPLE,Those ideas died off in the Middle Ages.,,,
-IDEAS ARE PEOPLE,His ideas will live on forever.,,,
-IDEAS ARE PEOPLE,Cognitive psychology is still in its infancy.,,,
-IDEAS ARE PEOPLE,That's an idea that ought to be resurrected.,,,
-IDEAS ARE PEOPLE,He breathed new life into that idea.,,,
-IDEAS ARE OBJECTS,You'd need an electron microscope to find the point of this essay.,,,
-IDEAS ARE FOOD,"This is what happens when science serves up facts more indigestible than evolution. We end up with a society where the masses live in outright ignorance and denial, while the dominant institutions, thanks to market and political expediency, continually reorganize themselves around actionable intelligence as it comes in.",,,
-IDEAS ARE FOOD,Food for thought nust be appetizing. Chemistry students usually can write acceptable exposition if they know good writing is expected,,,
-HIGH STATUS IS UP,He has a lofty position.,,,
-HIGH STATUS IS UP,He'll rise to the top.,,,
-HIGH STATUS IS UP,He's at the peak of his career.,,,
-HIGH STATUS IS UP,He's climbing the ladder of success.,,,
-HIGH STATUS IS UP,In that community there is little opportunity for upward mobility.,,,
-HIGH STATUS IS UP,They are at the bottom of the social hierarchy.,,,
-HIGH STATUS IS UP,She fell in status.,,,
-HIERARCHY IS A VERTICAL STRUCTURE,He's gone over my head to the top supervisor.,,,
-HELP IS PHYSICAL SUPPORT,Our work in the African continent [. . .] is supported by Tear Fund,,,
-HELP IS PHYSICAL SUPPORT,Our conservation program needs your support.,,,
-HELP IS PHYSICAL SUPPORT,I've really been leaning on my friends the past few months.,,,
-HEALTH IS VERTICALITY,He's down with the flu.,,,
-HEALTH IS UP,He's at the peak of health.,,,
-HEALTH IS UP,He's in top shape.,,,
-HAPPY IS UP,That boosted my spirits.,,,
-HAPPY IS UP,My spirits rose.,,,
-HAPPY IS UP,You're in high spirits.,,,
-HAPPY IS UP,Thinking about her always gives me a lift.,,,
-HAPPINESS IS VERTICALITY,I'm soaring with joy.,,,
-HAPPINESS IS VERTICALITY,His spirits fell.,,,
-GUNS ARE PESTS,gun-infested state,,,
-GUNS ARE OBJECTS OF WORSHIP,altar of gun ownership,,,
-GUNS ARE OBJECTS OF WORSHIP,worship guns,,,
-GUNS ARE OBJECTS OF WORSHIP,glorify firearms,,,
-GUNS ARE DRUGS,"The primary reason Americans are addicted to guns is due to the National Rifle Association's very effective — and immoral — campaign to instill fear into the heart of our citizens, which has paralyzed the soul of America.",,,
-GUNS ARE A NATURAL DISASTER,avalanche of guns,,,
+IMPORTANT IS CENTRAL,The issue is central to these negotiations.,central,issue,AN
+IMPORTANCE IS WEIGHT,That's a lightweight issue.,lightweight,issue,AN
+IMPORTANCE IS WEIGHT,This is a substantive / substantial problem for us.,substantial,problem,AN
+IMPORTANCE IS SIZE,A big part of this mission was not to contaminate the planet with Earth organisms.,,,-
+IMPORTANCE IS SIZE,Texaco is a relatively small player in the California gasoline market but a bigger factor in the Eastern states that want to follow California's lead.,small,player,AN
+IMMORALITY IS DISEASE,'It’s sick and disgusting that a painting like this can go on show so soon after my daughter was murdered.,,,-
+IMMORALITY IS DEGENERATION,The consequence of idolatry is the moral disintegration of human society.,disintegration,moral,AN
+IMMORAL IS CROOKED,He's a crooked politician.,crooked,politician,AN
+ILLEGAL ACTIVITY IS BREAKING A PHYSICAL OBJECT,Shatter the rules of the market economy,shatter,rules,VN
+IDEAS ARE POSSESSIONS,I have an idea.,have,idea,VN
+IDEAS ARE POSSESSIONS,She gave me a good idea.,gave,idea,VN
+IDEAS ARE POSSESSIONS,Keep your opinion to yourself!,,,-
+IDEAS ARE PEOPLE,The theory of relativity gave birth to an enormous number of ideas in physics.,gave birth,ideas,VN
+IDEAS ARE PEOPLE,He is the father of modern biology.,father,biology,NN
+IDEAS ARE PEOPLE,Whose brainchild was that?,,,-
+IDEAS ARE PEOPLE,Look at what his ideas have spawned.,spawned,ideas,VN
+IDEAS ARE PEOPLE,Those ideas died off in the Middle Ages.,died,ideas,VN
+IDEAS ARE PEOPLE,His ideas will live on forever.,live,ideas,VN
+IDEAS ARE PEOPLE,Cognitive psychology is still in its infancy.,infancy,cognitive psychology,NN
+IDEAS ARE PEOPLE,That's an idea that ought to be resurrected.,resurrected,idea,VN
+IDEAS ARE PEOPLE,He breathed new life into that idea.,breathed new life,idea,VN
+IDEAS ARE OBJECTS,You'd need an electron microscope to find the point of this essay.,,,-
+IDEAS ARE FOOD,"This is what happens when science serves up facts more indigestible than evolution. We end up with a society where the masses live in outright ignorance and denial, while the dominant institutions, thanks to market and political expediency, continually reorganize themselves around actionable intelligence as it comes in.",indigestible,facts,AN
+IDEAS ARE FOOD,Food for thought nust be appetizing. Chemistry students usually can write acceptable exposition if they know good writing is expected,food,thought,NN
+HIGH STATUS IS UP,He has a lofty position.,,,-
+HIGH STATUS IS UP,He'll rise to the top.,rise,top,VN
+HIGH STATUS IS UP,He's at the peak of his career.,peak,career,NN
+HIGH STATUS IS UP,He's climbing the ladder of success.,ladder,success,NN
+HIGH STATUS IS UP,In that community there is little opportunity for upward mobility.,,,-
+HIGH STATUS IS UP,They are at the bottom of the social hierarchy.,hierarchy,social,AN
+HIGH STATUS IS UP,She fell in status.,fell,status,VN
+HIERARCHY IS A VERTICAL STRUCTURE,He's gone over my head to the top supervisor.,top,supervisor,AN
+HELP IS PHYSICAL SUPPORT,Our work in the African continent [. . .] is supported by Tear Fund,,,-
+HELP IS PHYSICAL SUPPORT,Our conservation program needs your support.,,,-
+HELP IS PHYSICAL SUPPORT,I've really been leaning on my friends the past few months.,,,-
+HEALTH IS VERTICALITY,He's down with the flu.,down,flu,NN
+HEALTH IS UP,He's at the peak of health.,peak,health,NN
+HEALTH IS UP,He's in top shape.,top,shape,AN
+HAPPY IS UP,That boosted my spirits.,boosted,spirits,VN
+HAPPY IS UP,My spirits rose.,rose,spirits,VN
+HAPPY IS UP,You're in high spirits.,high,spirits,AN
+HAPPY IS UP,Thinking about her always gives me a lift.,,,-
+HAPPINESS IS VERTICALITY,I'm soaring with joy.,soaring,joy,VN
+HAPPINESS IS VERTICALITY,His spirits fell.,fell,spirits,VN
+GUNS ARE PESTS,gun-infested state,infested,gun,AN
+GUNS ARE OBJECTS OF WORSHIP,altar of gun ownership,altar,gun,NN
+GUNS ARE OBJECTS OF WORSHIP,worship guns,worship,guns,VN
+GUNS ARE OBJECTS OF WORSHIP,glorify firearms,glorify,firearms,VN
+GUNS ARE DRUGS,"The primary reason Americans are addicted to guns is due to the National Rifle Association's very effective — and immoral — campaign to instill fear into the heart of our citizens, which has paralyzed the soul of America.",addicted,guns,VN
+GUNS ARE A NATURAL DISASTER,avalanche of guns,avalanche,guns,NN
 GUNS ARE A DISEASE,‘America’s gun disease is a national security issue’,,,
 GUN VIOLENCE IS A PHYSICAL AFFLICTION,cancerous gun violence,,,
 GUN VIOLENCE IS A PHYSICAL AFFLICTION,plague of gun violence,,,
@@ -460,7 +453,6 @@ GOVERNMENT'S HARMFUL TREATMENT OF RIGHTS IS TRESPASSING,These gay marriage laws 
 GOVERNMENT'S HARMFUL TREATMENT OF RIGHTS IS TRESPASSING,The government needs to stay out of my bedroom.,,,
 GOVERNMENT'S HARMFUL TREATMENT OF RIGHTS IS TRAMPLING ON AN OBJECT,The government's move to censor the internet is trampling all over our rights to free speech and freedom of the press.,,,
 GOVERNMENT'S HARMFUL TREATMENT OF RIGHTS IS THEFT,Overturning Roe v. Wade would steal away our right to privacy.,,,
-GOVERNMENT'S HARMFUL TREATMENT OF RIGHTS IS THEFT,,,,
 GOVERNMENT'S HARMFUL TREATMENT OF RIGHTS IS INVADING A TERRITORY,The government overstepped a line when they proposed wiretapping citizens' phone lines.,,,
 GOVERNMENT'S HARMFUL TREATMENT OF RIGHTS IS INVADING A TERRITORY,Gay marriage is encroaching on our religious freedoms.,,,
 GOVERNMENT'S HARMFUL TREATMENT OF RIGHTS IS DAMAGING A PHYSICAL STRUCTURE,Every new bill the President proposes chips away at our freedoms.,,,
@@ -499,7 +491,6 @@ GOVERNMENT IS A DISEASE,"Once the stage has been set, radical surgery will be re
 GOVERNMENT IS A CHILDCARE PROVIDER,I believe in personal responsibility and the government shouldn't be a babysitter but I also believe in compassion for less advantageous people.,,,
 GOVERNMENT IS A CHILDCARE PROVIDER,"Can I decide what size soda I want to drink? No, that’s the nanny state’s job.",,,
 GOVERNMENT IS A BUSINESS,One of the worst-run businesses in the United States is also the largest business in the nation. The federal government is in financial disarray. It spends more than it makes and its investments are not based on sound financial principles.,,,
-GOVERNMENT IS A BUSINESS,,,,
 GOVERNMENT INSTITUTION IS A PHYSICAL STRUCTURE,Rising food prices can topple governments,,,
 GOVERNMENT INSTITUTION IS A PHYSICAL STRUCTURE,Afghanistan's government could collapse after 2014.,,,
 GOVERNMENT INSTITUTION IS A MACHINE,"If the injustice is part of the necessary friction of the machine of government, let it go, let it go: perchance it will wear smooth--certainly the machine will wear out. If the injustice has a spring, or a pulley, or a rope, or a crank, exclusively for itself, then perhaps you may consider whether the remedy will not be worse than the evil; but if it is of such a nature that it requires you to be the agent of injustice to another, then I say, break the law. Let your life be a counter-friction to stop the machine. What I have to do is to see, at any rate, that I do not lend myself to the wrong which I condemn.",,,
@@ -647,7 +638,6 @@ DEGREE OF MORALITY IS PHYSICAL HEIGHT,He is a person of very high moral standard
 DEGREE IS DISTANCE ALONG A PATH,He is far more intelligent than he looks.,,,
 DEBT IS PHYSICAL IMPEDIMENTS TO MOTION,Debt is holding me back from reaching my goals.,,,
 DEBT IS AN ORGANISM,Credit card debt has been growing significantly,,,
-DEBT IS AN ORGANISM,,,,
 DEBATING IS ONE-ON-ONE PHYSICAL FIGHTING,Obama and Romney Strike Blows Over Benghazi,,,
 CRITICIZING IS ATTACKING,He attacked the speaker with harsh words of criticism.,,,
 CRIME IS AN ANIMAL,Crime is a beast ravaging the city.,,,
@@ -720,7 +710,6 @@ CITIZEN RIGHTS ARE TERRITORIES,We need to protect our rights from infringement.,
 CITIZEN RIGHTS ARE SHIELDS FROM HARM,Do gun rights protect against tyranny?,,,
 CITIZEN RIGHTS ARE POSSESSIONS,Don't let anyone take away your right to vote.,,,
 CITIZEN RIGHTS ARE PHYSICAL STRUCTURES,One down of the three pillars of “unalienable” rights that hold up this great country of ours.,,,
-CITIZEN RIGHTS ARE PHYSICAL STRUCTURES,,,,
 CITIZEN RIGHTS ARE PHYSICAL STRUCTURES,"This is an usagainst-them battle, but the “them” are those who would dismantle our rights.",,,
 CHANGE OF STATE IS CHANGE OF POSSESSION,I got a headache.,,,
 CHANGE OF STATE IS CHANGE OF POSSESSION,My headache went away.,,,
