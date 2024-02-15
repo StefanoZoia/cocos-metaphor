@@ -1,0 +1,24 @@
+Title: resource-natural_resource
+
+Head Concept Name: resource
+Modifier Concept Name: natural_resource
+
+
+
+
+
+T(modifier), natural_resource, 0.915
+T(modifier), resource, 0.881
+
+T(head), asset, 0.852
+T(head), assets, 0.838
+T(head), inventiveness, 0.824
+T(head), tangible_thing, 0.778
+T(head), localized_spatial_thing, 0.759
+T(head), group_of_things, 0.737
+T(head), album, 0.717
+T(head), book, 0.709
+
+
+Result: {"natural_resource": 0.915, "resource": 0.881, "asset": 0.852, "assets": 0.838, "inventiveness": 0.824, "tangible_thing": 0.778, "localized_spatial_thing": 0.759, "group_of_things": 0.737, "@scenario_probability": 1.6997150224844637}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1.6997150224844637]

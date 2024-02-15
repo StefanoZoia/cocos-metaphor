@@ -105,8 +105,8 @@ def main():
 
             # for each metaphor in the corpus file
             for row in reader:
-                source = row[0].lower()
-                target = row[1].lower()
+                source = row[0].lower().replace(" ", "_").replace("-", "_")
+                target = row[1].lower().replace(" ", "_").replace("-", "_")
 
                 # if source was already represented or can be represented now
                 if isRepresented(source) or get_cn_rel_with_score(source):

@@ -1,0 +1,2 @@
+natural_resource: 0.915
+resource: 0.881

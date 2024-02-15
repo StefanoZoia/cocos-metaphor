@@ -1,0 +1,30 @@
+Title: election-boxing_match
+
+Head Concept Name: election
+Modifier Concept Name: boxing_match
+
+
+
+
+
+T(modifier), boxing_match, 0.915
+T(modifier), match, 0.816
+T(modifier), fight, 0.785
+T(modifier), weight_class_competition, 0.771
+T(modifier), pedestrian_sports_event, 0.756
+T(modifier), structured_sports_event, 0.753
+T(modifier), combat_sport, 0.739
+T(modifier), mens_sports_competition, 0.739
+
+T(head), vote, 0.899
+T(head), choice, 0.856
+T(head), predestination, 0.838
+T(head), result_in_new_leader, 0.799
+T(head), require_run_off, 0.784
+T(head), status, 0.778
+T(head), theology, 0.75
+T(head), opportunity_to_vote, 0.748
+
+
+Result: {"boxing_match": 0.915, "match": 0.816, "fight": 0.785, "vote": 0.899, "choice": 0.856, "predestination": 0.838, "result_in_new_leader": 0.799, "require_run_off": 0.784, "@scenario_probability": 0.00031132788918159605}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.00031132788918159605]
