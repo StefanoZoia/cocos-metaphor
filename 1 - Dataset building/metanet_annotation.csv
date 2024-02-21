@@ -478,56 +478,56 @@ GOVERNMENT IS A SERVANT,The government should cater to the needs of its citizens
 GOVERNMENT IS A POLICEMAN,"A proper government is only a policeman, acting as an agent of man’s self-defense, and, as such, may resort to force only against those who start the use of force.",policeman,government,NN
 GOVERNMENT IS A PERSON,"The US government loves you. In fact, it loves you so much that it’s willing shackle your legs together. Just to protect you – tough love, baby. Now, it may hurt a bit but just try to breathe through the pain. Remember – it hurts the government more than it hurts you.",loves,government,VN
 GOVERNMENT IS A PATIENT,The government is infected with corruption.,infected,government,VN
-GOVERNMENT IS A PATIENT,We must cure our ailing democracy with an infusion of new politicians.,,,
-GOVERNMENT IS A PARENT,Big Father: The Government as Parent,,,
-GOVERNMENT IS A PARENT,"Doctrine of Parens Patriae."" Parens Patriae means literally, ""parent of the country."" It refers traditionally to the role of STATE as sovereign and guardian of persons under legal disability.",,,
-GOVERNMENT IS A LEADER,"""In my view, the federal government should lead the way.  The bill we’ve introduced requires the federal government to increase its use of renewable electricity and reduce its overall energy consumption in federal buildings, both new and old.  We can’t expect consumers to embrace energy efficient technology if their government does not do the same.""",,,
-GOVERNMENT IS A LEADER,Parents are so uneducated about health that they will follow the government down any misguided path.,,,
-GOVERNMENT IS A DRIVER,The Syrian government is driving Syria into a dangerous zone.,,,
-GOVERNMENT IS A DRIVER,The current Japanese government is steering the country toward Socialism.,,,
-GOVERNMENT IS A DRIVER,"Signal left, turn right: central rhetoric and local reform in China.",,,
-GOVERNMENT IS A DOCTOR,to promote his fantasy that big government can cure our nation's ills.,,,
-GOVERNMENT IS A DISEASE,"Once the stage has been set, radical surgery will be required to actually remove the malignant tumor that Cancerous Government has become.",,,
-GOVERNMENT IS A CHILDCARE PROVIDER,I believe in personal responsibility and the government shouldn't be a babysitter but I also believe in compassion for less advantageous people.,,,
-GOVERNMENT IS A CHILDCARE PROVIDER,"Can I decide what size soda I want to drink? No, that’s the nanny state’s job.",,,
-GOVERNMENT IS A BUSINESS,One of the worst-run businesses in the United States is also the largest business in the nation. The federal government is in financial disarray. It spends more than it makes and its investments are not based on sound financial principles.,,,
-GOVERNMENT INSTITUTION IS A PHYSICAL STRUCTURE,Rising food prices can topple governments,,,
-GOVERNMENT INSTITUTION IS A PHYSICAL STRUCTURE,Afghanistan's government could collapse after 2014.,,,
-GOVERNMENT INSTITUTION IS A MACHINE,"If the injustice is part of the necessary friction of the machine of government, let it go, let it go: perchance it will wear smooth--certainly the machine will wear out. If the injustice has a spring, or a pulley, or a rope, or a crank, exclusively for itself, then perhaps you may consider whether the remedy will not be worse than the evil; but if it is of such a nature that it requires you to be the agent of injustice to another, then I say, break the law. Let your life be a counter-friction to stop the machine. What I have to do is to see, at any rate, that I do not lend myself to the wrong which I condemn.",,,
-GOVERNMENT INSTITUTION IS A MACHINE,"They had elected him (Jackson) to conduct the Government and to keep and remove its moneys, and he meant to do so on the principle that it was a simple machine.",,,
-GOVERNMENT INSTITUTION IS A BODY,This responsibility falls squarely on the shoulders of the government.,,,
-GOVERNMENT FUNCTIONALITY IS VERTICALITY,The government was toppled.,,,
-GOVERNMENT FUNCTIONALITY IS VERTICALITY,The government fell.,,,
-GOVERNMENT DEBT IS OCEAN,The western world is drowning in an ocean of debt unlike anything the world has ever seen before,,,
-GOVERNMENT ASSISTANCE IS SUPPORT,The poor in our country need a boost up.,,,
-GOVERNMENT ASSISTANCE IS SUPPORT,"In times of need, the impoverished should be able to lean on our government for support.",,,
-GOVERNMENT ASSISTANCE IS SUPPORT,We need welfare as a safety net.,,,
-GOVERNMENT ASSISTANCE IS AN ADDICTIVE DRUG,Our country's poor are addicted to welfare.,,,
-GOVERNMENT ASSISTANCE IS AN ADDICTIVE DRUG,We have a nation of welfare addicts who will always depend on the government for their next fix.,,,
-GOVERNMENT ASSISTANCE IS A TRAP,...trapping so many people in state dependency robs them of their human dignity.,,,
-GOVERNMENT ASSISTANCE IS A TRAP,[T]he federal government's welfare assistance programs intended to help those in need instead effectively trap people into dependence,,,
-GOVERNMENT ASSISTANCE IS A HANDOUT,"The poor deserve a hand up, not a handout.",,,
-GOVERNMENT ASSISTANCE IS A HANDOUT,"The government shouldn't just give handouts, it needs to encourage people to get jobs instead.",,,
-GOVERNMENT AND CITIZENS ARE PARTNERS,"As citizens, we must work together with our government to advance the good of our nation.",,,
-GOVERNING ACTION IS MOTION,Congress moved quickly to avoid a governmental shutdown.,,,
-GOVERNING ACTION IS MOTION,The state took a big step toward banning assault weapons.,,,
-GOVERNING ACTION IS MOTION,The legislature is considering an alternative approach to deficit reduction.,,,
-GOVERNING ACTION IS MOTION,Postal Service bill faces roadblocks,,,
-GAINING POWER IS GAINING A POSSESSION,The rebels wrested control of the capital city from the ruling party in a bloody coup.,,,
-FUTURE OF A NATION IS PATH OF BOAT,Our President will chart a path to prosperity.,,,
-FUTURE OF A NATION IS PATH OF BOAT,We will navigate the choppy waters of recession into smooth fiscal sailing.,,,
-FUTURE OF A NATION IS PATH OF BOAT,'Pakistan's economy has ability to navigate through choppy waters',,,
-FUNCTIONALITY IS VERTICALITY,The servers are back up after having been down for days.,,,
-FUNCTIONAL LEGISLATURE IS A FUNCTIONING MACHINE,"With a heavy Republican majority, Congress churned out bill after bill.",,,
-FUNCTIONAL LEGISLATURE IS A FUNCTIONING MACHINE,"With a unified House and Senate, the well-oiled gears of government turn smoothly.",,,
-FUNCTIONAL LEGISLATURE IS A FUNCTIONING MACHINE,"""I look forward to helping keep the legislative wheels turning smoothly in our 105-day session""",,,
-FUNCTIONAL LEGISLATURE IS A FUNCTIONING MACHINE,Cloture would make the legislative gears turn smoothly.,,,
-FULLY COMMUNICATING A SEQUENCE OF THOUGHT IS SPELLING,Do I need to spell it out for you?,,,
-FULLY COMMUNICATING A SEQUENCE OF THOUGHT IS SPELLING,The theory is spelled out in chapter 4.,,,
-FULLY COMMUNICATING A SEQUENCE OF THOUGHT IS SPELLING,Follow the letter of the law.,,,
-FREEDOM OF ACTION IS THE LACK OF IMPEDIMENTS TO MOVEMENT,Break out of your daily routine.,,,
-FREEDOM OF ACTION IS THE LACK OF IMPEDIMENTS TO MOVEMENT,Workers of the world throw off your chains!,,,
-FORMING WORDS IS SHAPING,You should form your words carefully.,,,
+GOVERNMENT IS A PATIENT,We must cure our ailing democracy with an infusion of new politicians.,cure,democracy,VN
+GOVERNMENT IS A PARENT,Big Father: The Government as Parent,Parent,Government,NN
+GOVERNMENT IS A PARENT,"Doctrine of Parens Patriae."" Parens Patriae means literally, ""parent of the country."" It refers traditionally to the role of STATE as sovereign and guardian of persons under legal disability.",parent,country,NN
+GOVERNMENT IS A LEADER,"""In my view, the federal government should lead the way.  The bill we’ve introduced requires the federal government to increase its use of renewable electricity and reduce its overall energy consumption in federal buildings, both new and old.  We can’t expect consumers to embrace energy efficient technology if their government does not do the same.""",lead,government,VN
+GOVERNMENT IS A LEADER,Parents are so uneducated about health that they will follow the government down any misguided path.,follow,government,VN
+GOVERNMENT IS A DRIVER,The Syrian government is driving Syria into a dangerous zone.,driving,government,VN
+GOVERNMENT IS A DRIVER,The current Japanese government is steering the country toward Socialism.,steering,government,VN
+GOVERNMENT IS A DRIVER,"Signal left, turn right: central rhetoric and local reform in China.",,,-
+GOVERNMENT IS A DOCTOR,to promote his fantasy that big government can cure our nation's ills.,cure,government,VN
+GOVERNMENT IS A DISEASE,"Once the stage has been set, radical surgery will be required to actually remove the malignant tumor that Cancerous Government has become.",Cancerous,Government,AN
+GOVERNMENT IS A CHILDCARE PROVIDER,I believe in personal responsibility and the government shouldn't be a babysitter but I also believe in compassion for less advantageous people.,babysitter,government,NN
+GOVERNMENT IS A CHILDCARE PROVIDER,"Can I decide what size soda I want to drink? No, that’s the nanny state’s job.",nanny,state,NN
+GOVERNMENT IS A BUSINESS,One of the worst-run businesses in the United States is also the largest business in the nation. The federal government is in financial disarray. It spends more than it makes and its investments are not based on sound financial principles.,financial disarray,government,AN
+GOVERNMENT INSTITUTION IS A PHYSICAL STRUCTURE,Rising food prices can topple governments,topple,governments,VN
+GOVERNMENT INSTITUTION IS A PHYSICAL STRUCTURE,Afghanistan's government could collapse after 2014.,collapse,government,VN
+GOVERNMENT INSTITUTION IS A MACHINE,"If the injustice is part of the necessary friction of the machine of government, let it go, let it go: perchance it will wear smooth--certainly the machine will wear out. If the injustice has a spring, or a pulley, or a rope, or a crank, exclusively for itself, then perhaps you may consider whether the remedy will not be worse than the evil; but if it is of such a nature that it requires you to be the agent of injustice to another, then I say, break the law. Let your life be a counter-friction to stop the machine. What I have to do is to see, at any rate, that I do not lend myself to the wrong which I condemn.",machine,government,NN
+GOVERNMENT INSTITUTION IS A MACHINE,"They had elected him (Jackson) to conduct the Government and to keep and remove its moneys, and he meant to do so on the principle that it was a simple machine.",conduct,government,VN
+GOVERNMENT INSTITUTION IS A BODY,This responsibility falls squarely on the shoulders of the government.,shoulders,government,NN
+GOVERNMENT FUNCTIONALITY IS VERTICALITY,The government was toppled.,toppled,government,VN
+GOVERNMENT FUNCTIONALITY IS VERTICALITY,The government fell.,fell,government,VN
+GOVERNMENT DEBT IS OCEAN,The western world is drowning in an ocean of debt unlike anything the world has ever seen before,ocean,debt,NN
+GOVERNMENT ASSISTANCE IS SUPPORT,The poor in our country need a boost up.,,,-
+GOVERNMENT ASSISTANCE IS SUPPORT,"In times of need, the impoverished should be able to lean on our government for support.",lean on,government,VN
+GOVERNMENT ASSISTANCE IS SUPPORT,We need welfare as a safety net.,safety net,welfare,NN
+GOVERNMENT ASSISTANCE IS AN ADDICTIVE DRUG,Our country's poor are addicted to welfare.,addicted,welfare,VN
+GOVERNMENT ASSISTANCE IS AN ADDICTIVE DRUG,We have a nation of welfare addicts who will always depend on the government for their next fix.,addicts,welfare,NN
+GOVERNMENT ASSISTANCE IS A TRAP,...trapping so many people in state dependency robs them of their human dignity.,trapping,state dependency,VN
+GOVERNMENT ASSISTANCE IS A TRAP,[T]he federal government's welfare assistance programs intended to help those in need instead effectively trap people into dependence,trap,welfare,VN
+GOVERNMENT ASSISTANCE IS A HANDOUT,"The poor deserve a hand up, not a handout.",,,-
+GOVERNMENT ASSISTANCE IS A HANDOUT,"The government shouldn't just give handouts, it needs to encourage people to get jobs instead.",handout,government,NN
+GOVERNMENT AND CITIZENS ARE PARTNERS,"As citizens, we must work together with our government to advance the good of our nation.",,,-
+GOVERNING ACTION IS MOTION,Congress moved quickly to avoid a governmental shutdown.,moved,Congress,VN
+GOVERNING ACTION IS MOTION,The state took a big step toward banning assault weapons.,took a step,state,VN
+GOVERNING ACTION IS MOTION,The legislature is considering an alternative approach to deficit reduction.,approach,legislature,NN
+GOVERNING ACTION IS MOTION,Postal Service bill faces roadblocks,roadblocks,bills,NN
+GAINING POWER IS GAINING A POSSESSION,The rebels wrested control of the capital city from the ruling party in a bloody coup.,,,-
+FUTURE OF A NATION IS PATH OF BOAT,Our President will chart a path to prosperity.,path,prosperity,NN
+FUTURE OF A NATION IS PATH OF BOAT,We will navigate the choppy waters of recession into smooth fiscal sailing.,waters,recession,NN
+FUTURE OF A NATION IS PATH OF BOAT,'Pakistan's economy has ability to navigate through choppy waters',navigate,economy,VN
+FUNCTIONALITY IS VERTICALITY,The servers are back up after having been down for days.,,,-
+FUNCTIONAL LEGISLATURE IS A FUNCTIONING MACHINE,"With a heavy Republican majority, Congress churned out bill after bill.",churned out,bill,VN
+FUNCTIONAL LEGISLATURE IS A FUNCTIONING MACHINE,"With a unified House and Senate, the well-oiled gears of government turn smoothly.",well-oiled gears,government,NN
+FUNCTIONAL LEGISLATURE IS A FUNCTIONING MACHINE,"""I look forward to helping keep the legislative wheels turning smoothly in our 105-day session""",wheels,legislation,NN
+FUNCTIONAL LEGISLATURE IS A FUNCTIONING MACHINE,Cloture would make the legislative gears turn smoothly.,gears,legislative,AN
+FULLY COMMUNICATING A SEQUENCE OF THOUGHT IS SPELLING,Do I need to spell it out for you?,,,-
+FULLY COMMUNICATING A SEQUENCE OF THOUGHT IS SPELLING,The theory is spelled out in chapter 4.,spelled out,theory,VN
+FULLY COMMUNICATING A SEQUENCE OF THOUGHT IS SPELLING,Follow the letter of the law.,letter,law,NN
+FREEDOM OF ACTION IS THE LACK OF IMPEDIMENTS TO MOVEMENT,Break out of your daily routine.,,,-
+FREEDOM OF ACTION IS THE LACK OF IMPEDIMENTS TO MOVEMENT,Workers of the world throw off your chains!,,,-
+FORMING WORDS IS SHAPING,You should form your words carefully.,,,-
 FORMING WORDS IS SHAPING,This is a well-crafted sentence.,,,
 FORMING WORDS IS SHAPING,Promises should be articulated clearly.,,,
 FORCES ARE OBJECTS,A large force is needed to move a heavy object.,,,
