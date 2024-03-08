@@ -16,7 +16,6 @@ T(modifier), group_of_things, 0.737
 T(modifier), album, 0.717
 T(modifier), book, 0.709
 
-T(head), education, 0.946
 T(head), upbringing, 0.88
 T(head), learning, 0.876
 T(head), further_career, 0.865
@@ -24,7 +23,8 @@ T(head), change_subjective_consciousness, 0.845
 T(head), never_ending_and_exciting, 0.835
 T(head), university, 0.83
 T(head), profession, 0.829
+T(head), further_opportunity, 0.823
 
 
-Result: {"asset": 0.852, "assets": 0.838, "education": 0.946, "upbringing": 0.88, "learning": 0.876, "further_career": 0.865, "change_subjective_consciousness": 0.845, "never_ending_and_exciting": 0.835, "@scenario_probability": 0.00018840121950852617}
-Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.00018840121950852617]
+Result: {"asset": 0.852, "assets": 0.838, "upbringing": 0.88, "learning": 0.876, "further_career": 0.865, "change_subjective_consciousness": 0.845, "never_ending_and_exciting": 0.835, "university": 0.83, "@scenario_probability": 0.00017210560351944767}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.00017210560351944767]

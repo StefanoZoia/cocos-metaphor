@@ -7,7 +7,7 @@ Modifier Concept Name: change_of_location
 
 
 
-T(modifier), movement, 0.824
+T(modifier), movement, 0.822
 T(modifier), sonata, 0.755
 T(modifier), happening, 0.749
 T(modifier), change, 0.738
@@ -26,5 +26,5 @@ T(head), dress, 0.733
 T(head), consequence, 0.733
 
 
-Result: {"movement": 0.824, "sonata": 0.755, "happening": 0.749, "change": 0.933, "difference": 0.826, "replace": 0.774, "unpleasant": 0.752, "exciting": 0.752, "@scenario_probability": 0.0005343139124306415}
-Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.0005343139124306415]
+Result: {"movement": 0.822, "sonata": 0.755, "happening": 0.749, "change": 0.933, "difference": 0.826, "replace": 0.774, "unpleasant": 0.752, "exciting": 0.752, "@scenario_probability": 0.000533017034002412}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.000533017034002412]

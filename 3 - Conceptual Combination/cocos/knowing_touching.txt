@@ -7,7 +7,6 @@ Modifier Concept Name: touching
 
 
 
-T(modifier), touching, 0.915
 T(modifier), treatment, 0.759
 T(modifier), event_involving_physical_contact, 0.754
 T(modifier), archaic, 0.738
@@ -23,5 +22,5 @@ T(head), intentional_mental_state, 0.759
 T(head), reading, 0.747
 
 
-Result: {"touching": 0.915, "remembering": 0.822, "believing": 0.807, "higher_cognitive_process": 0.796, "-ignorance": 0.786, "determining_truth": 0.767, "learning": 0.763, "intentional_mental_state": 0.759, "@scenario_probability": 0.0178315863122943}
-Scenario: [1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.0178315863122943]
+Result: {"treatment": 0.759, "remembering": 0.822, "believing": 0.807, "higher_cognitive_process": 0.796, "-ignorance": 0.786, "determining_truth": 0.767, "learning": 0.763, "intentional_mental_state": 0.759, "@scenario_probability": 0.061375298782538036}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.061375298782538036]

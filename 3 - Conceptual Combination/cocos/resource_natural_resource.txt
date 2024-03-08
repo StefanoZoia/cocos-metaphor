@@ -7,8 +7,14 @@ Modifier Concept Name: natural_resource
 
 
 
-T(modifier), natural_resource, 0.915
 T(modifier), resource, 0.881
+T(modifier), asset, 0.767
+T(modifier), assets, 0.754
+T(modifier), inventiveness, 0.742
+T(modifier), tangible_thing, 0.7
+T(modifier), localized_spatial_thing, 0.683
+T(modifier), group_of_things, 0.663
+T(modifier), album, 0.645
 
 T(head), asset, 0.852
 T(head), assets, 0.838
@@ -20,5 +26,5 @@ T(head), album, 0.717
 T(head), book, 0.709
 
 
-Result: {"natural_resource": 0.915, "resource": 0.881, "asset": 0.852, "assets": 0.838, "inventiveness": 0.824, "tangible_thing": 0.778, "localized_spatial_thing": 0.759, "group_of_things": 0.737, "@scenario_probability": 1.6997150224844637}
-Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1.6997150224844637]
+Result: {"resource": 0.881, "asset": 0.852, "assets": 0.838, "inventiveness": 0.824, "tangible_thing": 0.778, "localized_spatial_thing": 0.759, "@scenario_probability": 0.0011253003813235848}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.0011253003813235848]

@@ -5,4 +5,4 @@ burn_houses: 0.92
 burn_cloth: 0.92
 burn_tires: 0.92
 burn_flesh: 0.92
-fire: 0.915
+burn_buildings: 0.903

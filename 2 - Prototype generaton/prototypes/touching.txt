@@ -1,4 +1,3 @@
-touching: 0.915
 treatment: 0.759
 event_involving_physical_contact: 0.754
 archaic: 0.738

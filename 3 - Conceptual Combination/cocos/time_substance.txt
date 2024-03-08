@@ -7,7 +7,6 @@ Modifier Concept Name: substance
 
 
 
-T(modifier), substance, 0.946
 T(modifier), part, 0.816
 T(modifier), physical_entity, 0.794
 T(modifier), container, 0.779
@@ -23,5 +22,5 @@ T(head), endless, 0.84
 T(head), absolute, 0.836
 
 
-Result: {"substance": 0.946, "time_period": 0.88, "moment": 0.878, "linear": 0.874, "running": 0.871, "finite": 0.851, "age": 0.843, "endless": 0.84, "@scenario_probability": 0.011792217022618562}
-Scenario: [1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.011792217022618562]
+Result: {"part": 0.816, "time_period": 0.88, "moment": 0.878, "linear": 0.874, "running": 0.871, "finite": 0.851, "age": 0.843, "endless": 0.84, "@scenario_probability": 0.05528109827682199}
+Scenario: [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0.05528109827682199]

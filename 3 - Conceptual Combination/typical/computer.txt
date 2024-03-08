@@ -1,4 +1,3 @@
-computer: 0.974
 computing: 0.916
 word_processing: 0.909
 cybernate: 0.885
@@ -6,3 +5,4 @@ desktop: 0.884
 computing_information: 0.882
 electronic_device: 0.872
 calculating: 0.872
+machine: 0.871

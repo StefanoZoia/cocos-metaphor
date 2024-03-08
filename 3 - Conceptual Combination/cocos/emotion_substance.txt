@@ -7,7 +7,6 @@ Modifier Concept Name: substance
 
 
 
-T(modifier), substance, 0.946
 T(modifier), part, 0.816
 T(modifier), physical_entity, 0.794
 T(modifier), container, 0.779
@@ -23,5 +22,5 @@ T(head), human, 0.778
 T(head), thought, 0.766
 
 
-Result: {"substance": 0.946, "part": 0.816, "physical_entity": 0.794, "feeling": 0.898, "pleasant": 0.853, "mind": 0.834, "way_of": 0.797, "cloud_ones_judgement": 0.796, "@scenario_probability": 0.015112489826337108}
-Scenario: [1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.015112489826337108]
+Result: {"part": 0.816, "physical_entity": 0.794, "feeling": 0.898, "pleasant": 0.853, "mind": 0.834, "way_of": 0.797, "cloud_ones_judgement": 0.796, "mental_quantity": 0.793, "@scenario_probability": 0.06119947928366237}
+Scenario: [1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0.06119947928366237]

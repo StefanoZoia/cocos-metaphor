@@ -16,7 +16,6 @@ T(modifier), belong_to_person, 0.809
 T(modifier), disappear_from_sight, 0.806
 T(modifier), computer_science, 0.803
 
-T(head), education, 0.946
 T(head), upbringing, 0.88
 T(head), learning, 0.876
 T(head), further_career, 0.865
@@ -24,7 +23,8 @@ T(head), change_subjective_consciousness, 0.845
 T(head), never_ending_and_exciting, 0.835
 T(head), university, 0.83
 T(head), profession, 0.829
+T(head), further_opportunity, 0.823
 
 
-Result: {"thing": 0.843, "disapprove": 0.832, "education": 0.946, "upbringing": 0.88, "learning": 0.876, "further_career": 0.865, "change_subjective_consciousness": 0.845, "never_ending_and_exciting": 0.835, "@scenario_probability": 4.2840259962395153e-05}
-Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 4.2840259962395153e-05]
+Result: {"thing": 0.843, "disapprove": 0.832, "upbringing": 0.88, "learning": 0.876, "further_career": 0.865, "change_subjective_consciousness": 0.845, "never_ending_and_exciting": 0.835, "university": 0.83, "@scenario_probability": 3.9134825214994857e-05}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 3.9134825214994857e-05]

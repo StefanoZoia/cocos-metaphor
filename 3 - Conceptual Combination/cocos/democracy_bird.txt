@@ -7,7 +7,6 @@ Modifier Concept Name: bird
 
 
 
-T(modifier), bird, 0.946
 T(modifier), chirp, 0.894
 T(modifier), sing_song, 0.886
 T(modifier), fly, 0.882
@@ -15,6 +14,7 @@ T(modifier), birdbath, 0.88
 T(modifier), nest, 0.875
 T(modifier), sing, 0.872
 T(modifier), pet, 0.868
+T(modifier), fly_high, 0.866
 
 T(head), equality_for_everyone, 0.854
 T(head), open_media, 0.853
@@ -26,5 +26,5 @@ T(head), -dictatorship, 0.809
 T(head), government, 0.793
 
 
-Result: {"bird": 0.946, "chirp": 0.894, "sing_song": 0.886, "fly": 0.882, "birdbath": 0.88, "nest": 0.875, "sing": 0.872, "equality_for_everyone": 0.854, "@scenario_probability": 1.9887958045648776e-05}
-Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1.9887958045648776e-05]
+Result: {"chirp": 0.894, "sing_song": 0.886, "fly": 0.882, "birdbath": 0.88, "nest": 0.875, "sing": 0.872, "pet": 0.868, "equality_for_everyone": 0.854, "@scenario_probability": 1.8524634635510763e-05}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1.8524634635510763e-05]

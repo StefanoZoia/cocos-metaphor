@@ -7,7 +7,6 @@ Modifier Concept Name: liquid
 
 
 
-T(modifier), liquid, 0.915
 T(modifier), fluid, 0.896
 T(modifier), flow, 0.878
 T(modifier), -gas, 0.861
@@ -15,6 +14,7 @@ T(modifier), container, 0.85
 T(modifier), substance, 0.847
 T(modifier), clear, 0.838
 T(modifier), melting_solid, 0.838
+T(modifier), subject_to_law_of_gravity, 0.828
 
 T(head), saving, 0.878
 T(head), pay_for, 0.874
@@ -26,5 +26,5 @@ T(head), value, 0.851
 T(head), banks, 0.851
 
 
-Result: {"liquid": 0.915, "fluid": 0.896, "flow": 0.878, "-gas": 0.861, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "money_supply": 0.861, "@scenario_probability": 9.921418282260904e-06}
-Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 9.921418282260904e-06]
+Result: {"fluid": 0.896, "flow": 0.878, "-gas": 0.861, "saving": 0.878, "pay_for": 0.874, "pay_for_sex": 0.874, "money_supply": 0.861, "currency": 0.858, "@scenario_probability": 1.1268861882728669e-05}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1.1268861882728669e-05]

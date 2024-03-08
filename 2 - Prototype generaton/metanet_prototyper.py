@@ -67,17 +67,18 @@ def get_properties(concept, expand=True):
             end_concept = row[2].split('/')[-1]     #remove cn prefix
             relation = row[1]
 
-            # add to root concepts FormOF and DerivedFrom related concepts
-            if (relation in cfg.root_rel) and (start_concept == concept):
-                root_concepts.append(end_concept)
+            if start_concept != end_concept:    # ignore relations with the same word expressing the concept (ex. "heat causes heat")
+                # add to root concepts FormOF and DerivedFrom related concepts
+                if (relation in cfg.root_rel) and (start_concept == concept):
+                    root_concepts.append(end_concept)
 
-            # add the other concept as a property, in the appropriate dict
-            other = end_concept if start_concept == concept else start_concept
-            score = compute_score(concept, start_concept, relation, end_concept, float(row[3]), float(row[4]))
-            if relation in cfg.neg_rel:
-                conditionally_update_dict(neg_dict, other, score)
-            else:
-                conditionally_update_dict(pos_dict, other, score)
+                # add the other concept as a property, in the appropriate dict
+                other = end_concept if start_concept == concept else start_concept
+                score = compute_score(concept, start_concept, relation, end_concept, float(row[3]), float(row[4]))
+                if relation in cfg.neg_rel:
+                    conditionally_update_dict(neg_dict, other, score)
+                else:
+                    conditionally_update_dict(pos_dict, other, score)
                 
     # if less than MIN_PROP properties have been retrieved, expand to root concepts
     # NOTE: even if a root concept has few properties, the expansion stops

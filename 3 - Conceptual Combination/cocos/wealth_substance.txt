@@ -7,7 +7,6 @@ Modifier Concept Name: substance
 
 
 
-T(modifier), substance, 0.946
 T(modifier), part, 0.816
 T(modifier), physical_entity, 0.794
 T(modifier), container, 0.779
@@ -23,5 +22,5 @@ T(head), conquering_nation, 0.762
 T(head), -debt, 0.714
 
 
-Result: {"substance": 0.946, "part": 0.816, "physical_entity": 0.794, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "@scenario_probability": 0.02080904722813772}
-Scenario: [1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.02080904722813772]
+Result: {"part": 0.816, "physical_entity": 0.794, "container": 0.779, "abundance": 0.871, "financial_condition": 0.85, "property": 0.84, "material_resource": 0.792, "-poverty": 0.792, "@scenario_probability": 0.07753650900059929}
+Scenario: [1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0.07753650900059929]
