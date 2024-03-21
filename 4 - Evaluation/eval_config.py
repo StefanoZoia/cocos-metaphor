@@ -13,7 +13,7 @@ COCOS_DIR = '../3 - Conceptual Combination/cocos'
 ###################################
 
 # file containing the anwsers from the google form
-ANSWER_FILE = 'answers.csv'
+ANSWER_FILE = 'evaluation.csv'
 
 # row indexes of the questions
 TIMESTAMP_INDEX = 0

@@ -10,12 +10,14 @@ from scipy import stats
 def main():
     with open(cfg.ANSWER_FILE, encoding='utf-8', newline='') as file:
         reader = csv.reader(file)
-        header = next(reader)       # skip the header
+        questions = next(reader)    # read the questions separately
         overall_eval = list()       # list of overall points assigned to the semantic extraction
 
-        # the rows of the csv have shape (metaphor_id, session_id, value)
+        # the rows of the csv have shape (timestamp, [answer for question N]*)
         for row in reader:
-            overall_eval.append(int(row[2]))
+            for i in range(cfg.FIRST_EVAL_INDEX, cfg.LAST_EVAL_INDEX+1):
+                if row[i] != '':
+                    overall_eval.append(int(row[i]))
 
     print('Evaluation results:\n')
 
@@ -30,7 +32,7 @@ def main():
     print(f'Overall st. dev.: {std_dev:.2f}')
     print(f'Overall skewness: {stats.skew(overall_eval):.2f}')
 
-    freq, bins, patches = plt.hist(overall_eval, bins=np.arange(0.5, 11.5, 1))
+    freq, bins, patches = plt.hist(overall_eval, bins=np.arange(-0.5, 10.5, 1))
     for p in patches:
         p.set_edgecolor('black')
 
@@ -52,13 +54,13 @@ def main():
 
     plt.yticks([])
     plt.xlabel('evaluation score')
-    plt.xticks(range(1, 11))
+    plt.xticks(range(0, 10))
     plt.ylabel('n. of answers')
 
     line = plt.axvline(mean, color='red')
     extra = Rectangle((0, 0), 1, 1, fc="w", fill=False, edgecolor='none', linewidth=0)
     plt.legend([line, extra, extra], [f'mean = {mean:.2f}', f'std. dev. = {std_dev:.2f}', f'median = {int(median)}'])
-    plt.savefig(f"eval_{len(overall_eval)}.pdf")
+    plt.savefig("form_25_answers.pdf")
     plt.show()
 
 
