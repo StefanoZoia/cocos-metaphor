@@ -1,24 +1,28 @@
 import csv
-import eval_config as cfg
 import statistics
 import matplotlib.pyplot as plt
 from matplotlib.patches import Rectangle
 import numpy as np
 from scipy import stats
+import os
 import json
 
-# reads a google form csv answers and computes relevant statistics
-def main():
-    with open(cfg.ANSWER_FILE, encoding='utf-8', newline='') as file:
-        reader = csv.reader(file)
-        questions = next(reader)    # read the questions separately
-        overall_eval = list()       # list of overall points assigned to the semantic extraction
+ALL_FOLDERS = ["lab_session", "webapp_form", "google_form"]
+CONCEPTUAL_MET_FOLDERS = ["lab_session", "webapp_form"]
 
-        # the rows of the csv have shape (timestamp, [answer for question N]*)
-        for row in reader:
-            for i in range(cfg.FIRST_EVAL_INDEX, cfg.LAST_EVAL_INDEX+1):
-                if row[i] != '':
-                    overall_eval.append(int(row[i])+1)
+
+# read the overall.json files of the specified folders
+def read_from_folders(folders_list):
+    overall_eval = list()       # list of overall points assigned in all forms
+    
+    for folder in folders_list:
+        file_path = os.path.join(folder, "overall.json")
+        with open(file_path, 'r') as openfile:
+    
+            # Reading from json file
+            json_object = json.load(openfile)
+            overall_eval.extend(json_object)
+    
 
     print('Evaluation results:\n')
 
@@ -61,14 +65,11 @@ def main():
     line = plt.axvline(mean, color='red')
     extra = Rectangle((0, 0), 1, 1, fc="w", fill=False, edgecolor='none', linewidth=0)
     plt.legend([line, extra, extra], [f'mean = {mean:.2f}', f'std. dev. = {std_dev:.2f}', f'median = {int(median)}'])
-    plt.savefig(f"eval_{len(overall_eval)}_RESCALED.pdf")
+    plt.savefig(f"eval_{len(overall_eval)}.pdf")
     plt.show()
 
-    # Serializing json
-    json_object = json.dumps(overall_eval)
-    # Writing to overall.json
-    with open("overall.json", "w") as outfile:
-        outfile.write(json_object)
-
+def main():
+    read_from_folders(ALL_FOLDERS)
+    read_from_folders(CONCEPTUAL_MET_FOLDERS)
 
 if __name__ == '__main__' : main()

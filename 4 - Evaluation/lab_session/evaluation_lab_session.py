@@ -5,6 +5,7 @@ from matplotlib.patches import Rectangle
 import numpy as np
 from scipy import stats
 import os
+import json
 
 ANSWERS_FOLDER = "answers"
 FIRST_EVAL_INDEX = 6
@@ -76,6 +77,10 @@ def main():
     plt.savefig(f"eval_{len(overall_eval)}.pdf")
     plt.show()
 
-
+    # Serializing json
+    json_object = json.dumps(overall_eval)
+    # Writing to overall.json
+    with open("overall.json", "w") as outfile:
+        outfile.write(json_object)
 
 if __name__ == '__main__' : main()
