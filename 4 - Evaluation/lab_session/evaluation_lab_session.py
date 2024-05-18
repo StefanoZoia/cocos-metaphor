@@ -4,23 +4,33 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import Rectangle
 import numpy as np
 from scipy import stats
+import os
 
-
+ANSWERS_FOLDER = "answers"
 FIRST_EVAL_INDEX = 6
-LAST_EVAL_INDEX = 390
+LAST_EVAL_INDEX = 15
 
-# reads a google form csv answers and computes relevant statistics
+# reads a google form csv answers
 def read_form(answer_file):
+    overall_eval = list()       # list of overall points assigned in this form
     with open(answer_file, encoding='utf-8', newline='') as file:
         reader = csv.reader(file)
         questions = next(reader)    # read the questions separately
-        overall_eval = list()       # list of overall points assigned to the semantic extraction
 
         # the rows of the csv have shape (timestamp, [answer for question N]*)
         for row in reader:
             for i in range(FIRST_EVAL_INDEX, LAST_EVAL_INDEX+1):
                 if row[i] != '':
                     overall_eval.append(int(row[i]))
+    return overall_eval
+
+# read the answers to the forms and compute relevant statistics
+def main():
+    overall_eval = list()       # list of overall points assigned in all forms
+    
+    for file in os.listdir(ANSWERS_FOLDER):
+        file_path = os.path.join(ANSWERS_FOLDER, file)
+        overall_eval.extend(read_form(file_path))
 
     print('Evaluation results:\n')
 
@@ -35,7 +45,7 @@ def read_form(answer_file):
     print(f'Overall st. dev.: {std_dev:.2f}')
     print(f'Overall skewness: {stats.skew(overall_eval):.2f}')
 
-    freq, bins, patches = plt.hist(overall_eval, bins=np.arange(-0.5, 10.5, 1))
+    freq, bins, patches = plt.hist(overall_eval, bins=np.arange(0.5, 11.5, 1))
     for p in patches:
         p.set_edgecolor('black')
 
@@ -57,17 +67,15 @@ def read_form(answer_file):
 
     plt.yticks([])
     plt.xlabel('evaluation score')
-    plt.xticks(range(0, 10))
+    plt.xticks(range(1, 11))
     plt.ylabel('n. of answers')
 
     line = plt.axvline(mean, color='red')
     extra = Rectangle((0, 0), 1, 1, fc="w", fill=False, edgecolor='none', linewidth=0)
     plt.legend([line, extra, extra], [f'mean = {mean:.2f}', f'std. dev. = {std_dev:.2f}', f'median = {int(median)}'])
-    plt.savefig("form_25_answers.pdf")
+    plt.savefig(f"eval_{len(overall_eval)}.pdf")
     plt.show()
 
-def main():
-    pass
 
 
 if __name__ == '__main__' : main()
