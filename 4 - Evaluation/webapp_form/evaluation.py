@@ -1,14 +1,15 @@
 import csv
-import eval_config as cfg
 import statistics
 import matplotlib.pyplot as plt
 from matplotlib.patches import Rectangle
 import numpy as np
 from scipy import stats
 
+ANSWER_FILE = 'evaluation.csv'
+
 # reads a google form csv answers and computes relevant statistics
 def main():
-    with open(cfg.ANSWER_FILE, encoding='utf-8', newline='') as file:
+    with open(ANSWER_FILE, encoding='utf-8', newline='') as file:
         reader = csv.reader(file)
         header = next(reader)       # skip the header
         overall_eval = list()       # list of overall points assigned to the semantic extraction

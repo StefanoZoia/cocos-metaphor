@@ -1,9 +1,13 @@
 import os
 import csv
 import json
-import random
-import eval_config as cfg
 import mysql.connector
+
+# file containing the rows of the corpus for which a prototype has been realized
+CORPUS_FILE = '../../3 - Conceptual Combination/prototyped.tsv'
+
+# directory containing CoCoS results
+COCOS_DIR = '../../3 - Conceptual Combination/cocos'
 
 def select_metaphor(db_connection, src, tgt):
     cursor = db_connection.cursor()

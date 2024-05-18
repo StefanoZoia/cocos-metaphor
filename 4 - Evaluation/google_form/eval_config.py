@@ -3,17 +3,17 @@
 ###################################
 
 # file containing the rows of the corpus for which a prototype has been realized
-CORPUS_FILE = '../3 - Conceptual Combination/prototyped.tsv'
+CORPUS_FILE = '../../3 - Conceptual Combination/prototyped.tsv'
 
 # directory containing CoCoS results
-COCOS_DIR = '../3 - Conceptual Combination/cocos'
+COCOS_DIR = '../../3 - Conceptual Combination/cocos'
 
-###################################
-# configuration for evaluation.py #
-###################################
+###############################################
+# configuration for evaluation_google_form.py #
+###############################################
 
 # file containing the anwsers from the google form
-ANSWER_FILE = 'evaluation.csv'
+ANSWER_FILE = 'answers.csv'
 
 # row indexes of the questions
 TIMESTAMP_INDEX = 0
