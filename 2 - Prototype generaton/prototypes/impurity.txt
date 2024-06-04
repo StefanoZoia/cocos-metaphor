@@ -1,3 +1,0 @@
--purity: 0.877
-waste: 0.829
-condition: 0.805

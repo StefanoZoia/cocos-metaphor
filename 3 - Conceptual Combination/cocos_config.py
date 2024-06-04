@@ -1,7 +1,7 @@
 # Configuration file for the Conceptual Combination module
 
 # path to the prototyped corpus file
-CORPUS_FILE = 'prototyped.tsv'
+CORPUS_FILE = '../2 - Prototype generaton/prototyped.tsv'
 
 # path to the directory containing the description of typical properties
 TYPICAL_PROP_DIR = 'typical'

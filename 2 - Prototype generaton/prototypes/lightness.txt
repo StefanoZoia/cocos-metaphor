@@ -1,4 +1,0 @@
--darkness: 0.853
--heaviness: 0.843
-value: 0.817
--dark: 0.738

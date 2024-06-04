@@ -1,3 +1,0 @@
-christianity: 0.763
-euphemistic: 0.72
--bad: 0.525

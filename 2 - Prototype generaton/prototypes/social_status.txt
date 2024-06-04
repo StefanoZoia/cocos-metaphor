@@ -1,2 +1,0 @@
-sociology: 0.821
-house: 0.654

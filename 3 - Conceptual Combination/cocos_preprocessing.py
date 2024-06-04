@@ -9,11 +9,12 @@ import os
 def getTypicalProperties(path_file) :    
     prop_dict = dict()
 
-    with open(path_file) as f:
-        for p in f.readlines():
-            prop = p.split(':')
-            value = float(prop[1].strip())
-            prop_dict[prop[0]] = round(value, 3)
+    if os.path.exists(path_file):
+        with open(path_file) as f:
+            for p in f.readlines():
+                prop = p.split(':')
+                value = float(prop[1].strip())
+                prop_dict[prop[0]] = round(value, 3)
 
     return prop_dict
 

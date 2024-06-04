@@ -50,7 +50,8 @@ def conditionally_update_dict(dict, property, score):
 
 # returns the dictionaries of positive and negative properties for concept
 def get_properties(concept, expand=True):
-    REL_FILE = f'relations/{concept}.tsv'
+    name = concept.replace(' ', '_').replace('-', '_')
+    REL_FILE = f'relations/{name}.tsv'
     
     # define the relations dict
     pos_dict = dict()
@@ -72,6 +73,10 @@ def get_properties(concept, expand=True):
 
             # add the other concept as a property, in the appropriate dict
             other = end_concept if start_concept == concept else start_concept
+            # some relations have no weight, so they are not considered
+            if row[4] == "":
+                print(start_concept, relation, end_concept)
+                continue
             score = compute_score(concept, start_concept, relation, end_concept, float(row[3]), float(row[4]))
             if relation in cfg.neg_rel:
                 conditionally_update_dict(neg_dict, other, score)

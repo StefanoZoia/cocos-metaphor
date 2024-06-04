@@ -1,3 +1,0 @@
-higher_cognitive_process: 0.813
-council: 0.798
-making: 0.786

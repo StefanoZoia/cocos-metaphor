@@ -1,2 +1,0 @@
-important: 0.833
-getting_away_with_crime: 0.75

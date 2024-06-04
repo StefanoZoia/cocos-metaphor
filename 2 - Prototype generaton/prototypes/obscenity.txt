@@ -1,3 +1,0 @@
-indecency: 0.918
-profanity: 0.895
-phrase: 0.759

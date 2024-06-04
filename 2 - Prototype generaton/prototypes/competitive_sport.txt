@@ -1,2 +1,0 @@
-wrestling: 0.731
-soccer_field: 0.696
