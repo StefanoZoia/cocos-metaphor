@@ -1,2 +1,0 @@
-back_candidate: 0.865
-political_movement: 0.848

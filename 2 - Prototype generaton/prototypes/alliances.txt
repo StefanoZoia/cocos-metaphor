@@ -1,4 +1,0 @@
-coalition: 0.8235
-organization: 0.7803
-treaty: 0.7542
-connection: 0.7542

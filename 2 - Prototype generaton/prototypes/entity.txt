@@ -1,3 +1,0 @@
-databases: 0.775
-television_episode: 0.747
-south_park: 0.726

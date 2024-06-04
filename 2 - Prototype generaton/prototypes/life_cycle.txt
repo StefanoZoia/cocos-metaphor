@@ -1,3 +1,0 @@
-growth: 0.818
-organic_phenomenon: 0.801
-biology: 0.785

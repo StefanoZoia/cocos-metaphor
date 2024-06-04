@@ -1,2 +1,0 @@
-theater_hall: 0.702
-pregnant_lady: 0.683

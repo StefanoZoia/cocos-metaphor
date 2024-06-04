@@ -3,7 +3,7 @@
 ######################################
 
 # path to the file containing the corpus
-CORPUS_FILE = 'metanet_corpus.tsv'
+CORPUS_FILE = '../1 - Dataset building/metanet_sentences.tsv'
 
 # path to the output file of cn_rel_getter - input for prototyper
 INTERMEDIATE_FILE = 'cn-represented.tsv'

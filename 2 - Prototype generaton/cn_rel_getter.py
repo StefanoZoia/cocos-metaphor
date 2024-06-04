@@ -74,7 +74,8 @@ def get_cn_rel_with_score(word):
                     else:
                         # if the relatedness to the other concept is not known, request it
                         print(this_concept, other)
-                        nb_weight = get_json_or_retry(f'http://api.conceptnet.io/relatedness?node1={this_concept}&node2={other}')['value']
+                        nb_weight = get_json_or_retry(f'http://api.conceptnet.io/relatedness?node1={this_concept}&node2={other}')
+                        nb_weight = nb_weight['value'] if nb_weight is not None else None
                         relatedness_score[other] = nb_weight    # cache the score in case the concept has more than one relation
                     # write the relation on the file
                     writer.writerow([start, rel, end, rel_weight, nb_weight])

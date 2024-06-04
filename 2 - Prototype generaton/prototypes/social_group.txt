@@ -1,3 +1,0 @@
-group: 0.822
-group_of_things: 0.775
-group_of_social_beings: 0.775

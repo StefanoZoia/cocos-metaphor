@@ -1,2 +1,0 @@
-position: 0.834
-mathematics: 0.749
