@@ -4,25 +4,18 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import Rectangle
 import numpy as np
 from scipy import stats
-import os
 import json
 
-LEXICAL_MET_FOLDERS = ["google_form", "g_form_2"]
-CONCEPTUAL_MET_FOLDERS = ["lab_session", "webapp_form"]
+# reads a google form csv answers and computes relevant statistics
+def main():
+    with open("results.jsonl", encoding='utf-8', newline='') as file:
+        overall_eval = list()       # list of overall points assigned to the semantic extraction
 
-
-# read the overall.json files of the specified folders
-def read_from_folders(folders_list, name):
-    overall_eval = list()       # list of overall points assigned in all forms
-    
-    for folder in folders_list:
-        file_path = os.path.join(folder, "overall.json")
-        with open(file_path, 'r') as openfile:
-    
-            # Reading from json file
-            json_object = json.load(openfile)
-            overall_eval.extend(json_object)
-    
+        # the rows of the csv have shape (timestamp, [answer for question N]*)
+        for line in file:
+            row = json.loads(line)
+            for eval in row["metaphors"].values():
+                overall_eval.append(int(eval))
 
     print('Evaluation results:\n')
 
@@ -65,12 +58,14 @@ def read_from_folders(folders_list, name):
     line = plt.axvline(mean, color='red')
     extra = Rectangle((0, 0), 1, 1, fc="w", fill=False, edgecolor='none', linewidth=0)
     plt.legend([line, extra, extra], [f'mean = {mean:.2f}', f'std. dev. = {std_dev:.2f}', f'median = {int(median)}'])
-    plt.savefig(f"eval_{name}_{len(overall_eval)}.pdf")
+    plt.savefig(f"eval_{len(overall_eval)}.pdf")
     plt.show()
 
-def main():
-    read_from_folders(LEXICAL_MET_FOLDERS, "lex")
-    read_from_folders(CONCEPTUAL_MET_FOLDERS, "conc")
-    read_from_folders(LEXICAL_MET_FOLDERS + CONCEPTUAL_MET_FOLDERS, "all")
+    # Serializing json
+    json_object = json.dumps(overall_eval)
+    # Writing to overall.json
+    with open("overall.json", "w") as outfile:
+        outfile.write(json_object)
+
 
 if __name__ == '__main__' : main()
