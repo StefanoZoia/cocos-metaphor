@@ -38,12 +38,12 @@ def write_cocos_file(head, modifier):
     
         # rigid properties
         for p in getRigidProperties(f'{cfg.RIGID_PROP_DIR}/{head}.txt'):
-            f.write("head, " + p)
-        f.write("\n\n")
+            f.write("head, {p}\n")
+        f.write("\n")
         
         for p in getRigidProperties(f'{cfg.RIGID_PROP_DIR}/{modifier}.txt'):
-            f.write("modifier, " + p)
-        f.write("\n\n")
+            f.write(f"modifier, {p}\n")
+        f.write("\n")
         
         # typical properties
         modifier_typ = getTypicalProperties(f'{cfg.TYPICAL_PROP_DIR}/{modifier}.txt')
@@ -72,8 +72,8 @@ def main():
     with open(cfg.CORPUS_FILE, newline='', encoding='utf-8') as corpus:
         reader = csv.reader(corpus, delimiter='\t', quotechar='"')
         for row in reader:
-            source = row[0].lower().replace(" ", "_").replace("-", "_")
-            target = row[1].lower().replace(" ", "_").replace("-", "_")
+            source = row[1].lower().replace(" ", "_").replace("-", "_")
+            target = row[0].lower().replace(" ", "_").replace("-", "_")
             write_cocos_file(head=target, modifier=source)
 
 

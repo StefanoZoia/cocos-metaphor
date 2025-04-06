@@ -1,4 +1,0 @@
-seeking: 0.869
-finding_lost_item: 0.816
-reading_newspaper: 0.721
-soul: 0.696

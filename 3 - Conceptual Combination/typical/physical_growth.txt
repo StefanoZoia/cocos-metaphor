@@ -1,2 +1,0 @@
-increase_in_mass: 0.747
-becoming: 0.745

@@ -25,7 +25,7 @@ def main():
                 if row[1] not in rels:
                     rels.append(row[1])
                 rel_weights.append(row[3])
-                relatedness.append(float(row[4]))
+                relatedness.append(float(row[4]) if row[4]!='' else 0)
             rel_counters.append(rel_counter)
         
     print(f'total files = {len(rel_counters)}')

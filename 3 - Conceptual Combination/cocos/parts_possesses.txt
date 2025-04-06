@@ -1,0 +1,22 @@
+Title: parts-possesses
+
+Head Concept Name: parts
+Modifier Concept Name: possesses
+
+
+
+
+
+T(modifier), have, 0.789
+T(modifier), police, 0.763
+T(modifier), dominate, 0.738
+T(modifier), us, 0.697
+T(modifier), jamaica, 0.693
+
+T(head), repair_shop, 0.816
+T(head), environment, 0.807
+T(head), euphemistic, 0.764
+
+
+Result: {"have": 0.789, "police": 0.763, "dominate": 0.738, "us": 0.697, "jamaica": 0.693, "repair_shop": 0.816, "environment": 0.807, "@scenario_probability": 3.33502898028977}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 3.33502898028977]

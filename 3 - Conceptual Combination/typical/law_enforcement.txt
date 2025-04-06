@@ -1,3 +1,0 @@
-enforcement: 0.888
-law: 0.833
-enforcing: 0.81

@@ -55,7 +55,7 @@ def read_from_folders(folders_list, name):
                     )
         n = n+1
 
-    plt.title('Overall evaluation')
+    plt.title(f'{name} evaluation')
 
     plt.yticks([])
     plt.xlabel('evaluation score')
@@ -65,12 +65,12 @@ def read_from_folders(folders_list, name):
     line = plt.axvline(mean, color='red')
     extra = Rectangle((0, 0), 1, 1, fc="w", fill=False, edgecolor='none', linewidth=0)
     plt.legend([line, extra, extra], [f'mean = {mean:.2f}', f'std. dev. = {std_dev:.2f}', f'median = {int(median)}'])
-    plt.savefig(f"eval_{name}_{len(overall_eval)}.pdf")
+    plt.savefig(f"{name} {len(overall_eval)}.pdf")
     plt.show()
 
 def main():
-    read_from_folders(LEXICAL_MET_FOLDERS, "lex")
-    read_from_folders(CONCEPTUAL_MET_FOLDERS, "conc")
-    read_from_folders(LEXICAL_MET_FOLDERS + CONCEPTUAL_MET_FOLDERS, "all")
+    read_from_folders(LEXICAL_MET_FOLDERS, "Lexical metaphors' prototypes")
+    read_from_folders(CONCEPTUAL_MET_FOLDERS, "Conceptual metaphors' prototypes")
+    read_from_folders(LEXICAL_MET_FOLDERS + CONCEPTUAL_MET_FOLDERS, "Overall")
 
 if __name__ == '__main__' : main()

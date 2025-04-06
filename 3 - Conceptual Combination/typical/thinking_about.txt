@@ -1,3 +1,0 @@
-contemplating: 0.866
-work_of_art: 0.686
-piece_of_information: 0.664

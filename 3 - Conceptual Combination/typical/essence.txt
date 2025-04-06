@@ -1,2 +1,0 @@
-substance: 0.842
-philosophy: 0.796
