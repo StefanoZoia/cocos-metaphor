@@ -1,6 +1,6 @@
 CoCoS system applied to Metaphors
 
-Part of the METCL project. Please see the updated repository https://github.com/StefanoZoia/METCL
+Part of the METCL project. Please see the **updated repository** https://github.com/StefanoZoia/METCL
 
 A Python tool for dynamic generation of knowledge in Description Logics of 
 Typicality tested in the contexts of RaiPlay, WikiArt Emotions, and ArsMeteo
